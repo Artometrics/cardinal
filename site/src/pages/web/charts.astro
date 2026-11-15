@@ -1,0 +1,17 @@
+---
+import WebSection from '../../layouts/WebSection.astro';
+import { data } from '../../lib/web/data';
+import { allCharts } from '../../lib/web/charts';
+
+const charts = allCharts(data);
+---
+<WebSection title="Charts" current="charts" description="Charts of the recorded events, connections and places in the Cardinal web.">
+  <div class="page">
+    <p class="eyebrow">Drawn from the same data as the web</p>
+    <h1>Charts</h1>
+    <p class="lede">Four views of what the notes record. They show the shape of the record, not of history: people and years the notes skip do not appear.</p>
+    <div class="charts-grid">
+      {charts.map((c) => <Fragment set:html={c} />)}
+    </div>
+  </div>
+</WebSection>

@@ -1,5 +1,7 @@
 # Web of People
 
+**Live copy:** The password-gated Cardinal site at `read.stanford.phd` serves this app from `site/` at [`/web`](../../site/src/pages/web/index.astro) (Astro routes under `site/src/pages/web/`, data in `site/data/web-of-people/`). This folder remains the standalone workspace for research, data checks, and mockups.
+
 An interactive web of the real people in the Cardinal story: photo bubbles that drift, can be dragged and clicked, and open into profiles with a working timeline and family history. Self-contained in this folder so it can be split out and reused in Dawn (life timeline, family history, surname origins, Ancestry hookup, historical-figure webs).
 
 - Where it stands (second pass, 10 November 2026): 215 people (57 in the web, 158 relatives behind a toggle), 197 events (184 verified, 12 contested, 1 draft), 49 of 57 portraits found, 13 organisations, 170 external pages with 783 verified quotes. What is still unverified: [`RESEARCH.md`](RESEARCH.md) section 6.

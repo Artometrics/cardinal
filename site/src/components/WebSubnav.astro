@@ -1,0 +1,19 @@
+---
+import { NAV } from '../lib/web/chrome';
+import { href } from '../lib/web/html';
+
+interface Props {
+  current?: string;
+}
+const { current = '' } = Astro.props;
+---
+
+<nav class="wop-subnav" aria-label="Web of People">
+  {
+    NAV.map(([key, label, path]) => (
+      <a href={href(path)} aria-current={key === current ? 'page' : undefined}>
+        {label}
+      </a>
+    ))
+  }
+</nav>
