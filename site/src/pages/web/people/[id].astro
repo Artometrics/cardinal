@@ -1,0 +1,23 @@
+---
+import WebSection from '../../../layouts/WebSection.astro';
+import { data } from '../../../lib/web/data';
+import { profileHtml } from '../../../lib/web/profile';
+import { esc, href } from '../../../lib/web/html';
+
+export function getStaticPaths() {
+  return data.people.map((p) => ({ params: { id: p.id } }));
+}
+const { id } = Astro.params as { id: string };
+const p = data.byId.get(id)!;
+---
+<WebSection title={p.name} current="people" description={`${p.name}: timeline, family and sources from the Cardinal notes.`}>
+  <div class="page narrow">
+    <p class="meta"><a href={href(`/?p=${id}`)}>See in the web</a> · <a href={href('/people/')}>All people</a></p>
+    <Fragment set:html={profileHtml(data, id)} />
+    <script>
+      import { initTimeline } from '../../../lib/web/timeline';
+      import { data } from '../../../lib/web/data';
+      initTimeline(document.body, data);
+    </script>
+  </div>
+</WebSection>

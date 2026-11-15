@@ -4,7 +4,9 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev",
-    "build": "node scripts/build-web.mjs && astro build && node scripts/merge-web.mjs",
+    "build": "node scripts/build-wop-data.mjs && astro build",
+    "wop:data": "node scripts/build-wop-data.mjs",
+    "wop:data:check": "node scripts/build-wop-data.mjs --check",
     "citations": "node scripts/build-citations.mjs",
     "downloads": "node scripts/build-downloads.mjs",
     "preview": "astro preview --host 0.0.0.0"
@@ -15,6 +17,10 @@
     "astro": "^5.14.1",
     "leaflet": "^1.9.4",
     "lucide-static": "^0.545.0",
-    "marked": "^16.4.0"
+    "marked": "^16.4.0",
+    "d3-drag": "^3.0.0",
+    "d3-force": "^3.0.0",
+    "d3-selection": "^3.0.0",
+    "d3-zoom": "^3.0.0"
   }
 }
