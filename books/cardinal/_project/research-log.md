@@ -210,3 +210,13 @@ Recorded so they are not silently reintroduced.
 | ChatGPT reached 100 million users in two months | Originates in an investment bank's estimate from third-party traffic data, not a company disclosure. Repeated everywhere without that qualification. |
 | Palantir revenue figures from the drafts | Did not correspond to any reported figure. Removed; cite filings by fiscal year. |
 | Leland Stanford Jr. died in 1885 | He died 13 March 1884. 1885 is the year of the Founding Grant. |
+| David Starr Jordan established the Human Betterment Foundation (power matrix) | Wrong. The HBF was founded in 1928 by E. S. Gosney and Rufus von KleinSmid; it advertised Jordan as a member after his death. Lewis Terman was a later trustee. Corrected Nov 21, 2026. |
+| Stephen Bechtel Sr. was an "intimate confidant" of Allen Dulles (power matrix) | No source found in the Nov 21, 2026 pass. Flagged unverified; do not use until sourced. |
+| Theo Baker born 2004 (power matrix) | Born January 2005 (Wikipedia). Corrected Nov 21, 2026. |
+
+---
+
+## Nov 21, 2026 web-expansion pass
+
+Sources, verification status and single-source flags for the events added on branch `research/web-expansion-2026-11-21` are recorded in the ledger `note` column and in the "Research log — Nov 21, 2026" section of the Google Doc "Cardinal — Rewrite Additions, Cuts & Missing People". Borrowed Internet Archive books (Nash 1983, Carlson 1971, Stevens 1988, McCartney 1988) were read by search-inside and returned; their pages are IA leaf numbers, not printed pages. Drive EPUBs from Anna's Archive were not used.
+

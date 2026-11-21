@@ -3983,7 +3983,7 @@
       "name": "Timothy Hopkins",
       "given": "Timothy",
       "surname": "Hopkins",
-      "role": "Raised from infancy as Mark Hopkins's son; adopted by his widow",
+      "role": "Mark Hopkins's adopted son; founder of Palo Alto (University Park, 1887); Stanford trustee for over 50 years",
       "roleCites": [
         {
           "url": "https://archive.org/stream/johnhopkinsofcam00hopk/johnhopkinsofcam00hopk_djvu.txt",
@@ -3991,9 +3991,15 @@
           "publisher": "Internet Archive (Stanford University Press, 1932)",
           "kind": "reference",
           "q": "Mark Hopkins had no children, but he brought up from infancy as a son and his widow adopted, Timothy Hopkins"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Timothy_Hopkins",
+          "title": "Timothy Hopkins",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He was one of the founders of Palo Alto and a trustee of Stanford University for over 50 years."
         }
-      ],
-      "relative": true
+      ]
     },
     {
       "id": "varina-howell-davis",
@@ -4144,6 +4150,318 @@
         }
       ],
       "relative": true
+    },
+    {
+      "id": "ray-lyman-wilbur",
+      "name": "Ray Lyman Wilbur",
+      "given": "Ray Lyman",
+      "surname": "Wilbur",
+      "role": "Third president of Stanford (1916–43); Hoover’s Secretary of the Interior (1929–33)",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ray_Lyman_Wilbur",
+          "title": "Ray Lyman Wilbur",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "was an American medical doctor who served as the third president of Stanford University from 1916 to 1943 and as the 31st United States Secretary of the Interior from 1929 to 1933 under President Herbert Hoover"
+        }
+      ]
+    },
+    {
+      "id": "eadweard-muybridge",
+      "name": "Eadweard Muybridge",
+      "given": "Eadweard",
+      "surname": "Muybridge",
+      "role": "Photographer hired by Leland Stanford; motion studies at the Palo Alto farm",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Eadweard_Muybridge",
+          "title": "Eadweard Muybridge",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "was an English photographer known for his pioneering work in photographic studies of motion"
+        }
+      ]
+    },
+    {
+      "id": "bertha-berner",
+      "name": "Bertha Berner",
+      "given": "Bertha",
+      "surname": "Berner",
+      "role": "Jane Stanford’s secretary and companion; present at both 1905 poisonings",
+      "roleCites": [
+        {
+          "url": "https://stanfordmag.org/contents/who-killed-jane-stanford",
+          "title": "Who Killed Jane Stanford?",
+          "publisher": "Stanford Magazine (Sept/Oct 2003)",
+          "kind": "institutional",
+          "q": "Berner had been Mrs. Stanford’s companion for 30 years"
+        }
+      ]
+    },
+    {
+      "id": "ernest-waterhouse",
+      "name": "Ernest Coniston Waterhouse",
+      "given": "Ernest Coniston",
+      "surname": "Waterhouse",
+      "role": "Honolulu physician Jordan hired in 1905 to dispute the cause of Jane Stanford’s death",
+      "roleCites": [
+        {
+          "url": "https://stanfordmag.org/contents/who-killed-jane-stanford",
+          "title": "Who Killed Jane Stanford?",
+          "publisher": "Stanford Magazine (Sept/Oct 2003)",
+          "kind": "institutional",
+          "q": "he quickly hired a local physician, Ernest Coniston Waterhouse, to dispute the cause of death"
+        }
+      ]
+    },
+    {
+      "id": "leopold-ii",
+      "name": "Leopold II of Belgium",
+      "short": "Leopold II",
+      "given": "Leopold",
+      "surname": "II",
+      "role": "King of the Belgians; sovereign of the Congo Free State (1885–1908)",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Leopold_II_of_Belgium",
+          "title": "Leopold II of Belgium",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "was the second king of the Belgians from 1865 to 1909 as well as sovereign of the Congo Free State from 1885 to 1908"
+        }
+      ]
+    },
+    {
+      "id": "emile-francqui",
+      "name": "Émile Francqui",
+      "given": "Émile",
+      "surname": "Francqui",
+      "role": "Belgian officer in Leopold II’s Congo, financier; Hoover’s Kaiping rival and WWI relief partner",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/%C3%89mile_Francqui",
+          "title": "Émile Francqui",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "At the age of 21, like many young officers, he was sent to Congo Free State by king Leopold II of Belgium"
+        }
+      ]
+    },
+    {
+      "id": "warren-a-bechtel",
+      "name": "Warren A. Bechtel",
+      "given": "Warren A.",
+      "surname": "Bechtel",
+      "role": "Founder of the Bechtel firm; Six Companies partner on Hoover Dam",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Warren_A._Bechtel",
+          "title": "Warren A. Bechtel",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "was the founder of the Bechtel Corporation"
+        }
+      ]
+    },
+    {
+      "id": "stephen-bechtel-sr",
+      "name": "Stephen Bechtel Sr.",
+      "given": "Stephen",
+      "surname": "Bechtel",
+      "role": "President of Bechtel, 1933–60",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephen_Bechtel_Sr.",
+          "title": "Stephen Bechtel Sr.",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He was the president of the company from 1933 to 1960."
+        }
+      ]
+    },
+    {
+      "id": "stephen-bechtel-jr",
+      "name": "Stephen Bechtel Jr.",
+      "given": "Stephen",
+      "surname": "Bechtel",
+      "role": "Bechtel president from 1960; Stanford MBA",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephen_Bechtel_Jr.",
+          "title": "Stephen Bechtel Jr.",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He succeeded his father, Stephen Bechtel Sr., as president of Bechtel Corporation in 1960 and chairman in 1969."
+        }
+      ]
+    },
+    {
+      "id": "henry-j-kaiser",
+      "name": "Henry J. Kaiser",
+      "given": "Henry J.",
+      "surname": "Kaiser",
+      "role": "Industrialist; Six Companies partner on Hoover Dam",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Henry_J._Kaiser",
+          "title": "Henry J. Kaiser",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "his company was one of those that built the Hoover Dam"
+        }
+      ]
+    },
+    {
+      "id": "john-mccone",
+      "name": "John A. McCone",
+      "given": "John A.",
+      "surname": "McCone",
+      "role": "Founder of Bechtel-McCone; AEC chair; Director of Central Intelligence (1961–65)",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_A._McCone",
+          "title": "John A. McCone",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "was an American businessman and government official who served as Director of Central Intelligence from 1961 to 1965"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_A._McCone",
+          "title": "John A. McCone",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He also founded Bechtel-McCone."
+        }
+      ]
+    },
+    {
+      "id": "george-shultz",
+      "name": "George P. Shultz",
+      "given": "George P.",
+      "surname": "Shultz",
+      "role": "Bechtel president (1974–82), Secretary of State, Hoover Institution fellow, Theranos director",
+      "roleCites": [
+        {
+          "url": "https://www.hoover.org/profiles/george-p-shultz",
+          "title": "George P. Shultz",
+          "publisher": "Hoover Institution",
+          "kind": "institutional",
+          "q": "Shultz left government service in 1974 to become president and director of the Bechtel Group, where he remained until 1982."
+        }
+      ]
+    },
+    {
+      "id": "caspar-weinberger",
+      "name": "Caspar Weinberger",
+      "given": "Caspar",
+      "surname": "Weinberger",
+      "role": "Bechtel vice president and general counsel; Secretary of Defense (1981–87)",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Caspar_Weinberger",
+          "title": "Caspar Weinberger",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He later became vice president and general counsel of Bechtel Corporation."
+        }
+      ]
+    },
+    {
+      "id": "alfred-kroeber",
+      "name": "Alfred L. Kroeber",
+      "given": "Alfred L.",
+      "surname": "Kroeber",
+      "role": "Anthropologist; author of the Handbook of the Indians of California (1925)",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alfred_L._Kroeber",
+          "title": "Alfred L. Kroeber",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "The work done in preserving information about Californian tribes appeared in Handbook of the Indians of California (1925)."
+        }
+      ]
+    },
+    {
+      "id": "alex-karp",
+      "name": "Alex Karp",
+      "given": "Alex",
+      "surname": "Karp",
+      "role": "Co-founder and CEO of Palantir; Stanford Law graduate",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alex_Karp",
+          "title": "Alex Karp",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "Karp earned his J.D. degree from Stanford Law School"
+        }
+      ]
+    },
+    {
+      "id": "theo-baker",
+      "name": "Theo Baker",
+      "given": "Theo",
+      "surname": "Baker",
+      "role": "Stanford Daily reporter whose work led to Tessier-Lavigne’s resignation",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Theo_Baker",
+          "title": "Theo Baker",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "is an American journalist, who is best known for his reporting that led to the resignation of Stanford president Marc Tessier-Lavigne"
+        }
+      ]
+    },
+    {
+      "id": "elizabeth-holmes",
+      "name": "Elizabeth Holmes",
+      "given": "Elizabeth",
+      "surname": "Holmes",
+      "role": "Founder of Theranos; Stanford dropout",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Theranos",
+          "title": "Theranos",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "Holmes dropped out of Stanford in 2003"
+        }
+      ]
+    },
+    {
+      "id": "antonio-buelna",
+      "name": "Antonio Buelna",
+      "given": "Antonio",
+      "surname": "Buelna",
+      "role": "Grantee of Rancho San Francisquito (1839), now the northern Stanford campus",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rancho_San_Francisquito",
+          "title": "Rancho San Francisquito",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "given in 1839 by Governor Juan Alvarado to Antonio Buelna"
+        }
+      ]
+    },
+    {
+      "id": "maria-antonia-mesa",
+      "name": "María Antonia Mesa",
+      "given": "María Antonia",
+      "surname": "Mesa",
+      "role": "Grantee of Rancho Rinconada del Arroyo de San Francisquito (1841)",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rancho_Rinconada_del_Arroyo_de_San_Francisquito",
+          "title": "Rancho Rinconada del Arroyo de San Francisquito",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "given in 1841 by Governor Juan Alvarado to María Antonia Mesa"
+        }
+      ]
     }
   ],
   "places": [
@@ -10774,6 +11092,189 @@
           "q": "married Jean Bailey in August 1933. The couple had two sons and a daughter."
         }
       ]
+    },
+    {
+      "id": "employer-leopold-ii-emile-francqui",
+      "type": "employer",
+      "a": "leopold-ii",
+      "b": "emile-francqui",
+      "label": "Sent to the Congo Free State by Leopold II",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/%C3%89mile_Francqui",
+          "title": "Émile Francqui",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "At the age of 21, like many young officers, he was sent to Congo Free State by king Leopold II of Belgium"
+        }
+      ]
+    },
+    {
+      "id": "partners-emile-francqui-herbert-hoover",
+      "type": "partners",
+      "a": "emile-francqui",
+      "b": "herbert-hoover",
+      "label": "Met in China; co-founded the Francqui Foundation (1932)",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/%C3%89mile_Francqui",
+          "title": "Émile Francqui",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "In China he met the future American president Herbert Hoover"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/%C3%89mile_Francqui",
+          "title": "Émile Francqui",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "In 1932 Émile Francqui and Herbert Hoover created the Francqui Foundation"
+        }
+      ]
+    },
+    {
+      "id": "employer-leland-stanford-eadweard-muybridge",
+      "type": "employer",
+      "a": "leland-stanford",
+      "b": "eadweard-muybridge",
+      "label": "Hired Muybridge (1872) to photograph his horses",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Eadweard_Muybridge",
+          "title": "Eadweard Muybridge",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "In 1872, the former governor of California, Leland Stanford, a businessman and race-horse owner, hired Muybridge for a portfolio depicting his mansion and other possessions, including his racehorse Occident."
+        }
+      ]
+    },
+    {
+      "id": "employer-jane-stanford-bertha-berner",
+      "type": "employer",
+      "a": "jane-stanford",
+      "b": "bertha-berner",
+      "label": "Secretary and companion",
+      "cites": [
+        {
+          "url": "https://stanfordmag.org/contents/who-killed-jane-stanford",
+          "title": "Who Killed Jane Stanford?",
+          "publisher": "Stanford Magazine (Sept/Oct 2003)",
+          "kind": "institutional",
+          "q": "Berner had been Mrs. Stanford’s companion for 30 years"
+        }
+      ]
+    },
+    {
+      "id": "employer-david-starr-jordan-ernest-waterhouse",
+      "type": "employer",
+      "a": "david-starr-jordan",
+      "b": "ernest-waterhouse",
+      "label": "Hired to dispute the cause of Jane Stanford’s death (1905)",
+      "cites": [
+        {
+          "url": "https://stanfordmag.org/contents/who-killed-jane-stanford",
+          "title": "Who Killed Jane Stanford?",
+          "publisher": "Stanford Magazine (Sept/Oct 2003)",
+          "kind": "institutional",
+          "q": "he quickly hired a local physician, Ernest Coniston Waterhouse, to dispute the cause of death"
+        }
+      ]
+    },
+    {
+      "id": "parent-warren-a-bechtel-stephen-bechtel-sr",
+      "type": "parent",
+      "a": "warren-a-bechtel",
+      "b": "stephen-bechtel-sr",
+      "label": "Father",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephen_Bechtel_Sr.",
+          "title": "Stephen Bechtel Sr.",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "was born on September 24, 1900, in Aurora, Indiana, to Warren A. Bechtel"
+        }
+      ]
+    },
+    {
+      "id": "parent-stephen-bechtel-sr-stephen-bechtel-jr",
+      "type": "parent",
+      "a": "stephen-bechtel-sr",
+      "b": "stephen-bechtel-jr",
+      "label": "Father",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephen_Bechtel_Jr.",
+          "title": "Stephen Bechtel Jr.",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He was the son of Stephen Davison Bechtel Sr. and grandson of Warren A. Bechtel"
+        }
+      ]
+    },
+    {
+      "id": "partners-henry-j-kaiser-warren-a-bechtel",
+      "type": "partners",
+      "a": "henry-j-kaiser",
+      "b": "warren-a-bechtel",
+      "label": "Bechtel-Kaiser partnership in Six Companies",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Six_Companies,_Inc.",
+          "title": "Six Companies, Inc.",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "Henry J. Kaiser Co. of Oakland, California and Bechtel Corporation of San Francisco (as Bechtel-Kaiser): 30%"
+        }
+      ]
+    },
+    {
+      "id": "employer-herbert-hoover-ray-lyman-wilbur",
+      "type": "employer",
+      "a": "herbert-hoover",
+      "b": "ray-lyman-wilbur",
+      "label": "Appointed Secretary of the Interior (1929–33)",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ray_Lyman_Wilbur",
+          "title": "Ray Lyman Wilbur",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "was an American medical doctor who served as the third president of Stanford University from 1916 to 1943 and as the 31st United States Secretary of the Interior from 1929 to 1933 under President Herbert Hoover"
+        }
+      ]
+    },
+    {
+      "id": "partners-peter-thiel-alex-karp",
+      "type": "partners",
+      "a": "peter-thiel",
+      "b": "alex-karp",
+      "label": "Co-founded Palantir (2003)",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alex_Karp",
+          "title": "Alex Karp",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "At Stanford, he met Peter Thiel and in 2003, they alongside three others co-founded Palantir."
+        }
+      ]
+    },
+    {
+      "id": "conflict-theo-baker-marc-tessier-lavigne",
+      "type": "conflict",
+      "a": "theo-baker",
+      "b": "marc-tessier-lavigne",
+      "label": "Reporting that led to his resignation (2023)",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Theo_Baker",
+          "title": "Theo Baker",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "is an American journalist, who is best known for his reporting that led to the resignation of Stanford president Marc Tessier-Lavigne"
+        }
+      ]
     }
   ],
   "organisations": [
@@ -10969,6 +11470,133 @@
           "publisher": "Wikipedia",
           "kind": "tertiary",
           "q": "It was established in 1946 by trustees of Stanford University to serve as a center of innovation."
+        }
+      ]
+    },
+    {
+      "id": "bechtel",
+      "name": "Bechtel Corporation",
+      "kind": "company",
+      "summary": "Engineering and construction firm founded in San Francisco in 1898.",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bechtel",
+          "title": "Bechtel",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "founded in San Francisco, California, in 1898"
+        }
+      ]
+    },
+    {
+      "id": "six-companies",
+      "name": "Six Companies, Inc.",
+      "kind": "company",
+      "summary": "Joint venture formed in 1931 to build Hoover Dam; Bechtel-Kaiser held 30%.",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Six_Companies,_Inc.",
+          "title": "Six Companies, Inc.",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "Henry J. Kaiser Co. of Oakland, California and Bechtel Corporation of San Francisco (as Bechtel-Kaiser): 30%"
+        }
+      ]
+    },
+    {
+      "id": "bechtel-mccone",
+      "name": "Bechtel-McCone",
+      "kind": "company",
+      "summary": "Engineering firm founded by John McCone with Stephen Bechtel (May 1937, per McCartney 1988).",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_A._McCone",
+          "title": "John A. McCone",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He also founded Bechtel-McCone."
+        }
+      ]
+    },
+    {
+      "id": "hoover-institution",
+      "name": "Hoover Institution",
+      "kind": "research institute",
+      "summary": "Library, archive and policy institute at Stanford, begun with Hoover’s $50,000 pledge of April 22, 1919.",
+      "cites": [
+        {
+          "url": "https://www.hoover.org/about",
+          "title": "About Us",
+          "publisher": "Hoover Institution",
+          "kind": "institutional",
+          "q": "On April 22, 1919, Herbert Hoover sent his wife, Lou Henry, a telegram pledging $50,000 for the purposes of collecting historical material on the First World War."
+        },
+        {
+          "url": "https://www.hoover.org/library-archives/collections/history/africa",
+          "title": "History of the Collection: Africa",
+          "publisher": "Hoover Institution Library & Archives",
+          "kind": "institutional",
+          "q": "The Africa Collection had its beginnings in 1919, when the Belgian government presented Herbert Hoover with a collection of official Belgian documents and reports, many pertaining to the Belgian Congo and Ruanda-Urundi."
+        }
+      ]
+    },
+    {
+      "id": "commission-for-relief-in-belgium",
+      "name": "Commission for Relief in Belgium",
+      "kind": "relief organisation",
+      "summary": "WWI relief body that supplied food to occupied Belgium; chaired by Herbert Hoover.",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Commission_for_Relief_in_Belgium",
+          "title": "Commission for Relief in Belgium",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "Its leading figure was chairman, and future President of the United States, Herbert Hoover"
+        }
+      ]
+    },
+    {
+      "id": "comite-national",
+      "name": "Comité National de Secours et d’Alimentation",
+      "kind": "relief organisation",
+      "summary": "Belgian committee that distributed relief inside occupied Belgium; directed by Émile Francqui.",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Comit%C3%A9_National_de_Secours_et_d%27Alimentation",
+          "title": "Comité National de Secours et d’Alimentation",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "It was directed by the Belgian financier Émile Francqui."
+        }
+      ]
+    },
+    {
+      "id": "theranos",
+      "name": "Theranos",
+      "kind": "company",
+      "summary": "Blood-testing start-up founded by Elizabeth Holmes in 2003; collapsed after 2015.",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Theranos",
+          "title": "Theranos",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "Founded in 2003 by 19-year-old Elizabeth Holmes"
+        }
+      ]
+    },
+    {
+      "id": "palantir",
+      "name": "Palantir Technologies",
+      "kind": "company",
+      "summary": "Data-analytics company founded in Palo Alto in 2003.",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Palantir_Technologies",
+          "title": "Palantir Technologies",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "It was founded in Palo Alto, California in 2003 by Peter Thiel, Alex Karp, Stephen Cohen"
         }
       ]
     }
@@ -11690,6 +12318,321 @@
           "publisher": "Wikipedia",
           "kind": "tertiary",
           "q": "Douglas Engelbart's laboratory at SRI"
+        }
+      ]
+    },
+    {
+      "id": "aff-ray-lyman-wilbur-stanford-university",
+      "person": "ray-lyman-wilbur",
+      "org": "stanford-university",
+      "role": "Third president (1916–43)",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ray_Lyman_Wilbur",
+          "title": "Ray Lyman Wilbur",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "was an American medical doctor who served as the third president of Stanford University from 1916 to 1943 and as the 31st United States Secretary of the Interior from 1929 to 1933 under President Herbert Hoover"
+        }
+      ]
+    },
+    {
+      "id": "aff-lou-henry-hoover-stanford-university",
+      "person": "lou-henry-hoover",
+      "org": "stanford-university",
+      "role": "Graduate in geology (1898), the first woman to take that degree",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lou_Henry_Hoover",
+          "title": "Lou Henry Hoover",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "became the first woman to receive a degree in geology from the institution"
+        }
+      ]
+    },
+    {
+      "id": "aff-timothy-hopkins-stanford-university",
+      "person": "timothy-hopkins",
+      "org": "stanford-university",
+      "role": "Trustee for over 50 years",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Timothy_Hopkins",
+          "title": "Timothy Hopkins",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He was one of the founders of Palo Alto and a trustee of Stanford University for over 50 years."
+        }
+      ]
+    },
+    {
+      "id": "aff-herbert-hoover-commission-for-relief-in-belgium",
+      "person": "herbert-hoover",
+      "org": "commission-for-relief-in-belgium",
+      "role": "Chairman",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Commission_for_Relief_in_Belgium",
+          "title": "Commission for Relief in Belgium",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "Its leading figure was chairman, and future President of the United States, Herbert Hoover"
+        }
+      ]
+    },
+    {
+      "id": "aff-herbert-hoover-hoover-institution",
+      "person": "herbert-hoover",
+      "org": "hoover-institution",
+      "role": "Founder (1919 pledge)",
+      "cites": [
+        {
+          "url": "https://www.hoover.org/about",
+          "title": "About Us",
+          "publisher": "Hoover Institution",
+          "kind": "institutional",
+          "q": "On April 22, 1919, Herbert Hoover sent his wife, Lou Henry, a telegram pledging $50,000 for the purposes of collecting historical material on the First World War."
+        }
+      ]
+    },
+    {
+      "id": "aff-emile-francqui-comite-national",
+      "person": "emile-francqui",
+      "org": "comite-national",
+      "role": "Director",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Comit%C3%A9_National_de_Secours_et_d%27Alimentation",
+          "title": "Comité National de Secours et d’Alimentation",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "It was directed by the Belgian financier Émile Francqui."
+        }
+      ]
+    },
+    {
+      "id": "aff-warren-a-bechtel-bechtel",
+      "person": "warren-a-bechtel",
+      "org": "bechtel",
+      "role": "Founder",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Warren_A._Bechtel",
+          "title": "Warren A. Bechtel",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "was the founder of the Bechtel Corporation"
+        }
+      ]
+    },
+    {
+      "id": "aff-stephen-bechtel-sr-bechtel",
+      "person": "stephen-bechtel-sr",
+      "org": "bechtel",
+      "role": "President (1933–60)",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephen_Bechtel_Sr.",
+          "title": "Stephen Bechtel Sr.",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He was the president of the company from 1933 to 1960."
+        }
+      ]
+    },
+    {
+      "id": "aff-stephen-bechtel-jr-bechtel",
+      "person": "stephen-bechtel-jr",
+      "org": "bechtel",
+      "role": "President from 1960; chairman from 1969",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephen_Bechtel_Jr.",
+          "title": "Stephen Bechtel Jr.",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He succeeded his father, Stephen Bechtel Sr., as president of Bechtel Corporation in 1960 and chairman in 1969."
+        }
+      ]
+    },
+    {
+      "id": "aff-stephen-bechtel-jr-stanford-university",
+      "person": "stephen-bechtel-jr",
+      "org": "stanford-university",
+      "role": "MBA",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephen_Bechtel_Jr.",
+          "title": "Stephen Bechtel Jr.",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "Stanford University (MBA)"
+        }
+      ]
+    },
+    {
+      "id": "aff-henry-j-kaiser-six-companies",
+      "person": "henry-j-kaiser",
+      "org": "six-companies",
+      "role": "Partner (Bechtel-Kaiser, 30%)",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Six_Companies,_Inc.",
+          "title": "Six Companies, Inc.",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "Henry J. Kaiser Co. of Oakland, California and Bechtel Corporation of San Francisco (as Bechtel-Kaiser): 30%"
+        }
+      ]
+    },
+    {
+      "id": "aff-warren-a-bechtel-six-companies",
+      "person": "warren-a-bechtel",
+      "org": "six-companies",
+      "role": "Partner (Bechtel-Kaiser, 30%)",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Six_Companies,_Inc.",
+          "title": "Six Companies, Inc.",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "Henry J. Kaiser Co. of Oakland, California and Bechtel Corporation of San Francisco (as Bechtel-Kaiser): 30%"
+        }
+      ]
+    },
+    {
+      "id": "aff-john-mccone-bechtel-mccone",
+      "person": "john-mccone",
+      "org": "bechtel-mccone",
+      "role": "Founder",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_A._McCone",
+          "title": "John A. McCone",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He also founded Bechtel-McCone."
+        }
+      ]
+    },
+    {
+      "id": "aff-george-shultz-bechtel",
+      "person": "george-shultz",
+      "org": "bechtel",
+      "role": "President and director (1974–82)",
+      "cites": [
+        {
+          "url": "https://www.hoover.org/profiles/george-p-shultz",
+          "title": "George P. Shultz",
+          "publisher": "Hoover Institution",
+          "kind": "institutional",
+          "q": "Shultz left government service in 1974 to become president and director of the Bechtel Group, where he remained until 1982."
+        }
+      ]
+    },
+    {
+      "id": "aff-george-shultz-hoover-institution",
+      "person": "george-shultz",
+      "org": "hoover-institution",
+      "role": "Thomas W. and Susan B. Ford Distinguished Fellow",
+      "cites": [
+        {
+          "url": "https://www.hoover.org/profiles/george-p-shultz",
+          "title": "George P. Shultz",
+          "publisher": "Hoover Institution",
+          "kind": "institutional",
+          "q": "Shultz was the Thomas W. and Susan B. Ford Distinguished Fellow at the Hoover Institution."
+        }
+      ]
+    },
+    {
+      "id": "aff-george-shultz-theranos",
+      "person": "george-shultz",
+      "org": "theranos",
+      "role": "Board of directors (2011–15)",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Shultz",
+          "title": "George Shultz",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "From 2011 to 2015, Shultz was a member of the board of directors of Theranos"
+        }
+      ]
+    },
+    {
+      "id": "aff-caspar-weinberger-bechtel",
+      "person": "caspar-weinberger",
+      "org": "bechtel",
+      "role": "Vice president and general counsel",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Caspar_Weinberger",
+          "title": "Caspar Weinberger",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He later became vice president and general counsel of Bechtel Corporation."
+        }
+      ]
+    },
+    {
+      "id": "aff-elizabeth-holmes-theranos",
+      "person": "elizabeth-holmes",
+      "org": "theranos",
+      "role": "Founder",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Theranos",
+          "title": "Theranos",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "Founded in 2003 by 19-year-old Elizabeth Holmes"
+        }
+      ]
+    },
+    {
+      "id": "aff-alex-karp-palantir",
+      "person": "alex-karp",
+      "org": "palantir",
+      "role": "Co-founder and CEO",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alex_Karp",
+          "title": "Alex Karp",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He is the co-founder and CEO of the Silicon Valley software firm Palantir Technologies."
+        }
+      ]
+    },
+    {
+      "id": "aff-peter-thiel-palantir",
+      "person": "peter-thiel",
+      "org": "palantir",
+      "role": "Co-founder",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Palantir_Technologies",
+          "title": "Palantir Technologies",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "It was founded in Palo Alto, California in 2003 by Peter Thiel, Alex Karp, Stephen Cohen"
+        }
+      ]
+    },
+    {
+      "id": "aff-alex-karp-stanford-university",
+      "person": "alex-karp",
+      "org": "stanford-university",
+      "role": "J.D., Stanford Law School",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alex_Karp",
+          "title": "Alex Karp",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "Karp earned his J.D. degree from Stanford Law School"
         }
       ]
     }

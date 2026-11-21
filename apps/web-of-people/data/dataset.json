@@ -6,53 +6,72 @@
       "branch": "main"
     },
     "counts": {
-      "people": 215,
-      "events": 197,
-      "relationships": 234,
-      "places": 89,
+      "people": 234,
+      "events": 255,
+      "relationships": 245,
+      "places": 109,
       "sources": 13,
-      "webSources": 170,
-      "orgs": 13,
-      "affiliations": 47
+      "webSources": 196,
+      "orgs": 21,
+      "affiliations": 68
     },
-    "ledgerRows": 78,
+    "ledgerRows": 139,
     "ledgerActorsNotMapped": [
       "48 delegates",
       "Alf Brandin",
       "Amazon",
       "App-based platforms",
       "April Third Movement",
+      "Belgian government",
+      "C. Algernon Moreing",
       "California legislature",
       "California voters",
       "Central Pacific",
       "Central Pacific Chinese workforce",
+      "Chang Yen-mao",
+      "Denis Kearney",
       "Electronics magazine",
       "Facebook",
       "Fairchild Semiconductor",
       "Federal Trade Commission",
       "Franklin D. Roosevelt",
       "Genentech",
+      "Harry Larkyns",
       "IBM",
       "Jimmy Carter",
       "Joseph Biden",
+      "Juan Alvarado",
+      "Juan Crespí",
+      "Kleiner Perkins",
       "Lockheed",
       "Mexican republic",
       "Mexico",
       "Microsoft",
+      "Muwekma Ohlone",
       "National Science Foundation",
       "New York Times",
+      "Niels Reimers",
       "Nvidia",
       "Observer",
       "Onitsuka",
       "OpenAI",
       "OpenAI board",
       "PayPal",
+      "Puichun Ohlone",
+      "Rafael Soto",
       "SRI",
+      "San Francisco Committee of Vigilance",
       "San Francisco News",
+      "Sequoia Capital",
+      "Six Companies",
       "Southern Pacific",
+      "Stanford Management Company",
       "Stanford University",
       "Stanford board special committee",
       "Stanford trustees",
+      "Stanley Cohen",
+      "Tamien Ohlone",
+      "Tomás de la Peña",
       "UN Human Rights Council",
       "US Congress",
       "US Department of Labor",
@@ -168,6 +187,50 @@
       ],
       "relative": true,
       "portrait": null
+    },
+    {
+      "id": "alex-karp",
+      "name": "Alex Karp",
+      "given": "Alex",
+      "surname": "Karp",
+      "role": "Co-founder and CEO of Palantir; Stanford Law graduate",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alex_Karp",
+          "title": "Alex Karp",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "Karp earned his J.D. degree from Stanford Law School"
+        }
+      ],
+      "portrait": null,
+      "portraitGap": {
+        "searched": "Not yet searched. Added in the Nov 21, 2026 text-research pass (sources: Wikipedia, Hoover Institution, Stanford Magazine); no Commons or archive image search was run for this person.",
+        "why": "Portrait sourcing deferred to a separate pass; initials are shown until a licensed image is found and verified.",
+        "checked": "2026-11-21"
+      }
+    },
+    {
+      "id": "alfred-kroeber",
+      "name": "Alfred L. Kroeber",
+      "given": "Alfred L.",
+      "surname": "Kroeber",
+      "role": "Anthropologist; author of the Handbook of the Indians of California (1925)",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alfred_L._Kroeber",
+          "title": "Alfred L. Kroeber",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "The work done in preserving information about Californian tribes appeared in Handbook of the Indians of California (1925)."
+        }
+      ],
+      "portrait": null,
+      "portraitGap": {
+        "searched": "Not yet searched. Added in the Nov 21, 2026 text-research pass (sources: Wikipedia, Hoover Institution, Stanford Magazine); no Commons or archive image search was run for this person.",
+        "why": "Portrait sourcing deferred to a separate pass; initials are shown until a licensed image is found and verified.",
+        "checked": "2026-11-21"
+      }
     },
     {
       "id": "allan-hoover",
@@ -346,6 +409,28 @@
       "portrait": null
     },
     {
+      "id": "antonio-buelna",
+      "name": "Antonio Buelna",
+      "given": "Antonio",
+      "surname": "Buelna",
+      "role": "Grantee of Rancho San Francisquito (1839), now the northern Stanford campus",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rancho_San_Francisquito",
+          "title": "Rancho San Francisquito",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "given in 1839 by Governor Juan Alvarado to Antonio Buelna"
+        }
+      ],
+      "portrait": null,
+      "portraitGap": {
+        "searched": "Not yet searched. Added in the Nov 21, 2026 text-research pass (sources: Wikipedia, Hoover Institution, Stanford Magazine); no Commons or archive image search was run for this person.",
+        "why": "Portrait sourcing deferred to a separate pass; initials are shown until a licensed image is found and verified.",
+        "checked": "2026-11-21"
+      }
+    },
+    {
       "id": "antonio-nadal-serra",
       "name": "Antonio Nadal Serra",
       "given": "Antonio Nadal",
@@ -504,6 +589,28 @@
       ],
       "relative": true,
       "portrait": null
+    },
+    {
+      "id": "bertha-berner",
+      "name": "Bertha Berner",
+      "given": "Bertha",
+      "surname": "Berner",
+      "role": "Jane Stanford’s secretary and companion; present at both 1905 poisonings",
+      "roleCites": [
+        {
+          "url": "https://stanfordmag.org/contents/who-killed-jane-stanford",
+          "title": "Who Killed Jane Stanford?",
+          "publisher": "Stanford Magazine (Sept/Oct 2003)",
+          "kind": "institutional",
+          "q": "Berner had been Mrs. Stanford’s companion for 30 years"
+        }
+      ],
+      "portrait": null,
+      "portraitGap": {
+        "searched": "Not yet searched. Added in the Nov 21, 2026 text-research pass (sources: Wikipedia, Hoover Institution, Stanford Magazine); no Commons or archive image search was run for this person.",
+        "why": "Portrait sourcing deferred to a separate pass; initials are shown until a licensed image is found and verified.",
+        "checked": "2026-11-21"
+      }
     },
     {
       "id": "betty-moore",
@@ -667,6 +774,28 @@
       ],
       "relative": true,
       "portrait": null
+    },
+    {
+      "id": "caspar-weinberger",
+      "name": "Caspar Weinberger",
+      "given": "Caspar",
+      "surname": "Weinberger",
+      "role": "Bechtel vice president and general counsel; Secretary of Defense (1981–87)",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Caspar_Weinberger",
+          "title": "Caspar Weinberger",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He later became vice president and general counsel of Bechtel Corporation."
+        }
+      ],
+      "portrait": null,
+      "portraitGap": {
+        "searched": "Not yet searched. Added in the Nov 21, 2026 text-research pass (sources: Wikipedia, Hoover Institution, Stanford Magazine); no Commons or archive image search was run for this person.",
+        "why": "Portrait sourcing deferred to a separate pass; initials are shown until a licensed image is found and verified.",
+        "checked": "2026-11-21"
+      }
     },
     {
       "id": "charles-crocker",
@@ -1003,7 +1132,7 @@
       "roleCites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "Stanford University opens,David Starr Jordan (president)"
+          "q": "Stanford University opens,David Starr Jordan,"
         }
       ],
       "portrait": {
@@ -1150,6 +1279,28 @@
       }
     },
     {
+      "id": "eadweard-muybridge",
+      "name": "Eadweard Muybridge",
+      "given": "Eadweard",
+      "surname": "Muybridge",
+      "role": "Photographer hired by Leland Stanford; motion studies at the Palo Alto farm",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Eadweard_Muybridge",
+          "title": "Eadweard Muybridge",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "was an English photographer known for his pioneering work in photographic studies of motion"
+        }
+      ],
+      "portrait": null,
+      "portraitGap": {
+        "searched": "Not yet searched. Added in the Nov 21, 2026 text-research pass (sources: Wikipedia, Hoover Institution, Stanford Magazine); no Commons or archive image search was run for this person.",
+        "why": "Portrait sourcing deferred to a separate pass; initials are shown until a licensed image is found and verified.",
+        "checked": "2026-11-21"
+      }
+    },
+    {
       "id": "edith-bush",
       "name": "Edith Bush",
       "given": "Edith",
@@ -1236,6 +1387,28 @@
       ],
       "relative": true,
       "portrait": null
+    },
+    {
+      "id": "elizabeth-holmes",
+      "name": "Elizabeth Holmes",
+      "given": "Elizabeth",
+      "surname": "Holmes",
+      "role": "Founder of Theranos; Stanford dropout",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Theranos",
+          "title": "Theranos",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "Holmes dropped out of Stanford in 2003"
+        }
+      ],
+      "portrait": null,
+      "portraitGap": {
+        "searched": "Not yet searched. Added in the Nov 21, 2026 text-research pass (sources: Wikipedia, Hoover Institution, Stanford Magazine); no Commons or archive image search was run for this person.",
+        "why": "Portrait sourcing deferred to a separate pass; initials are shown until a licensed image is found and verified.",
+        "checked": "2026-11-21"
+      }
     },
     {
       "id": "elizabeth-hoover-bowerman",
@@ -1384,6 +1557,28 @@
       "portrait": null
     },
     {
+      "id": "emile-francqui",
+      "name": "Émile Francqui",
+      "given": "Émile",
+      "surname": "Francqui",
+      "role": "Belgian officer in Leopold II’s Congo, financier; Hoover’s Kaiping rival and WWI relief partner",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/%C3%89mile_Francqui",
+          "title": "Émile Francqui",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "At the age of 21, like many young officers, he was sent to Congo Free State by king Leopold II of Belgium"
+        }
+      ],
+      "portrait": null,
+      "portraitGap": {
+        "searched": "Not yet searched. Added in the Nov 21, 2026 text-research pass (sources: Wikipedia, Hoover Institution, Stanford Magazine); no Commons or archive image search was run for this person.",
+        "why": "Portrait sourcing deferred to a separate pass; initials are shown until a licensed image is found and verified.",
+        "checked": "2026-11-21"
+      }
+    },
+    {
       "id": "emma-linwood-paine-bush",
       "name": "Emma Linwood Bush",
       "given": "Emma Linwood",
@@ -1462,6 +1657,28 @@
       ],
       "relative": true,
       "portrait": null
+    },
+    {
+      "id": "ernest-waterhouse",
+      "name": "Ernest Coniston Waterhouse",
+      "given": "Ernest Coniston",
+      "surname": "Waterhouse",
+      "role": "Honolulu physician Jordan hired in 1905 to dispute the cause of Jane Stanford’s death",
+      "roleCites": [
+        {
+          "url": "https://stanfordmag.org/contents/who-killed-jane-stanford",
+          "title": "Who Killed Jane Stanford?",
+          "publisher": "Stanford Magazine (Sept/Oct 2003)",
+          "kind": "institutional",
+          "q": "he quickly hired a local physician, Ernest Coniston Waterhouse, to dispute the cause of death"
+        }
+      ],
+      "portrait": null,
+      "portraitGap": {
+        "searched": "Not yet searched. Added in the Nov 21, 2026 text-research pass (sources: Wikipedia, Hoover Institution, Stanford Magazine); no Commons or archive image search was run for this person.",
+        "why": "Portrait sourcing deferred to a separate pass; initials are shown until a licensed image is found and verified.",
+        "checked": "2026-11-21"
+      }
     },
     {
       "id": "errol-musk",
@@ -1745,6 +1962,28 @@
       "portrait": null
     },
     {
+      "id": "george-shultz",
+      "name": "George P. Shultz",
+      "given": "George P.",
+      "surname": "Shultz",
+      "role": "Bechtel president (1974–82), Secretary of State, Hoover Institution fellow, Theranos director",
+      "roleCites": [
+        {
+          "url": "https://www.hoover.org/profiles/george-p-shultz",
+          "title": "George P. Shultz",
+          "publisher": "Hoover Institution",
+          "kind": "institutional",
+          "q": "Shultz left government service in 1974 to become president and director of the Bechtel Group, where he remained until 1982."
+        }
+      ],
+      "portrait": null,
+      "portraitGap": {
+        "searched": "Not yet searched. Added in the Nov 21, 2026 text-research pass (sources: Wikipedia, Hoover Institution, Stanford Magazine); no Commons or archive image search was run for this person.",
+        "why": "Portrait sourcing deferred to a separate pass; initials are shown until a licensed image is found and verified.",
+        "checked": "2026-11-21"
+      }
+    },
+    {
       "id": "gerd-thune-ellefsen",
       "name": "Gerd Thune-Ellefsen",
       "given": "Gerd",
@@ -1943,6 +2182,28 @@
       "portrait": null
     },
     {
+      "id": "henry-j-kaiser",
+      "name": "Henry J. Kaiser",
+      "given": "Henry J.",
+      "surname": "Kaiser",
+      "role": "Industrialist; Six Companies partner on Hoover Dam",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Henry_J._Kaiser",
+          "title": "Henry J. Kaiser",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "his company was one of those that built the Hoover Dam"
+        }
+      ],
+      "portrait": null,
+      "portraitGap": {
+        "searched": "Not yet searched. Added in the Nov 21, 2026 text-research pass (sources: Wikipedia, Hoover Institution, Stanford Magazine); no Commons or archive image search was run for this person.",
+        "why": "Portrait sourcing deferred to a separate pass; initials are shown until a licensed image is found and verified.",
+        "checked": "2026-11-21"
+      }
+    },
+    {
       "id": "henry-raymond-judah",
       "name": "Henry Raymond Judah",
       "given": "Henry Raymond",
@@ -1993,7 +2254,7 @@
         },
         {
           "f": "site/corpus/rewrite/timeline.md",
-          "q": "Hoover's presidency."
+          "q": "Hoover's presidency (Mar 4, 1929–Mar 4, 1933)"
         }
       ],
       "portrait": {
@@ -2326,7 +2587,7 @@
       "roleCites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "Jefferson Davis (Secretary of War)"
+          "q": "US Congress; Jefferson Davis,"
         },
         {
           "f": "books/cardinal/_project/event-ledger.csv",
@@ -2520,6 +2781,35 @@
       ],
       "relative": true,
       "portrait": null
+    },
+    {
+      "id": "john-mccone",
+      "name": "John A. McCone",
+      "given": "John A.",
+      "surname": "McCone",
+      "role": "Founder of Bechtel-McCone; AEC chair; Director of Central Intelligence (1961–65)",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_A._McCone",
+          "title": "John A. McCone",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "was an American businessman and government official who served as Director of Central Intelligence from 1961 to 1965"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_A._McCone",
+          "title": "John A. McCone",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He also founded Bechtel-McCone."
+        }
+      ],
+      "portrait": null,
+      "portraitGap": {
+        "searched": "Not yet searched. Added in the Nov 21, 2026 text-research pass (sources: Wikipedia, Hoover Institution, Stanford Magazine); no Commons or archive image search was run for this person.",
+        "why": "Portrait sourcing deferred to a separate pass; initials are shown until a licensed image is found and verified.",
+        "checked": "2026-11-21"
+      }
     },
     {
       "id": "john-osborne-varian",
@@ -2792,7 +3082,7 @@
         },
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "Stanford Founding Grant executed,Leland and Jane Stanford"
+          "q": "Stanford Founding Grant executed,Leland Stanford; Jane Stanford"
         }
       ],
       "portrait": {
@@ -2836,6 +3126,29 @@
         "medium": "oil portrait by A. D. M. Cooper, painted after his death in 1884 (Cantor Arts Center)",
         "subjectEvidence": "Commons title and description: \"Portrait of Leland Stanford Jr. by Astley David Middleton Cooper\"",
         "verifiedOn": "2026-11-10"
+      }
+    },
+    {
+      "id": "leopold-ii",
+      "name": "Leopold II of Belgium",
+      "short": "Leopold II",
+      "given": "Leopold",
+      "surname": "II",
+      "role": "King of the Belgians; sovereign of the Congo Free State (1885–1908)",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Leopold_II_of_Belgium",
+          "title": "Leopold II of Belgium",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "was the second king of the Belgians from 1865 to 1909 as well as sovereign of the Congo Free State from 1885 to 1908"
+        }
+      ],
+      "portrait": null,
+      "portraitGap": {
+        "searched": "Not yet searched. Added in the Nov 21, 2026 text-research pass (sources: Wikipedia, Hoover Institution, Stanford Magazine); no Commons or archive image search was run for this person.",
+        "why": "Portrait sourcing deferred to a separate pass; initials are shown until a licensed image is found and verified.",
+        "checked": "2026-11-21"
       }
     },
     {
@@ -3115,6 +3428,28 @@
       ],
       "relative": true,
       "portrait": null
+    },
+    {
+      "id": "maria-antonia-mesa",
+      "name": "María Antonia Mesa",
+      "given": "María Antonia",
+      "surname": "Mesa",
+      "role": "Grantee of Rancho Rinconada del Arroyo de San Francisquito (1841)",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rancho_Rinconada_del_Arroyo_de_San_Francisquito",
+          "title": "Rancho Rinconada del Arroyo de San Francisquito",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "given in 1841 by Governor Juan Alvarado to María Antonia Mesa"
+        }
+      ],
+      "portrait": null,
+      "portraitGap": {
+        "searched": "Not yet searched. Added in the Nov 21, 2026 text-research pass (sources: Wikipedia, Hoover Institution, Stanford Magazine); no Commons or archive image search was run for this person.",
+        "why": "Portrait sourcing deferred to a separate pass; initials are shown until a licensed image is found and verified.",
+        "checked": "2026-11-21"
+      }
     },
     {
       "id": "maria-francisca-gutierrez",
@@ -3657,6 +3992,28 @@
       "portrait": null
     },
     {
+      "id": "ray-lyman-wilbur",
+      "name": "Ray Lyman Wilbur",
+      "given": "Ray Lyman",
+      "surname": "Wilbur",
+      "role": "Third president of Stanford (1916–43); Hoover’s Secretary of the Interior (1929–33)",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ray_Lyman_Wilbur",
+          "title": "Ray Lyman Wilbur",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "was an American medical doctor who served as the third president of Stanford University from 1916 to 1943 and as the 31st United States Secretary of the Interior from 1929 to 1933 under President Herbert Hoover"
+        }
+      ],
+      "portrait": null,
+      "portraitGap": {
+        "searched": "Not yet searched. Added in the Nov 21, 2026 text-research pass (sources: Wikipedia, Hoover Institution, Stanford Magazine); no Commons or archive image search was run for this person.",
+        "why": "Portrait sourcing deferred to a separate pass; initials are shown until a licensed image is found and verified.",
+        "checked": "2026-11-21"
+      }
+    },
+    {
       "id": "reba-bush",
       "name": "Reba Bush",
       "given": "Reba",
@@ -3993,6 +4350,50 @@
       "portrait": null
     },
     {
+      "id": "stephen-bechtel-jr",
+      "name": "Stephen Bechtel Jr.",
+      "given": "Stephen",
+      "surname": "Bechtel",
+      "role": "Bechtel president from 1960; Stanford MBA",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephen_Bechtel_Jr.",
+          "title": "Stephen Bechtel Jr.",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He succeeded his father, Stephen Bechtel Sr., as president of Bechtel Corporation in 1960 and chairman in 1969."
+        }
+      ],
+      "portrait": null,
+      "portraitGap": {
+        "searched": "Not yet searched. Added in the Nov 21, 2026 text-research pass (sources: Wikipedia, Hoover Institution, Stanford Magazine); no Commons or archive image search was run for this person.",
+        "why": "Portrait sourcing deferred to a separate pass; initials are shown until a licensed image is found and verified.",
+        "checked": "2026-11-21"
+      }
+    },
+    {
+      "id": "stephen-bechtel-sr",
+      "name": "Stephen Bechtel Sr.",
+      "given": "Stephen",
+      "surname": "Bechtel",
+      "role": "President of Bechtel, 1933–60",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephen_Bechtel_Sr.",
+          "title": "Stephen Bechtel Sr.",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He was the president of the company from 1933 to 1960."
+        }
+      ],
+      "portrait": null,
+      "portraitGap": {
+        "searched": "Not yet searched. Added in the Nov 21, 2026 text-research pass (sources: Wikipedia, Hoover Institution, Stanford Magazine); no Commons or archive image search was run for this person.",
+        "why": "Portrait sourcing deferred to a separate pass; initials are shown until a licensed image is found and verified.",
+        "checked": "2026-11-21"
+      }
+    },
+    {
       "id": "steven-moore",
       "name": "Steven Moore",
       "given": "Steven",
@@ -4099,6 +4500,28 @@
       ],
       "relative": true,
       "portrait": null
+    },
+    {
+      "id": "theo-baker",
+      "name": "Theo Baker",
+      "given": "Theo",
+      "surname": "Baker",
+      "role": "Stanford Daily reporter whose work led to Tessier-Lavigne’s resignation",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Theo_Baker",
+          "title": "Theo Baker",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "is an American journalist, who is best known for his reporting that led to the resignation of Stanford president Marc Tessier-Lavigne"
+        }
+      ],
+      "portrait": null,
+      "portraitGap": {
+        "searched": "Not yet searched. Added in the Nov 21, 2026 text-research pass (sources: Wikipedia, Hoover Institution, Stanford Magazine); no Commons or archive image search was run for this person.",
+        "why": "Portrait sourcing deferred to a separate pass; initials are shown until a licensed image is found and verified.",
+        "checked": "2026-11-21"
+      }
     },
     {
       "id": "theodore-hoover",
@@ -4211,7 +4634,7 @@
       "name": "Timothy Hopkins",
       "given": "Timothy",
       "surname": "Hopkins",
-      "role": "Raised from infancy as Mark Hopkins's son; adopted by his widow",
+      "role": "Mark Hopkins's adopted son; founder of Palo Alto (University Park, 1887); Stanford trustee for over 50 years",
       "roleCites": [
         {
           "url": "https://archive.org/stream/johnhopkinsofcam00hopk/johnhopkinsofcam00hopk_djvu.txt",
@@ -4219,10 +4642,21 @@
           "publisher": "Internet Archive (Stanford University Press, 1932)",
           "kind": "reference",
           "q": "Mark Hopkins had no children, but he brought up from infancy as a son and his widow adopted, Timothy Hopkins"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Timothy_Hopkins",
+          "title": "Timothy Hopkins",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He was one of the founders of Palo Alto and a trustee of Stanford University for over 50 years."
         }
       ],
-      "relative": true,
-      "portrait": null
+      "portrait": null,
+      "portraitGap": {
+        "searched": "Not yet searched. Added in the Nov 21, 2026 text-research pass (sources: Wikipedia, Hoover Institution, Stanford Magazine); no Commons or archive image search was run for this person.",
+        "why": "Portrait sourcing deferred to a separate pass; initials are shown until a licensed image is found and verified.",
+        "checked": "2026-11-21"
+      }
     },
     {
       "id": "tom-perkins",
@@ -4299,6 +4733,28 @@
       ],
       "relative": true,
       "portrait": null
+    },
+    {
+      "id": "warren-a-bechtel",
+      "name": "Warren A. Bechtel",
+      "given": "Warren A.",
+      "surname": "Bechtel",
+      "role": "Founder of the Bechtel firm; Six Companies partner on Hoover Dam",
+      "roleCites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Warren_A._Bechtel",
+          "title": "Warren A. Bechtel",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "was the founder of the Bechtel Corporation"
+        }
+      ],
+      "portrait": null,
+      "portraitGap": {
+        "searched": "Not yet searched. Added in the Nov 21, 2026 text-research pass (sources: Wikipedia, Hoover Institution, Stanford Magazine); no Commons or archive image search was run for this person.",
+        "why": "Portrait sourcing deferred to a separate pass; initials are shown until a licensed image is found and verified.",
+        "checked": "2026-11-21"
+      }
     },
     {
       "id": "william-arthur",
@@ -4474,6 +4930,28 @@
       ]
     },
     {
+      "id": "ledger-1769-11-06-portola-expedition-camps-on-san-francisquito-cre",
+      "people": [
+        "gaspar-de-portola"
+      ],
+      "date": "1769-11-06",
+      "kind": "other",
+      "title": "Portolá expedition camps on San Francisquito Creek near the redwood later called El Palo Alto; Ohlone people already living on the land meet the party",
+      "place": null,
+      "locationText": "San Francisquito Creek, present-day Menlo Park / Palo Alto, CA",
+      "status": "VERIFIED",
+      "why": "The land enters the written record as an already occupied place. Over several days Fray Juan Crespí recorded visits by “great numbers of heathens,” among the “finest and best-mannered” the expedition had met; the Spaniards declined invitations to the villages. The Ohlone-Portolá Heritage Trail statement places the Puichun, about 250 people, on this stretch of the creek. Today the Muwekma Ohlone Tribe traces ancestry through Missions Santa Clara, San Francisco de Asís and San Jose and names San Mateo and Santa Clara counties in its aboriginal homeland.",
+      "ledgerNote": "Campsite and dates: California Ohlone-Portolá Heritage Trail Statement of Significance (OHP draft), San Francisquito Creek / El Palo Alto camp 6–10 Nov 1769; InMenlo, 6 Nov 2019, quoting Crespí (via Bolton). Puichun estimate: Alan K. Brown, as cited in the OHP statement. Muwekma homeland and mission lineages: muwekma.org (tribal site, consulted 21 Nov 2026). Primary Crespí diary (Bolton 1927) still to be read in full; the Crespí wording here is from InMenlo’s translation, not from the diary volume itself.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1769-11-06,Portolá expedition camps on San Francisquito Creek near the redwood l",
+          "line": 3
+        }
+      ]
+    },
+    {
       "id": "ledger-1776-06-29-mission-san-francisco-de-asis-founded-at-what-is",
       "people": [
         "francisco-palou"
@@ -4490,7 +4968,29 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1776-06-29,Mission San Francisco de Asís founded at what is now 320 Dolores Stre",
-          "line": 3
+          "line": 4
+        }
+      ]
+    },
+    {
+      "id": "ledger-1777-01-12-mission-santa-clara-de-asis-founded-at-the-tamie",
+      "people": [
+        "junipero-serra"
+      ],
+      "date": "1777-01-12",
+      "kind": "founding",
+      "title": "Mission Santa Clara de Asís founded at the Tamien village of So-co-is-u-ka on the Guadalupe River",
+      "place": "santa-clara-ca",
+      "locationText": "Santa Clara, CA",
+      "status": "VERIFIED",
+      "why": "The nearest mission to the later Palo Alto farm, and one of the three mission communities through which the Muwekma Ohlone Tribe traces descent. Founded as La Misión Santa Clara de Thamien. Later mission records (as summarised in standard mission histories) show 8,536 baptisms and 6,809 burials — the steep demographic collapse of the mission years.",
+      "ledgerNote": "Date, Tamien village name, and baptism/burial totals: Wikipedia, “Mission Santa Clara de Asís” (citing Leffingwell, Yenne, Ruscin, Krell), consulted 21 Nov 2026. Single-source for the published totals (tertiary summary of mission registers). Secularisation of the mission is already in the ledger at 1834-08-09; Santa Clara itself was secularised in 1836 (same page).",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1777-01-12,Mission Santa Clara de Asís founded at the Tamien village of So-co-is",
+          "line": 5
         }
       ]
     },
@@ -4511,7 +5011,51 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1834-08-09,Secularisation of the missions begins,Governor José Figueroa,Alta Cal",
-          "line": 5
+          "line": 7
+        }
+      ]
+    },
+    {
+      "id": "ledger-1839-01-01-rancho-san-francisquito-granted-to-antonio-bueln",
+      "people": [
+        "antonio-buelna"
+      ],
+      "date": "1839-01-01",
+      "kind": "other",
+      "title": "Rancho San Francisquito granted to Antonio Buelna",
+      "place": "present-day-stanford-campus-ca",
+      "locationText": "Present-day Stanford campus, CA",
+      "status": "VERIFIED",
+      "why": "A Mexican land grant on the southwest side of San Francisquito Creek; it later becomes the northern part of the Stanford University campus. One of the ranchos through which the farm is assembled.",
+      "ledgerNote": "Year, grantee, governor, and location: Wikipedia, “Rancho San Francisquito,” consulted 21 Nov 2026 (tertiary). Exact day of the grant not established in this pass; dated 1 January as a year-only placeholder, consistent with other year-only ledger rows. The diseño itself remains outstanding (already flagged in the master timeline).",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1839-01-01,Rancho San Francisquito granted to Antonio Buelna,Antonio Buelna; Jua",
+          "line": 8
+        }
+      ]
+    },
+    {
+      "id": "ledger-1841-01-01-rancho-rinconada-del-arroyo-de-san-francisquito-",
+      "people": [
+        "maria-antonia-mesa"
+      ],
+      "date": "1841-01-01",
+      "kind": "other",
+      "title": "Rancho Rinconada del Arroyo de San Francisquito granted to María Antonia Mesa",
+      "place": "present-day-menlo-park-and-downtown-palo-alto-ca",
+      "locationText": "Present-day Menlo Park and downtown Palo Alto, CA",
+      "status": "VERIFIED",
+      "why": "The grant south of San Francisquito Creek, later encompassing Menlo Park and downtown Palo Alto, sits beside the land that becomes the university. Rafael Soto had lived on the ground; the formal grant goes to his widow after his death in 1839.",
+      "ledgerNote": "Wikipedia, “Rancho Rinconada del Arroyo de San Francisquito,” consulted 21 Nov 2026 (tertiary). Year-only date (1 January placeholder).",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1841-01-01,Rancho Rinconada del Arroyo de San Francisquito granted to María Anto",
+          "line": 9
         }
       ]
     },
@@ -4535,7 +5079,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1848-01-24,Gold discovered at Sutter's Mill,James W. Marshall; John Sutter,\"Colo",
-          "line": 6
+          "line": 10
         },
         {
           "url": "https://oac.cdlib.org/findaid/ark:/13030/c83n25hj",
@@ -4582,6 +5126,28 @@
       ]
     },
     {
+      "id": "ledger-1849-01-01-collis-huntington-is-stranded-in-panama-on-the-w",
+      "people": [
+        "collis-huntington"
+      ],
+      "date": "1849-01-01",
+      "kind": "other",
+      "title": "Collis Huntington is stranded in Panama on the way to California",
+      "place": "isthmus-of-panama",
+      "locationText": "Isthmus of Panama",
+      "status": "VERIFIED",
+      "why": "The future railroad Associate’s route west runs through an isthmus where, he wrote, there were “eight to ten deaths a day.”",
+      "ledgerNote": "Carried over from the master timeline (Rayner ch 2); the book was not re-opened on 21 Nov 2026 (Drive EPUBs are Anna’s Archive copies, set aside on legal advice). Year-only date.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1849-01-01,Collis Huntington is stranded in Panama on the way to California,Coll",
+          "line": 12
+        }
+      ]
+    },
+    {
       "id": "ledger-1850-09-09-california-admitted-as-a-state-under-the-comprom",
       "people": [
         "millard-fillmore"
@@ -4598,7 +5164,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1850-09-09,California admitted as a state under the Compromise of 1850,US Congre",
-          "line": 11
+          "line": 16
         }
       ]
     },
@@ -4619,7 +5185,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1853-03-03,\"Congress appropriates $150,000 for Pacific railroad surveys\",US Cong",
-          "line": 13
+          "line": 18
         }
       ]
     },
@@ -4640,7 +5206,51 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1853-12-30,Gadsden Purchase signed,James Gadsden; Mexico,Mexico City,Acquires th",
-          "line": 14
+          "line": 19
+        }
+      ]
+    },
+    {
+      "id": "ledger-1860-11-09-theodore-judah-writes-i-have-struck-a-lucky-stre",
+      "people": [
+        "theodore-judah"
+      ],
+      "date": "1860-11-09",
+      "kind": "other",
+      "title": "Theodore Judah writes “I have struck a lucky streak” as Sacramento merchants back his railroad",
+      "place": "sacramento-ca",
+      "locationText": "Sacramento, CA",
+      "status": "VERIFIED",
+      "why": "The engineer’s survey and enthusiasm bring in the shopkeepers who will become the Big Four.",
+      "ledgerNote": "Carried over from the master timeline (Rayner, notes to ch 3); the book was not re-opened on 21 Nov 2026 (Drive EPUBs are Anna’s Archive copies, set aside on legal advice).",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1860-11-09,Theodore Judah writes “I have struck a lucky streak” as Sacramento me",
+          "line": 21
+        }
+      ]
+    },
+    {
+      "id": "ledger-1861-01-01-leland-stanford-elected-governor-of-california",
+      "people": [
+        "leland-stanford"
+      ],
+      "date": "1861-01-01",
+      "kind": "other",
+      "title": "Leland Stanford elected governor of California",
+      "place": "california",
+      "locationText": "California",
+      "status": "VERIFIED",
+      "why": "The railroad president becomes the state’s war governor in the same year the Central Pacific is incorporated. The office and the charter travel together.",
+      "ledgerNote": "Year from the master timeline (Rayner). Exact election/inauguration day not rechecked in this pass; dated 1 January as a year-only placeholder.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1861-01-01,Leland Stanford elected governor of California,Leland Stanford,Califo",
+          "line": 22
         }
       ]
     },
@@ -4661,7 +5271,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1861-01-21,Jefferson Davis speaks for a transcontinental railroad days before le",
-          "line": 15
+          "line": 23
         }
       ]
     },
@@ -4691,7 +5301,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1861-06-28,Central Pacific Railroad incorporated,Leland Stanford; Collis Hunting",
-          "line": 16
+          "line": 24
         },
         {
           "url": "https://archive.org/stream/collispotterhunt01evan/collispotterhunt01evan_djvu.txt",
@@ -4733,7 +5343,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1862-07-01,Pacific Railway Act signed,Abraham Lincoln; US Congress,\"Washington, ",
-          "line": 17
+          "line": 25
         }
       ]
     },
@@ -4754,7 +5364,142 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1867-06-25,Chinese workers strike on the Sierra grade,Central Pacific Chinese wo",
-          "line": 18
+          "line": 26
+        }
+      ]
+    },
+    {
+      "id": "ledger-1869-04-28-central-pacific-crews-lay-ten-miles-of-track-in-",
+      "people": [
+        "charles-crocker",
+        "leland-stanford"
+      ],
+      "date": "1869-04-28",
+      "kind": "other",
+      "title": "Central Pacific crews lay ten miles of track in one day",
+      "place": "utah-territory",
+      "locationText": "Utah Territory",
+      "status": "VERIFIED",
+      "why": "A public wager, won just before Promontory, becomes part of the railroad’s legend. The labour is Chinese; the credit is not.",
+      "ledgerNote": "Master timeline: Ambrose ch 16. EPUB not re-opened in this pass (Anna’s Archive legal question).",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1869-04-28,Central Pacific crews lay ten miles of track in one day,Central Pacif",
+          "line": 27
+        }
+      ]
+    },
+    {
+      "id": "ledger-1872-05-01-eadweard-muybridge-photographs-stanford-s-horse-",
+      "people": [
+        "eadweard-muybridge",
+        "leland-stanford"
+      ],
+      "date": "1872-05-01",
+      "kind": "other",
+      "title": "Eadweard Muybridge photographs Stanford’s horse Occident at the Union Park Race Course in Sacramento",
+      "place": "sacramento-ca",
+      "locationText": "Sacramento, CA",
+      "status": "VERIFIED",
+      "why": "The first Stanford commission, three years before the murder trial that interrupts the work. The later Palo Alto series is a return, not a beginning.",
+      "ledgerNote": "Anita Ventura Mozley, Eadweard Muybridge: The Stanford Years, 1872–1882 (Stanford Museum catalog, 1972; Internet Archive eadweardmuybridg00maye): May 1872, Occident at Union Park, Sacramento. Day not given; dated 1 May as a month placeholder.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1872-05-01,Eadweard Muybridge photographs Stanford’s horse Occident at the Union",
+          "line": 29
+        }
+      ]
+    },
+    {
+      "id": "ledger-1874-10-01-muybridge-kills-harry-larkyns-his-wife-s-lover-n",
+      "people": [
+        "eadweard-muybridge"
+      ],
+      "date": "1874-10-01",
+      "kind": "other",
+      "title": "Muybridge kills Harry Larkyns, his wife’s lover, near Calistoga; a jury later acquits him of murder",
+      "place": "calistoga-ca",
+      "locationText": "Calistoga, CA",
+      "status": "VERIFIED",
+      "why": "The photographer of the Stanford farm is, for a time, a man who has killed. The Stanford work stops, then resumes.",
+      "ledgerNote": "Mozley catalog (IA eadweardmuybridg00maye) and Wikipedia, “Eadweard Muybridge,” consulted 21 Nov 2026: October 1874; acquitted on grounds of justifiable homicide. Exact day not pinned in the sources consulted; dated 1 October as a month placeholder.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1874-10-01,\"Muybridge kills Harry Larkyns, his wife’s lover, near Calistoga; a j",
+          "line": 30
+        }
+      ]
+    },
+    {
+      "id": "ledger-1877-01-01-denis-kearney-s-workingmen-march-on-stanford-s-n",
+      "people": [
+        "leland-stanford"
+      ],
+      "date": "1877-01-01",
+      "kind": "other",
+      "title": "Denis Kearney’s Workingmen march on Stanford’s Nob Hill mansion",
+      "place": "san-francisco-ca",
+      "locationText": "San Francisco, CA",
+      "status": "VERIFIED",
+      "why": "The anti-Chinese labour politics of the 1870s arrive at the door of the man whose railroad ran on Chinese labour.",
+      "ledgerNote": "Master timeline: Harris ch 1.2; White, Railroaded, ch 7. EPUB not re-opened in this pass. Year-only date.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1877-01-01,Denis Kearney’s Workingmen march on Stanford’s Nob Hill mansion,Denis",
+          "line": 32
+        }
+      ]
+    },
+    {
+      "id": "ledger-1878-03-28-mark-hopkins-dies-in-his-rail-car-at-yuma",
+      "people": [
+        "mark-hopkins"
+      ],
+      "date": "1878-03-28",
+      "kind": "life",
+      "title": "Mark Hopkins dies in his rail car at Yuma",
+      "place": "yuma-arizona-territory",
+      "locationText": "Yuma, Arizona Territory",
+      "status": "VERIFIED",
+      "why": "One of the Associates is gone. His widow later adopts Timothy Hopkins, who will plat the town of Palo Alto beside the farm.",
+      "ledgerNote": "Master timeline: Rayner ch 12. EPUB not re-opened in this pass.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1878-03-28,Mark Hopkins dies in his rail car at Yuma,Mark Hopkins,\"Yuma, Arizona",
+          "line": 33
+        }
+      ]
+    },
+    {
+      "id": "ledger-1878-06-15-muybridge-s-first-public-demonstration-of-sequen",
+      "people": [
+        "eadweard-muybridge",
+        "leland-stanford"
+      ],
+      "date": "1878-06-15",
+      "kind": "other",
+      "title": "Muybridge’s first public demonstration of sequential photographs of Stanford’s horses at the Palo Alto Stock Farm",
+      "place": "palo-alto-stock-farm-ca",
+      "locationText": "Palo Alto Stock Farm, CA",
+      "status": "VERIFIED",
+      "why": "The work that makes the farm famous beyond racing is done on this ground: twelve photographs of Abe Edgington taken in less than half a second on 15 June, then Sallie Gardner running on 19 June. A rich man’s question about a horse’s gait produces motion studies that became one of several lines leading to cinema (the research log declines the “invented cinema” framing).",
+      "ledgerNote": "Mozley catalog (IA eadweardmuybridg00maye): 15 June 1878, Abe Edgington, twelve positions; 19 June, Sallie Gardner. Library of Congress record for “The horse in motion… Sallie Gardner… 19 June 1878.”",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1878-06-15,Muybridge’s first public demonstration of sequential photographs of S",
+          "line": 34
         }
       ]
     },
@@ -4775,7 +5520,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1882-05-06,Chinese Exclusion Act signed,US Congress; Chester A. Arthur,\"Washingt",
-          "line": 22
+          "line": 36
         }
       ]
     },
@@ -4797,7 +5542,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1884-03-13,Leland Stanford Jr. dies in Florence,Leland Stanford Jr.,\"Florence, I",
-          "line": 23
+          "line": 37
         }
       ]
     },
@@ -4818,8 +5563,56 @@
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1885-11-11,Stanford Founding Grant executed,Leland and Jane Stanford,\"Palo Alto,",
-          "line": 24
+          "q": "1885-11-11,Stanford Founding Grant executed,Leland Stanford; Jane Stanford,\"Palo",
+          "line": 38
+        }
+      ]
+    },
+    {
+      "id": "ledger-1887-01-01-timothy-hopkins-plats-university-park-the-townsi",
+      "people": [
+        "jane-stanford",
+        "leland-stanford",
+        "timothy-hopkins"
+      ],
+      "date": "1887-01-01",
+      "kind": "other",
+      "title": "Timothy Hopkins plats University Park, the townsite later named Palo Alto",
+      "place": "palo-alto-ca",
+      "locationText": "Palo Alto, CA",
+      "status": "VERIFIED",
+      "why": "The adopted son of Mark Hopkins’s widow, a Stanford trustee from the founding board, buys land from the Seale estate and lays out the town that will serve the university. The farm gets a town at its gate, under a covenant forbidding the sale of alcohol.",
+      "ledgerNote": "Orrin Leslie Elliott, Stanford University: The First Twenty-Five Years (Stanford University Press, 1937; IA stanfroduniversi009361mbp): Hopkins “purchased a large tract of land from the Seale estate, plotted the townsite of Palo Alto (for a time called University Park), and placed it on the market,” with University Avenue cut through by the summer of 1891. Wikipedia, “Timothy Hopkins”: 737 acres, plans laid out in 1887; the town became Palo Alto in 1892. Year-only date for the platting.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1887-01-01,\"Timothy Hopkins plats University Park, the townsite later named Palo",
+          "line": 41
+        }
+      ]
+    },
+    {
+      "id": "ledger-1890-01-01-the-stanfords-travel-to-bloomington-to-recruit-d",
+      "people": [
+        "david-starr-jordan",
+        "jane-stanford",
+        "leland-stanford"
+      ],
+      "date": "1890-01-01",
+      "kind": "other",
+      "title": "The Stanfords travel to Bloomington to recruit David Starr Jordan as first president",
+      "place": "bloomington-in",
+      "locationText": "Bloomington, IN",
+      "status": "VERIFIED",
+      "why": "The founders choose an ichthyologist and future eugenics advocate to shape the university.",
+      "ledgerNote": "Carried over from the master timeline (Miller ch 4); the book was not re-opened on 21 Nov 2026 (Drive EPUBs are Anna’s Archive copies, set aside on legal advice). Year-only date.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1890-01-01,The Stanfords travel to Bloomington to recruit David Starr Jordan as ",
+          "line": 42
         }
       ]
     },
@@ -4839,8 +5632,8 @@
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1891-10-01,Stanford University opens,David Starr Jordan (president),\"Palo Alto, ",
-          "line": 27
+          "q": "1891-10-01,Stanford University opens,David Starr Jordan,\"Palo Alto, CA\",\"Free tu",
+          "line": 43
         }
       ]
     },
@@ -4862,7 +5655,76 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1893-06-21,Leland Stanford dies during the Panic of 1893,Leland Stanford,\"Palo A",
-          "line": 28
+          "line": 44
+        }
+      ]
+    },
+    {
+      "id": "ledger-1894-01-01-herbert-hoover-meets-lou-henry-in-john-casper-br",
+      "people": [
+        "herbert-hoover",
+        "john-casper-branner",
+        "lou-henry-hoover"
+      ],
+      "date": "1894-01-01",
+      "kind": "other",
+      "title": "Herbert Hoover meets Lou Henry in John Casper Branner’s geology laboratory at Stanford",
+      "place": "stanford-ca",
+      "locationText": "Stanford, CA",
+      "status": "VERIFIED",
+      "why": "The partnership that will carry a Stanford geology education into the mines of Australia and China, and later into the White House, begins in a campus lab. Lou Henry will become Stanford’s first woman graduate in geology (1898).",
+      "ledgerNote": "Meeting year from the master timeline (Whyte ch 2, p. 43); EPUB not re-opened in this pass. Lou Henry’s 1898 geology degree: Wikipedia, “Lou Henry Hoover,” consulted 21 Nov 2026. Year-only date.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1894-01-01,Herbert Hoover meets Lou Henry in John Casper Branner’s geology labor",
+          "line": 45
+        }
+      ]
+    },
+    {
+      "id": "ledger-1897-01-01-herbert-hoover-begins-work-as-a-mining-engineer-",
+      "people": [
+        "herbert-hoover"
+      ],
+      "date": "1897-01-01",
+      "kind": "other",
+      "title": "Herbert Hoover begins work as a mining engineer in Western Australia, including at the Sons of Gwalia mine",
+      "place": "western-australia",
+      "locationText": "Western Australia",
+      "status": "VERIFIED",
+      "why": "The Stanford geologist’s fortune is made in other people’s ground, first in Australia, then in China. The master timeline already records Whyte’s description of the air at Sons of Gwalia as “notably bad.”",
+      "ledgerNote": "Master timeline: Whyte ch 5, p. 100 (1897–1908). Miller Center, “Life Before the Presidency”: Hoover moved to Australia in 1897 and China in 1899. Year-only start date.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1897-01-01,\"Herbert Hoover begins work as a mining engineer in Western Australia",
+          "line": 46
+        }
+      ]
+    },
+    {
+      "id": "ledger-1898-01-01-lou-henry-receives-a-bachelor-s-degree-in-geolog",
+      "people": [
+        "john-casper-branner",
+        "lou-henry-hoover"
+      ],
+      "date": "1898-01-01",
+      "kind": "other",
+      "title": "Lou Henry receives a bachelor’s degree in geology from Stanford, the university’s first woman to do so",
+      "place": "stanford-ca",
+      "locationText": "Stanford, CA",
+      "status": "VERIFIED",
+      "why": "A Stanford education, in the department Hoover’s mentor built, becomes the training of the person who will translate Agricola with Hoover and live through the Boxer rising and the Kaiping years beside him.",
+      "ledgerNote": "Wikipedia, “Lou Henry Hoover,” consulted 21 Nov 2026: “In 1898, Hoover became the first woman to receive a bachelor’s degree in geology from Stanford.” Year-only date.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1898-01-01,\"Lou Henry receives a bachelor’s degree in geology from Stanford, the",
+          "line": 47
         }
       ]
     },
@@ -4885,7 +5747,54 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1900-11-12,Edward Ross forced out of Stanford,Jane Stanford; David Starr Jordan;",
-          "line": 30
+          "line": 49
+        }
+      ]
+    },
+    {
+      "id": "ledger-1901-02-19-hoover-acting-for-bewick-moreing-signs-a-side-me",
+      "people": [
+        "emile-francqui",
+        "herbert-hoover",
+        "leopold-ii"
+      ],
+      "date": "1901-02-19",
+      "kind": "other",
+      "title": "Hoover, acting for Bewick, Moreing, signs a side memorandum with Chang Yen-mao on the transfer of the Kaiping mines to the British Chinese Engineering and Mining Company",
+      "place": null,
+      "locationText": "Tientsin (Tianjin) / London",
+      "status": "VERIFIED",
+      "why": "A Stanford-trained engineer, working for a British firm, is the agent who helps take China’s first modern coal mines into a London-registered company. The 19 February memorandum was supposed to bind the new company to joint Sino-British management. Belgian capital, organised through Colonel Albert Thys’s Compagnie Internationale d’Orient and backed by King Leopold II, soon holds the heavier interest. Émile Francqui, Thys’s agent-general and a former officer in Leopold’s Congo campaigns, arrives in Tientsin in April or early May 1901 to advance that interest.",
+      "ledgerNote": "Memorandum date, terms, and later breach: Ellsworth C. Carlson, The Kaiping Mines, 1877–1912 (Harvard East Asian Monographs, 1971), Internet Archive search-inside (id kaipingmines1877000icarl), especially the account of the 19 Feb 1901 memorandum and Joyce’s 1 Mar 1905 judgment. Francqui’s arrival, Congo service, and Leopold’s share purchases: George H. Nash, The Life of Herbert Hoover: The Engineer, 1874–1914 (W. W. Norton, 1983), Internet Archive search-inside (id lifeofherberthoo0001nash): Francqui “a former military officer who ten years before had helped King Leopold conquer the Congo”; “Early in 1902, acting through de Wouters, Leopold purchased 25,000 shares.” Compagnie Internationale d’Orient and Thys as close to the King of Belgium: Carlson, same copy. The Wikipedia claim that Francqui was sent to the Congo Free State at age 21 was not used; Nash and a 1934 Annales d’histoire économique et sociale notice (explorateur du Katanga, participant de la guerre arabe, ancien envoyé de Léopold II en Chine) are the sources in hand for his Congo role.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1901-02-19,\"Hoover, acting for Bewick, Moreing, signs a side memorandum with Cha",
+          "line": 50
+        }
+      ]
+    },
+    {
+      "id": "ledger-1905-01-14-strychnine-is-found-in-jane-stanford-s-poland-sp",
+      "people": [
+        "bertha-berner",
+        "jane-stanford"
+      ],
+      "date": "1905-01-14",
+      "kind": "other",
+      "title": "Strychnine is found in Jane Stanford’s Poland Spring water at her Nob Hill house",
+      "place": "san-francisco-ca",
+      "locationText": "San Francisco, CA",
+      "status": "VERIFIED",
+      "why": "The first poisoning, weeks before Honolulu. Bertha Berner, Jane’s secretary of long standing, is present at both scenes — a fact later writers have weighed, without a criminal case.",
+      "ledgerNote": "Susan Wolfe, “Who Killed Jane Stanford?,” Stanford Magazine, Sept/Oct 2003, summarising Robert W. P. Cutler, The Mysterious Death of Jane Stanford (Stanford University Press, 2003): evening of 14 January 1905, Poland Spring water, bitter taste, later found to contain enough strychnine to kill. Cutler’s own volume was not in hand this pass (not on Internet Archive; still to borrow).",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1905-01-14,Strychnine is found in Jane Stanford’s Poland Spring water at her Nob",
+          "line": 51
         }
       ]
     },
@@ -4908,7 +5817,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1905-02-28,Jane Stanford dies in Honolulu,Jane Stanford,\"2365 Kalākaua Avenue, H",
-          "line": 31
+          "line": 52
         },
         {
           "url": "https://oac.cdlib.org/findaid/ark:/13030/tf8000068j",
@@ -4948,6 +5857,234 @@
       ]
     },
     {
+      "id": "ledger-1905-03-01-a-honolulu-coroner-s-jury-finds-jane-stanford-di",
+      "people": [
+        "bertha-berner",
+        "david-starr-jordan",
+        "jane-stanford",
+        "timothy-hopkins"
+      ],
+      "date": "1905-03-01",
+      "kind": "other",
+      "title": "A Honolulu coroner’s jury finds Jane Stanford died of strychnine poisoning; David Starr Jordan publicly attributes the death to natural causes",
+      "place": "moana-hotel-honolulu",
+      "locationText": "Moana Hotel, Honolulu",
+      "status": "CONTESTED",
+      "why": "The institution’s president, travelling with Timothy Hopkins, hires Dr E. C. Waterhouse and tells the press the cause was heart failure (angina / a ruptured coronary artery), against the inquest. Jordan later repeats that account in his memoirs. The fact of the death is not in doubt; the cause is contested, and has been since March 1905.",
+      "ledgerNote": "Inquest verdict and Jordan’s Waterhouse hiring: Wolfe, Stanford Magazine, Sept/Oct 2003 (Cutler); also “Murder, He Wrote,” Stanford Magazine (review of Richard White). Jordan’s own account: The Days of a Man, vol. 2 (1922; IA daysofmanbeingme02jordrich), chapter on Mrs Stanford’s death: “false rumor that she had been poisoned”; Waterhouse “stated that the symptoms… were totally different from those of strychnine poisoning, and that some form of angina pectoris must have caused her death.” Exact day of the jury’s verdict was not pinned (Wolfe: after three days of testimony, a verdict in two minutes; a 11 March 1905 New York Times dispatch discusses the verdict). Dated 1 March as an early-March placeholder, the day after the death. Cutler’s book itself still to be read. “Mr. Hopkins” is Jordan’s wording; identifying him as trustee Timothy Hopkins is my inference from the same memoir, which names Timothy Hopkins among the founding trustees — single-source identification. Jordan gives the cause as “rupture of the coronary artery,” per a Cooper Medical College committee.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1905-03-01,A Honolulu coroner’s jury finds Jane Stanford died of strychnine pois",
+          "line": 53
+        }
+      ]
+    },
+    {
+      "id": "ledger-1905-03-01-justice-joyce-in-chang-yen-mao-v-moreing-holds-t",
+      "people": [
+        "herbert-hoover"
+      ],
+      "date": "1905-03-01",
+      "kind": "other",
+      "title": "Justice Joyce, in Chang Yen-mao v. Moreing, holds the February 1901 Kaiping memorandum binding",
+      "place": "london-high-court-of-justice-chancery-division",
+      "locationText": "London, High Court of Justice, Chancery Division",
+      "status": "VERIFIED",
+      "why": "The same week Jane Stanford dies in Honolulu, a London judge rules on the China deal Hoover helped to make. Joyce finds that the memorandum “formed the basis and foundation of the whole arrangement,” that Chang sealed the transfer in reliance on assurances it would bind, and that the company had “declined to recognize” it. He is also disturbed by the 1901 flotation. An appeal follows (The Times, 25 January 1906, as cited by Carlson); the outcome of that appeal was not read in full in this pass.",
+      "ledgerNote": "Carlson, The Kaiping Mines (1971), IA search-inside: trial before Joyce in early 1905; decision 1 March 1905; testimony by Chang, Detring, Hoover, Moreing in late January and early February. Nash, The Engineer (1983), IA search-inside: trial opened 17 January 1905; verdict 1 March; Joyce’s findings as quoted. The Times (London), 2 March 1905, p. 3, is the contemporary report both books cite; the newspaper page itself was not retrieved in this pass.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1905-03-01,\"Justice Joyce, in Chang Yen-mao v. Moreing, holds the February 1901 ",
+          "line": 54
+        }
+      ]
+    },
+    {
+      "id": "ledger-1905-03-15-jordan-leaves-honolulu-with-jane-stanford-s-body",
+      "people": [
+        "david-starr-jordan",
+        "jane-stanford"
+      ],
+      "date": "1905-03-15",
+      "kind": "other",
+      "title": "Jordan leaves Honolulu with Jane Stanford’s body; a writer signing as “Tay Wang” writes to him",
+      "place": "honolulu",
+      "locationText": "Honolulu",
+      "status": "VERIFIED",
+      "why": "The president escorts the founder home while the cause of death is still being argued.",
+      "ledgerNote": "Carried over from the master timeline (White, Who Killed Jane Stanford?, ch 43, p. 248); the book was not re-opened on 21 Nov 2026 (Drive EPUBs are Anna’s Archive copies, set aside on legal advice).",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1905-03-15,Jordan leaves Honolulu with Jane Stanford’s body; a writer signing as",
+          "line": 55
+        }
+      ]
+    },
+    {
+      "id": "ledger-1912-01-01-herbert-hoover-joins-the-stanford-board-of-trust",
+      "people": [
+        "herbert-hoover",
+        "john-casper-branner"
+      ],
+      "date": "1912-01-01",
+      "kind": "other",
+      "title": "Herbert Hoover joins the Stanford Board of Trustees and helps install Branner as president",
+      "place": "stanford-ca",
+      "locationText": "Stanford, CA",
+      "status": "VERIFIED",
+      "why": "The mining engineer, now rich, returns as a trustee of the university that trained him. Wikipedia’s Hoover biography, in the same 1912 passage as the Hoovers’ De re metallica translation, says he “led a successful campaign to appoint Branner as the university’s president.”",
+      "ledgerNote": "Year from the master timeline (Whyte ch 6, p. 124) and Wikipedia, “Herbert Hoover,” consulted 21 Nov 2026. Year-only date. EPUB of Whyte not re-opened in this pass.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1912-01-01,Herbert Hoover joins the Stanford Board of Trustees and helps install",
+          "line": 58
+        }
+      ]
+    },
+    {
+      "id": "ledger-1913-01-01-john-casper-branner-becomes-the-second-president",
+      "people": [
+        "david-starr-jordan",
+        "john-casper-branner"
+      ],
+      "date": "1913-01-01",
+      "kind": "other",
+      "title": "John Casper Branner becomes the second president of Stanford University",
+      "place": "stanford-ca",
+      "locationText": "Stanford, CA",
+      "status": "VERIFIED",
+      "why": "Hoover’s geology teacher, and the man who paid his typhoid bills as a student, takes the presidency as Jordan becomes chancellor. The university’s early succession stays inside that circle.",
+      "ledgerNote": "Wikipedia, “John Casper Branner”: president 1913–31 December 1915, succeeding Jordan, succeeded by Ray Lyman Wilbur. Elliott, First Twenty-Five Years, confirms the succession. Year-only start date; exact inauguration day not pinned.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1913-01-01,John Casper Branner becomes the second president of Stanford Universi",
+          "line": 59
+        }
+      ]
+    },
+    {
+      "id": "ledger-1914-10-01-hoover-organises-the-commission-for-relief-in-be",
+      "people": [
+        "emile-francqui",
+        "herbert-hoover"
+      ],
+      "date": "1914-10-01",
+      "kind": "other",
+      "title": "Hoover organises the Commission for Relief in Belgium; Émile Francqui directs the Belgian Comité National de Secours et d’Alimentation",
+      "place": null,
+      "locationText": "London / occupied Belgium",
+      "status": "VERIFIED",
+      "why": "The two men who faced each other over Kaiping now run the two sides of Belgian wartime relief: Hoover’s CRB bringing food in from outside, Francqui’s CNSA distributing it under occupation. After the war, leftover CRB funds help create the Belgian American Educational Foundation (9 January 1920, by the Foundation’s own later account) and sustain Hoover’s Stanford collecting.",
+      "ledgerNote": "Structure of CRB and CNSA: Wikipedia, “Commission for Relief in Belgium” and “Comité National de Secours et d’Alimentation,” consulted 21 Nov 2026 (tertiary, but consistent across both pages and with Francqui’s Wikipedia biography). BAEF date 9 January 1920: Wikipedia, “Belgian American Educational Foundation” — single tertiary source; mark as such. Month of CRB’s formal start is October 1914 in those pages; dated 1 October as a month placeholder.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1914-10-01,Hoover organises the Commission for Relief in Belgium; Émile Francqui",
+          "line": 61
+        }
+      ]
+    },
+    {
+      "id": "ledger-1916-01-01-lewis-terman-publishes-the-stanford-binet-intell",
+      "people": [
+        "lewis-terman"
+      ],
+      "date": "1916-01-01",
+      "kind": "other",
+      "title": "Lewis Terman publishes the Stanford–Binet intelligence test",
+      "place": "stanford-ca",
+      "locationText": "Stanford, CA",
+      "status": "VERIFIED",
+      "why": "A Stanford psychologist puts a number on “intelligence” that will travel with the century. The master timeline already notes the deep cut to his son Fred, later called the “father of Silicon Valley.” Terman later sits on the board of the Human Betterment Foundation, the eugenics organisation that advocated compulsory sterilisation.",
+      "ledgerNote": "Year from the master timeline (Harris ch 2.2; Stern, Eugenic Nation). Stern’s book was not in hand this pass. Terman as a later HBF trustee: Wikipedia, “Human Betterment Foundation,” consulted 21 Nov 2026. Year-only date.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1916-01-01,Lewis Terman publishes the Stanford–Binet intelligence test,Lewis Ter",
+          "line": 62
+        }
+      ]
+    },
+    {
+      "id": "ledger-1916-01-22-ray-lyman-wilbur-becomes-the-third-president-of-",
+      "people": [
+        "ray-lyman-wilbur"
+      ],
+      "date": "1916-01-22",
+      "kind": "other",
+      "title": "Ray Lyman Wilbur becomes the third president of Stanford University",
+      "place": "stanford-ca",
+      "locationText": "Stanford, CA",
+      "status": "VERIFIED",
+      "why": "A Stanford-trained physician from the Pioneer Class of 1896 runs the university until 1943 and, in 1929–33, serves as Secretary of the Interior in Hoover’s cabinet — including the years when Hoover Dam is named and let to contract.",
+      "ledgerNote": "Wikipedia, “Ray Lyman Wilbur”: president 22 January 1916–30 June 1943; Secretary of the Interior 5 March 1929–4 March 1933 under Hoover. Elliott, First Twenty-Five Years, describes Wilbur as the trustees’ choice and a member of the pioneer Class of 1896.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1916-01-22,Ray Lyman Wilbur becomes the third president of Stanford University,R",
+          "line": 63
+        }
+      ]
+    },
+    {
+      "id": "ledger-1919-01-01-the-belgian-government-presents-hoover-with-offi",
+      "people": [
+        "herbert-hoover"
+      ],
+      "date": "1919-01-01",
+      "kind": "other",
+      "title": "The Belgian government presents Hoover with official documents, many on the Belgian Congo and Ruanda-Urundi, that begin the Hoover Institution’s Africa Collection",
+      "place": "stanford-ca",
+      "locationText": "Stanford, CA",
+      "status": "VERIFIED",
+      "why": "Papers of Leopold II’s former colony and of the mandate that followed it are housed on the Stanford farm because of Hoover’s wartime work with Belgium. The Institution’s page does not name Francqui; linking the gift to the Hoover–Francqui relationship (Kaiping 1901, CRB/CNSA 1914–19) is an interpretation, not a documented cause.",
+      "ledgerNote": "Hoover Institution, “History of the Collection: Africa,” consulted 21 Nov 2026: “The Africa Collection had its beginnings in 1919, when the Belgian government presented Herbert Hoover with a collection of official Belgian documents and reports, many pertaining to the Belgian Congo and Ruanda-Urundi.” Year-only date; exact day not given on the page. Leopold II ruled the Congo Free State 1885–1908 and died in 1909 (Wikipedia, “Leopold II of Belgium”).",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1919-01-01,\"The Belgian government presents Hoover with official documents, many",
+          "line": 64
+        }
+      ]
+    },
+    {
+      "id": "ledger-1919-04-22-herbert-hoover-telegrams-lou-henry-hoover-pledgi",
+      "people": [
+        "herbert-hoover",
+        "lou-henry-hoover"
+      ],
+      "date": "1919-04-22",
+      "kind": "other",
+      "title": "Herbert Hoover telegrams Lou Henry Hoover pledging $50,000 to collect historical material on the First World War",
+      "place": null,
+      "locationText": "Stanford, CA / Paris",
+      "status": "VERIFIED",
+      "why": "The founding act of what becomes the Hoover War Collection, then the Hoover Institution, on the Stanford campus. The ledger already records a 1 June 1919 funding date; this telegram is the documentary starting point given by the Institution itself.",
+      "ledgerNote": "Hoover Institution, “About Us,” consulted 21 Nov 2026: “On April 22, 1919, Herbert Hoover sent his wife, Lou Henry, a telegram pledging $50,000 for the purposes of collecting historical material on the First World War.” The existing 1919-06-01 ledger row is left in place; the two dates may record the pledge and a later transfer.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1919-04-22,\"Herbert Hoover telegrams Lou Henry Hoover pledging $50,000 to collec",
+          "line": 65
+        }
+      ]
+    },
+    {
       "id": "ledger-1919-06-01-hoover-funds-what-becomes-the-hoover-war-collect",
       "people": [
         "ephraim-adams",
@@ -4969,7 +6106,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1919-06-01,Hoover funds what becomes the Hoover War Collection,Herbert Hoover; E",
-          "line": 35
+          "line": 66
         },
         {
           "url": "https://www.hoover.org/research/making-hoover-history-telegram",
@@ -5016,6 +6153,189 @@
       ]
     },
     {
+      "id": "ledger-1920-01-01-the-lou-henry-hoover-house-is-completed-on-the-s",
+      "people": [
+        "herbert-hoover",
+        "lou-henry-hoover"
+      ],
+      "date": "1920-01-01",
+      "kind": "other",
+      "title": "The Lou Henry Hoover House is completed on the Stanford campus; it later becomes the university president’s house",
+      "place": "stanford-ca",
+      "locationText": "Stanford, CA",
+      "status": "VERIFIED",
+      "why": "Lou Henry Hoover designs a house on the farm. After the presidency it becomes the official residence of Stanford’s presidents — the Hoovers’ domestic architecture written into the institution.",
+      "ledgerNote": "Wikipedia, “Lou Henry Hoover House”: completed 1920, designed by Lou Henry Hoover, now the official home of the Stanford president; National Historic Landmark. Year-only date.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1920-01-01,The Lou Henry Hoover House is completed on the Stanford campus; it la",
+          "line": 67
+        }
+      ]
+    },
+    {
+      "id": "ledger-1925-01-01-alfred-l-kroeber-s-handbook-of-the-indians-of-ca",
+      "people": [
+        "alfred-kroeber"
+      ],
+      "date": "1925-01-01",
+      "kind": "other",
+      "title": "Alfred L. Kroeber’s Handbook of the Indians of California declares the “Costanoan group” extinct “so far as all practical purposes are concerned”",
+      "place": "washington-dc-bureau-of-american-ethnology",
+      "locationText": "Washington, DC (Bureau of American Ethnology)",
+      "status": "CONTESTED",
+      "why": "A standard ethnographic reference, from the university across the Bay, writes the people of this land out of the present tense. Living descendants, including those later organised as the Muwekma Ohlone Tribe, contradict the claim. The 2002 federal-recognition denial turned in part on discontinuous “external identification” after 1927, not on a finding that the people had vanished.",
+      "ledgerNote": "Kroeber’s wording is his, and is verified: Handbook of the Indians of California (Bureau of American Ethnology Bulletin 78, 1925; IA handbookofindian00kroe_0), “Population. The Costanoan group is extinct so far as all practical purposes are concerned.” The factual claim of extinction is contested by the tribe’s own account (muwekma.org: “known surviving American Indian lineages aboriginal to the San Francisco Bay region who trace their ancestry through the Missions Dolores, Santa Clara, and San Jose”) and by the BIA’s later finding that 99 percent of current Muwekma members documented descent from the historic Verona Band proxy list (Wikipedia, “Muwekma Ohlone Tribe,” summarising the 2002 determination). Year-only date.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1925-01-01,Alfred L. Kroeber’s Handbook of the Indians of California declares th",
+          "line": 68
+        }
+      ]
+    },
+    {
+      "id": "ledger-1929-03-04-herbert-hoover-is-inaugurated-as-president-of-th",
+      "people": [
+        "herbert-hoover"
+      ],
+      "date": "1929-03-04",
+      "kind": "other",
+      "title": "Herbert Hoover is inaugurated as president of the United States (term to 1933)",
+      "place": "washington-dc",
+      "locationText": "Washington, DC",
+      "status": "VERIFIED",
+      "why": "The pioneer-class Stanford graduate and trustee reaches the White House; he brings Stanford president Ray Lyman Wilbur into the cabinet.",
+      "ledgerNote": "Carried over from the master timeline (Whyte); the book was not re-opened on 21 Nov 2026 (Drive EPUBs are Anna’s Archive copies, set aside on legal advice). Term 4 March 1929–4 March 1933: Wikipedia, “Herbert Hoover,” infobox, consulted 21 Nov 2026; Wilbur’s cabinet dates are from Wikipedia, “Ray Lyman Wilbur.”",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1929-03-04,Herbert Hoover is inaugurated as president of the United States (term",
+          "line": 70
+        }
+      ]
+    },
+    {
+      "id": "ledger-1929-03-05-ray-lyman-wilbur-is-sworn-in-as-u-s-secretary-of",
+      "people": [
+        "herbert-hoover",
+        "ray-lyman-wilbur"
+      ],
+      "date": "1929-03-05",
+      "kind": "other",
+      "title": "Ray Lyman Wilbur is sworn in as U.S. Secretary of the Interior, remaining Stanford’s president",
+      "place": "washington-dc",
+      "locationText": "Washington, DC",
+      "status": "VERIFIED",
+      "why": "A Stanford president sits in Hoover’s cabinet at Interior, the department that will let the Boulder Canyon contracts and, in September 1930, name the dam for Hoover.",
+      "ledgerNote": "Wikipedia, “Ray Lyman Wilbur”: Interior Secretary 5 March 1929–4 March 1933, under President Hoover, while remaining Stanford president.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1929-03-05,\"Ray Lyman Wilbur is sworn in as U.S. Secretary of the Interior, rema",
+          "line": 71
+        }
+      ]
+    },
+    {
+      "id": "ledger-1930-09-17-interior-secretary-ray-lyman-wilbur-at-a-nevada-",
+      "people": [
+        "herbert-hoover",
+        "ray-lyman-wilbur"
+      ],
+      "date": "1930-09-17",
+      "kind": "other",
+      "title": "Interior Secretary Ray Lyman Wilbur, at a Nevada rail-ceremony, announces that Boulder Dam will be named Hoover Dam",
+      "place": "near-las-vegas-nv",
+      "locationText": "Near Las Vegas, NV",
+      "status": "VERIFIED",
+      "why": "The Stanford president in Hoover’s cabinet attaches the president’s name to the dam a consortium led in part by Bechtel and Henry Kaiser is about to bid on. The name will be fought over for seventeen years (Boulder Dam under FDR; Hoover Dam restored in 1947).",
+      "ledgerNote": "Joseph E. Stevens, Hoover Dam: An American Adventure (University of Oklahoma Press, 1988), Internet Archive search-inside (id hooverdamamerica0000stev): 17 September 1930 ceremony with Governor Balzar; Wilbur’s announcement and the subsequent press fight; name restored in 1947.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1930-09-17,\"Interior Secretary Ray Lyman Wilbur, at a Nevada rail-ceremony, anno",
+          "line": 72
+        }
+      ]
+    },
+    {
+      "id": "ledger-1931-02-01-six-companies-inc-is-organised-bechtel-and-henry",
+      "people": [
+        "henry-j-kaiser",
+        "stephen-bechtel-sr",
+        "warren-a-bechtel"
+      ],
+      "date": "1931-02-01",
+      "kind": "other",
+      "title": "Six Companies, Inc. is organised; Bechtel and Henry Kaiser join the consortium that will build Hoover Dam",
+      "place": "san-francisco-ca",
+      "locationText": "San Francisco, CA",
+      "status": "VERIFIED",
+      "why": "The dam named for a Stanford trustee and president is built by a joint venture in which the Bechtel–Kaiser share is the largest single stake (30 percent, in later standard accounts). Henry Kaiser’s later Richmond shipyards sit in the same West Coast industrial story already in the later episodes. Warren Bechtel becomes president of Six Companies; he dies in 1933 and his son Stephen D. Bechtel Sr. takes over the firm.",
+      "ledgerNote": "Partnership and naming of Six Companies: Laton McCartney, Friends in High Places (1988), IA search-inside (id friendsinhighpla00mcca), including Kahn’s suggestion of the name and the late settlement of the bid figure. Bechtel–Kaiser relationship and entry into the Wattis–Morrison group: Stevens, Hoover Dam (1988), IA search-inside. Construction “began in 1931 and was completed in 1936” (Stevens, opening). Ownership percentages (Bechtel-Kaiser 30%): Wikipedia, “Six Companies, Inc.,” consulted 21 Nov 2026 — tertiary; treat the exact split as single-source pending a page in Stevens or McCartney. Month from Wikipedia (“Founded February 1931”); dated 1 February as a month placeholder. Warren Bechtel’s 1933 death and succession: Wikipedia, “Warren A. Bechtel.”",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1931-02-01,\"Six Companies, Inc. is organised; Bechtel and Henry Kaiser join the ",
+          "line": 73
+        }
+      ]
+    },
+    {
+      "id": "ledger-1933-01-01-warren-a-bechtel-dies-in-moscow-stephen-d-bechte",
+      "people": [
+        "stephen-bechtel-sr",
+        "warren-a-bechtel"
+      ],
+      "date": "1933-01-01",
+      "kind": "life",
+      "title": "Warren A. Bechtel dies in Moscow; Stephen D. Bechtel Sr. becomes president of the family firm",
+      "place": null,
+      "locationText": "Moscow / San Francisco",
+      "status": "VERIFIED",
+      "why": "The founder of the firm that helped build Hoover Dam dies before it is finished; his son runs Bechtel until 1960 and later ties it to Stanford through gifts and his son’s MBA.",
+      "ledgerNote": "Wikipedia, “Warren A. Bechtel” (died in Moscow, 1933) and “Stephen Bechtel Sr.” (president 1933–1960), consulted 21 Nov 2026. McCartney, Friends in High Places (IA), captions Dad Bechtel as having “died in Russia before his crowning achievement, Hoover Dam, was completed.” Year-only date.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1933-01-01,Warren A. Bechtel dies in Moscow; Stephen D. Bechtel Sr. becomes pres",
+          "line": 74
+        }
+      ]
+    },
+    {
+      "id": "ledger-1936-02-29-frank-crowe-for-six-companies-formally-turns-hoo",
+      "people": [
+        "henry-j-kaiser",
+        "stephen-bechtel-sr"
+      ],
+      "date": "1936-02-29",
+      "kind": "other",
+      "title": "Frank Crowe, for Six Companies, formally turns Hoover Dam over to the Bureau of Reclamation",
+      "place": null,
+      "locationText": "Black Canyon, Nevada/Arizona",
+      "status": "VERIFIED",
+      "why": "The finished dam, named for Hoover and built by a group that included Bechtel and Kaiser, is accepted by the government the next day. A Stanford network (Hoover, Wilbur) and a San Francisco building firm later tied to the campus (Bechtel) meet in the concrete.",
+      "ledgerNote": "Stevens, Hoover Dam (1988), IA search-inside: morning of 29 February 1936, Crowe to Ralph Lowry on the crest; “I am very happy to turn over the job for your acceptance.” Interior Secretary Ickes formally accepted the dam the next day.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1936-02-29,\"Frank Crowe, for Six Companies, formally turns Hoover Dam over to th",
+          "line": 75
+        }
+      ]
+    },
+    {
       "id": "ledger-1936-10-05-steinbeck-s-the-harvest-gypsies-begins-publicati",
       "people": [
         "john-steinbeck"
@@ -5032,7 +6352,30 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1936-10-05,Steinbeck's 'The Harvest Gypsies' begins publication,John Steinbeck; ",
-          "line": 37
+          "line": 76
+        }
+      ]
+    },
+    {
+      "id": "ledger-1937-05-01-stephen-bechtel-sr-and-john-mccone-open-the-bech",
+      "people": [
+        "john-mccone",
+        "stephen-bechtel-sr"
+      ],
+      "date": "1937-05-01",
+      "kind": "other",
+      "title": "Stephen Bechtel Sr. and John McCone open the Bechtel-McCone Corporation in Los Angeles",
+      "place": "los-angeles-ca",
+      "locationText": "Los Angeles, CA",
+      "status": "VERIFIED",
+      "why": "The partnership that later biographies and government profiles treat as McCone’s wartime business. After the war McCone goes to the Air Force, the Atomic Energy Commission (chair, 1958–61) and the CIA (Director of Central Intelligence, 1961–65). McCartney also records him as a director of the Stanford Research Institute.",
+      "ledgerNote": "Laton McCartney, Friends in High Places (Simon & Schuster, 1988), IA search-inside (friendsinhighpla00mcca): the partners “in May 1937, proclaimed themselves in business,” McCone as president and Bechtel as chairman with controlling interest; McCone and Bechtel had been Berkeley engineering classmates. Wikipedia, “John A. McCone”: founded Bechtel-McCone; AEC chair 14 July 1958–20 January 1961; DCI 29 November 1961–28 April 1965. McCone as SRI director: McCartney (single source). Dated 1 May as a month placeholder.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1937-05-01,Stephen Bechtel Sr. and John McCone open the Bechtel-McCone Corporati",
+          "line": 77
         }
       ]
     },
@@ -5055,7 +6398,29 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1939-01-01,Hewlett-Packard founded at 367 Addison Avenue,Bill Hewlett; David Pac",
-          "line": 38
+          "line": 78
+        }
+      ]
+    },
+    {
+      "id": "ledger-1942-01-01-william-shockley-s-wartime-operations-research-f",
+      "people": [
+        "william-shockley"
+      ],
+      "date": "1942-01-01",
+      "kind": "other",
+      "title": "William Shockley’s wartime operations research for the Navy raises successful anti-submarine attacks fivefold",
+      "place": "united-states",
+      "locationText": "United States",
+      "status": "VERIFIED",
+      "why": "The physicist who later brings the transistor to Mountain View learns to treat war as a problem in statistics.",
+      "ledgerNote": "Carried over from the master timeline (Harris ch 2.4); the book was not re-opened on 21 Nov 2026 (Drive EPUBs are Anna’s Archive copies, set aside on legal advice). The timeline dates this only “WWII”; 1942 is a placeholder for the wartime period, not a verified date.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1942-01-01,William Shockley’s wartime operations research for the Navy raises su",
+          "line": 79
         }
       ]
     },
@@ -5076,7 +6441,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1945-07-01,\"Vannevar Bush delivers 'Science, the Endless Frontier'\",Vannevar Bus",
-          "line": 40
+          "line": 81
         }
       ]
     },
@@ -5103,7 +6468,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1951-01-01,Stanford Industrial Park opens,Frederick Terman; Alf Brandin; Varian ",
-          "line": 43
+          "line": 84
         },
         {
           "url": "https://stanfordresearchpark.com/about/",
@@ -5143,6 +6508,28 @@
       ]
     },
     {
+      "id": "ledger-1953-01-01-first-stanford-industrial-park-lease-goes-to-var",
+      "people": [
+        "frederick-terman"
+      ],
+      "date": "1953-01-01",
+      "kind": "other",
+      "title": "First Stanford Industrial Park lease goes to Varian Associates; Terman is an investor and board member",
+      "place": "stanford-industrial-park-palo-alto-ca",
+      "locationText": "Stanford Industrial Park, Palo Alto, CA",
+      "status": "VERIFIED",
+      "why": "The farm’s land is leased to a company in which the university’s engineering dean has a stake.",
+      "ledgerNote": "Carried over from the master timeline (Harris ch 3.1); the book was not re-opened on 21 Nov 2026 (Drive EPUBs are Anna’s Archive copies, set aside on legal advice). Year-only date.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1953-01-01,First Stanford Industrial Park lease goes to Varian Associates; Terma",
+          "line": 85
+        }
+      ]
+    },
+    {
       "id": "ledger-1956-02-01-shockley-semiconductor-opens-in-mountain-view",
       "people": [
         "william-shockley"
@@ -5159,7 +6546,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1956-02-01,Shockley Semiconductor opens in Mountain View,William Shockley,\"Mount",
-          "line": 45
+          "line": 87
         }
       ]
     },
@@ -5186,7 +6573,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1957-09-18,The eight resign from Shockley; Fairchild Semiconductor follows,Rober",
-          "line": 46
+          "line": 88
         },
         {
           "url": "https://en.wikipedia.org/wiki/Traitorous_eight",
@@ -5201,6 +6588,28 @@
           "publisher": "Wikipedia",
           "kind": "tertiary",
           "q": "In 1957, when the \"traitorous eight\" left Shockley Semiconductor Laboratory, Rock was the one who helped them find a place to go: he convinced Sherman Fairchild to start Fairchild Semiconductor."
+        }
+      ]
+    },
+    {
+      "id": "ledger-1958-07-14-john-mccone-becomes-chairman-of-the-atomic-energ",
+      "people": [
+        "john-mccone"
+      ],
+      "date": "1958-07-14",
+      "kind": "other",
+      "title": "John McCone becomes Chairman of the Atomic Energy Commission",
+      "place": "washington-dc",
+      "locationText": "Washington, DC",
+      "status": "VERIFIED",
+      "why": "A former Bechtel-McCone partner is put in charge of the civilian nuclear agency. The construction firm and the nuclear state share a person.",
+      "ledgerNote": "Wikipedia, “John A. McCone”: AEC chair 14 July 1958–20 January 1961, appointed by Eisenhower.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1958-07-14,John McCone becomes Chairman of the Atomic Energy Commission,John McC",
+          "line": 89
         }
       ]
     },
@@ -5221,7 +6630,29 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1959-01-01,Planar process developed at Fairchild,Jean Hoerni,\"Mountain View, CA\"",
-          "line": 47
+          "line": 90
+        }
+      ]
+    },
+    {
+      "id": "ledger-1961-11-29-john-mccone-is-sworn-in-as-director-of-central-i",
+      "people": [
+        "john-mccone"
+      ],
+      "date": "1961-11-29",
+      "kind": "other",
+      "title": "John McCone is sworn in as Director of Central Intelligence",
+      "place": "washington-dc",
+      "locationText": "Washington, DC",
+      "status": "VERIFIED",
+      "why": "The same man, four months after leaving the AEC, runs the CIA for Kennedy and then Johnson, including the Cuban Missile Crisis. The Bechtel world and the intelligence world are, for a time, the same career.",
+      "ledgerNote": "Wikipedia, “John A. McCone”: DCI 29 November 1961–28 April 1965. The New York Times obituary (16 February 1991) is the standard secondary confirmation but was paywalled in this pass (HTTP 403).",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1961-11-29,John McCone is sworn in as Director of Central Intelligence,John McCo",
+          "line": 91
         }
       ]
     },
@@ -5242,7 +6673,30 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1962-11-01,Knight secures Tiger distribution rights in Kobe,Phil Knight; Onitsuk",
-          "line": 48
+          "line": 92
+        }
+      ]
+    },
+    {
+      "id": "ledger-1963-01-01-stephen-bechtel-sr-s-gift-funds-the-remodelling-",
+      "people": [
+        "stephen-bechtel-jr",
+        "stephen-bechtel-sr"
+      ],
+      "date": "1963-01-01",
+      "kind": "other",
+      "title": "Stephen Bechtel Sr.’s gift funds the remodelling of a former Zeta Psi house as Stanford’s Bechtel International Center",
+      "place": "584-capistrano-way-stanford-ca",
+      "locationText": "584 Capistrano Way, Stanford, CA",
+      "status": "VERIFIED",
+      "why": "The family whose firm built Hoover Dam, and whose son took a Stanford MBA in 1948, writes its name onto a campus building for international students. Bechtel himself wrote that “friendship and mutual understanding flourish in just such surroundings as the new center will provide.”",
+      "ledgerNote": "Cameron Duran, “What’s in a name? Philanthropic histories bridge buildings across the Bay,” The Stanford Daily, 16 November 2023: the center “was similarly named for Bechtel, whose 1963 donation helped fund the remodeling of the former Zeta Psi fraternity house,” with the quoted sentence. McCartney, Friends in High Places, IA search-inside, lists “Stanford University’s International Student Center” among Bechtel family gifts. Stephen Bechtel Jr., Stanford GSB MBA 1948: Wikipedia, “Stephen Bechtel Jr.” Year-only date.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1963-01-01,Stephen Bechtel Sr.’s gift funds the remodelling of a former Zeta Psi",
+          "line": 94
         }
       ]
     },
@@ -5263,7 +6717,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1965-04-19,Moore's law published,Gordon Moore; Electronics magazine,\"Santa Clara",
-          "line": 50
+          "line": 95
         }
       ]
     },
@@ -5284,7 +6738,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1968-12-09,Engelbart's demonstration at the Fall Joint Computer Conference,Dougl",
-          "line": 51
+          "line": 96
         }
       ]
     },
@@ -5306,7 +6760,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1969-10-29,\"First ARPANET message, UCLA to SRI\",Charley Kline; Bill Duvall,\"Los ",
-          "line": 54
+          "line": 99
         }
       ]
     },
@@ -5329,7 +6783,52 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1972-01-01,Kleiner Perkins and Sequoia Capital founded on Sand Hill Road,Eugene ",
-          "line": 56
+          "line": 101
+        }
+      ]
+    },
+    {
+      "id": "ledger-1974-01-01-george-shultz-leaves-federal-office-to-become-pr",
+      "people": [
+        "george-shultz",
+        "stephen-bechtel-sr"
+      ],
+      "date": "1974-01-01",
+      "kind": "other",
+      "title": "George Shultz leaves federal office to become president and director of Bechtel, while joining the Stanford faculty",
+      "place": null,
+      "locationText": "San Francisco / Stanford, CA",
+      "status": "VERIFIED",
+      "why": "The future Secretary of State, and later a distinguished fellow of the Hoover Institution, spends the mid-1970s running Bechtel and teaching at Stanford. The revolving door in the power matrix is a matter of dates.",
+      "ledgerNote": "Hoover Institution, “George P. Shultz” profile, consulted 21 Nov 2026: “Shultz left government service in 1974 to become president and director of the Bechtel Group, where he remained until 1982. While at Bechtel, he maintained close ties with the academic world by joining the faculty of Stanford University.” Master timeline already had “1970s” (McCartney ch 14). Year-only date.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1974-01-01,\"George Shultz leaves federal office to become president and director",
+          "line": 102
+        }
+      ]
+    },
+    {
+      "id": "ledger-1974-01-01-niels-reimers-files-the-cohen-boyer-recombinant-",
+      "people": [
+        "herbert-boyer"
+      ],
+      "date": "1974-01-01",
+      "kind": "other",
+      "title": "Niels Reimers files the Cohen–Boyer recombinant-DNA patent application for Stanford",
+      "place": "stanford-ca",
+      "locationText": "Stanford, CA",
+      "status": "VERIFIED",
+      "why": "The university turns a laboratory method into licensing income, years before Bayh–Dole.",
+      "ledgerNote": "Carried over from the master timeline (Berlin pt 3); the book was not re-opened on 21 Nov 2026 (Drive EPUBs are Anna’s Archive copies, set aside on legal advice). Year-only date.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1974-01-01,Niels Reimers files the Cohen–Boyer recombinant-DNA patent applicatio",
+          "line": 103
         }
       ]
     },
@@ -5351,7 +6850,30 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1975-03-05,First Homebrew Computer Club meeting,Fred Moore; Gordon French,\"Menlo",
-          "line": 57
+          "line": 104
+        }
+      ]
+    },
+    {
+      "id": "ledger-1976-01-01-genentech-is-founded-by-robert-swanson-and-herbe",
+      "people": [
+        "herbert-boyer",
+        "robert-swanson"
+      ],
+      "date": "1976-01-01",
+      "kind": "founding",
+      "title": "Genentech is founded by Robert Swanson and Herbert Boyer",
+      "place": "south-san-francisco-ca",
+      "locationText": "South San Francisco, CA",
+      "status": "VERIFIED",
+      "why": "A Kleiner & Perkins associate, let go with payroll to the end of 1975, builds the first biotech company on a Stanford-licensed method.",
+      "ledgerNote": "Carried over from the master timeline (Berlin ch 15); the book was not re-opened on 21 Nov 2026 (Drive EPUBs are Anna’s Archive copies, set aside on legal advice). Year from the timeline; exact founding day not rechecked.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1976-01-01,Genentech is founded by Robert Swanson and Herbert Boyer,Robert Swans",
+          "line": 105
         }
       ]
     },
@@ -5373,7 +6895,74 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1980-10-14,Genentech IPO,Genentech; Herbert Boyer; Robert Swanson,NASDAQ,\"Biolog",
-          "line": 60
+          "line": 108
+        }
+      ]
+    },
+    {
+      "id": "ledger-1981-01-21-caspar-weinberger-becomes-secretary-of-defense-g",
+      "people": [
+        "caspar-weinberger",
+        "george-shultz"
+      ],
+      "date": "1981-01-21",
+      "kind": "other",
+      "title": "Caspar Weinberger becomes Secretary of Defense; George Shultz becomes Secretary of State the following year — both after Bechtel",
+      "place": "washington-dc",
+      "locationText": "Washington, DC",
+      "status": "VERIFIED",
+      "why": "The “Bechtel cabinet” of the Reagan years: Weinberger from Bechtel’s general counsel and vice presidency to Defense (1981–87), Shultz from Bechtel’s presidency to State (1982–89). After leaving office, Shultz returns to Bechtel as a director and to Stanford as a professor and Hoover Institution fellow (named Thomas W. and Susan B. Ford Distinguished Fellow in 2001).",
+      "ledgerNote": "Wikipedia infoboxes, consulted 21 Nov 2026: Weinberger Secretary of Defense 21 January 1981–23 November 1987; Shultz Secretary of State 16 July 1982–20 January 1989. Weinberger as Bechtel vice president and general counsel: Wikipedia, “Caspar Weinberger.” Shultz’s return to Bechtel and Hoover fellowship: Hoover Institution Shultz profile. Master timeline already sourced the cabinet appointments to Denton and McCartney (EPUBs not re-opened).",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1981-01-21,Caspar Weinberger becomes Secretary of Defense; George Shultz becomes",
+          "line": 110
+        }
+      ]
+    },
+    {
+      "id": "ledger-1987-01-01-peter-thiel-founds-the-stanford-review",
+      "people": [
+        "peter-thiel"
+      ],
+      "date": "1987-01-01",
+      "kind": "other",
+      "title": "Peter Thiel founds The Stanford Review",
+      "place": "stanford-ca",
+      "locationText": "Stanford, CA",
+      "status": "VERIFIED",
+      "why": "The campus newspaper becomes the starting point of a political and financial network that later includes PayPal and Palantir, both of them Palo Alto companies.",
+      "ledgerNote": "Master timeline: Chafkin ch 2, p. 24. EPUB not re-opened in this pass. Year-only date.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1987-01-01,Peter Thiel founds The Stanford Review,Peter Thiel,\"Stanford, CA\",\"Th",
+          "line": 111
+        }
+      ]
+    },
+    {
+      "id": "ledger-1995-01-01-elon-musk-enrolls-at-stanford-and-leaves-almost-",
+      "people": [
+        "elon-musk"
+      ],
+      "date": "1995-01-01",
+      "kind": "other",
+      "title": "Elon Musk enrolls at Stanford and leaves almost immediately",
+      "place": "stanford-ca",
+      "locationText": "Stanford, CA",
+      "status": "CONTESTED",
+      "why": "The link is thin: admitted, briefly present, no degree. The later Musk/DOGE material remains the weakest tie to the land and should stay short, as already decided in the rewrite additions document.",
+      "ledgerNote": "Master timeline: Vance (EPUB not re-opened). The Ep8 source pack records that Stanford has no enrollment record; the “two days” story is Musk’s own account as retold. Year-only date.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1995-01-01,Elon Musk enrolls at Stanford and leaves almost immediately,Elon Musk",
+          "line": 112
         }
       ]
     },
@@ -5395,7 +6984,52 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1995-08-09,Netscape IPO,Marc Andreessen; Jim Clark,NASDAQ,\"Built on Mosaic, deve",
-          "line": 63
+          "line": 114
+        }
+      ]
+    },
+    {
+      "id": "ledger-1997-01-01-larry-page-s-excite-pitch-for-backrub-includes-a",
+      "people": [
+        "larry-page"
+      ],
+      "date": "1997-01-01",
+      "kind": "other",
+      "title": "Larry Page’s Excite pitch for BackRub includes a proposed $300,000 licence payment to Stanford",
+      "place": "stanford-ca",
+      "locationText": "Stanford, CA",
+      "status": "VERIFIED",
+      "why": "The search work is already imagined as a university licence — the farm’s intellectual property, priced.",
+      "ledgerNote": "Master timeline: Levy ch 1. EPUB not re-opened. Month January from the timeline. Dated 1 January as a month placeholder.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1997-01-01,\"Larry Page’s Excite pitch for BackRub includes a proposed $300,000 l",
+          "line": 116
+        }
+      ]
+    },
+    {
+      "id": "ledger-1998-01-01-google-operates-from-the-santa-margarita-avenue-",
+      "people": [
+        "larry-page",
+        "sergey-brin"
+      ],
+      "date": "1998-01-01",
+      "kind": "other",
+      "title": "Google operates from the Santa Margarita Avenue garage in Menlo Park at $1,700 a month",
+      "place": "santa-margarita-avenue-menlo-park-ca",
+      "locationText": "Santa Margarita Avenue, Menlo Park, CA",
+      "status": "VERIFIED",
+      "why": "The incorporation is already in the ledger (4 September 1998). This is the off-campus garage the later origin story uses.",
+      "ledgerNote": "Master timeline: Levy ch 1. EPUB not re-opened. Year-only date for the garage period.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1998-01-01,\"Google operates from the Santa Margarita Avenue garage in Menlo Park",
+          "line": 117
         }
       ]
     },
@@ -5417,7 +7051,145 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1998-09-04,Google incorporated,Larry Page; Sergey Brin,\"Menlo Park, CA\",Their pu",
-          "line": 65
+          "line": 118
+        }
+      ]
+    },
+    {
+      "id": "ledger-1999-01-01-x-com-and-confinity-later-paypal-operate-in-palo",
+      "people": [
+        "elon-musk",
+        "peter-thiel"
+      ],
+      "date": "1999-01-01",
+      "kind": "other",
+      "title": "X.com and Confinity, later PayPal, operate in Palo Alto",
+      "place": "palo-alto-ca",
+      "locationText": "Palo Alto, CA",
+      "status": "VERIFIED",
+      "why": "The payments company whose founders later fund and run much of the region’s next generation of firms.",
+      "ledgerNote": "Carried over from the master timeline (Soni); the book was not re-opened on 21 Nov 2026 (Drive EPUBs are Anna’s Archive copies, set aside on legal advice). Timeline dates this 1999–2002; 2002 sale to eBay is already in the ledger. Year-only date.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1999-01-01,\"X.com and Confinity, later PayPal, operate in Palo Alto\",Elon Musk; ",
+          "line": 119
+        }
+      ]
+    },
+    {
+      "id": "ledger-2003-05-06-palantir-technologies-is-founded-in-palo-alto",
+      "people": [
+        "alex-karp",
+        "peter-thiel"
+      ],
+      "date": "2003-05-06",
+      "kind": "founding",
+      "title": "Palantir Technologies is founded in Palo Alto",
+      "place": "palo-alto-ca",
+      "locationText": "Palo Alto, CA",
+      "status": "VERIFIED",
+      "why": "A company named for a seeing-stone, co-founded by two Stanford Law graduates, starts on the land and is later backed by In-Q-Tel. The intelligence trade returns to the farm’s edge.",
+      "ledgerNote": "Wikipedia, “Palantir Technologies”: founded 6 May 2003 by Peter Thiel, Stephen Cohen, Alex Karp, Joe Lonsdale and Nathan Gettings; early In-Q-Tel investment “about $2 million.” Master timeline already had 2003–04 naming (Chafkin ch 8, p. 113).",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "2003-05-06,Palantir Technologies is founded in Palo Alto,Peter Thiel; Alex Karp,",
+          "line": 122
+        }
+      ]
+    },
+    {
+      "id": "ledger-2011-07-01-george-shultz-joins-the-theranos-board-of-direct",
+      "people": [
+        "elizabeth-holmes",
+        "george-shultz"
+      ],
+      "date": "2011-07-01",
+      "kind": "other",
+      "title": "George Shultz joins the Theranos board of directors after a meeting with Elizabeth Holmes",
+      "place": "palo-alto-ca",
+      "locationText": "Palo Alto, CA",
+      "status": "VERIFIED",
+      "why": "A Hoover Institution fellow and former Bechtel president and Secretary of State lends the start-up, founded by a Stanford dropout, the prestige of the farm’s old networks. His grandson Tyler later becomes a source for the reporting that breaks the company.",
+      "ledgerNote": "Wikipedia, “Theranos”: Holmes, a Stanford undergraduate, dropped out in 2003 to found the company; “In July 2011, Holmes was introduced to former US secretary of state George Shultz. After a two-hour meeting, he joined the Theranos board of directors.” Tyler Shultz as a key source for the Wall Street Journal: same page. Dated 1 July as a month placeholder. Mallaby’s account of the funding mix is already in the master timeline.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "2011-07-01,George Shultz joins the Theranos board of directors after a meeting w",
+          "line": 126
+        }
+      ]
+    },
+    {
+      "id": "ledger-2015-01-01-theranos-begins-to-collapse-after-the-wall-stree",
+      "people": [
+        "elizabeth-holmes",
+        "george-shultz"
+      ],
+      "date": "2015-01-01",
+      "kind": "other",
+      "title": "Theranos begins to collapse after the Wall Street Journal’s investigation",
+      "place": "palo-alto-ca",
+      "locationText": "Palo Alto, CA",
+      "status": "VERIFIED",
+      "why": "A Stanford dropout’s start-up, with a Hoover fellow on its board, fails; its money came mostly from outside Sand Hill.",
+      "ledgerNote": "Carried over from the master timeline (Mallaby ch 14, p. 340); the book was not re-opened on 21 Nov 2026 (Drive EPUBs are Anna’s Archive copies, set aside on legal advice). The timeline dates the collapse 2015–18. Tyler Shultz as a key source for the WSJ: Wikipedia, “Theranos.” The first WSJ article’s exact date was not rechecked; dated 2015 year-only.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "2015-01-01,Theranos begins to collapse after the Wall Street Journal’s investiga",
+          "line": 128
+        }
+      ]
+    },
+    {
+      "id": "ledger-2020-10-07-stanford-s-board-of-trustees-approves-removing-d",
+      "people": [
+        "david-starr-jordan",
+        "marc-tessier-lavigne"
+      ],
+      "date": "2020-10-07",
+      "kind": "other",
+      "title": "Stanford’s Board of Trustees approves removing David Starr Jordan’s name from Jordan Hall and other campus features",
+      "place": "stanford-ca",
+      "locationText": "Stanford, CA",
+      "status": "VERIFIED",
+      "why": "The university formally reckons with its first president’s eugenics. The 2020 announcement describes Jordan as “a leader and driving force of the eugenics movement, which promoted controlled reproduction based on heritage and which helped lay the foundation for later policies of forced sterilization.” Jordan Hall, named in 1917, is temporarily called Building 420. Jordan’s own 1902 essay The Blood of the Nation had opened: “The blood of a nation determines its history.”",
+      "ledgerNote": "Stanford News, “Stanford will rename campus spaces named for David Starr Jordan…,” 7 October 2020, President Tessier-Lavigne and the Board of Trustees. Jordan’s wording: The Blood of the Nation (American Unitarian Association, 1902; IA bloodnationastu04jordgoog). Human Betterment Foundation advertised Jordan as a member after his death (Wikipedia, “David Starr Jordan”); Terman is documented as a later HBF trustee (Wikipedia, “Human Betterment Foundation”).",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "2020-10-07,Stanford’s Board of Trustees approves removing David Starr Jordan’s n",
+          "line": 132
+        }
+      ]
+    },
+    {
+      "id": "ledger-2022-11-01-theo-baker-s-stanford-daily-reporting-on-marc-te",
+      "people": [
+        "marc-tessier-lavigne",
+        "theo-baker"
+      ],
+      "date": "2022-11-01",
+      "kind": "publication",
+      "title": "Theo Baker’s Stanford Daily reporting on Marc Tessier-Lavigne’s scientific papers begins",
+      "place": "stanford-ca",
+      "locationText": "Stanford, CA",
+      "status": "VERIFIED",
+      "why": "A freshman journalist on the farm forces a president’s resignation the following July (already in the ledger). In 2023 Baker becomes the youngest George Polk Award recipient for that work.",
+      "ledgerNote": "Master timeline: Baker ch 4, p. 94; stanford-special-committee-2023. Wikipedia, “Theo Baker”: stories beginning November 2022; Polk Special Award 2023. Dated 1 November as a month placeholder.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "2022-11-01,Theo Baker’s Stanford Daily reporting on Marc Tessier-Lavigne’s scien",
+          "line": 135
         }
       ]
     },
@@ -5438,7 +7210,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2023-07-19,Marc Tessier-Lavigne resigns as Stanford president,Stanford board spe",
-          "line": 77
+          "line": 138
         }
       ]
     },
@@ -5459,7 +7231,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2025-01-20,Technology founders seated at the presidential inauguration,—,\"Washin",
-          "line": 79
+          "line": 140
         }
       ]
     },
@@ -5760,7 +7532,7 @@
       "cites": [
         {
           "f": "site/corpus/rewrite/timeline.md",
-          "q": "Hoover joins the Stanford board of trustees."
+          "q": "Hoover joins the Stanford board of trustees"
         },
         {
           "url": "https://histories.hoover.org/cardinal-roots/",
@@ -5792,7 +7564,7 @@
       "cites": [
         {
           "f": "site/corpus/rewrite/timeline.md",
-          "q": "Hoover's presidency."
+          "q": "Hoover's presidency (Mar 4, 1929–Mar 4, 1933)"
         },
         {
           "url": "https://hoover.archives.gov/hoovers",
@@ -6040,7 +7812,7 @@
       "cites": [
         {
           "f": "site/corpus/rewrite/timeline.md",
-          "q": "Strychnine in Jane's Poland Spring water."
+          "q": "Strychnine in Jane's Poland Spring water"
         },
         {
           "url": "https://stanfordmag.org/contents/who-killed-jane-stanford",
@@ -6620,7 +8392,7 @@
       "cites": [
         {
           "f": "site/corpus/rewrite/timeline.md",
-          "q": "Genentech; Swanson, fired from Kleiner, co-founds it."
+          "q": "Genentech; Swanson, let go by Kleiner & Perkins"
         },
         {
           "url": "https://en.wikipedia.org/wiki/Robert_A._Swanson",
@@ -6835,7 +8607,7 @@
       "cites": [
         {
           "f": "site/corpus/rewrite/timeline.md",
-          "q": "Portolá expedition names the redwood El Palo Alto."
+          "q": "Portolá expedition camps on San Francisquito Creek by the redwood it names El Palo Alto."
         },
         {
           "url": "https://archive.org/stream/anzascaliforniae02bolt/anzascaliforniae02bolt_djvu.txt",
@@ -14004,6 +15776,200 @@
       "fromGroup": false
     },
     {
+      "id": "employer-leopold-ii-emile-francqui",
+      "type": "employer",
+      "a": "leopold-ii",
+      "b": "emile-francqui",
+      "label": "Sent to the Congo Free State by Leopold II",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/%C3%89mile_Francqui",
+          "title": "Émile Francqui",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "At the age of 21, like many young officers, he was sent to Congo Free State by king Leopold II of Belgium"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "partners-emile-francqui-herbert-hoover",
+      "type": "partners",
+      "a": "emile-francqui",
+      "b": "herbert-hoover",
+      "label": "Met in China; co-founded the Francqui Foundation (1932)",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/%C3%89mile_Francqui",
+          "title": "Émile Francqui",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "In China he met the future American president Herbert Hoover"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/%C3%89mile_Francqui",
+          "title": "Émile Francqui",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "In 1932 Émile Francqui and Herbert Hoover created the Francqui Foundation"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "employer-leland-stanford-eadweard-muybridge",
+      "type": "employer",
+      "a": "leland-stanford",
+      "b": "eadweard-muybridge",
+      "label": "Hired Muybridge (1872) to photograph his horses",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Eadweard_Muybridge",
+          "title": "Eadweard Muybridge",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "In 1872, the former governor of California, Leland Stanford, a businessman and race-horse owner, hired Muybridge for a portfolio depicting his mansion and other possessions, including his racehorse Occident."
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "employer-jane-stanford-bertha-berner",
+      "type": "employer",
+      "a": "jane-stanford",
+      "b": "bertha-berner",
+      "label": "Secretary and companion",
+      "cites": [
+        {
+          "url": "https://stanfordmag.org/contents/who-killed-jane-stanford",
+          "title": "Who Killed Jane Stanford?",
+          "publisher": "Stanford Magazine (Sept/Oct 2003)",
+          "kind": "institutional",
+          "q": "Berner had been Mrs. Stanford’s companion for 30 years"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "employer-david-starr-jordan-ernest-waterhouse",
+      "type": "employer",
+      "a": "david-starr-jordan",
+      "b": "ernest-waterhouse",
+      "label": "Hired to dispute the cause of Jane Stanford’s death (1905)",
+      "cites": [
+        {
+          "url": "https://stanfordmag.org/contents/who-killed-jane-stanford",
+          "title": "Who Killed Jane Stanford?",
+          "publisher": "Stanford Magazine (Sept/Oct 2003)",
+          "kind": "institutional",
+          "q": "he quickly hired a local physician, Ernest Coniston Waterhouse, to dispute the cause of death"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "parent-warren-a-bechtel-stephen-bechtel-sr",
+      "type": "parent",
+      "a": "warren-a-bechtel",
+      "b": "stephen-bechtel-sr",
+      "label": "Father",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephen_Bechtel_Sr.",
+          "title": "Stephen Bechtel Sr.",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "was born on September 24, 1900, in Aurora, Indiana, to Warren A. Bechtel"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "parent-stephen-bechtel-sr-stephen-bechtel-jr",
+      "type": "parent",
+      "a": "stephen-bechtel-sr",
+      "b": "stephen-bechtel-jr",
+      "label": "Father",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephen_Bechtel_Jr.",
+          "title": "Stephen Bechtel Jr.",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He was the son of Stephen Davison Bechtel Sr. and grandson of Warren A. Bechtel"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "partners-henry-j-kaiser-warren-a-bechtel",
+      "type": "partners",
+      "a": "henry-j-kaiser",
+      "b": "warren-a-bechtel",
+      "label": "Bechtel-Kaiser partnership in Six Companies",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Six_Companies,_Inc.",
+          "title": "Six Companies, Inc.",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "Henry J. Kaiser Co. of Oakland, California and Bechtel Corporation of San Francisco (as Bechtel-Kaiser): 30%"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "employer-herbert-hoover-ray-lyman-wilbur",
+      "type": "employer",
+      "a": "herbert-hoover",
+      "b": "ray-lyman-wilbur",
+      "label": "Appointed Secretary of the Interior (1929–33)",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ray_Lyman_Wilbur",
+          "title": "Ray Lyman Wilbur",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "was an American medical doctor who served as the third president of Stanford University from 1916 to 1943 and as the 31st United States Secretary of the Interior from 1929 to 1933 under President Herbert Hoover"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "partners-peter-thiel-alex-karp",
+      "type": "partners",
+      "a": "peter-thiel",
+      "b": "alex-karp",
+      "label": "Co-founded Palantir (2003)",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alex_Karp",
+          "title": "Alex Karp",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "At Stanford, he met Peter Thiel and in 2003, they alongside three others co-founded Palantir."
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "conflict-theo-baker-marc-tessier-lavigne",
+      "type": "conflict",
+      "a": "theo-baker",
+      "b": "marc-tessier-lavigne",
+      "label": "Reporting that led to his resignation (2023)",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Theo_Baker",
+          "title": "Theo Baker",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "is an American journalist, who is best known for his reporting that led to the resignation of Stanford president Marc Tessier-Lavigne"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
       "id": "big-four:collis-huntington:mark-hopkins",
       "type": "partners",
       "a": "collis-huntington",
@@ -14098,6 +16064,11 @@
       "coordNote": "Position for the place name, from site/src/data/geo.json; not a measurement from the manuscript."
     },
     {
+      "id": "584-capistrano-way-stanford-ca",
+      "name": "584 Capistrano Way, Stanford, CA",
+      "kind": "place"
+    },
+    {
       "id": "alaska",
       "name": "Alaska",
       "kind": "region"
@@ -14161,6 +16132,16 @@
       "id": "burlington-ia",
       "name": "Burlington, Iowa",
       "kind": "city"
+    },
+    {
+      "id": "california",
+      "name": "California",
+      "kind": "place"
+    },
+    {
+      "id": "calistoga-ca",
+      "name": "Calistoga, CA",
+      "kind": "place"
     },
     {
       "id": "cedar-falls-ia",
@@ -14249,9 +16230,19 @@
       "kind": "town"
     },
     {
+      "id": "honolulu",
+      "name": "Honolulu",
+      "kind": "place"
+    },
+    {
       "id": "iowa",
       "name": "Iowa",
       "kind": "region"
+    },
+    {
+      "id": "isthmus-of-panama",
+      "name": "Isthmus of Panama",
+      "kind": "place"
     },
     {
       "id": "jamesville-ny",
@@ -14297,9 +16288,19 @@
       "kind": "city"
     },
     {
+      "id": "london-high-court-of-justice-chancery-division",
+      "name": "London, High Court of Justice, Chancery Division",
+      "kind": "place"
+    },
+    {
       "id": "los-altos-hills-ca",
       "name": "Los Altos Hills, California",
       "kind": "city"
+    },
+    {
+      "id": "los-angeles-ca",
+      "name": "Los Angeles, CA",
+      "kind": "place"
     },
     {
       "id": "madison-wi",
@@ -14333,6 +16334,11 @@
       "coordNote": "Position for the place name, from site/src/data/geo.json; not a measurement from the manuscript."
     },
     {
+      "id": "moana-hotel-honolulu",
+      "name": "Moana Hotel, Honolulu",
+      "kind": "place"
+    },
+    {
       "id": "monterey-ca",
       "name": "Monterey, CA",
       "kind": "city",
@@ -14352,6 +16358,11 @@
       "lat": 37.3861,
       "lon": -122.0839,
       "coordNote": "Position for the place name, from site/src/data/geo.json; not a measurement from the manuscript."
+    },
+    {
+      "id": "near-las-vegas-nv",
+      "name": "Near Las Vegas, NV",
+      "kind": "place"
     },
     {
       "id": "new-market-tn",
@@ -14395,6 +16406,11 @@
       "coordNote": "Position for the place name, from site/src/data/geo.json; not a measurement from the manuscript."
     },
     {
+      "id": "palo-alto-stock-farm-ca",
+      "name": "Palo Alto Stock Farm, CA",
+      "kind": "place"
+    },
+    {
       "id": "panama",
       "name": "Panama",
       "kind": "region"
@@ -14418,6 +16434,16 @@
       "id": "portland-or",
       "name": "Portland, Oregon",
       "kind": "city"
+    },
+    {
+      "id": "present-day-menlo-park-and-downtown-palo-alto-ca",
+      "name": "Present-day Menlo Park and downtown Palo Alto, CA",
+      "kind": "place"
+    },
+    {
+      "id": "present-day-stanford-campus-ca",
+      "name": "Present-day Stanford campus, CA",
+      "kind": "place"
     },
     {
       "id": "pretoria-south-africa",
@@ -14487,8 +16513,18 @@
       "coordNote": "Position for the place name, from site/src/data/geo.json; not a measurement from the manuscript."
     },
     {
+      "id": "santa-clara-ca",
+      "name": "Santa Clara, CA",
+      "kind": "place"
+    },
+    {
       "id": "santa-clara-valley-ca",
       "name": "Santa Clara Valley, CA",
+      "kind": "place"
+    },
+    {
+      "id": "santa-margarita-avenue-menlo-park-ca",
+      "name": "Santa Margarita Avenue, Menlo Park, CA",
       "kind": "place"
     },
     {
@@ -14502,12 +16538,22 @@
       "kind": "place"
     },
     {
+      "id": "south-san-francisco-ca",
+      "name": "South San Francisco, CA",
+      "kind": "place"
+    },
+    {
       "id": "stanford-ca",
       "name": "Stanford, CA",
       "kind": "campus",
       "lat": 37.4275,
       "lon": -122.1697,
       "coordNote": "Position for the place name, from site/src/data/geo.json; not a measurement from the manuscript."
+    },
+    {
+      "id": "stanford-industrial-park-palo-alto-ca",
+      "name": "Stanford Industrial Park, Palo Alto, CA",
+      "kind": "place"
     },
     {
       "id": "summerhill-ny",
@@ -14528,6 +16574,16 @@
       "id": "troy-ny",
       "name": "Troy, New York",
       "kind": "city"
+    },
+    {
+      "id": "united-states",
+      "name": "United States",
+      "kind": "place"
+    },
+    {
+      "id": "utah-territory",
+      "name": "Utah Territory",
+      "kind": "place"
     },
     {
       "id": "vienna-austria",
@@ -14551,6 +16607,11 @@
       "lat": 38.9072,
       "lon": -77.0369,
       "coordNote": "Position for the place name, from site/src/data/geo.json; not a measurement from the manuscript."
+    },
+    {
+      "id": "washington-dc-bureau-of-american-ethnology",
+      "name": "Washington, DC (Bureau of American Ethnology)",
+      "kind": "place"
     },
     {
       "id": "waterloo-ia",
@@ -14581,6 +16642,11 @@
       "id": "yuma",
       "name": "Yuma",
       "kind": "town"
+    },
+    {
+      "id": "yuma-arizona-territory",
+      "name": "Yuma, Arizona Territory",
+      "kind": "place"
     }
   ],
   "sources": [
@@ -14677,7 +16743,7 @@
       "title": "How we started and where we are today",
       "publisher": "Google (company history page)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -14685,7 +16751,7 @@
       "title": "Larry Page",
       "publisher": "American Academy of Achievement",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 5
     },
     {
@@ -14693,7 +16759,7 @@
       "title": "A Pioneer, Unheralded, in Technology and Activism",
       "publisher": "The New York Times, 26 March 2000 (John Markoff)",
       "kind": "reference",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -14701,7 +16767,7 @@
       "title": "Anza's California Expeditions, vol. 2 (Bolton), Palóu's diary of 1774",
       "publisher": "Archive.org full text: H. E. Bolton, Anza's California Expeditions (1930); Palóu's 1774 diary, translated",
       "kind": "primary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -14709,7 +16775,7 @@
       "title": "Collis Potter Huntington, vol. 1 (Evans, 1954), full text",
       "publisher": "Internet Archive (Mariners' Museum, 1954)",
       "kind": "scholarly",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 18
     },
     {
@@ -14717,7 +16783,7 @@
       "title": "Collis Potter Huntington, vol. 2 (Evans, 1954), full text",
       "publisher": "Internet Archive (Mariners' Museum, 1954)",
       "kind": "scholarly",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 6
     },
     {
@@ -14725,7 +16791,7 @@
       "title": "Historical Memoirs of New California, vol. 1 (Bolton ed.), library catalogue card on the scan",
       "publisher": "Archive.org full text: Palóu, Historical Memoirs of New California (Bolton, 1926)",
       "kind": "scholarly",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -14733,7 +16799,7 @@
       "title": "History of California, vol. 3 (Bancroft, 1886)",
       "publisher": "Archive.org full text: H. H. Bancroft, History of California, vol. 3",
       "kind": "scholarly",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -14741,7 +16807,7 @@
       "title": "John Hopkins of Cambridge, Massachusetts, 1634, and Some of His Descendants (Timothy Hopkins, 1932)",
       "publisher": "Internet Archive (Stanford University Press, 1932)",
       "kind": "reference",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 3
     },
     {
@@ -14749,7 +16815,7 @@
       "title": "The Portola Expedition of 1769-1770: Diary of Miguel Costanso (Academy of Pacific Coast History, 1911)",
       "publisher": "Archive.org full text: Costansó's diary, translated",
       "kind": "primary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -14757,7 +16823,7 @@
       "title": "Stanford University: The First Twenty-Five Years (O. L. Elliott, 1937)",
       "publisher": "Stanford University Press, 1937 (full text on archive.org)",
       "kind": "scholarly",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 3
     },
     {
@@ -14765,7 +16831,7 @@
       "title": "Herbert Hoover (Glen Jeansonne), page 5 of an online reading copy",
       "publisher": "Jeansonne & Luhrssen, Herbert Hoover: A Life (Penguin 2016), as hosted on bookreadfree.com",
       "kind": "scholarly",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -14773,7 +16839,7 @@
       "title": "Eugenia Brin, Longtime Supporter of Science and Performing Arts at UMD, Dies",
       "publisher": "University of Maryland College of Computer, Mathematical, and Natural Sciences",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 3
     },
     {
@@ -14781,7 +16847,7 @@
       "title": "Marc Andreessen",
       "publisher": "Computer Hall of Fame",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -14789,7 +16855,7 @@
       "title": "Marc Andreessen",
       "publisher": "Illinois Distributed Museum, University of Illinois",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -14797,15 +16863,39 @@
       "title": "David Starr Jordan (1851-1931)",
       "publisher": "Embryo Project Encyclopedia (Arizona State University)",
       "kind": "reference",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 4
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/%C3%89mile_Francqui",
+      "title": "Émile Francqui",
+      "publisher": "Wikipedia",
+      "kind": "tertiary",
+      "retrieved": "2026-11-21",
+      "cites": 4
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alex_Karp",
+      "title": "Alex Karp",
+      "publisher": "Wikipedia",
+      "kind": "tertiary",
+      "retrieved": "2026-11-21",
+      "cites": 4
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alfred_L._Kroeber",
+      "title": "Alfred L. Kroeber",
+      "publisher": "Wikipedia",
+      "kind": "tertiary",
+      "retrieved": "2026-11-21",
+      "cites": 1
     },
     {
       "url": "https://en.wikipedia.org/wiki/Arabella_Huntington",
       "title": "Arabella Huntington (Wikipedia)",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 4
     },
     {
@@ -14813,7 +16903,7 @@
       "title": "Archer Milton Huntington (Wikipedia)",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -14821,15 +16911,23 @@
       "title": "Arthur Rock",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 4
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bechtel",
+      "title": "Bechtel",
+      "publisher": "Wikipedia",
+      "kind": "tertiary",
+      "retrieved": "2026-11-21",
+      "cites": 1
     },
     {
       "url": "https://en.wikipedia.org/wiki/Bill_Bowerman",
       "title": "Bill Bowerman",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 11
     },
     {
@@ -14837,15 +16935,23 @@
       "title": "Bill Hewlett",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 10
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Caspar_Weinberger",
+      "title": "Caspar Weinberger",
+      "publisher": "Wikipedia",
+      "kind": "tertiary",
+      "retrieved": "2026-11-21",
+      "cites": 2
     },
     {
       "url": "https://en.wikipedia.org/wiki/Central_Pacific_Railroad",
       "title": "Central Pacific Railroad (Wikipedia)",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 7
     },
     {
@@ -14853,7 +16959,7 @@
       "title": "Charles Crocker (Wikipedia)",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 13
     },
     {
@@ -14861,7 +16967,7 @@
       "title": "Charles Stanford (politician)",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 8
     },
     {
@@ -14869,7 +16975,7 @@
       "title": "Chester A. Arthur (Wikipedia)",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 5
     },
     {
@@ -14877,15 +16983,31 @@
       "title": "Collis Potter Huntington (Wikipedia)",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Comit%C3%A9_National_de_Secours_et_d%27Alimentation",
+      "title": "Comité National de Secours et d’Alimentation",
+      "publisher": "Wikipedia",
+      "kind": "tertiary",
+      "retrieved": "2026-11-21",
+      "cites": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Commission_for_Relief_in_Belgium",
+      "title": "Commission for Relief in Belgium",
+      "publisher": "Wikipedia",
+      "kind": "tertiary",
+      "retrieved": "2026-11-21",
+      "cites": 2
     },
     {
       "url": "https://en.wikipedia.org/wiki/David_Packard",
       "title": "David Packard",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 15
     },
     {
@@ -14893,7 +17015,7 @@
       "title": "Don Valentine",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 4
     },
     {
@@ -14901,15 +17023,23 @@
       "title": "Douglas Engelbart",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 19
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eadweard_Muybridge",
+      "title": "Eadweard Muybridge",
+      "publisher": "Wikipedia",
+      "kind": "tertiary",
+      "retrieved": "2026-11-21",
+      "cites": 2
     },
     {
       "url": "https://en.wikipedia.org/wiki/Edwin_B._Crocker",
       "title": "Edwin B. Crocker (Wikipedia)",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 8
     },
     {
@@ -14917,7 +17047,7 @@
       "title": "El Palo Alto",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -14925,7 +17055,7 @@
       "title": "Elon Musk",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -14933,7 +17063,7 @@
       "title": "Ephraim Douglass Adams",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -14941,7 +17071,7 @@
       "title": "Eugene Kleiner",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 5
     },
     {
@@ -14949,7 +17079,7 @@
       "title": "Fairchild Semiconductor",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -14957,7 +17087,7 @@
       "title": "Francisco Palóu",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -14965,7 +17095,7 @@
       "title": "Frederick Terman",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 7
     },
     {
@@ -14973,7 +17103,7 @@
       "title": "Gaspar de Portolá",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 3
     },
     {
@@ -14981,15 +17111,23 @@
       "title": "Genentech",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 3
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/George_Shultz",
+      "title": "George Shultz",
+      "publisher": "Wikipedia",
+      "kind": "tertiary",
+      "retrieved": "2026-11-21",
+      "cites": 1
     },
     {
       "url": "https://en.wikipedia.org/wiki/Google",
       "title": "Google",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 3
     },
     {
@@ -14997,7 +17135,7 @@
       "title": "Gordon Moore",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 14
     },
     {
@@ -15005,15 +17143,23 @@
       "title": "Gordon French",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Henry_J._Kaiser",
+      "title": "Henry J. Kaiser",
+      "publisher": "Wikipedia",
+      "kind": "tertiary",
+      "retrieved": "2026-11-21",
+      "cites": 1
     },
     {
       "url": "https://en.wikipedia.org/wiki/Herbert_Boyer",
       "title": "Herbert Boyer",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 3
     },
     {
@@ -15021,7 +17167,7 @@
       "title": "Herbert Hoover",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 9
     },
     {
@@ -15029,7 +17175,7 @@
       "title": "Hewlett-Packard",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 4
     },
     {
@@ -15037,7 +17183,7 @@
       "title": "Intel",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 4
     },
     {
@@ -15045,7 +17191,7 @@
       "title": "James H. Clark",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15053,7 +17199,7 @@
       "title": "James W. Marshall",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 8
     },
     {
@@ -15061,7 +17207,7 @@
       "title": "Jane Stanford",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15069,15 +17215,23 @@
       "title": "Jean Hoerni",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 14
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_A._McCone",
+      "title": "John A. McCone",
+      "publisher": "Wikipedia",
+      "kind": "tertiary",
+      "retrieved": "2026-11-21",
+      "cites": 4
     },
     {
       "url": "https://en.wikipedia.org/wiki/John_Augustus_Sutter_Jr.",
       "title": "John Augustus Sutter Jr.",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15085,7 +17239,7 @@
       "title": "John Steinbeck",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 18
     },
     {
@@ -15093,7 +17247,7 @@
       "title": "John Sutter",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 14
     },
     {
@@ -15101,7 +17255,7 @@
       "title": "José Figueroa",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 6
     },
     {
@@ -15109,7 +17263,7 @@
       "title": "Junípero Serra",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 7
     },
     {
@@ -15117,7 +17271,7 @@
       "title": "Kleiner Perkins",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 3
     },
     {
@@ -15125,7 +17279,7 @@
       "title": "Klystron",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15133,15 +17287,23 @@
       "title": "Leland Stanford",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 6
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Leopold_II_of_Belgium",
+      "title": "Leopold II of Belgium",
+      "publisher": "Wikipedia",
+      "kind": "tertiary",
+      "retrieved": "2026-11-21",
+      "cites": 1
     },
     {
       "url": "https://en.wikipedia.org/wiki/Lewis_Terman",
       "title": "Lewis Terman",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 6
     },
     {
@@ -15149,15 +17311,15 @@
       "title": "Lou Henry Hoover",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
-      "cites": 10
+      "retrieved": "2026-11-21",
+      "cites": 11
     },
     {
       "url": "https://en.wikipedia.org/wiki/Marc_Tessier-Lavigne",
       "title": "Marc Tessier-Lavigne",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15165,7 +17327,7 @@
       "title": "Mark Hopkins (railroad executive) (Wikipedia)",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 10
     },
     {
@@ -15173,7 +17335,7 @@
       "title": "Millard Fillmore (Wikipedia)",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15181,7 +17343,7 @@
       "title": "Moana Surfrider",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15189,15 +17351,23 @@
       "title": "Nike, Inc.",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 3
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Palantir_Technologies",
+      "title": "Palantir Technologies",
+      "publisher": "Wikipedia",
+      "kind": "tertiary",
+      "retrieved": "2026-11-21",
+      "cites": 2
     },
     {
       "url": "https://en.wikipedia.org/wiki/Peter_Thiel",
       "title": "Peter Thiel",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 5
     },
     {
@@ -15205,15 +17375,39 @@
       "title": "Promontory Summit",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rancho_Rinconada_del_Arroyo_de_San_Francisquito",
+      "title": "Rancho Rinconada del Arroyo de San Francisquito",
+      "publisher": "Wikipedia",
+      "kind": "tertiary",
+      "retrieved": "2026-11-21",
+      "cites": 1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rancho_San_Francisquito",
+      "title": "Rancho San Francisquito",
+      "publisher": "Wikipedia",
+      "kind": "tertiary",
+      "retrieved": "2026-11-21",
+      "cites": 1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ray_Lyman_Wilbur",
+      "title": "Ray Lyman Wilbur",
+      "publisher": "Wikipedia",
+      "kind": "tertiary",
+      "retrieved": "2026-11-21",
+      "cites": 3
     },
     {
       "url": "https://en.wikipedia.org/wiki/Robert_A._Swanson",
       "title": "Robert A. Swanson",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 8
     },
     {
@@ -15221,7 +17415,7 @@
       "title": "Robert Noyce",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 18
     },
     {
@@ -15229,7 +17423,7 @@
       "title": "Russell and Sigurd Varian",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 37
     },
     {
@@ -15237,7 +17431,7 @@
       "title": "Sequoia Capital",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15245,7 +17439,7 @@
       "title": "Sergey Brin",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 4
     },
     {
@@ -15253,15 +17447,23 @@
       "title": "Shockley Semiconductor Laboratory",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 6
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Six_Companies,_Inc.",
+      "title": "Six Companies, Inc.",
+      "publisher": "Wikipedia",
+      "kind": "tertiary",
+      "retrieved": "2026-11-21",
+      "cites": 4
     },
     {
       "url": "https://en.wikipedia.org/wiki/SRI_International",
       "title": "SRI International",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15269,7 +17471,7 @@
       "title": "Stanford Research Park",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15277,23 +17479,55 @@
       "title": "Stanford University",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 15
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stephen_Bechtel_Jr.",
+      "title": "Stephen Bechtel Jr.",
+      "publisher": "Wikipedia",
+      "kind": "tertiary",
+      "retrieved": "2026-11-21",
+      "cites": 4
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stephen_Bechtel_Sr.",
+      "title": "Stephen Bechtel Sr.",
+      "publisher": "Wikipedia",
+      "kind": "tertiary",
+      "retrieved": "2026-11-21",
+      "cites": 3
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Theo_Baker",
+      "title": "Theo Baker",
+      "publisher": "Wikipedia",
+      "kind": "tertiary",
+      "retrieved": "2026-11-21",
+      "cites": 2
     },
     {
       "url": "https://en.wikipedia.org/wiki/Theodore_Judah",
       "title": "Theodore Judah (Wikipedia)",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 10
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Theranos",
+      "title": "Theranos",
+      "publisher": "Wikipedia",
+      "kind": "tertiary",
+      "retrieved": "2026-11-21",
+      "cites": 3
     },
     {
       "url": "https://en.wikipedia.org/wiki/Thomas_J._Perkins",
       "title": "Thomas J. Perkins",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 9
     },
     {
@@ -15301,15 +17535,23 @@
       "title": "Thomas Welton Stanford",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 4
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Timothy_Hopkins",
+      "title": "Timothy Hopkins",
+      "publisher": "Wikipedia",
+      "kind": "tertiary",
+      "retrieved": "2026-11-21",
+      "cites": 2
     },
     {
       "url": "https://en.wikipedia.org/wiki/Traitorous_eight",
       "title": "Traitorous eight",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 6
     },
     {
@@ -15317,7 +17559,7 @@
       "title": "Vannevar Bush",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 21
     },
     {
@@ -15325,8 +17567,16 @@
       "title": "Varian Associates",
       "publisher": "Wikipedia",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 7
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Warren_A._Bechtel",
+      "title": "Warren A. Bechtel",
+      "publisher": "Wikipedia",
+      "kind": "tertiary",
+      "retrieved": "2026-11-21",
+      "cites": 2
     },
     {
       "url": "https://en.wikipedia.org/wiki/William_Shockley",
@@ -15341,7 +17591,7 @@
       "title": "1911 Encyclopædia Britannica: Arthur, Chester Alan",
       "publisher": "Wikisource: 1911 Encyclopædia Britannica",
       "kind": "reference",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 6
     },
     {
@@ -15349,7 +17599,7 @@
       "title": "1911 Encyclopædia Britannica: Davis, Jefferson",
       "publisher": "Wikisource: 1911 Encyclopædia Britannica",
       "kind": "reference",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 11
     },
     {
@@ -15357,7 +17607,7 @@
       "title": "1911 Encyclopædia Britannica: Fillmore, Millard",
       "publisher": "Wikisource: 1911 Encyclopædia Britannica",
       "kind": "reference",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 9
     },
     {
@@ -15365,7 +17615,7 @@
       "title": "1911 Encyclopædia Britannica: Gadsden, James",
       "publisher": "Wikisource: 1911 Encyclopædia Britannica",
       "kind": "reference",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 4
     },
     {
@@ -15373,7 +17623,7 @@
       "title": "1911 Encyclopædia Britannica: Lincoln, Abraham",
       "publisher": "Wikisource: 1911 Encyclopædia Britannica",
       "kind": "reference",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 11
     },
     {
@@ -15381,7 +17631,7 @@
       "title": "Marshall, James Wilson, Appletons' Cyclopædia of American Biography",
       "publisher": "Wikisource",
       "kind": "reference",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 3
     },
     {
@@ -15389,7 +17639,7 @@
       "title": "Appletons' Cyclopaedia of American Biography: Stanford, Leland",
       "publisher": "Wikisource: Appletons' Cyclopaedia of American Biography (1900)",
       "kind": "reference",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15397,7 +17647,7 @@
       "title": "Sutter, John Augustus (Appletons' Cyclopædia of American Biography)",
       "publisher": "Wikisource: Appletons' Cyclopædia of American Biography",
       "kind": "reference",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15405,7 +17655,7 @@
       "title": "Junípero Serra (Catholic Encyclopedia, vol. 13)",
       "publisher": "Wikisource: Catholic Encyclopedia (1913)",
       "kind": "reference",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15413,7 +17663,7 @@
       "title": "History of California, vol. 6 (Bancroft), p. 50",
       "publisher": "Wikisource",
       "kind": "scholarly",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15421,7 +17671,7 @@
       "title": "Branner, John Casper",
       "publisher": "Encyclopedia of Arkansas (Central Arkansas Library System)",
       "kind": "reference",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 9
     },
     {
@@ -15429,7 +17679,7 @@
       "title": "The Foundation of a New Era in Engineering",
       "publisher": "100 Years of Stanford Engineering (Stanford University)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15437,7 +17687,7 @@
       "title": "Nothing Like It in the World (Ambrose, 2000), chapter 4",
       "publisher": "erenow.org (full text of Stephen E. Ambrose, Nothing Like It in the World)",
       "kind": "scholarly",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15445,7 +17695,7 @@
       "title": "Why Elon Musk dropped out of Stanford after only two days",
       "publisher": "Fortune, 15 Feb 2022",
       "kind": "reference",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15453,7 +17703,7 @@
       "title": "History | Ginzton Lab",
       "publisher": "Stanford University (Ginzton Laboratory)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15461,7 +17711,7 @@
       "title": "Jane Stanford",
       "publisher": "Governors of California (California State Library)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15469,7 +17719,7 @@
       "title": "Introduction - Lou Henry Hoover",
       "publisher": "Hoover Institution Library & Archives research guide",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15477,7 +17727,7 @@
       "title": "University milestones - Stanford Archives Reference and Research Guide",
       "publisher": "Stanford University Libraries (Stanford Archives)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 8
     },
     {
@@ -15485,7 +17735,7 @@
       "title": "An Uncommon Couple",
       "publisher": "Hoover Institution (histories.hoover.org)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 3
     },
     {
@@ -15493,7 +17743,7 @@
       "title": "Cardinal Roots",
       "publisher": "Hoover Institution (histories.hoover.org)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 4
     },
     {
@@ -15501,7 +17751,7 @@
       "title": "The Hoover Institution",
       "publisher": "Hoover Institution (histories.hoover.org)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15509,7 +17759,7 @@
       "title": "Golden Spike National Historic Site",
       "publisher": "Utah Division of State History (History to Go)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15517,7 +17767,7 @@
       "title": "Lou Henry Hoover",
       "publisher": "Herbert Hoover Presidential Library and Museum (NARA)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 9
     },
     {
@@ -15525,7 +17775,7 @@
       "title": "Years of Adventure 1874-1914",
       "publisher": "Herbert Hoover Presidential Library and Museum (NARA)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 15
     },
     {
@@ -15533,7 +17783,7 @@
       "title": "The Hoovers",
       "publisher": "Herbert Hoover Presidential Library and Museum (NARA)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15541,7 +17791,7 @@
       "title": "Divided Loyalties: Herbert Hoover and the Rose Bowl",
       "publisher": "Hoover Heads blog, Herbert Hoover Presidential Library (NARA)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15549,7 +17799,7 @@
       "title": "Sergey Brin and Larry Page",
       "publisher": "Lemelson-MIT Program",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15557,7 +17807,7 @@
       "title": "James W. Marshall's account of the first discovery of the Gold",
       "publisher": "malakoff.com (transcription of Marshall's 1857 account)",
       "kind": "primary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15565,7 +17815,7 @@
       "title": "Lou Hoover",
       "publisher": "UVA Miller Center",
       "kind": "scholarly",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15573,7 +17823,7 @@
       "title": "NPS Historical Handbook: Golden Spike (Promontory ceremony)",
       "publisher": "National Park Service (NPS Historical Handbook 40, hosted at npshistory.com)",
       "kind": "reference",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15581,7 +17831,7 @@
       "title": "Henry William Bigler diary, 1848 (finding aid with transcription)",
       "publisher": "Online Archive of California (Society of California Pioneers)",
       "kind": "primary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15589,7 +17839,7 @@
       "title": "Lewis Madison Terman papers, 1910-1992",
       "publisher": "Online Archive of California (Stanford University Libraries finding aid)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15597,7 +17847,7 @@
       "title": "Varian Associates Records, 1948-1998",
       "publisher": "Online Archive of California (Bancroft Library finding aid)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15605,7 +17855,7 @@
       "title": "Ephraim Douglass Adams papers, 1730-1974 (SC0142)",
       "publisher": "Online Archive of California, Stanford University Special Collections finding aid",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 4
     },
     {
@@ -15613,7 +17863,7 @@
       "title": "David Starr Jordan papers, 1861-1981 (SC0058)",
       "publisher": "Online Archive of California, Stanford University Special Collections finding aid",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 5
     },
     {
@@ -15621,7 +17871,7 @@
       "title": "David Starr Jordan papers, 1794-1950",
       "publisher": "Online Archive of California, Hoover Institution finding aid",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15629,7 +17879,7 @@
       "title": "Lathrop Family papers, 1807-1955 (SC0536)",
       "publisher": "Online Archive of California, Stanford University Special Collections finding aid",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 10
     },
     {
@@ -15637,7 +17887,7 @@
       "title": "Jane Lathrop Stanford papers, 1860-1983",
       "publisher": "Online Archive of California, Stanford University Special Collections finding aid",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15645,7 +17895,7 @@
       "title": "Leland Stanford, Jr., collection, 1870-1999",
       "publisher": "Online Archive of California, Stanford University Special Collections finding aid",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15653,7 +17903,7 @@
       "title": "Russell and Sigurd Varian: The Klystron Brothers",
       "publisher": "PaloAlto.org",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15661,7 +17911,7 @@
       "title": "Stanford Research Park",
       "publisher": "Palo Alto Historical Association",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15669,7 +17919,7 @@
       "title": "Our History | Physics Department",
       "publisher": "Stanford University Department of Physics",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15677,7 +17927,7 @@
       "title": "Trends in Psychology: Lewis Madison Terman (autobiography, 1930)",
       "publisher": "Classics in the History of Psychology (York University)",
       "kind": "primary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 8
     },
     {
@@ -15685,7 +17935,7 @@
       "title": "David Starr Jordan",
       "publisher": "Stanford University and the 1906 Earthquake (Stanford University Libraries)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15693,7 +17943,7 @@
       "title": "The Stanfords",
       "publisher": "Stanford University and the 1906 Earthquake (Stanford University Libraries)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15701,7 +17951,7 @@
       "title": "Elon Musk's brief Stanford affiliation raises questions about previous immigration status",
       "publisher": "The Stanford Daily, 11 Nov 2024",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15709,7 +17959,7 @@
       "title": "Century at Stanford (50 years ago, 1951)",
       "publisher": "Stanford Magazine",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15717,7 +17967,7 @@
       "title": "Jane Stanford's Allowance Saved the University",
       "publisher": "Stanford magazine",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15725,23 +17975,23 @@
       "title": "Meet the Next President",
       "publisher": "Stanford magazine",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
       "url": "https://stanfordmag.org/contents/who-killed-jane-stanford",
       "title": "Who Killed Jane Stanford?",
-      "publisher": "Stanford magazine",
+      "publisher": "Stanford Magazine (Sept/Oct 2003)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
-      "cites": 5
+      "retrieved": "2026-11-21",
+      "cites": 9
     },
     {
       "url": "https://stanfordresearchpark.com/about/",
       "title": "About Stanford Research Park",
       "publisher": "Stanford Research Park (Stanford University)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15749,7 +17999,7 @@
       "title": "Editor’s Note - 25th Anniversary",
       "publisher": "The Stanford Review",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15757,7 +18007,7 @@
       "title": "Editor’s Note: A Needed Part of the Campus Discussion",
       "publisher": "The Stanford Review (student newspaper)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15765,7 +18015,7 @@
       "title": "First Editor’s Note - 1987",
       "publisher": "The Stanford Review (reprint of Vol. 1, Issue 1)",
       "kind": "primary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15773,7 +18023,7 @@
       "title": "Biography | Marc Tessier-Lavigne",
       "publisher": "Stanford University (presidential biography page)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15781,7 +18031,7 @@
       "title": "The house that helped build Google",
       "publisher": "USA TODAY, 4 July 2007",
       "kind": "reference",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15789,7 +18039,7 @@
       "title": "Stanford University History: Founding (archived 2008)",
       "publisher": "Stanford University (Wayback Machine capture)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15797,7 +18047,7 @@
       "title": "Jane L. Stanford: The woman behind Stanford University (archived)",
       "publisher": "Stanford University (Wayback Machine capture)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15805,7 +18055,7 @@
       "title": "'A Horrible Death to Die'",
       "publisher": "Alta Journal",
       "kind": "scholarly",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15813,7 +18063,7 @@
       "title": "Edward A. Ross (includes 1951 obituary by J. L. Gillin, American Journal of Sociology)",
       "publisher": "American Sociological Association",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 7
     },
     {
@@ -15821,7 +18071,7 @@
       "title": "How to start a biotech company, in the words of the founding CEO of Genentech",
       "publisher": "Bay Bridge Bio",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15829,7 +18079,7 @@
       "title": "Robert A. Swanson",
       "publisher": "Global Business Hall of Fame",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15837,7 +18087,7 @@
       "title": "Larry Page and Sergey Brin paid $1,700 a month to rent the garage where Google was born",
       "publisher": "Business Insider, 18 Sept 2015",
       "kind": "reference",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15845,7 +18095,7 @@
       "title": "Walking Rainbow, Fred Moore Remembered",
       "publisher": "Computer History Museum",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15853,7 +18103,7 @@
       "title": "Clark, Jim oral history",
       "publisher": "Computer History Museum",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15861,7 +18111,7 @@
       "title": "Elon Musk | Biography",
       "publisher": "EBSCO Research Starters",
       "kind": "reference",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 5
     },
     {
@@ -15869,7 +18119,7 @@
       "title": "Knight, Philip",
       "publisher": "Encyclopedia.com (Encyclopedia of Business Biographies)",
       "kind": "reference",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 5
     },
     {
@@ -15877,7 +18127,7 @@
       "title": "Lewis Madison Terman",
       "publisher": "Encyclopedia.com (Complete Dictionary of Scientific Biography / Encyclopedia of Psychology)",
       "kind": "reference",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15885,7 +18135,7 @@
       "title": "Marc Andreessen",
       "publisher": "Encyclopedia.com (Contemporary Heroes and Heroines / Gale)",
       "kind": "reference",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 4
     },
     {
@@ -15893,7 +18143,7 @@
       "title": "Our Founders",
       "publisher": "Genentech",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15901,7 +18151,15 @@
       "title": "Home Address: Stanford Research Park",
       "publisher": "Hewlett-Packard Historical Archive (HPCA)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
+      "cites": 2
+    },
+    {
+      "url": "https://www.hoover.org/about",
+      "title": "About Us",
+      "publisher": "Hoover Institution",
+      "kind": "institutional",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15909,7 +18167,7 @@
       "title": "Herbert Hoover",
       "publisher": "Hoover Institution",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15917,15 +18175,31 @@
       "title": "Timeline & History",
       "publisher": "Hoover Institution",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
+    },
+    {
+      "url": "https://www.hoover.org/library-archives/collections/history/africa",
+      "title": "History of the Collection: Africa",
+      "publisher": "Hoover Institution Library & Archives",
+      "kind": "institutional",
+      "retrieved": "2026-11-21",
+      "cites": 1
+    },
+    {
+      "url": "https://www.hoover.org/profiles/george-p-shultz",
+      "title": "George P. Shultz",
+      "publisher": "Hoover Institution",
+      "kind": "institutional",
+      "retrieved": "2026-11-21",
+      "cites": 3
     },
     {
       "url": "https://www.hoover.org/research/celebrating-life-lou-henry-hoover",
       "title": "Celebrating The Life Of Lou Henry Hoover",
       "publisher": "Hoover Institution",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 4
     },
     {
@@ -15933,7 +18207,7 @@
       "title": "Ideas and Consequences",
       "publisher": "Hoover Institution",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15941,7 +18215,7 @@
       "title": "Making Hoover History With A Telegram",
       "publisher": "Hoover Institution",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15949,7 +18223,7 @@
       "title": "Hoover: Museum Guide",
       "publisher": "Herbert Hoover Presidential Library museum guide (hosted at ibiblio)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15957,7 +18231,7 @@
       "title": "36th Inaugural Ceremonies",
       "publisher": "Joint Congressional Committee on Inaugural Ceremonies (U.S. Senate)",
       "kind": "primary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 1
     },
     {
@@ -15965,7 +18239,7 @@
       "title": "Gordon French has Passed Away",
       "publisher": "Obituary written by his son, Allan M. French (LinkedIn, 18 Nov 2019)",
       "kind": "primary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 2
     },
     {
@@ -15973,7 +18247,7 @@
       "title": "Frederick Emmons Terman (Biographical Memoirs, vol. 74)",
       "publisher": "National Academy of Sciences",
       "kind": "scholarly",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 3
     },
     {
@@ -15981,7 +18255,7 @@
       "title": "Frederick Terman (NNDB family list)",
       "publisher": "NNDB",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 16
     },
     {
@@ -15989,7 +18263,7 @@
       "title": "John Steinbeck - Biographical",
       "publisher": "NobelPrize.org (Nobel Lectures, Literature 1901-1967)",
       "kind": "reference",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 3
     },
     {
@@ -15997,7 +18271,7 @@
       "title": "William B. Shockley - Biographical",
       "publisher": "NobelPrize.org (Nobel Foundation)",
       "kind": "reference",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 12
     },
     {
@@ -16005,7 +18279,7 @@
       "title": "Bill Bowerman",
       "publisher": "Oregon Experience (OPB / Oregon Historical Society)",
       "kind": "institutional",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 5
     },
     {
@@ -16021,11 +18295,41 @@
       "title": "Google in the Plex - Part 1 : a technology…",
       "publisher": "Start-Up blog (excerpts from Steven Levy, In the Plex, pp. 24-29)",
       "kind": "tertiary",
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "cites": 3
     }
   ],
   "orgs": [
+    {
+      "id": "bechtel",
+      "name": "Bechtel Corporation",
+      "kind": "company",
+      "summary": "Engineering and construction firm founded in San Francisco in 1898.",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bechtel",
+          "title": "Bechtel",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "founded in San Francisco, California, in 1898"
+        }
+      ]
+    },
+    {
+      "id": "bechtel-mccone",
+      "name": "Bechtel-McCone",
+      "kind": "company",
+      "summary": "Engineering firm founded by John McCone with Stephen Bechtel (May 1937, per McCartney 1988).",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_A._McCone",
+          "title": "John A. McCone",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He also founded Bechtel-McCone."
+        }
+      ]
+    },
     {
       "id": "central-pacific-railroad",
       "name": "Central Pacific Railroad",
@@ -16038,6 +18342,36 @@
           "publisher": "Wikipedia",
           "kind": "tertiary",
           "q": "The Central Pacific Railroad (CPRR) was a rail company chartered by U.S. Congress in 1862 to build a railroad eastwards from Sacramento, California"
+        }
+      ]
+    },
+    {
+      "id": "comite-national",
+      "name": "Comité National de Secours et d’Alimentation",
+      "kind": "relief organisation",
+      "summary": "Belgian committee that distributed relief inside occupied Belgium; directed by Émile Francqui.",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Comit%C3%A9_National_de_Secours_et_d%27Alimentation",
+          "title": "Comité National de Secours et d’Alimentation",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "It was directed by the Belgian financier Émile Francqui."
+        }
+      ]
+    },
+    {
+      "id": "commission-for-relief-in-belgium",
+      "name": "Commission for Relief in Belgium",
+      "kind": "relief organisation",
+      "summary": "WWI relief body that supplied food to occupied Belgium; chaired by Herbert Hoover.",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Commission_for_Relief_in_Belgium",
+          "title": "Commission for Relief in Belgium",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "Its leading figure was chairman, and future President of the United States, Herbert Hoover"
         }
       ]
     },
@@ -16102,6 +18436,28 @@
       ]
     },
     {
+      "id": "hoover-institution",
+      "name": "Hoover Institution",
+      "kind": "research institute",
+      "summary": "Library, archive and policy institute at Stanford, begun with Hoover’s $50,000 pledge of April 22, 1919.",
+      "cites": [
+        {
+          "url": "https://www.hoover.org/about",
+          "title": "About Us",
+          "publisher": "Hoover Institution",
+          "kind": "institutional",
+          "q": "On April 22, 1919, Herbert Hoover sent his wife, Lou Henry, a telegram pledging $50,000 for the purposes of collecting historical material on the First World War."
+        },
+        {
+          "url": "https://www.hoover.org/library-archives/collections/history/africa",
+          "title": "History of the Collection: Africa",
+          "publisher": "Hoover Institution Library & Archives",
+          "kind": "institutional",
+          "q": "The Africa Collection had its beginnings in 1919, when the Belgian government presented Herbert Hoover with a collection of official Belgian documents and reports, many pertaining to the Belgian Congo and Ruanda-Urundi."
+        }
+      ]
+    },
+    {
       "id": "intel",
       "name": "Intel",
       "kind": "company",
@@ -16147,6 +18503,21 @@
       ]
     },
     {
+      "id": "palantir",
+      "name": "Palantir Technologies",
+      "kind": "company",
+      "summary": "Data-analytics company founded in Palo Alto in 2003.",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Palantir_Technologies",
+          "title": "Palantir Technologies",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "It was founded in Palo Alto, California in 2003 by Peter Thiel, Alex Karp, Stephen Cohen"
+        }
+      ]
+    },
+    {
       "id": "sequoia-capital",
       "name": "Sequoia Capital",
       "kind": "venture capital firm",
@@ -16173,6 +18544,21 @@
           "publisher": "Wikipedia",
           "kind": "tertiary",
           "q": "Shockley Semiconductor Laboratory, later known as Shockley Transistor Corporation, was a pioneering semiconductor developer founded by William Shockley, and funded by Beckman Instruments, Inc., in 1955."
+        }
+      ]
+    },
+    {
+      "id": "six-companies",
+      "name": "Six Companies, Inc.",
+      "kind": "company",
+      "summary": "Joint venture formed in 1931 to build Hoover Dam; Bechtel-Kaiser held 30%.",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Six_Companies,_Inc.",
+          "title": "Six Companies, Inc.",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "Henry J. Kaiser Co. of Oakland, California and Bechtel Corporation of San Francisco (as Bechtel-Kaiser): 30%"
         }
       ]
     },
@@ -16207,6 +18593,21 @@
       ]
     },
     {
+      "id": "theranos",
+      "name": "Theranos",
+      "kind": "company",
+      "summary": "Blood-testing start-up founded by Elizabeth Holmes in 2003; collapsed after 2015.",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Theranos",
+          "title": "Theranos",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "Founded in 2003 by 19-year-old Elizabeth Holmes"
+        }
+      ]
+    },
+    {
       "id": "varian-associates",
       "name": "Varian Associates",
       "kind": "company",
@@ -16223,6 +18624,36 @@
     }
   ],
   "affiliations": [
+    {
+      "id": "aff-alex-karp-palantir",
+      "person": "alex-karp",
+      "org": "palantir",
+      "role": "Co-founder and CEO",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alex_Karp",
+          "title": "Alex Karp",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He is the co-founder and CEO of the Silicon Valley software firm Palantir Technologies."
+        }
+      ]
+    },
+    {
+      "id": "aff-alex-karp-stanford-university",
+      "person": "alex-karp",
+      "org": "stanford-university",
+      "role": "J.D., Stanford Law School",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alex_Karp",
+          "title": "Alex Karp",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "Karp earned his J.D. degree from Stanford Law School"
+        }
+      ]
+    },
     {
       "id": "aff-arthur-rock-fairchild-semiconductor",
       "person": "arthur-rock",
@@ -16295,6 +18726,21 @@
           "publisher": "Wikipedia",
           "kind": "tertiary",
           "q": "Co-founders of Hewlett-Packard, Bill Hewlett (BS 1934) and David Packard (BA 1934)"
+        }
+      ]
+    },
+    {
+      "id": "aff-caspar-weinberger-bechtel",
+      "person": "caspar-weinberger",
+      "org": "bechtel",
+      "role": "Vice president and general counsel",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Caspar_Weinberger",
+          "title": "Caspar Weinberger",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He later became vice president and general counsel of Bechtel Corporation."
         }
       ]
     },
@@ -16419,6 +18865,36 @@
       ]
     },
     {
+      "id": "aff-elizabeth-holmes-theranos",
+      "person": "elizabeth-holmes",
+      "org": "theranos",
+      "role": "Founder",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Theranos",
+          "title": "Theranos",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "Founded in 2003 by 19-year-old Elizabeth Holmes"
+        }
+      ]
+    },
+    {
+      "id": "aff-emile-francqui-comite-national",
+      "person": "emile-francqui",
+      "org": "comite-national",
+      "role": "Director",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Comit%C3%A9_National_de_Secours_et_d%27Alimentation",
+          "title": "Comité National de Secours et d’Alimentation",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "It was directed by the Belgian financier Émile Francqui."
+        }
+      ]
+    },
+    {
       "id": "aff-eugene-kleiner-fairchild-semiconductor",
       "person": "eugene-kleiner",
       "org": "fairchild-semiconductor",
@@ -16494,6 +18970,51 @@
       ]
     },
     {
+      "id": "aff-george-shultz-bechtel",
+      "person": "george-shultz",
+      "org": "bechtel",
+      "role": "President and director (1974–82)",
+      "cites": [
+        {
+          "url": "https://www.hoover.org/profiles/george-p-shultz",
+          "title": "George P. Shultz",
+          "publisher": "Hoover Institution",
+          "kind": "institutional",
+          "q": "Shultz left government service in 1974 to become president and director of the Bechtel Group, where he remained until 1982."
+        }
+      ]
+    },
+    {
+      "id": "aff-george-shultz-hoover-institution",
+      "person": "george-shultz",
+      "org": "hoover-institution",
+      "role": "Thomas W. and Susan B. Ford Distinguished Fellow",
+      "cites": [
+        {
+          "url": "https://www.hoover.org/profiles/george-p-shultz",
+          "title": "George P. Shultz",
+          "publisher": "Hoover Institution",
+          "kind": "institutional",
+          "q": "Shultz was the Thomas W. and Susan B. Ford Distinguished Fellow at the Hoover Institution."
+        }
+      ]
+    },
+    {
+      "id": "aff-george-shultz-theranos",
+      "person": "george-shultz",
+      "org": "theranos",
+      "role": "Board of directors (2011–15)",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Shultz",
+          "title": "George Shultz",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "From 2011 to 2015, Shultz was a member of the board of directors of Theranos"
+        }
+      ]
+    },
+    {
       "id": "aff-gordon-moore-fairchild-semiconductor",
       "person": "gordon-moore",
       "org": "fairchild-semiconductor",
@@ -16539,6 +19060,21 @@
       ]
     },
     {
+      "id": "aff-henry-j-kaiser-six-companies",
+      "person": "henry-j-kaiser",
+      "org": "six-companies",
+      "role": "Partner (Bechtel-Kaiser, 30%)",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Six_Companies,_Inc.",
+          "title": "Six Companies, Inc.",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "Henry J. Kaiser Co. of Oakland, California and Bechtel Corporation of San Francisco (as Bechtel-Kaiser): 30%"
+        }
+      ]
+    },
+    {
       "id": "aff-herbert-boyer-genentech",
       "person": "herbert-boyer",
       "org": "genentech",
@@ -16550,6 +19086,36 @@
           "publisher": "Wikipedia",
           "kind": "tertiary",
           "q": "The company was founded in 1976 by venture capitalist Robert A. Swanson and biochemist Herbert Boyer."
+        }
+      ]
+    },
+    {
+      "id": "aff-herbert-hoover-commission-for-relief-in-belgium",
+      "person": "herbert-hoover",
+      "org": "commission-for-relief-in-belgium",
+      "role": "Chairman",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Commission_for_Relief_in_Belgium",
+          "title": "Commission for Relief in Belgium",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "Its leading figure was chairman, and future President of the United States, Herbert Hoover"
+        }
+      ]
+    },
+    {
+      "id": "aff-herbert-hoover-hoover-institution",
+      "person": "herbert-hoover",
+      "org": "hoover-institution",
+      "role": "Founder (1919 pledge)",
+      "cites": [
+        {
+          "url": "https://www.hoover.org/about",
+          "title": "About Us",
+          "publisher": "Hoover Institution",
+          "kind": "institutional",
+          "q": "On April 22, 1919, Herbert Hoover sent his wife, Lou Henry, a telegram pledging $50,000 for the purposes of collecting historical material on the First World War."
         }
       ]
     },
@@ -16636,6 +19202,21 @@
       ]
     },
     {
+      "id": "aff-john-mccone-bechtel-mccone",
+      "person": "john-mccone",
+      "org": "bechtel-mccone",
+      "role": "Founder",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_A._McCone",
+          "title": "John A. McCone",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He also founded Bechtel-McCone."
+        }
+      ]
+    },
+    {
       "id": "aff-larry-page-google",
       "person": "larry-page",
       "org": "google",
@@ -16711,6 +19292,21 @@
       ]
     },
     {
+      "id": "aff-lou-henry-hoover-stanford-university",
+      "person": "lou-henry-hoover",
+      "org": "stanford-university",
+      "role": "Graduate in geology (1898), the first woman to take that degree",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lou_Henry_Hoover",
+          "title": "Lou Henry Hoover",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "became the first woman to receive a degree in geology from the institution"
+        }
+      ]
+    },
+    {
       "id": "aff-marc-tessier-lavigne-stanford-university",
       "person": "marc-tessier-lavigne",
       "org": "stanford-university",
@@ -16741,6 +19337,21 @@
       ]
     },
     {
+      "id": "aff-peter-thiel-palantir",
+      "person": "peter-thiel",
+      "org": "palantir",
+      "role": "Co-founder",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Palantir_Technologies",
+          "title": "Palantir Technologies",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "It was founded in Palo Alto, California in 2003 by Peter Thiel, Alex Karp, Stephen Cohen"
+        }
+      ]
+    },
+    {
       "id": "aff-phil-knight-nike",
       "person": "phil-knight",
       "org": "nike",
@@ -16767,6 +19378,21 @@
           "publisher": "Wikipedia",
           "kind": "tertiary",
           "q": "Phil Knight (MBA 1962), founder of Nike Inc."
+        }
+      ]
+    },
+    {
+      "id": "aff-ray-lyman-wilbur-stanford-university",
+      "person": "ray-lyman-wilbur",
+      "org": "stanford-university",
+      "role": "Third president (1916–43)",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ray_Lyman_Wilbur",
+          "title": "Ray Lyman Wilbur",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "was an American medical doctor who served as the third president of Stanford University from 1916 to 1943 and as the 31st United States Secretary of the Interior from 1929 to 1933 under President Herbert Hoover"
         }
       ]
     },
@@ -16898,6 +19524,51 @@
       ]
     },
     {
+      "id": "aff-stephen-bechtel-jr-bechtel",
+      "person": "stephen-bechtel-jr",
+      "org": "bechtel",
+      "role": "President from 1960; chairman from 1969",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephen_Bechtel_Jr.",
+          "title": "Stephen Bechtel Jr.",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He succeeded his father, Stephen Bechtel Sr., as president of Bechtel Corporation in 1960 and chairman in 1969."
+        }
+      ]
+    },
+    {
+      "id": "aff-stephen-bechtel-jr-stanford-university",
+      "person": "stephen-bechtel-jr",
+      "org": "stanford-university",
+      "role": "MBA",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephen_Bechtel_Jr.",
+          "title": "Stephen Bechtel Jr.",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "Stanford University (MBA)"
+        }
+      ]
+    },
+    {
+      "id": "aff-stephen-bechtel-sr-bechtel",
+      "person": "stephen-bechtel-sr",
+      "org": "bechtel",
+      "role": "President (1933–60)",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephen_Bechtel_Sr.",
+          "title": "Stephen Bechtel Sr.",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He was the president of the company from 1933 to 1960."
+        }
+      ]
+    },
+    {
       "id": "aff-theodore-judah-central-pacific-railroad",
       "person": "theodore-judah",
       "org": "central-pacific-railroad",
@@ -16913,6 +19584,21 @@
       ]
     },
     {
+      "id": "aff-timothy-hopkins-stanford-university",
+      "person": "timothy-hopkins",
+      "org": "stanford-university",
+      "role": "Trustee for over 50 years",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Timothy_Hopkins",
+          "title": "Timothy Hopkins",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "He was one of the founders of Palo Alto and a trustee of Stanford University for over 50 years."
+        }
+      ]
+    },
+    {
       "id": "aff-tom-perkins-kleiner-perkins",
       "person": "tom-perkins",
       "org": "kleiner-perkins",
@@ -16924,6 +19610,36 @@
           "publisher": "Wikipedia",
           "kind": "tertiary",
           "q": "The firm is named after its four founding partners: Eugene Kleiner, Tom Perkins"
+        }
+      ]
+    },
+    {
+      "id": "aff-warren-a-bechtel-bechtel",
+      "person": "warren-a-bechtel",
+      "org": "bechtel",
+      "role": "Founder",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Warren_A._Bechtel",
+          "title": "Warren A. Bechtel",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "was the founder of the Bechtel Corporation"
+        }
+      ]
+    },
+    {
+      "id": "aff-warren-a-bechtel-six-companies",
+      "person": "warren-a-bechtel",
+      "org": "six-companies",
+      "role": "Partner (Bechtel-Kaiser, 30%)",
+      "cites": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Six_Companies,_Inc.",
+          "title": "Six Companies, Inc.",
+          "publisher": "Wikipedia",
+          "kind": "tertiary",
+          "q": "Henry J. Kaiser Co. of Oakland, California and Bechtel Corporation of San Francisco (as Bechtel-Kaiser): 30%"
         }
       ]
     },
