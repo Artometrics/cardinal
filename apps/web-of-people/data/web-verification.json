@@ -22,7 +22,7 @@
     {
       "url": "https://about.google/company-info/our-story/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "e3bb3f267024bdc6caaa8d04d164af9cf04d9e0b43aefb7c7d1dec6867675c3e",
       "quotes": [
         {
@@ -35,7 +35,7 @@
     {
       "url": "https://achievement.org/achiever/larry-page/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "31eaa08563d0c8aa8740c34ab281317affda15f9b4cf9440e02fc9303077f46c",
       "quotes": [
         {
@@ -53,7 +53,7 @@
     {
       "url": "https://archive.nytimes.com/www.nytimes.com/library/financial/sunday/032600biz-tech-activist.html",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "5dfb2aa196fdbf5cff3fb9f455c4450164b4c4a5dbe8ca0e6769478254f46196",
       "quotes": [
         {
@@ -66,7 +66,7 @@
     {
       "url": "https://archive.org/stream/anzascaliforniae02bolt/anzascaliforniae02bolt_djvu.txt",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "3c2470f9533f3cf6c3176d2b3eabcc8f382b7703f3e145ccd5b129038da16be4",
       "quotes": [
         {
@@ -84,7 +84,7 @@
     {
       "url": "https://archive.org/stream/collispotterhunt01evan/collispotterhunt01evan_djvu.txt",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "bf9467899e333ef5e748c9aa9be7a65573fce7171ffa4f78fb99082d4be290e5",
       "quotes": [
         {
@@ -147,7 +147,7 @@
     {
       "url": "https://archive.org/stream/collispotterhunt02evan/collispotterhunt02evan_djvu.txt",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "750aad6fa7ed47ef9dc1271eb83d895a5043cab41ebc411495fabf0fa79fd8b1",
       "quotes": [
         {
@@ -175,7 +175,7 @@
     {
       "url": "https://archive.org/stream/historicalmemoir0001fray/historicalmemoir0001fray_djvu.txt",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "ba2db97608dce94744c193c68f4df9cbce6256517c19509fa718052607a0ae7f",
       "quotes": [
         {
@@ -188,7 +188,7 @@
     {
       "url": "https://archive.org/stream/historyofcalifor03banc/historyofcalifor03banc_djvu.txt",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "f70ad13452f3feb3e4046fc243d0bcd1adda7e95cef03a4f5b6e9fbfcbe7824c",
       "quotes": [
         {
@@ -201,7 +201,7 @@
     {
       "url": "https://archive.org/stream/johnhopkinsofcam00hopk/johnhopkinsofcam00hopk_djvu.txt",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "02bb0da75bddce75f3df27eab1b7ac7d87c9c0f9a3606ad2d333d6ed7c69251a",
       "quotes": [
         {
@@ -214,7 +214,7 @@
     {
       "url": "https://archive.org/stream/portolaexpeditio02cost/portolaexpeditio02cost_djvu.txt",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "8c4ff8cebff1e4e12f1c52333655e001d71e1536ceebc6c922e83e7a677302e6",
       "quotes": [
         {
@@ -227,7 +227,7 @@
     {
       "url": "https://archive.org/stream/stanfroduniversi009361mbp/stanfroduniversi009361mbp_djvu.txt",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "be8d6bfa7be492424f137d763b935310e6c71b71db940c20108700bae8030579",
       "quotes": [
         {
@@ -250,7 +250,7 @@
     {
       "url": "https://bookreadfree.com/384331/9452587",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "2b2738303f6dfcbedf76c1884e32a23d8a2f5e1bc210e7b0eb0d06e452fef245",
       "quotes": [
         {
@@ -263,8 +263,8 @@
     {
       "url": "https://cmns.umd.edu/news-events/news/eugenia-brin-1948-2024",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "f0084343e98dbbae089dd0fa60864d4336a5bc17a93ae00cdf45c0b70a8cdc40",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "25b51689e5e885d21de496bb4ac91ac887b574ba68825840e950c5e1277295b6",
       "quotes": [
         {
           "qSha256": "aca8d6531e4eeab5f0f35e2d07d96ca681d1ff7188461065486620df96063355",
@@ -286,7 +286,7 @@
     {
       "url": "https://computerhalloffame.org/home/computer-hall-of-fame-honorees/class-of-2004/marc-andreessen/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "89eb14ea6f478b1497247abd3217123073f1b26b8c3fbf2f347e0bf7bb550c0b",
       "quotes": [
         {
@@ -299,7 +299,7 @@
     {
       "url": "https://distributedmuseum.illinois.edu/exhibit/marc_andreessen/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "15be88634be1c0d909f82a9821ebd01dcb88df353e1acb27fe6f6b56c260f00e",
       "quotes": [
         {
@@ -312,7 +312,7 @@
     {
       "url": "https://embryo.asu.edu/pages/david-starr-jordan-1851-1931",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "f449136a0079b6ceac4a4efc1d02ad54e8b93b9c300d6dbb70f6606a76acbd3b",
       "quotes": [
         {
@@ -323,14 +323,73 @@
       ]
     },
     {
+      "url": "https://en.wikipedia.org/wiki/%C3%89mile_Francqui",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "263fb93eb031542a5c30ce29df30f76b8c1c987beda7c72222233860bfd65f94",
+      "quotes": [
+        {
+          "qSha256": "9959251e3a5c239b29120d7b07188c9a893cd116f8a521442aa2f188eb67707a",
+          "q": "At the age of 21, like many young officers, he was sent to C",
+          "found": true
+        },
+        {
+          "qSha256": "e2f87e9fd12de4a0473ef470436cf3691f7399776c0c27107f2d129bcb194eeb",
+          "q": "In 1932 \u00c9mile Francqui and Herbert Hoover created the Francq",
+          "found": true
+        },
+        {
+          "qSha256": "2bd1434b794dd0976866554e74fe87d349a2bcd3815d092cfe647ade77714059",
+          "q": "In China he met the future American president Herbert Hoover",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alex_Karp",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "2f112db7877ee42261f02743831e3318737abac89ff675bce2e340fa7e5b0102",
+      "quotes": [
+        {
+          "qSha256": "add1bff0f0b1637ccbf4cadbde5a8326a82cd8e0f08aa5935e077f540d2d9a8b",
+          "q": "At Stanford, he met Peter Thiel and in 2003, they alongside ",
+          "found": true
+        },
+        {
+          "qSha256": "0898456332f63f2013fdf633c0fb5b89dbf92df993f195007822aa2efa983603",
+          "q": "He is the co-founder and CEO of the Silicon Valley software ",
+          "found": true
+        },
+        {
+          "qSha256": "7b29fbb7f7cafba59c54e32f4348634985c9a386bf442be1ed01b9a04240b4c6",
+          "q": "Karp earned his J.D. degree from Stanford Law School",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alfred_L._Kroeber",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "b37d21b964c40ec9e1249d1172cc3dba3043578072386a56be6fda38eab3f576",
+      "quotes": [
+        {
+          "qSha256": "1f440f3c3733f0bfc6757dbff2920e54b69529cce93929ad4568aad077e0d90a",
+          "q": "The work done in preserving information about Californian tr",
+          "found": true
+        }
+      ]
+    },
+    {
       "url": "https://en.wikipedia.org/wiki/Arabella_Huntington",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "993bba837c45172ab5a624181a7a86c9dd955fdf30588ac238c3885ad015c21f",
       "quotes": [
         {
           "qSha256": "074e49a9287ba1c4a77e1bce441fa5d032f872181f9733c3a446cbe2f89fe6e0",
-          "q": "Arabella Duval Huntington (née Yarrington; c. 1850/1851 - Se",
+          "q": "Arabella Duval Huntington (n\u00e9e Yarrington; c. 1850/1851 - Se",
           "found": true
         },
         {
@@ -353,7 +412,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Archer_Milton_Huntington",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "e732eb925e544a0b70734425b5595599cc37d9bb6c2db285c86d31f39658430a",
       "quotes": [
         {
@@ -366,7 +425,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Arthur_Rock",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "4fbd3ef12c0d89c471ee9228096c46f477c88b21faa70721725a2891a3412b7c",
       "quotes": [
         {
@@ -387,10 +446,23 @@
       ]
     },
     {
+      "url": "https://en.wikipedia.org/wiki/Bechtel",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "5fb86aa0a4d23f56899bc99131ab1664c3ef0a757e304ef14e51b5db3ecbd3a6",
+      "quotes": [
+        {
+          "qSha256": "8026f75f876a56b6153c4c57a7d47e28f47c6199ee7d7e04c5b7710254e0c088",
+          "q": "founded in San Francisco, California, in 1898",
+          "found": true
+        }
+      ]
+    },
+    {
       "url": "https://en.wikipedia.org/wiki/Bill_Bowerman",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "85e564f09b626d37e9ebf897a1f7606d51646606af537438bc4812e11f4411ce",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "9110156b96322df3e33032841d1d1793196ab9649aa476cc4b5ac7b5b911ec54",
       "quotes": [
         {
           "qSha256": "ff5016273db8b04234dcdf0e73ff9aade92c3d569dc032daacba3d4c2a91e4ce",
@@ -417,8 +489,8 @@
     {
       "url": "https://en.wikipedia.org/wiki/Bill_Hewlett",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "2c6ab7ad147ccdc0b0012ec87598bc0be4c870e9deb3ae3b80b77b1bae9535e9",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "bc715aa1605ee04a54c66ef7d1aae085dc2957c847dd0e2ab6e45bde81a621ce",
       "quotes": [
         {
           "qSha256": "a12a06f12462a6f0ac6940e4420e40c1f0939837fca3e2dccfbf1f45a675fc7f",
@@ -453,9 +525,22 @@
       ]
     },
     {
+      "url": "https://en.wikipedia.org/wiki/Caspar_Weinberger",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "44811eff38fafc364ac0702cbbb0d1fd7d9ccd89bcae92848343bf420081401a",
+      "quotes": [
+        {
+          "qSha256": "9374c6edd5d2d2720d22b21cfb441035ec1989e0297a4305d37fc121a3a82b48",
+          "q": "He later became vice president and general counsel of Bechte",
+          "found": true
+        }
+      ]
+    },
+    {
       "url": "https://en.wikipedia.org/wiki/Central_Pacific_Railroad",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "1c0fbfe7218571daf5211a2ec76c29b0ad0e6c22ee9b5419129d9074de29f8d6",
       "quotes": [
         {
@@ -483,7 +568,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Charles_Crocker",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "5004d07fb8e998c9fdeaf4390a859d4b04784b9621bad9054b9a5fb27695d36c",
       "quotes": [
         {
@@ -531,7 +616,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Charles_Stanford_(politician)",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "7453928a4515288c9ffb566c744e9a4083b09edfc4496eef4c5f602a3b4d4a7d",
       "quotes": [
         {
@@ -549,8 +634,8 @@
     {
       "url": "https://en.wikipedia.org/wiki/Chester_A._Arthur",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "b98fb2c4d61a51a5fcd82511a132892a03939e44ee45e11f8596fbac8c2420b9",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "ad0d9feeeca33850c87de33c5cd4b7cc23ed04a3969ab8b2925f6824fa80157e",
       "quotes": [
         {
           "qSha256": "64998c9c06a51e28844ce29c24199aec215fa88e25bce4d4613ab25e44ff72b4",
@@ -572,7 +657,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Collis_Potter_Huntington",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "c41676d554f24f3465eade9306890f985e369c61fbbe20fa5631c01134154f0f",
       "quotes": [
         {
@@ -583,10 +668,36 @@
       ]
     },
     {
+      "url": "https://en.wikipedia.org/wiki/Comit%C3%A9_National_de_Secours_et_d%27Alimentation",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "53ee285cf1cef834a9dd789d192c0b99cf9d74a3b84bd92cd445fe594bfa7bd4",
+      "quotes": [
+        {
+          "qSha256": "019772325ab7389bd5d6cabd2d55edb82775c142aeb353b7daf21f23069907d7",
+          "q": "It was directed by the Belgian financier \u00c9mile Francqui.",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Commission_for_Relief_in_Belgium",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "193c7f430051671c79c837b5e9f870f5bb4645bb69a60485674d307d82f416ed",
+      "quotes": [
+        {
+          "qSha256": "02fbdf8ed405fcb530d1e8b73a165721dd7c0b08b1ef7eb867ed9ba382e1e936",
+          "q": "Its leading figure was chairman, and future President of the",
+          "found": true
+        }
+      ]
+    },
+    {
       "url": "https://en.wikipedia.org/wiki/David_Packard",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "08f9c6823d3c0d3fec1c502401cd7208a528d285af7767f455e68e1af0d0d103",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "eb500fb4f13cd2c9c65e110a5d1874d3339783470d50c66c6615124d25f728c4",
       "quotes": [
         {
           "qSha256": "d3142118c299170b3491e9cec67fd173e153ade89617d72ccd1638c56f545972",
@@ -623,7 +734,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Don_Valentine",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "71290818cb129ed2fd8a88c61eec728120e2456d5bd909d0a599f11d2093b8d0",
       "quotes": [
         {
@@ -651,7 +762,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Douglas_Engelbart",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "8c0566ed3d1c383cc9e9d86fcbcf75e7a64bed9d8ac135b7e448933aa81d9a92",
       "quotes": [
         {
@@ -692,9 +803,27 @@
       ]
     },
     {
+      "url": "https://en.wikipedia.org/wiki/Eadweard_Muybridge",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "b7fc321da406f3beb3ea3e3e19954c64abacb1e4bb1e77353a2b8533b85a7e4c",
+      "quotes": [
+        {
+          "qSha256": "1365f425e147fc45341e0d32a991c4ccc742c42cb459a2886b8c39207b7d8099",
+          "q": "In 1872, the former governor of California, Leland Stanford,",
+          "found": true
+        },
+        {
+          "qSha256": "ed3c78d658e3a3cbc1d6ff09580f6c6d07de03f79ce16e5ce03eadb829f84457",
+          "q": "was an English photographer known for his pioneering work in",
+          "found": true
+        }
+      ]
+    },
+    {
       "url": "https://en.wikipedia.org/wiki/Edwin_B._Crocker",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "3cfce115de03067078576aed0f3b1c20b475fed3d76b3a2c7ee660294f8557be",
       "quotes": [
         {
@@ -732,7 +861,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/El_Palo_Alto",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "ebdfd4624fdba0c56163b6c0a385d699f868c1654c23cdcaa269d3f224352fbb",
       "quotes": [
         {
@@ -750,8 +879,8 @@
     {
       "url": "https://en.wikipedia.org/wiki/Elon_Musk",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "c9c93b7b1d656dd2dba56824f8cb976e2bc8fb717daec2ccc07c9a1932ebb1b2",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "94465605ee50b3c10851bf43b644a793bf4baa2a179b5b5ab7aa1787a4bdcefa",
       "quotes": [
         {
           "qSha256": "5b70df38e47cdf893260b40fcf7dbd377f089346a9c6da8651702b18f22edfb8",
@@ -763,7 +892,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Ephraim_Douglass_Adams",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "5a6b8431b651658825dd392a17220a8e985c0d70084d0d2436f73774b114caf6",
       "quotes": [
         {
@@ -776,7 +905,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Eugene_Kleiner",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "5d3e82e163faaa3dec4218ba16fb3fb752679fa327933502eb24905b121d7574",
       "quotes": [
         {
@@ -804,7 +933,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Fairchild_Semiconductor",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "abed6e76ff6c04bac6ad63d6a8614f06089aa13458af1a87c5adc54c4f73cae2",
       "quotes": [
         {
@@ -817,7 +946,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Francisco_Pal%C3%B3u",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "1482da8de7e07acabc1e105dac1652c1c6be83be87b0867803fc0cf226dd107d",
       "quotes": [
         {
@@ -835,8 +964,8 @@
     {
       "url": "https://en.wikipedia.org/wiki/Frederick_Terman",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "2bd80592c5d47640e3760cda269992e6d347ebf8cd5c1b612302eba013b8af5d",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "2113962e0a4379342eab9adcd384cc3325b43491645ffdf9101507e75afb96f7",
       "quotes": [
         {
           "qSha256": "ba71f7967b695f86985f6b95c836db6294e9939c8f7ea3a27f0a8a6b72672ead",
@@ -873,7 +1002,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Gaspar_de_Portol%C3%A0",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "acee5d31c45390baeebf0e571f90dfdd01fd990c60bd6eda4cff5e6ddb6847af",
       "quotes": [
         {
@@ -883,7 +1012,7 @@
         },
         {
           "qSha256": "067acf1a0940bc61dc97e8fff5c1452659011ab2c4577f32f2b1cccf033265f5",
-          "q": "Gaspar de Portolá y Rovira was born on January 1, 1716 in Os",
+          "q": "Gaspar de Portol\u00e1 y Rovira was born on January 1, 1716 in Os",
           "found": true
         },
         {
@@ -896,7 +1025,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Genentech",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "ec12ba02e5c6818350f913d799320b56141de76e654299e49787f802d778c091",
       "quotes": [
         {
@@ -907,10 +1036,23 @@
       ]
     },
     {
+      "url": "https://en.wikipedia.org/wiki/George_Shultz",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "25d79357f191eba0361f7ec1e634a95cc7de7d983a62d87b627466e6f662a230",
+      "quotes": [
+        {
+          "qSha256": "dc004cba6950a39449003316fa6ef9331bb052aa113544b04cb675a193c30736",
+          "q": "From 2011 to 2015, Shultz was a member of the board of direc",
+          "found": true
+        }
+      ]
+    },
+    {
       "url": "https://en.wikipedia.org/wiki/Google",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "9cabf3f9136a026ad9fa8a0ab5b7c01cb3a59ba9beaa5af85559d3e71d934210",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "96cdfdfc5c78ea4bb5322329f4fe5b5685452f44f0865af33e646c2576bd1f25",
       "quotes": [
         {
           "qSha256": "ee4d13a51ffd0ba17abd33efcebbc74252da8416a1a196c06f5a5e04169cbd88",
@@ -922,8 +1064,8 @@
     {
       "url": "https://en.wikipedia.org/wiki/Gordon_E._Moore",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "843a75c7b166528c6ff5893abf698ec51bb515848f6efd98c51ca9faddc2065b",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "e7c8e01275e2b26d9131fad2b21be31ed58d866d5fd80298cb53ddf82ef32b77",
       "quotes": [
         {
           "qSha256": "b8e5d4c0f8a4d8d12ae39766c32791328ee703fcadb8753e4451f53c99acbc14",
@@ -955,7 +1097,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Gordon_French",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "6362057bc25228fcab0c37fe515c41b8ea71b1b40f35db54f41d37981c2b26e2",
       "quotes": [
         {
@@ -971,10 +1113,23 @@
       ]
     },
     {
+      "url": "https://en.wikipedia.org/wiki/Henry_J._Kaiser",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "02665c0ead406c90c13fb1eea84c5b0e8be26bdce99a95452b1b29d826d97823",
+      "quotes": [
+        {
+          "qSha256": "9280780bc6c5a2d863697ba0e930cdec4be31e545032f095d38c7d449df3bed5",
+          "q": "his company was one of those that built the Hoover Dam",
+          "found": true
+        }
+      ]
+    },
+    {
       "url": "https://en.wikipedia.org/wiki/Herbert_Boyer",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "654908d7b377801023fe21341efda6106561fc2cfdaab1e7ab06fb047b5d75bf",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "795875ad2cf28149776ce502927fae55900561390433304b2c29fc40d48a0672",
       "quotes": [
         {
           "qSha256": "6b6c7a69836acf49b7262d5e203ec761119d47d9d21167c9a0fc1c4032b84b3c",
@@ -996,8 +1151,8 @@
     {
       "url": "https://en.wikipedia.org/wiki/Herbert_Hoover",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "45fb1b7f90e21ece0620de2551d77709fa36ee85a9b36012301931321c4b7bd3",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "a45c79dd6dbb5c466f26de6dd97ba8a289a167599e6f905af5d82b87049f4872",
       "quotes": [
         {
           "qSha256": "eda5c5c6ea4e2b9bfc3d1f691d282470e3ec98ac32567f7ace44480a6f60b2d3",
@@ -1044,8 +1199,8 @@
     {
       "url": "https://en.wikipedia.org/wiki/Hewlett-Packard",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "0b1193d16f1d2feb1889ca7468005c3c75450f05d48b3b3c85ac6bbfd9d34aa0",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "7e34b1c24854a02f73498178ab4614b34b9c905b621dbe98aa86c26dcd53e8df",
       "quotes": [
         {
           "qSha256": "fca0fd345150261c73948d775eb9c08c3e0986585818930a2c38af0860bd1e92",
@@ -1062,8 +1217,8 @@
     {
       "url": "https://en.wikipedia.org/wiki/Intel",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "37599ca7a85d2b9b683a998eb0aedb6106c5186c76d6b26e881cf8d4085b386b",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "176b50f3b297d96e7b0f61a469106d26f4cf6f6f53fbd9e506d33709cd280943",
       "quotes": [
         {
           "qSha256": "9757f7c70758040570e301c7df8c83eb0a5db6c367358a56f8fe09ee8b119276",
@@ -1075,8 +1230,8 @@
     {
       "url": "https://en.wikipedia.org/wiki/James_H._Clark",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "0bbf8011aff7c02db0b899e34536081086fc63930d328c9e00ff920bfa6fb1de",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "26b888df9e8533c041fa241a0a542a7536a8a6085357865507b4061983d5fb0e",
       "quotes": [
         {
           "qSha256": "feb57d04ff1baa33e1716e00b4c3a30fbeabef5e7e4a37f269d21fe43dd152d2",
@@ -1088,7 +1243,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/James_W._Marshall",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "e7fe48cda66ca558204c9c33f095fc8a6e8b5e4b2a3885a70020d4c615a6eac2",
       "quotes": [
         {
@@ -1111,7 +1266,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Jane_Stanford",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "c237ebf801f641e9826751de87747c7f21b3d9aee7572b563bdc8cbe15a248fd",
       "quotes": [
         {
@@ -1129,8 +1284,8 @@
     {
       "url": "https://en.wikipedia.org/wiki/Jean_Hoerni",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "4a59a5fb76d4c226e6041364a534271ce98fb790bc7abd802832ee32856bd808",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "9d3ca821add201a85ad537443e6f3406d8d450b729b00d8f15d58e76d87a8849",
       "quotes": [
         {
           "qSha256": "b66d3f97771aacb723d421abb5ab36260ea51cb25ff0c3d4ca26ad509a8ee0b4",
@@ -1154,7 +1309,25 @@
         },
         {
           "qSha256": "dfa10b7c78224e265a7061885930774a453701a82672fdd4c9c5773b390d0702",
-          "q": "Jean Amédée Hoerni was born on September 26, 1924, in Geneva",
+          "q": "Jean Am\u00e9d\u00e9e Hoerni was born on September 26, 1924, in Geneva",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_A._McCone",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "355e30721545550facd20c9a1ad2876948d6e23a82831ea80735c51691468d96",
+      "quotes": [
+        {
+          "qSha256": "fa292a7261ea2d628d2cb88659e35c31da12fd2564d28a447308ecdd73e5b5d5",
+          "q": "He also founded Bechtel-McCone.",
+          "found": true
+        },
+        {
+          "qSha256": "45ecf29a46db20c2a415581c510233f534f9de0da9478b360ebb41272bd5f149",
+          "q": "was an American businessman and government official who serv",
           "found": true
         }
       ]
@@ -1162,7 +1335,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/John_Augustus_Sutter_Jr.",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "6d9aff6104dfe9304c77c06498f1f727afe38abe91666355bde3253692e90c14",
       "quotes": [
         {
@@ -1175,8 +1348,8 @@
     {
       "url": "https://en.wikipedia.org/wiki/John_Steinbeck",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "15ee58ed5d3e3a80bb3f41831f32bcc8fec9663cde3bdddaeeecd08c25c67275",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "755ebe4f302058e1c56798029ffd112560a6e73b8442165c3dc6d1899698f3a1",
       "quotes": [
         {
           "qSha256": "572e447a91e4243525ec3d8ba136ed95534d55c796851920e167a7e115f7dbba",
@@ -1218,7 +1391,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/John_Sutter",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "7932ddd562c46ed4e87799eb5e996b181feb8b6bc2df741b9b856856a4677f94",
       "quotes": [
         {
@@ -1266,7 +1439,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Figueroa",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "b6d0b7cb213e82676b03dfe4deaca372e223d5be3668e5352c2cb52581d9a579",
       "quotes": [
         {
@@ -1286,7 +1459,7 @@
         },
         {
           "qSha256": "cba6b2d0ee9db696f5a067364795c0b074cb8363b92b9f3e1f1734b593d61dbe",
-          "q": "at age nineteen and newly married to María Francisca Gutiérr",
+          "q": "at age nineteen and newly married to Mar\u00eda Francisca Guti\u00e9rr",
           "found": true
         }
       ]
@@ -1294,8 +1467,8 @@
     {
       "url": "https://en.wikipedia.org/wiki/Jun%C3%ADpero_Serra",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "8f194bd3b72bb3c00371776b66886394d5154011b3cf561cb219c85a68796bf6",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "7af38c0fd99611a8acf10a0bfc1a82e8d4e381d0bd4c8e203bdc920c0a0b3593",
       "quotes": [
         {
           "qSha256": "07b741e32fa4c4d84452464b925f5ce3a87e74d6aac2e4dcb85e22bde3f5e981",
@@ -1317,7 +1490,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Kleiner_Perkins",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "4b91e359e93f4d1ac0a5a11f609b9330b04ec84d36d17ba98351d8afff9bf491",
       "quotes": [
         {
@@ -1335,7 +1508,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Klystron",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "2c94ad5cf6f46743f46b345e5cb8b2e90ba83804c4c966f341be888b6a5dd881",
       "quotes": [
         {
@@ -1348,8 +1521,8 @@
     {
       "url": "https://en.wikipedia.org/wiki/Leland_Stanford",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "eba74769942fc3a5c75b50f5bcba8d34369710c617252505be8aa0f2c05a7fd6",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "a1ed7a0e22c33f0dffdbe8ed333074fdb0258c2ef57e9c7400f4865ffa201c51",
       "quotes": [
         {
           "qSha256": "73e14edf9997e4cb1186996a4adc9db6e56721be9b24510419c8e01934f39387",
@@ -1359,9 +1532,22 @@
       ]
     },
     {
+      "url": "https://en.wikipedia.org/wiki/Leopold_II_of_Belgium",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "64164b0369f34a259367fed3a7c6e234e6fc5111a420f8d8563b92658d56d03a",
+      "quotes": [
+        {
+          "qSha256": "a8a84913878967fa43691263ad0c940031a804c8fe591913153297f0425907be",
+          "q": "was the second king of the Belgians from 1865 to 1909 as wel",
+          "found": true
+        }
+      ]
+    },
+    {
       "url": "https://en.wikipedia.org/wiki/Lewis_Terman",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "e34b3a963c63bedb6adb68f78f671b6c63060c753e4c1f12be1fa7c3344156d1",
       "quotes": [
         {
@@ -1384,12 +1570,12 @@
     {
       "url": "https://en.wikipedia.org/wiki/Lou_Henry_Hoover",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "eb934f4ce02e6c3b4047c0e505e96684942b3fe20397cb70fc571ee802c6ebd3",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "d4e7dfbc0efddd90776b974c173d7a3593ce91f0c1b55649f4770b0ab3c93642",
       "quotes": [
         {
           "qSha256": "f8b9a2932161a5214f7c27a3fb526c5ab4eced4dd9d4b7b2081f53d2ed589b30",
-          "q": "Her mother was Florence Ida (née Weed), a former schoolteach",
+          "q": "Her mother was Florence Ida (n\u00e9e Weed), a former schoolteach",
           "found": true
         },
         {
@@ -1411,13 +1597,18 @@
           "qSha256": "0eabbb248e7dc8cf9aaa0a5c14d5413841901950fb35e8863bcca88e3561f0f9",
           "q": "They returned to China once more with Lou's sister Jean for ",
           "found": true
+        },
+        {
+          "qSha256": "07a0c4661556978d80702746dab1023a7724ed11ae196a32dbfb09206d86854a",
+          "q": "became the first woman to receive a degree in geology from t",
+          "found": true
         }
       ]
     },
     {
       "url": "https://en.wikipedia.org/wiki/Marc_Tessier-Lavigne",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "3bd24d9a8325ac0982d6b7b1a231f8f00a5455f10ac428d2b136b5828158a8d7",
       "quotes": [
         {
@@ -1430,7 +1621,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Mark_Hopkins_(railroad_executive)",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "cc312e8d357e2f642c173b5fe3d87d401eaad44f5f50584574bf4851f93c3cd9",
       "quotes": [
         {
@@ -1463,8 +1654,8 @@
     {
       "url": "https://en.wikipedia.org/wiki/Millard_Fillmore",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "5c50ae85b840e6396db4dd15707f53a23a9a1c116dd8ecade8c0bea9bd646670",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "a474712cb4789e69b217f2ec7f5947dfc8f45db6e209c93624b0c48df876ab24",
       "quotes": [
         {
           "qSha256": "38ae9a2297a9e8f9360385aca8f81dc2376a627ce4acf38d7d310bc5ce4c922b",
@@ -1476,7 +1667,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Moana_Surfrider",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "b0cfc69dfb3844c1260200b4acf718b1aa26dce734f6f976d977830b5915b317",
       "quotes": [
         {
@@ -1489,8 +1680,8 @@
     {
       "url": "https://en.wikipedia.org/wiki/Nike,_Inc.",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "4725c1a16ca2c0a484463534d7cf23a7ccffc08c7f2eae240514547373403574",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "b4d62baf3953c401673d3ab7eca204dbff989338c54f41fa071721bebb7aa8f9",
       "quotes": [
         {
           "qSha256": "def799024d212fdce90f4b26cd343ae3e5923f6435b66ce16c2aef75b14f5d1a",
@@ -1500,10 +1691,23 @@
       ]
     },
     {
+      "url": "https://en.wikipedia.org/wiki/Palantir_Technologies",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "a93cc045e1c3d2067f7dca509bb276e2bc2c148ceb2bbbe83b22bb1d77efb78d",
+      "quotes": [
+        {
+          "qSha256": "fd48ab8395af20b6357198207636b15db50d27c635791ed85e08055cf13912a2",
+          "q": "It was founded in Palo Alto, California in 2003 by Peter Thi",
+          "found": true
+        }
+      ]
+    },
+    {
       "url": "https://en.wikipedia.org/wiki/Peter_Thiel",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "15ec69e9daa65f340398d9ba4821d4833b35abc07df89a59c15dd3f1b290b116",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "57f341d7bdddaf6b397ce378e6fb0f1cc47e1042eba1bc5afb011e36552e849d",
       "quotes": [
         {
           "qSha256": "d2f270cecc52a7f93f71e643f0be89d947c4676295ec58fe6516daeec1ca062c",
@@ -1515,7 +1719,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Promontory_Summit",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "fab571c8a7c5b690da2c9380a0337a706e365bcbf31b5d901f6a7b57a6bc7b38",
       "quotes": [
         {
@@ -1526,9 +1730,48 @@
       ]
     },
     {
+      "url": "https://en.wikipedia.org/wiki/Rancho_Rinconada_del_Arroyo_de_San_Francisquito",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "a7c4c710220619d846dde355d79d9b0d9648f5419c71254a1361608d07cac38d",
+      "quotes": [
+        {
+          "qSha256": "44dcc89469a314070799fa37880cdd2ed1f8c021c94ff754f108c90f33d875d6",
+          "q": "given in 1841 by Governor Juan Alvarado to Mar\u00eda Antonia Mes",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rancho_San_Francisquito",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "439738bc19423683f5831e06af50d312d7a1e2fc4aa49e21d64d296d15459d9f",
+      "quotes": [
+        {
+          "qSha256": "aa1d20c6c25df64fe6bedfc4063f8ad56ff6ef1cd8025256cdb706006e220a8f",
+          "q": "given in 1839 by Governor Juan Alvarado to Antonio Buelna",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ray_Lyman_Wilbur",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "d95aceb07638141cd97334a91b525c46409d78a63abb045f6503164fbd31c508",
+      "quotes": [
+        {
+          "qSha256": "3da0a9781631392b46d3524af27f3f9b30dc5ec169bb95bf1513effa9e6d94d7",
+          "q": "was an American medical doctor who served as the third presi",
+          "found": true
+        }
+      ]
+    },
+    {
       "url": "https://en.wikipedia.org/wiki/Robert_A._Swanson",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "3be621a3c126f7500197a5bb15796a30d9407185578bfbc3c2dc9edb4788ffe9",
       "quotes": [
         {
@@ -1556,8 +1799,8 @@
     {
       "url": "https://en.wikipedia.org/wiki/Robert_Noyce",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "26653cdc5092e9d4bc9cbf63aba2f63f0a67549fbb7063a149a0e30f405f7c36",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "6cac29a52016734a129bfe5f57ae733f659a15df87ed35566cfa0f6dfb48440e",
       "quotes": [
         {
           "qSha256": "5ac4fdd6c7be685b7ca2632a0601127977abc67f505dc2f97f0545222c6ef9c5",
@@ -1599,7 +1842,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Russell_and_Sigurd_Varian",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "6ea4d4102bb543b5ee219ef0c7aa9f2b8a077cdc75ab3d46fc236b27945b7b80",
       "quotes": [
         {
@@ -1682,7 +1925,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Sequoia_Capital",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "1e914fb55482d46c3ee176cc0596c9aa136f97ff04edb0d0b7dc7fe56cf77d12",
       "quotes": [
         {
@@ -1695,8 +1938,8 @@
     {
       "url": "https://en.wikipedia.org/wiki/Sergey_Brin",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "7762a7192cb0a3474801aaee2f87daf535b8e3d1832f2a7f7f56fcadde8f1b74",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "96f6e0c618e7e59ca425864691227e8ccfdffaa6255e5d17c830d7a27e62125b",
       "quotes": [
         {
           "qSha256": "2477214a91a7531a38b5d37d881ba83cdcafd87607e59189ad866852da39f660",
@@ -1708,7 +1951,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Shockley_Semiconductor_Laboratory",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "2dfef5d09b137996d70475aff360d9bab01f48223ada749474b1a2ba628cad6e",
       "quotes": [
         {
@@ -1729,10 +1972,23 @@
       ]
     },
     {
+      "url": "https://en.wikipedia.org/wiki/Six_Companies,_Inc.",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "8a25f9b6d476fc2aa8791ddc32382db0534d1f14a6ff9845fdb16cf57fe7d9c5",
+      "quotes": [
+        {
+          "qSha256": "89ef375d07a9f6a3cf5970a2f0b4fd140c9301414ba7fdd1c7f72eb676500d2a",
+          "q": "Henry J. Kaiser Co. of Oakland, California and Bechtel Corpo",
+          "found": true
+        }
+      ]
+    },
+    {
       "url": "https://en.wikipedia.org/wiki/SRI_International",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "c5b1f4286799d3d4bb1ee05fb5779718e4f442849ae8fcb86b6534ecfe770fce",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "0aa2f370c3d3aa4416eefa93fcc59f46294a3f084534adac98d51502dbb4c57e",
       "quotes": [
         {
           "qSha256": "d59f61be66ef9a5fc6b657bc4a5486d29fe03bdb75ef4cb7fb3c06bb5e978284",
@@ -1749,8 +2005,8 @@
     {
       "url": "https://en.wikipedia.org/wiki/Stanford_Research_Park",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "f513be3dd8b3e56693cf244a303d6bb6ce51ebff6b191911fe7f75ff87d1ae51",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "212e1c517005cff64ef37021a429282e00d13c9bdcd335c43478ae61872e32f4",
       "quotes": [
         {
           "qSha256": "6405a20154dbb70379cd4ecb348c170a96440f604e827531eac0a803b2ebc216",
@@ -1767,8 +2023,8 @@
     {
       "url": "https://en.wikipedia.org/wiki/Stanford_University",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "167d38a82fff7bcff9760e16038fd1de218f53fdbc6bdd11102863243f5b5571",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "721e21f3027115d29529778054628f68a5344f225e94fa81f9e761c7dff980b8",
       "quotes": [
         {
           "qSha256": "b7619367009b4752e27d9b5103f1784ed555691f3e59c2a356d93b4af0330c06",
@@ -1818,9 +2074,63 @@
       ]
     },
     {
+      "url": "https://en.wikipedia.org/wiki/Stephen_Bechtel_Jr.",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "710fedb5b1b03003910fc5e5e7eb8938db77f3f66dc430fc06b5222f0193bb22",
+      "quotes": [
+        {
+          "qSha256": "f2e3f49daf03da0c2b8cbd0e8ddc27ef1ea4b82fa53c1de1cfdb4f5e29c90929",
+          "q": "He succeeded his father, Stephen Bechtel Sr., as president o",
+          "found": true
+        },
+        {
+          "qSha256": "ba74e71335d0df9d31a4018a4841cb558776b4364e8255600ac4660fb636b4d7",
+          "q": "He was the son of Stephen Davison Bechtel Sr. and grandson o",
+          "found": true
+        },
+        {
+          "qSha256": "a8cde5e28cae280de42bacbc5038eb7338bbdad925ab2165d8c19a310414ec05",
+          "q": "Stanford University (MBA)",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stephen_Bechtel_Sr.",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "a2e414dac0f99e67ef20e2ac1b83c08402d8c0ea8483784a47c47da6296426d7",
+      "quotes": [
+        {
+          "qSha256": "72e86efc5195274db3ee03b0264f8dc7e9155d6bc45fab3062a63326326fd235",
+          "q": "He was the president of the company from 1933 to 1960.",
+          "found": true
+        },
+        {
+          "qSha256": "0e19b1793c50e0abda470493a66857b2a98034dfefdc71bb33702c10da9da26b",
+          "q": "was born on September 24, 1900, in Aurora, Indiana, to Warre",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Theo_Baker",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "6f4c8a1260c510b64c137992535793813e7e44df50a2780d0442e9adcc241c2d",
+      "quotes": [
+        {
+          "qSha256": "8da0fb83e2abc19981f4479b2fb47416f9095ed48b8f5ebfc913c4a06d2f68cd",
+          "q": "is an American journalist, who is best known for his reporti",
+          "found": true
+        }
+      ]
+    },
+    {
       "url": "https://en.wikipedia.org/wiki/Theodore_Judah",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "7008f9d54323f01f78fd670031d6635f713fedc93bcaa29d5e8e15c48ce5da9d",
       "quotes": [
         {
@@ -1856,9 +2166,27 @@
       ]
     },
     {
+      "url": "https://en.wikipedia.org/wiki/Theranos",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "5a68a5f1ede86680bf78966667d9b853fb3295948d8323037da60de07c5b60b8",
+      "quotes": [
+        {
+          "qSha256": "f524ede9747f9a201c19a3dae3f282c5ba0ed263b718534d14f682fc683ee8eb",
+          "q": "Founded in 2003 by 19-year-old Elizabeth Holmes",
+          "found": true
+        },
+        {
+          "qSha256": "a5585ce6cb051b17518b056287979844b996cae0893941e34033c9bcbfe27ab1",
+          "q": "Holmes dropped out of Stanford in 2003",
+          "found": true
+        }
+      ]
+    },
+    {
       "url": "https://en.wikipedia.org/wiki/Thomas_J._Perkins",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "d1d4ea8b5a1cf2be758dda3e5d719953f0474fd23ea488e79ba8b54f0956bb5d",
       "quotes": [
         {
@@ -1886,7 +2214,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Thomas_Welton_Stanford",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "5fed8cbf7fd4975f4962d6196f0e64540cd8db446278c94893fc8d4d499cc291",
       "quotes": [
         {
@@ -1902,9 +2230,22 @@
       ]
     },
     {
+      "url": "https://en.wikipedia.org/wiki/Timothy_Hopkins",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "1680a4e824b8fd1604b18ed69d722dfd8bff9ea9777eb8ed12251aabfed41ddb",
+      "quotes": [
+        {
+          "qSha256": "1251791b2380b1e8ca191164f0ecf720f5f52ca8a859abda079e6e0d27dd72b0",
+          "q": "He was one of the founders of Palo Alto and a trustee of Sta",
+          "found": true
+        }
+      ]
+    },
+    {
       "url": "https://en.wikipedia.org/wiki/Traitorous_eight",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "b61c14fa3291b31f12868021306950f3548bcd5249a562f662dcf68a136d3b28",
       "quotes": [
         {
@@ -1927,8 +2268,8 @@
     {
       "url": "https://en.wikipedia.org/wiki/Vannevar_Bush",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "5b5996801612e33576777e55de801b729c1fa5f0f33a9ad2b4c9c010053b3771",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "7311e1219ff5ed8cc84304cbc75d7b5b0c1083481e8c9da9cbd9fcf1c679e469",
       "quotes": [
         {
           "qSha256": "821dd8d5c0d4feb95e4d6e284d7766fcd67e227b92ac53c19c3f27e0b0892233",
@@ -1970,7 +2311,7 @@
     {
       "url": "https://en.wikipedia.org/wiki/Varian_Associates",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "f926243de504355c66c9abc66eacfc409073a86e2da12a730f9ea7632289acc4",
       "quotes": [
         {
@@ -1991,6 +2332,19 @@
         {
           "qSha256": "a8ad0f862819657c5051ac1b59dadbffb3170b82213851609eb1cd7e271ebb18",
           "q": "as did Frederick Terman, dean of engineering at Stanford, an",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Warren_A._Bechtel",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "7c3d5c51dcceb1e58f650f263127320dd331939e3261acb2ce7e19b8e1a3ac8d",
+      "quotes": [
+        {
+          "qSha256": "b5c8870901f5a084c070afbbfbaf4f6d579d80da5d55af8fce64cd26368118f7",
+          "q": "was the founder of the Bechtel Corporation",
           "found": true
         }
       ]
@@ -2036,7 +2390,7 @@
     {
       "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Arthur,_Chester_Alan",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "a60b32f8115ca62ecf75134f1ed95d1ba7463185d16783facd3594f9a2822bf8",
       "quotes": [
         {
@@ -2064,7 +2418,7 @@
     {
       "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Davis,_Jefferson",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "b83eedb111ad8ec0636c2e27cd94a2a2014c546b2a800b12858cdf8fdfcc176d",
       "quotes": [
         {
@@ -2107,7 +2461,7 @@
     {
       "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Fillmore,_Millard",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "755aacb3b4865a53fe1cefbc146f23bfbe156934f3863e1026ad8c6d921c23c6",
       "quotes": [
         {
@@ -2140,7 +2494,7 @@
     {
       "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Gadsden,_James",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "46f901be9b11281d4422d3a0427cd65ffe71dbea1f9bb02b40f7d5b8fa8c0c63",
       "quotes": [
         {
@@ -2163,7 +2517,7 @@
     {
       "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Lincoln,_Abraham",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "c785c4042d426e20ec50fa24baba0980c7ce5e1eb8d2d87b662492039ecec0a0",
       "quotes": [
         {
@@ -2206,7 +2560,7 @@
     {
       "url": "https://en.wikisource.org/wiki/Appletons%27_Cyclop%C3%A6dia_of_American_Biography/Marshall,_James_Wilson",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "7691e01706bf56a1a4f59c53099f29783397d6b0eda40796f92782a246ad03d8",
       "quotes": [
         {
@@ -2224,7 +2578,7 @@
     {
       "url": "https://en.wikisource.org/wiki/Appletons%27_Cyclop%C3%A6dia_of_American_Biography/Stanford,_Leland",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "5cacfe184792a27bbc722988dc7ef0ef412f00d57299df3f3cf5cd25f566cb46",
       "quotes": [
         {
@@ -2242,7 +2596,7 @@
     {
       "url": "https://en.wikisource.org/wiki/Appletons%27_Cyclop%C3%A6dia_of_American_Biography/Sutter,_John_Augustus",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "d4ef413f8215ecb966404ec75953161a2aaf5a4b69adefa8f26c6a75ae3d5980",
       "quotes": [
         {
@@ -2255,7 +2609,7 @@
     {
       "url": "https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Jun%C3%ADpero_Serra",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "7733bb0262afefb6f24510a5ca24a33a5d67bab97a733e254242bc753d14f650",
       "quotes": [
         {
@@ -2268,7 +2622,7 @@
     {
       "url": "https://en.wikisource.org/wiki/Page:History_of_California_(Bancroft)_volume_6.djvu/50",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "6554486de2791a1856cdf64b99f2ec5b0f2aa26b390a7ee2624b62c933182209",
       "quotes": [
         {
@@ -2286,8 +2640,8 @@
     {
       "url": "https://encyclopediaofarkansas.net/entries/john-casper-branner-1597/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "d66e2e35e9a10d2c0ed0fd07f81510aa7c63606f864fe3a0bac9b0beced14363",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "7c7f3e14d2e01a31d4122aa47fca85f0cae2183c34aa1be706af40d734d928bc",
       "quotes": [
         {
           "qSha256": "a63dc5a87783c578cc18b00a86787acf1476f25a5ec1f58c510575d99e0c880f",
@@ -2309,7 +2663,7 @@
     {
       "url": "https://engineering100.stanford.edu/stories/the-foundation-of-a-new-era-in-engineering",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "c729671da5d5bc168e16d78037e1aa87d8bf4700c1600cd2695091110d235d23",
       "quotes": [
         {
@@ -2322,7 +2676,7 @@
     {
       "url": "https://erenow.org/modern/nothing-like-it-in-the-world/4.php",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "307684ebb6bc4610421e67b3d707f04294bb2547f92ed7ecf3b25906b4011040",
       "quotes": [
         {
@@ -2335,8 +2689,8 @@
     {
       "url": "https://fortune.com/2022/02/15/why-elon-musk-dropped-out-of-stanford/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "d697b8a74a2c4a6e11bab49ef81d4d1b3d0ea0f628ba4385a288ff4167617a39",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "1137289aae007b4b8e85371cbef73e090612c04b3711d889e56c82a087e909e1",
       "quotes": [
         {
           "qSha256": "778efd4e1537dfa0ca7883dbc1d7c66c279877d27278c12649b443fcbead0f78",
@@ -2348,7 +2702,7 @@
     {
       "url": "https://ginzton.stanford.edu/about-lab/history",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "1cafc335b8347e163fa5ddd4473448d8b1200e929832af09d99809755f51eacc",
       "quotes": [
         {
@@ -2366,7 +2720,7 @@
     {
       "url": "https://governors.library.ca.gov/firstladies/08-stanford.html",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "ca0e5f1399a87cbbbe02c197c9e6e5b16e6bc262c02c4a0567ee4227e043b1d7",
       "quotes": [
         {
@@ -2384,7 +2738,7 @@
     {
       "url": "https://guides.hoover.org/LouHenryHoover",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "0a03f777ae0be6a591689dbbf416fc4ca9202293e8df482b98089f65a61b5266",
       "quotes": [
         {
@@ -2397,7 +2751,7 @@
     {
       "url": "https://guides.library.stanford.edu/c.php?g=1311993&p=9846400",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "380fba8da0dfd3cfbff4487accfd8bc2de69ec93e720dde97008194b3276f058",
       "quotes": [
         {
@@ -2445,7 +2799,7 @@
     {
       "url": "https://histories.hoover.org/an-uncommon-couple/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "fb6b5edbc671ac7a4786680a752091d3fd8c58903d51addbd65a2d61208268e7",
       "quotes": [
         {
@@ -2463,7 +2817,7 @@
     {
       "url": "https://histories.hoover.org/cardinal-roots/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "333a4e368048a7be453b21ef1b6a91d2af4a81a303531074d98096e993c1e172",
       "quotes": [
         {
@@ -2491,7 +2845,7 @@
     {
       "url": "https://histories.hoover.org/hoover-today/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "089e435696a752ea4fa0ec428e15a78f1bf3bcab9ba175242bc3f5f02ca9a250",
       "quotes": [
         {
@@ -2504,7 +2858,7 @@
     {
       "url": "https://historytogo.utah.gov/post/golden-spike/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "03e482c45b7d09df7f3aab17e7c324d625732e13e49c5775b04630c18cb07cb0",
       "quotes": [
         {
@@ -2517,7 +2871,7 @@
     {
       "url": "https://hoover.archives.gov/exhibits/lou-henry-hoover",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "431839479cc7569a9dd4597b84f8a2011a5e514cd859ff926f7c6debfc6adbff",
       "quotes": [
         {
@@ -2535,7 +2889,7 @@
     {
       "url": "https://hoover.archives.gov/exhibits/years-adventure-1874-1914",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "3660e57f363cc802aefcc3410d0f9226bf50d61c74aa8d14f38419b869d5b620",
       "quotes": [
         {
@@ -2598,7 +2952,7 @@
     {
       "url": "https://hoover.archives.gov/hoovers",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "5e832e808b863a2e8c9005157bfbfa828e385f70970555f5947e1013c2e025c7",
       "quotes": [
         {
@@ -2611,7 +2965,7 @@
     {
       "url": "https://hoover.blogs.archives.gov/2015/12/29/divided-loyalties-herbert-hoover-and-the-rose-bowl/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "bc9ddb6cfd6fc810d3a300456c6a6bf92197d07e8f13c014ac1317de411de146",
       "quotes": [
         {
@@ -2624,7 +2978,7 @@
     {
       "url": "https://lemelson.mit.edu/resources/sergey-brin-and-larry-page",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "144805cd5f2065231506918d7ffa68fd72a75fa8220a095851a74ba590c7b731",
       "quotes": [
         {
@@ -2642,7 +2996,7 @@
     {
       "url": "https://malakoff.com/gpmarshl.htm",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "0b3b0799b7600e345354e011eb78e90b475b4b432faacbcb8334e00287f36b47",
       "quotes": [
         {
@@ -2655,7 +3009,7 @@
     {
       "url": "https://millercenter.org/president/hoover/essays/hoover-1929-firstlady",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "e7cb02f43f11d321965b88e9a87daf42ffa571a4b8efb614c46a1de71633ee01",
       "quotes": [
         {
@@ -2673,7 +3027,7 @@
     {
       "url": "https://npshistory.com/handbooks/historical/40/hh40q.htm",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "9643005373e5206e10837ba6812e0e5b59178ee7a8701ac30bae10f5b9d13e03",
       "quotes": [
         {
@@ -2686,7 +3040,7 @@
     {
       "url": "https://oac.cdlib.org/findaid/ark:/13030/c83n25hj",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "25749e4ffef43dab05e64403b8ee6012c910d4f0a915dc04d042abf3c2a7a3bb",
       "quotes": [
         {
@@ -2704,7 +3058,7 @@
     {
       "url": "https://oac.cdlib.org/findaid/ark:/13030/kt3p303833/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "0821e5872783e2290163c553325cfc38c13f02ee42c6cba7ff8a7bfac514f45e",
       "quotes": [
         {
@@ -2722,7 +3076,7 @@
     {
       "url": "https://oac.cdlib.org/findaid/ark:/13030/kt7f59q4cp",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "fc0cb32aeec92bd879aec1a9b2106c155299f7db84a8d292e854b0aeed05ac1e",
       "quotes": [
         {
@@ -2740,7 +3094,7 @@
     {
       "url": "https://oac.cdlib.org/findaid/ark:/13030/tf3489n6dq",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "b2ca30fe2a7a78191153e8bd6b0fbabee6c0a08a0dd27370d71326855ab4610b",
       "quotes": [
         {
@@ -2763,7 +3117,7 @@
     {
       "url": "https://oac.cdlib.org/findaid/ark:/13030/tf3f59n6bn",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "af968d4545135ff172b9952e3d48e682d7a726199455d9e0e148a951b25fe5a5",
       "quotes": [
         {
@@ -2786,7 +3140,7 @@
     {
       "url": "https://oac.cdlib.org/findaid/ark:/13030/tf4489n6p5",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "957eec2632bc7aac9a5ff3552f8939aa15eac11fb1f7708970aab9eca49bbed7",
       "quotes": [
         {
@@ -2804,7 +3158,7 @@
     {
       "url": "https://oac.cdlib.org/findaid/ark:/13030/tf767nb2bd/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "c9d35e7077762233d53aa2b5cae11aae3208d8862a3b04794f99e1dc6f70dee3",
       "quotes": [
         {
@@ -2822,7 +3176,7 @@
     {
       "url": "https://oac.cdlib.org/findaid/ark:/13030/tf8000068j",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "4edf190508d1a89314a39d6569c7780ad3a165bce330a271e8f92cbaa3563ff9",
       "quotes": [
         {
@@ -2835,7 +3189,7 @@
     {
       "url": "https://oac.cdlib.org/findaid/ark:/13030/tf8779n9jf/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "cc598bc00b82b19e6cb3236ab955c8b7d36dff13c36da370cbeeb40fe781e1c9",
       "quotes": [
         {
@@ -2848,8 +3202,8 @@
     {
       "url": "https://paloalto.org/history/varian-brothers/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "cda8f54fbcca082a458789a9fd781f42a0ce9b221a0cf3f5c08804d483550e1b",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "3aef7aeb8a63efdd9e01efb72318b7b63c76e29caf85858541298584bb9a5312",
       "quotes": [
         {
           "qSha256": "b423aab5a9f3e745cde4a86a613c43fe563fb8a329e66e68e56f5fdba86ea42a",
@@ -2866,7 +3220,7 @@
     {
       "url": "https://paloaltohistory.org/stanford-research-park-1",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "1dc8518d6a9b159d53f7ebeacec240ad468ad46fa7e0616e3d409db66f5aa8cd",
       "quotes": [
         {
@@ -2884,7 +3238,7 @@
     {
       "url": "https://physics.stanford.edu/about/our-history",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "09a3086926f753f8b6d9c8fed5be859d0686209197aa8700ed4d6294ce5191ef",
       "quotes": [
         {
@@ -2897,7 +3251,7 @@
     {
       "url": "https://psychclassics.yorku.ca/Terman/murchison.htm",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "30b99f28cfda3d3f03031203d0522a702e39821c0435dd54ab9cff86db0869c2",
       "quotes": [
         {
@@ -2935,7 +3289,7 @@
     {
       "url": "https://quake06.stanford.edu/david-starr-jordan",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "22fe0cc7486c5f1d4a90aebd85fb363a33d269d95ada26092efdf9a35e716293",
       "quotes": [
         {
@@ -2948,7 +3302,7 @@
     {
       "url": "https://quake06.stanford.edu/stanfords",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "def65e5e9fb4ede1b84794f0523f4fcc310d31ea1d61a2677d5466ac910bc807",
       "quotes": [
         {
@@ -2966,7 +3320,7 @@
     {
       "url": "https://stanforddaily.com/2024/11/11/elon-musk-stanford-work-status/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "6455c69443b95c464b9a42b446da9f9e4be8cb44d5237ef238726089241b431b",
       "quotes": [
         {
@@ -2979,8 +3333,8 @@
     {
       "url": "https://stanfordmag.org/contents/century-at-stanford",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "ac2276211176ff5f75efa94d206403f5ed0fa8655fe53314fc38dcc9817f1b2b",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "449323640f80fec295979cb6c744a0ddfe85720457562789019fb0dcdd85d0e2",
       "quotes": [
         {
           "qSha256": "a5032690030d52f0810c6d668446f537c1960d8a02a3c0dca0cb7535f8495b5e",
@@ -2997,8 +3351,8 @@
     {
       "url": "https://stanfordmag.org/contents/jane-stanford-s-allowance-saved-the-university",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "e8808d313e4bb745ed676d34839f2ab13a77dfc09fd6cbc3a38bb2df88b34919",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "dda3b56cf0cf07e6bb5a788fd15e1643d1645eaaea4398b1d6a4f7da9a817643",
       "quotes": [
         {
           "qSha256": "15f9637b956e595190a98b28508ab61e06a9bc53d476a74cce958f48510934df",
@@ -3010,8 +3364,8 @@
     {
       "url": "https://stanfordmag.org/contents/meet-the-next-president",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "eb5c01140d62d7fc0ca52d8065f7e30efee5fe47bf937aaf3432affc527ac63b",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "9867a4a60e8dc271b0a0de48e33087415db28c67ef4d3234c97f41058767c3bb",
       "quotes": [
         {
           "qSha256": "c5096e2b3a06ce65655e0689dede8673ff1b5dd9b33bf02ac5c1737402e16cd6",
@@ -3023,12 +3377,17 @@
     {
       "url": "https://stanfordmag.org/contents/who-killed-jane-stanford",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "bf4cd9baf17714d7f906b60a592f8fabf49b813fe65f0d4f55d5ba7a1a1b9031",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "f7d85462eb2983b1f2e930629ab90a7b41e7129217006bf106cc5c635b52e457",
       "quotes": [
         {
           "qSha256": "675223ab13135d7a300b2c9e6edc8fdb40fe372e966782d8bb0ca824e4870c59",
           "q": "After reviewing the autopsy report and hearing three full da",
+          "found": true
+        },
+        {
+          "qSha256": "68c6fcdd83899ab509d6667cc685c62aca42f60b811b03548bd28a652f811f74",
+          "q": "Berner had been Mrs. Stanford\u2019s companion for 30 years",
           "found": true
         },
         {
@@ -3050,13 +3409,18 @@
           "qSha256": "3fc472840c825fb61af983284b3bcfd1152e6ae78c44d9dbe41c036be770c11f",
           "q": "Upon his arrival, he quickly hired a local physician, Ernest",
           "found": true
+        },
+        {
+          "qSha256": "e92923a00bb2d5c820d7f6533e78ff84819e5400d7fc1650585484b9095e9dc6",
+          "q": "he quickly hired a local physician, Ernest Coniston Waterhou",
+          "found": true
         }
       ]
     },
     {
       "url": "https://stanfordresearchpark.com/about/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "1f6abcbee164dc96ed2d7224d37ec5129a829a8483be8c9e8e8f4007cab85928",
       "quotes": [
         {
@@ -3069,8 +3433,8 @@
     {
       "url": "https://stanfordreview.org/editors-note-3/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "baa3f2efd6ac4f202a2d899e797ec5df865058144c257d8e78e015c4d890408a",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "6d2107a823c38fefc9a5c28414a53accfefe46fa38f932a58dcc8f6658328d4c",
       "quotes": [
         {
           "qSha256": "3f88f3b739c376583aa2af2afa6f678c199dba7e36e25a524cbd92aa3b66c5eb",
@@ -3082,8 +3446,8 @@
     {
       "url": "https://stanfordreview.org/editors-note-a-needed-part-of-the-campus-discussion/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "3f9cb5aa3973c253bc79da5a5e9fab71406dcf1a1edb31119f7b54ef11bdd6a1",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "8db110910e8f87cc818eab3fffbdcd99ea4777ed2e95fe007d0653f0744ac3f9",
       "quotes": [
         {
           "qSha256": "5a699e754daf8f4200cf11dd1ce3622f5939cb14b86bb1af31a9a4fe208ee7de",
@@ -3095,8 +3459,8 @@
     {
       "url": "https://stanfordreview.org/first-editors-note-1987/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "c17025f0cc5c756aa6985a8d05cd6a209e9b572436d086ab3cf4be6efd9166ad",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "a551b03491af0bfcd612b253925b539b1eb894009141e0952d675d0cd6e8ded2",
       "quotes": [
         {
           "qSha256": "a0472a0632ead7f9392abaf113a2584de1508213ad13dd188dd5166db9a5923e",
@@ -3108,7 +3472,7 @@
     {
       "url": "https://tessier-lavigne.stanford.edu/biography",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "d4450faabb3eac3e89777db5890484b927a6f9e694cf8829a015ec2a80ecb4d7",
       "quotes": [
         {
@@ -3121,7 +3485,7 @@
     {
       "url": "https://usatoday30.usatoday.com/tech/techinvestor/corporatenews/2007-07-04-google-wojcicki_N.htm",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "2595d95eb9be91d7fa3925a3074b9d4fac990e9845b8691b698a4383993d9e25",
       "quotes": [
         {
@@ -3134,7 +3498,7 @@
     {
       "url": "https://web.archive.org/web/20080129093210/http:/www.stanford.edu/home/stanford/history/begin.html",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "79f200cb8008d1ec6c931be057ab06e5ae798e9acd97cbd8710f4a9707bef20d",
       "quotes": [
         {
@@ -3147,7 +3511,7 @@
     {
       "url": "https://web.archive.org/web/20160521025646/http:/janestanford.stanford.edu/biography.html",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "ad3af687e9086508a61ff9ff418e4722460a00b729ae8b14876cf92c006f9903",
       "quotes": [
         {
@@ -3165,8 +3529,8 @@
     {
       "url": "https://www.altaonline.com/dispatches/a36535245/jane-stanford-murder-mystery/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "a7f4135a030ae69d8387475f963c3ebef0b631e6849af8a4d8c332bc31f749ca",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "0221ae7630f58a1620b8f2a7487eca30b2f1a50f70d870c2ca5cbe37500eedfb",
       "quotes": [
         {
           "qSha256": "235c5dfdaef1bba56f791b5c60126770641a7eac35ca7dc89da87831699ad673",
@@ -3178,8 +3542,8 @@
     {
       "url": "https://www.asanet.org/edward-a-ross/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "958e67b90ad56e714f745c595e7218eb73dc51171f2874933903c1b934da43cb",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "4051c7bc8f8b06ecfaf095ce26c6b70df0b25034c263a622620afa3e713c3f96",
       "quotes": [
         {
           "qSha256": "2eba8268bd7748d5f9e3c7fe2a2c2e13f5ee32b77ca1af0fa6642f13fa05235a",
@@ -3206,7 +3570,7 @@
     {
       "url": "https://www.baybridgebio.com/blog/lessons-from-genentech.html",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "ee2edafa482622bff5cfde0c769ae62cbf1f59a307841ab25bd261d06caedbba",
       "quotes": [
         {
@@ -3219,7 +3583,7 @@
     {
       "url": "https://www.businesshalloffame.org/robert-a-swanson",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "a2fb987877a19f6a7dbf9928e0f4b1df72bf5d3f246ee8e80ee9cd6c57c57fe1",
       "quotes": [
         {
@@ -3232,8 +3596,8 @@
     {
       "url": "https://www.businessinsider.com/google-cofounders-paid-1700-garage-rent-2015-9",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "99d22574c4540cd0e343eb3ddec235ab15d91d873af42750adab1bcbcfc3d817",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "38afa9d779e966a1d24fb51859dc9066b3bdd555e3a4e5360be30d338e2e3878",
       "quotes": [
         {
           "qSha256": "99c780988a733b357b15c3a2242d125d56a5f9f4d6efe1f3ca480d7a01496b40",
@@ -3245,7 +3609,7 @@
     {
       "url": "https://www.computerhistory.org/collections/catalog/102702982",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "932f09af409dd6decc6879b25b507b87e32bc4f54428a2b97ad25ace2112a96e",
       "quotes": [
         {
@@ -3258,7 +3622,7 @@
     {
       "url": "https://www.computerhistory.org/collections/catalog/102795133",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "d5be176df0aa62b69f2449d600a5af487b24fa21fa2a4dd1335c8dc162fc8c1b",
       "quotes": [
         {
@@ -3271,8 +3635,8 @@
     {
       "url": "https://www.ebsco.com/research-starters/biography/elon-musk/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "e2f43ec2588551094ad81c663de84f3ee5656011e8abf64fc1e800fb6ef6cc4f",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "11930804811bfd543938ad478a184bb1e2f52ca7062f20244d58edb935922e15",
       "quotes": [
         {
           "qSha256": "608c8a977f30294e1af724deba374b2f2e1fb1da7ff0631070b36a49674a9a97",
@@ -3284,8 +3648,8 @@
     {
       "url": "https://www.encyclopedia.com/education/economics-magazines/knight-philip",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "22d40bcac757179299f6c04ea101409a3502638f30dd1b646f83ec6afae9dc5e",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "1f8f5f98dcbfa0685ee6c134bc54971d401da3247d9d5a2aad6cad4a98064d56",
       "quotes": [
         {
           "qSha256": "d8d24305f2565dcc18e373e74f9454f89aa612e8e69d58e4d65062aecaa6c521",
@@ -3297,8 +3661,8 @@
     {
       "url": "https://www.encyclopedia.com/people/medicine/psychology-and-psychiatry-biographies/lewis-madison-terman",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "63b8b6142d2ad7cdb70e116eb9a7dd7506595e8788feabdd1eab3dae3edf5979",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "3d5827d43950d40279f8a0bc17f195ef35bac60d183f9e3804d42d7fc7df43e2",
       "quotes": [
         {
           "qSha256": "8699525944e4921487a2aaabf1870d724298569ba8957c7b6b13cbc490ccbf5b",
@@ -3310,8 +3674,8 @@
     {
       "url": "https://www.encyclopedia.com/people/science-and-technology/technology-biographies/marc-andreessen",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "712772e096a2fa4a87afaf0f6275d4e207fb1ad2272b0cd49af7f11faa6d25b7",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "da4a65f063a2b9ab6fa575a0c0f2c711b22c63a450eaff291c9e21c873a808e4",
       "quotes": [
         {
           "qSha256": "06f2433a736d6f07c43f09b775130afca0f6158f6c906527058b005060ac94b0",
@@ -3323,7 +3687,7 @@
     {
       "url": "https://www.gene.com/about-us/leadership/our-founders",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "d0a8b76d401bc322041a425ef15eca282f97b993da9f6c8c0487712df0a7887c",
       "quotes": [
         {
@@ -3341,7 +3705,7 @@
     {
       "url": "https://www.hewlettpackardhistory.com/item/a-new-home-address/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "f8d0f933d546875713a3aa187a39e2c959e5f39c1bfd6fc147c73d6ca2a68e9d",
       "quotes": [
         {
@@ -3357,9 +3721,22 @@
       ]
     },
     {
+      "url": "https://www.hoover.org/about",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "31dd37ba9f0584a18f8267d1bbccc70aafcd3a75cae518dd62f91cd3ffdb065f",
+      "quotes": [
+        {
+          "qSha256": "9f6b0e4e20c82a48b805c324d4299038a0b399735477b29fb2dab47eb8130247",
+          "q": "On April 22, 1919, Herbert Hoover sent his wife, Lou Henry, ",
+          "found": true
+        }
+      ]
+    },
+    {
       "url": "https://www.hoover.org/about/herbert-hoover",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "e0668d5635eba84fc302a6b921c473b9b4099841a7520176a5d584e760f3796b",
       "quotes": [
         {
@@ -3372,7 +3749,7 @@
     {
       "url": "https://www.hoover.org/about/hoover-story/timeline",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "00210555d22823c54720da24e149c2c8a62915a02be14f1c68df771a1d9af766",
       "quotes": [
         {
@@ -3383,9 +3760,40 @@
       ]
     },
     {
+      "url": "https://www.hoover.org/library-archives/collections/history/africa",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "541c3018fa224641321c4882e9dc541c20a2d0ce9153e4c5dcd5de7f53113c3e",
+      "quotes": [
+        {
+          "qSha256": "337ea25f20f1218726ea32a25b5c1c6883255db9297dc973a1e2c4805da2fce7",
+          "q": "The Africa Collection had its beginnings in 1919, when the B",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.hoover.org/profiles/george-p-shultz",
+      "httpStatus": 200,
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "51dfbc5413482ce06e561cb740d2702dee69b8db7057940455f093c56c8625a6",
+      "quotes": [
+        {
+          "qSha256": "f950f20dd9897291f9ea809eed7884d9d7165100cd13b1ec53c7fb18720331b6",
+          "q": "Shultz left government service in 1974 to become president a",
+          "found": true
+        },
+        {
+          "qSha256": "80183e0177daa1f9fdb5d5f72e100fe8d23efbe4135acf9979d7ec723f2c8cd6",
+          "q": "Shultz was the Thomas W. and Susan B. Ford Distinguished Fel",
+          "found": true
+        }
+      ]
+    },
+    {
       "url": "https://www.hoover.org/research/celebrating-life-lou-henry-hoover",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "69e2fc140525f60935e7571231cfe96b124c184a679df2e9dc95a7fb474f54b4",
       "quotes": [
         {
@@ -3398,7 +3806,7 @@
     {
       "url": "https://www.hoover.org/research/ideas-and-consequences",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "d5b9cc4f1b16606dd30bf79cf43bfb186bb21d6c768000e8ca2fa7d1fac517e5",
       "quotes": [
         {
@@ -3416,7 +3824,7 @@
     {
       "url": "https://www.hoover.org/research/making-hoover-history-telegram",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "f8c0b32da69ad7d9ed9b9330d47b6167b94fd7d32e1752e54d24d5ce3efb9c50",
       "quotes": [
         {
@@ -3429,7 +3837,7 @@
     {
       "url": "https://www.ibiblio.org/lia/president/HooverLibrary/museum/Museum-Guide1.html",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "55af329955d4161f5f287ef396c6a028e2819039f7c36b23e4f33fbb2102f235",
       "quotes": [
         {
@@ -3442,7 +3850,7 @@
     {
       "url": "https://www.inaugural.senate.gov/36th-inaugural-ceremonies/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "b44da434fc349e17964bc606fe2859c35e77d96d6e364967f046653100070923",
       "quotes": [
         {
@@ -3455,8 +3863,8 @@
     {
       "url": "https://www.linkedin.com/pulse/gordon-french-has-passed-away-allan-m-french",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "c218371fe8fa05dbe2d093a8e01bfcf1d0b51f12c1de9093e1e7b68d59d8880b",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "fad720b0cb41369f7e01654e8c2ec4132620ee174a666610e66c2ffcfd0730dd",
       "quotes": [
         {
           "qSha256": "e5695541523f0ca3367bf1ebdab3679ea23fe65638ea8956ef2b4de94ca98aa9",
@@ -3468,7 +3876,7 @@
     {
       "url": "https://www.nationalacademies.org/read/6201/chapter/18",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "b5f3bc8da066c60aed0053bce5a76d9b93442e408aca02b3c2fcd0f987de7af4",
       "quotes": [
         {
@@ -3491,7 +3899,7 @@
     {
       "url": "https://www.nndb.com/people/457/000166956/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "94e40a44b5202371ac590139dfbebe34c4c18ce57c74f0a4faa7c834b6eac0fe",
       "quotes": [
         {
@@ -3529,8 +3937,8 @@
     {
       "url": "https://www.nobelprize.org/prizes/literature/1962/steinbeck/biographical/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "60fcf88cbbd75eb5cae87fe9908229093b9609642a1ecb1b8f175719a1616ab4",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "8d7eb2c6013f560c7eb30f9412a06c3e153e42c0556ba0cfd36c58ba7076666e",
       "quotes": [
         {
           "qSha256": "d37255a9fefc26cc6a3964555ac526b12e4d895fd0b33e23abe1e29c847d6227",
@@ -3552,8 +3960,8 @@
     {
       "url": "https://www.nobelprize.org/prizes/physics/1956/shockley/biographical/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "e88d935b89fec5aea65c0d3d8ae011215a5cdcf296d4a63ce89a3c4d5db5ac05",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "2a298f7602b6d6bcc0527acb0c55d1184a384345ce820e8902d680540bc60b60",
       "quotes": [
         {
           "qSha256": "4b5148abdd354757a9463f19f4e598b0a0aeba33cf40368883e5dc6ccf71df9f",
@@ -3585,8 +3993,8 @@
     {
       "url": "https://www.opb.org/television/programs/oregonexperience/article/bill-bowerman/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
-      "pageTextSha256": "ef7af5b54ad5c2f6a9842e4f63811ab0beae222c069eb699c4f8fa2a7305a20e",
+      "retrieved": "2026-11-21",
+      "pageTextSha256": "0ada88765295807d457dc4dc48ff70d6985ec5c4a32f607825fc00494786d6c3",
       "quotes": [
         {
           "qSha256": "b8c2d6cbdf81df190efaf622e7353a4a03a39981866859883f941126a79688da",
@@ -3621,7 +4029,7 @@
     {
       "url": "https://www.startup-book.com/2015/08/27/google-in-the-plex-part-1-a-technology/",
       "httpStatus": 200,
-      "retrieved": "2026-11-10",
+      "retrieved": "2026-11-21",
       "pageTextSha256": "960328011bd022939c9473f4847d9c1bdf5618313e17ac426f2fe69cbb3f9ba0",
       "quotes": [
         {

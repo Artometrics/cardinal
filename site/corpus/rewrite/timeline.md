@@ -1,21 +1,39 @@
 # Cardinal — Master Timeline
 *Every entry is in date order and has a source. ★ DEEP CUT marks a cross-book connection, irony or recurring person. "Contested" marks facts in dispute, which the narrator states in one sentence.*
 
-- **1769, Nov.** Portolá expedition names the redwood El Palo Alto. (Harris, intro)
-- **1777.** Mission Santa Clara founded. (repo ch 2-01; Madley)
-- **1839.** Rancho San Francisquito granted. (repo ch 2-04)
+- **1769, Jul 16.** Mission San Diego de Alcalá founded; Spanish occupation of Alta California begins. (event ledger)
+- **1769, Nov. 6–10.** Portolá expedition camps on San Francisquito Creek by the redwood it names El Palo Alto. Crespí writes of “great numbers of heathens… the finest and best-mannered” — the Ohlone people already living here; the Puichun on this stretch of the creek numbered about 250. (Harris, intro; InMenlo, 6 Nov 2019, quoting Crespí; Ohlone-Portolá Heritage Trail Statement of Significance, CA OHP, citing Alan K. Brown)
+  - ★ OPENING BEAT (before 1769): the land is Ohlone ground long before it has a Spanish name. Today the Muwekma Ohlone Tribe, descendants of the historic Verona Band, trace their ancestry through Missions Santa Clara, San Francisco de Asís and San Jose. (muwekma.org; Wikipedia, “Muwekma Ohlone Tribe”) Keep the beat short and in the present tense where the people are present.
+- **1776, Jun 29.** Mission San Francisco de Asís founded at what is now 320 Dolores Street. (event ledger)
+- **1777, Jan 12.** Mission Santa Clara de Asís founded at the Tamien village of So-co-is-u-ka on the Guadalupe River; its registers later total 8,536 baptisms and 6,809 burials. (repo ch 2-01; Madley; Wikipedia, “Mission Santa Clara de Asís” — totals single-source)
+- **1821, Sep 27.** Mexican independence; Alta California transfers to Mexico. (event ledger)
+- **1834, Aug 9.** Secularisation of the missions begins. (event ledger)
+- **1839.** Rancho San Francisquito (1,471 acres) granted by Governor Alvarado to Antonio Buelna; it now forms the northern part of the Stanford campus. (repo ch 2-04; Wikipedia, “Rancho San Francisquito”)
+- **1841.** Rancho Rinconada del Arroyo de San Francisquito (2,230 acres) granted to María Antonia Mesa, widow of Rafael Soto; it covers present Menlo Park and downtown Palo Alto. (Wikipedia, “Rancho Rinconada del Arroyo de San Francisquito”)
 - **1848, Jan 24 / Feb 2.** Gold at Coloma; the Treaty of Guadalupe Hidalgo is signed nine days later. (repo ch 2-05)
 - **1849.** Huntington stranded in Panama: "eight to ten deaths a day." (Rayner ch 2)
+- **1849, Oct 13.** California constitution signed at Colton Hall. (event ledger)
+- **1850, Mar 30.** Foreign Miners' Tax enacted. (event ledger)
+- **1850, Apr 22.** Act for the Government and Protection of Indians. (event ledger)
+- **1850, Sep 9.** California admitted as a state under the Compromise of 1850. (event ledger)
+- **1851, Mar 3.** California Land Act establishes the land commission. (event ledger)
+- **1853, Mar 3.** Congress appropriates $150,000 for Pacific railroad surveys. (event ledger)
+- **1853, Dec 30.** Gadsden Purchase signed. (event ledger)
 - **1856.** San Francisco Vigilance Committee, Fort Gunnybags. (repo ch 2-07)
 - **1860, Nov 9.** Judah: "I have struck a lucky streak." (Rayner, notes ch 3)
 - **1861.** Stanford elected governor. (Rayner)
+- **1861, Jan 21.** Jefferson Davis speaks for a transcontinental railroad days before leaving the Senate. (event ledger)
+- **1861, Jun 28.** Central Pacific Railroad incorporated. (event ledger) **Needs a source.**
 - **1862, Jul 1.** Pacific Railway Act. (senate.gov; Ambrose)
 - **1867, late May.** Chinese workers' strike at the Sierra summit; Crocker cuts off provisions. (Ambrose ch 11; Chang ch 7)
   - ★ DEEP CUT: Stanford himself relayed the warning about Chinese unhappiness to Huntington weeks earlier (Chang ch 7).
+  - Ledger dates the strike Jun 25; check Chang ch 7 before drafting.
 - **1869, Apr 28.** Ten miles of track in one day, won on a $10,000 bet. (Ambrose ch 16)
 - **1869, May 10.** Promontory: Stanford "swung and missed." (Ambrose ch 17)
 - **1872–78.** Muybridge photographs Stanford's horses. In between, in 1874, he killed his wife's lover; Stanford rehired him in 1876. (Harris ch 1.3)
   - ★ DEEP CUT: the man who invents cinema on the Stanford farm had just killed a man.
+  - Detail: first commission May 1872, Occident at Union Park, Sacramento; Larkyns killed October 1874, Muybridge acquitted as justifiable homicide; the Palo Alto demonstration on 15 June 1878 (Abe Edgington), Sallie Gardner on 19 June. (Mozley, *Eadweard Muybridge: The Stanford Years*, 1972, Internet Archive)
+- **1876.** Southern Pacific completes the line to Los Angeles. (event ledger) **Needs a source.**
 - **1877.** Kearney's Workingmen march on Stanford's Nob Hill mansion. (Harris ch 1.2; White-R ch 7)
 - **1878, Mar 28.** Mark Hopkins dies in his rail car at Yuma. (Rayner ch 12)
 - **1880, May 11.** Mussel Slough. (Rayner ch 13)
@@ -24,55 +42,124 @@
 - **1885.** Founding grant of the university. (repo ch 2-12)
 - **1886.** *Santa Clara County v. Southern Pacific*: J. C. Bancroft Davis's inaccurate headnote treats corporations as persons. (Winkler ch 4)
   - ★ DEEP CUT: Davis had been president of the Newburgh and New York Railway (Winkler ch 4).
+- **1886, May 10.** Yick Wo v. Hopkins decided. (event ledger)
+- **1887.** Timothy Hopkins — adopted son of Mark Hopkins’s widow and a founding Stanford trustee — buys land from the Seale estate and plats University Park; it becomes Palo Alto in 1892. (Elliott 1937, Internet Archive; Wikipedia, “Timothy Hopkins”)
+  - ★ DEEP CUT: the railroad Associate’s heir lays out the town at the university’s gate, and in 1905 (most likely) sails with Jordan to Honolulu. (Jordan, *Days of a Man* vol. 2 — see 1905, Mar.)
 - **1890.** The Stanfords travel to Bloomington to recruit David Starr Jordan. (Miller ch 4)
 - **1891, Oct 1.** Opening day; Herbert Hoover is in the pioneer class. (Harris ch 2.3)
 - **1893, Jun.** Leland Stanford dies; the estate is frozen and Jane funds the university. (White-J)
 - **1894–95.** Hoover meets Lou Henry in Branner's geology lab. (Whyte ch 2, p. 43)
   - ★ DEEP CUT: Branner had earlier paid Hoover's typhoid bills (Harris ch 2.3).
+  - Lou Henry graduates in 1898, the first woman to take a Stanford geology degree; with Hoover she translates Agricola’s *De re metallica* (1912). (Wikipedia, “Lou Henry Hoover”)
 - **1897–1908.** Hoover in Western Australia; his Sons of Gwalia mine has air "notably bad." (Whyte ch 5, p. 100)
+- **1898, Mar 28.** United States v. Wong Kim Ark decided. (event ledger)
 - **1900, May 7–Nov 14.** The Ross affair. Jane wants Ross out over speeches including "Warning Against Coolie 'Natives' and Japanese." Jordan tells Howard to "keep still." (White-J ch 16–17, p. 101)
   - ★ DEEP CUT: the railroad that ran on Chinese labor costs a professor his job for attacking it.
-- **1905, Jan 14.** Strychnine in Jane's Poland Spring water. (White-J ch 28; Miller ch 9)
+- **1901, Feb 19.** Hoover, for Bewick, Moreing, signs the memorandum with Chang Yen-mao that was meant to bind the new British company taking over China’s Kaiping coal mines. Belgian money behind the deal runs through Colonel Thys, whom Carlson calls “a close financial adviser to the King of Belgium.” Émile Francqui — “a former military officer who ten years before had helped King Leopold conquer the Congo” — arrives as Thys’s agent and becomes Hoover’s co-manager and rival. Early in 1902 Leopold buys 25,000 shares. (Carlson, *The Kaiping Mines*, 1971; Nash, *The Engineer*, 1983 — both Internet Archive loans; *Annales d’histoire économique et sociale*, 1934)
+  - ★ DEEP CUT: the king of the Congo Free State is a shareholder in the mine the Stanford geologist helped take. The Hoover–Francqui quarrel is told mainly from Hoover’s own *Memoirs*; Nash calls it “certainly possible.” Contested in tone.
+- **1905, Jan 14.** Strychnine in Jane's Poland Spring water at Nob Hill. Bertha Berner, her secretary, is the one person present at both poisonings. (White-J ch 28; Miller ch 9; Wolfe, *Stanford Magazine*, Sept/Oct 2003, summarising Cutler 2003) Berner’s length of service: “30 years” (Wolfe) vs. about 20 (Wikipedia) — unresolved.
 - **1905, Feb 28.** Jane dies at the Moana Hotel: "This a horrible death to die." (White-J ch 29, p. 173)
+- **1905, Mar 1.** In London, Justice Joyce rules in *Chang Yen-mao v. Moreing* that the Feb 1901 memorandum is binding (trial opened Jan 17; Hoover testified). Days after Jane Stanford’s death, a London court rules against the company Hoover helped float. (Nash, *The Engineer*; Carlson; *The Times*, Mar 2, 1905, p. 3, as cited) Whether Hoover was a party or only a witness is contested: Jeansonne treats him as a board-member party; a pro-Hoover statement (“That Chinese Mine,” OneMine) calls him a witness.
+  - The Court of Appeal ruled in Jan 1906 (*The Times*, Jan 25, 1906, as cited by Carlson); outcome not yet read.
 - **1905, Mar.** The inquest finds strychnine poisoning. Jordan sails to Honolulu and backs "natural causes." (White-J ch 36–38, pp. 208–217; Miller ch 9) Contested.
   - ★ DEEP CUT: the president of the university controls the narrative of its founder's death.
+  - Jordan’s own words, 1922: a “false rumor that she had been poisoned”; “Mr. Hopkins and I left at once,” with detectives Callundan and Reynolds; Dr. E. C. Waterhouse “stated that the symptoms… were totally different from those of strychnine poisoning.” (Jordan, *The Days of a Man*, vol. 2, ch. 31, Internet Archive) Reading “Mr. Hopkins” as trustee Timothy Hopkins is an inference — single-source.
+  - Jury timing is reported differently: “two minutes” (Wolfe 2003) vs. “less than ten minutes” (one secondary PDF). Richard White (2022) argues Berner is the likeliest poisoner; that is an argument, not a finding. Cutler’s 2003 book not yet in hand.
 - **1905, Mar 15.** Jordan leaves Honolulu with the body; "Tay Wang" writes to him. (White-J ch 43, p. 248)
 - **1906, Apr 18.** Earthquake; the Memorial Church spire falls. (Harris ch 2.1)
-- **1912.** Hoover joins the Stanford board of trustees. (Whyte ch 6, p. 124)
+- **1909, Apr 26.** California sterilisation law enacted. (event ledger)
+- **1912.** Hoover joins the Stanford board of trustees and campaigns for Branner as president. (Whyte ch 6, p. 124; Wikipedia, “Herbert Hoover”)
+- **1913.** John Casper Branner, Hoover’s geology mentor, becomes Stanford’s second president (to Dec 31, 1915). (Wikipedia, “John Casper Branner”; Elliott 1937)
+- **1913, May 19.** California Alien Land Law. (event ledger)
+- **1914, Oct.** Hoover’s Commission for Relief in Belgium begins; Francqui directs the Belgian Comité National, which distributes the food. After the war the leftover funds create the Belgian American Educational Foundation (Jan 9, 1920); Hoover and Francqui later create the Francqui Foundation (1932). (Wikipedia, “Commission for Relief in Belgium,” “Comité National…,” “Émile Francqui,” “Belgian American Educational Foundation” — BAEF date single-source)
+  - ★ DEEP CUT: Kaiping rivals become relief partners.
 - **1916.** Lewis Terman publishes the Stanford–Binet IQ test. (Harris ch 2.2; Stern)
   - ★ DEEP CUT: his son Fred becomes the "father of Silicon Valley" (Harris ch 2.4).
-- **1919.** Hoover War Library founded. (repo ch 3-05; Whyte)
-- **1929–33.** Hoover's presidency. (Whyte)
+  - Terman later sits on the board of the Human Betterment Foundation (founded 1928 by E. S. Gosney and Rufus von KleinSmid), which pushed compulsory sterilisation. (Wikipedia, “Human Betterment Foundation”)
+- **1916, Jan 22.** Ray Lyman Wilbur, Pioneer Class of 1896, becomes Stanford’s third president (to 1943). (Wikipedia, “Ray Lyman Wilbur”; Elliott 1937)
+- **1919.** Hoover War Library founded; on Apr 22 Hoover telegrams Lou Henry pledging $50,000 to collect material on the war. (repo ch 3-05; Whyte; Hoover Institution, “About”)
+  - ★ DEEP CUT: the same year the Belgian government gives Hoover “official Belgian documents and reports, many pertaining to the Belgian Congo and Ruanda-Urundi” — the start of the Institution’s Africa Collection. Leopold II’s colony is archived on the farm. (Hoover Institution, “History of the Collection: Africa”) Linking the gift to Francqui is interpretation, not documented cause.
+- **1920.** Lou Henry Hoover’s house on campus is completed; it is now the Stanford president’s official residence. (Wikipedia, “Lou Henry Hoover House”)
+- **1925.** Kroeber’s *Handbook of the Indians of California*: “The Costanoan group is extinct so far as all practical purposes are concerned.” (Kroeber 1925, Internet Archive) Contested by the living descendants; see 2002.
+- **1925.** Stanford Graduate School of Business founded. (event ledger)
+- **1929–33.** Hoover's presidency (Mar 4, 1929–Mar 4, 1933); Stanford president Ray Lyman Wilbur serves as his Interior Secretary the whole term. (Whyte; Wikipedia, “Herbert Hoover,” “Ray Lyman Wilbur”)
+- **1930, Sep 17.** At a Nevada rail ceremony, Interior Secretary Wilbur — still Stanford’s president — announces that the Boulder Canyon dam will be called Hoover Dam. The name fight lasts until 1947. (Stevens, *Hoover Dam*, 1988, Internet Archive loan)
+  - ★ DEEP CUT: one Stanford president names the dam for another Stanford man; Bechtel and Kaiser build it.
+- **1931.** Six Companies, Inc. is formed to build the dam; Warren “Dad” Bechtel, Henry Kaiser’s partner and mentor, joins and becomes its president; the Bechtel–Kaiser share is the largest (30%). Construction runs 1931–36. (Stevens 1988; McCartney, *Friends in High Places*, 1988; Wikipedia, “Six Companies, Inc.” — share single-source)
+  - Detail: McCartney says the name was Felix Kahn’s idea, after the Chinese tongs’ council in San Francisco — single-source.
+- **1933.** Warren Bechtel dies in Moscow; his son Stephen D. Bechtel Sr. runs the firm to 1960. (Wikipedia, “Warren A. Bechtel,” “Stephen Bechtel Sr.”)
+- **1936, Feb 29.** Frank Crowe turns Hoover Dam over to the government; Ickes accepts it the next day. (Stevens 1988)
+- **1936, Oct 5.** Steinbeck's 'The Harvest Gypsies' begins publication. (event ledger)
+- **1937, May.** Steve Bechtel and his Berkeley friend John McCone open Bechtel-McCone in Los Angeles. (McCartney 1988)
+  - ★ DEEP CUT: McCone goes on to chair the AEC (Jul 14, 1958–Jan 20, 1961) and run the CIA (Nov 29, 1961–Apr 28, 1965). McCartney also lists him as an SRI director and says Bechtel and Kaiser were among SRI’s 1946 founders — single-source; the standard account credits the Stanford trustees. (Wikipedia, “John A. McCone”; McCartney)
 - **1939.** HP in the Addison Ave garage. (repo ch 4-01)
 - **1942.** Japanese American internment on the Peninsula. (Harris ch 2.4)
 - **WWII.** Shockley's operations research raises successful anti-submarine attacks fivefold. (Harris ch 2.4)
+- **1945, Jul 1.** Vannevar Bush delivers 'Science, the Endless Frontier'. (event ledger)
+- **1946, Aug 1.** Office of Naval Research established. (event ledger)
+- **1946, Nov 6.** Stanford Research Institute established. (event ledger) **Needs a source.**
+- **1951.** Stanford Industrial Park opens. (event ledger) **Needs a source.**
 - **1953.** First Stanford Industrial Park lease goes to Varian; Terman is an investor and board member. (Harris ch 3.1)
 - **1955–56.** Lockheed moves its missiles division to Sunnyvale. (Harris ch 3.1)
 - **1956–57.** Shockley Semiconductor, then the "traitorous eight." (Harris ch 3.2)
   - ★ DEEP CUT: Shockley's later eugenics echoes Lewis Terman's (Harris ch 2.2/3.2).
+- **1959.** Planar process developed at Fairchild. (event ledger)
+- **1962, Nov 1.** Knight secures Tiger distribution rights in Kobe. (event ledger)
+- **1963.** Stephen Bechtel’s gift remodels a former Zeta Psi house as the Bechtel International Center. Stephen Jr. had taken a Stanford MBA (1948 per Wikipedia, 1947 per McCartney). (*Stanford Daily*, Nov 16, 2023; McCartney; Wikipedia, “Stephen Bechtel Jr.”)
+- **1963.** Fairchild opens assembly operations in Hong Kong. (event ledger) **Needs a source.**
+- **1965, Apr 19.** Moore's law published. (event ledger)
 - **1968, Dec 9.** Engelbart's demo at SRI, while SRI does ARPA chemical-warfare contract work. (Levine; Fisher)
   - ★ DEEP CUT
 - **1969, Apr 3.** April Third Movement occupies the Applied Electronics Lab. (Harris §III; NYT 1969)
-- **1970s.** Bechtel recruits Shultz, who rises to company president within a year. (McCartney ch 14)
+  - Ledger dates the occupation Apr 9; the movement is named for its Apr 3 meeting. Reconcile before drafting.
+- **1969, May 16.** Police tear-gas students protesting the SRI divestment. (event ledger)
+- **1969, Oct 29.** First ARPANET message, UCLA to SRI. (event ledger)
+- **1970.** Trustees set terms for the SRI divestment. (event ledger)
 - **1972.** Kleiner & Perkins starts at 3000 Sand Hill Road. (Berlin ch 15)
+- **1974.** Shultz leaves government to become president and director of Bechtel (to 1982), while joining the Stanford faculty. (McCartney ch 14; Hoover Institution, Shultz profile)
 - **1974.** Reimers files the Cohen–Boyer recombinant-DNA patent for Stanford. (Berlin pt 3)
+- **1975, Mar 5.** First Homebrew Computer Club meeting. (event ledger)
 - **1976.** Genentech; Swanson, let go by Kleiner & Perkins (payroll through the end of 1975), co-founds it. (Berlin ch 15)
+- **1979, Feb 1.** ERISA prudent man rule clarified. (event ledger)
+- **1980, Aug 12.** IBM Personal Computer development; MS-DOS licensed non-exclusively. (event ledger) **Needs a source.**
+- **1980, Oct 14.** Genentech IPO. (event ledger)
 - **1980.** Bayh–Dole Act. (Berlin ch 19; Harris ch 4.2)
 - **1981–82.** Reagan cabinet: Weinberger (Defense) and Shultz (State), both ex-Bechtel. (Denton chs 24, 35; McCartney)
   - ★ DEEP CUT
 - **1987.** Thiel founds the *Stanford Review*. (Chafkin ch 2, p. 24)
 - **1995.** Musk enrolls in Stanford and leaves "after two days," as the story goes. (Vance)
+- **1995, Apr 30.** NSFNET backbone decommissioned; the network passes to commercial operators. (event ledger)
+- **1995, Aug 9.** Netscape IPO. (event ledger)
+- **1996, Feb 8.** Section 230 enacted. (event ledger)
 - **1997, Jan.** Page's Excite pitch for BackRub includes "$300,000 to Stanford for the license." (Levy ch 1)
 - **1998.** Google in the Santa Margarita Ave. garage at $1,700/month. (Levy ch 1)
+- **1998, Sep 4.** Google incorporated. (event ledger)
 - **1999–2002.** X.com / PayPal in Palo Alto. (Soni)
-- **2003–04.** Palantir is named for the "seeing stone." (Chafkin ch 8, p. 113)
+- **2002.** The BIA denies federal acknowledgment to the Muwekma Ohlone, citing no “substantially continuous” outside identification “since 1927,” while finding that 99% of members documented descent from the Verona Band. (Wikipedia, “Muwekma Ohlone Tribe,” quoting the final determination)
+- **2002, Oct 3.** eBay acquires PayPal. (event ledger)
+- **2003, May 6.** Palantir founded in Palo Alto by Thiel, Karp and three others; named for the “seeing stone”; In-Q-Tel puts in about $2 million. (Chafkin ch 8, p. 113; Wikipedia, “Palantir Technologies,” “Alex Karp”)
+- **2006, Mar 14.** Amazon Web Services launches. (event ledger)
+- **2006, Nov 16.** Nvidia introduces CUDA. (event ledger)
 - **2008.** Sequoia hires two investors from the Stanford endowment. (Mallaby ch 13, p. 334)
   - ★ DEEP CUT
+- **2011, Jul.** Shultz joins the Theranos board. (Wikipedia, “Theranos”)
+- **2012, Apr 9.** Facebook acquires Instagram. (event ledger)
 - **2015–18.** Theranos collapses; its money came mostly from outside Sand Hill. (Mallaby ch 14, p. 340)
+  - ★ DEEP CUT: George Shultz — Bechtel president, Secretary of State, Hoover fellow — joins the Theranos board in July 2011; his grandson Tyler becomes a key source for the *Wall Street Journal*. (Wikipedia, “Theranos,” “George Shultz”)
 - **2016–18.** Cambridge Analytica. (Wylie)
+- **2018, Aug 27.** UN fact-finding mission reports on Myanmar. (event ledger)
+- **2019, Jul 24.** FTC announces $5 billion Facebook privacy settlement. (event ledger)
+- **2020, Oct 7.** Stanford’s trustees vote to take Jordan’s name off Jordan Hall (named 1917) and other sites, calling him “a leader and driving force of the eugenics movement.” His 1902 *Blood of the Nation*: “The blood of a nation determines its history.” (Stanford News, Oct 7, 2020; Jordan 1902, Internet Archive)
+  - Correction: Jordan did **not** found the Human Betterment Foundation. Gosney and von KleinSmid founded it in 1928, and it claimed Jordan as a member after his death. (Wikipedia, “Human Betterment Foundation,” “David Starr Jordan”)
+- **2020, Nov 3.** Proposition 22 passes in California. (event ledger)
+- **2022, Aug 9.** CHIPS and Science Act signed. (event ledger)
 - **2022, Nov.–2023, Jul.** Theo Baker's *Daily* reporting; Tessier-Lavigne resigns. (Baker ch 4, p. 94; stanford-special-committee-2023)
+  - Baker becomes the youngest George Polk Award recipient (2023). (Wikipedia, “Theo Baker”)
+- **2022, Nov 30.** OpenAI releases ChatGPT. (event ledger)
+- **2023, Jun 29.** Students for Fair Admissions decided. (event ledger)
+- **2023, Nov 17.** OpenAI board removes its chief executive; reversed within five days. (event ledger)
 - **2025, Jan 20.** Second Trump inauguration with tech founders present; then DOGE. (Siddiqui; press coverage, still needs a source)
-- **Recurring people:** Stanford (Eps 2–4); Huntington (2–3); Jordan (4–5); Hoover (4–8, via the Hoover Institution); Terman father and son (5–6); Shultz (Chicago business-school dean → Bechtel → State → Hoover Institution at Stanford); Thiel (7–8); Musk (7–8).
+- **Recurring people:** Stanford (Eps 2–4); Huntington (2–3); Jordan (4–5); Hoover (4–8, via the Hoover Institution); Lou Henry Hoover (4–5); Branner (4, Hoover’s mentor and second president); Wilbur (4–5, president and Hoover’s Interior Secretary, names the dam); Timothy Hopkins (3–4, Palo Alto’s founder, Honolulu 1905); Francqui and Leopold II (4, Kaiping → CRB → Africa Collection); Bechtel father and son with Kaiser and McCone (4–6); Terman father and son (5–6); Shultz (Chicago business-school dean → Bechtel → State → Hoover Institution at Stanford → Theranos board); Thiel (7–8); Musk (7–8); the Muwekma Ohlone (open, 1925, 2002, present).
 
 ## Needs-a-source list: status
 - **Michigan Bluff "500% markups":** not found in Harris, Rayner, White-R or Chang. **CUT.**
@@ -88,3 +175,9 @@
 - **Bohemian Grove:** two sources (Denton, McCartney). Allowed as a detail only.
 - **Remote viewing (Jacobsen):** **CUT.**
 - **Facebook scenes:** the Levy MOBI isn't converted yet (calibre not installed). Use the FTC 2019 report meanwhile.
+- **Kaiping / Leopold II / Francqui:** **SOURCED** (Nash 1983, Carlson 1971 — Internet Archive loans; Annales 1934). Hoover party-vs-witness: **CONTESTED**, say so in one sentence.
+- **Jane Stanford’s death and Jordan:** inquest and Jordan’s Waterhouse account **SOURCED** (Wolfe 2003; Jordan 1922). Cutler 2003 still to borrow; jury timing and Berner’s tenure unresolved.
+- **Six Companies / Wilbur naming the dam:** **SOURCED** (Stevens 1988). Kahn naming story and Bechtel–Kaiser SRI founding: single-source (McCartney).
+- **Bechtel Sr. and Allen Dulles (power matrix):** not found in any source this pass. **Unverified — do not use** until sourced.
+- **Jordan and the Human Betterment Foundation:** the earlier “Jordan establishes the HBF” line is **WRONG** (founded 1928 by Gosney and von KleinSmid). Corrected in the power matrix.
+- **Crespí diary primary (Bolton 1927):** still to read; using InMenlo’s quotation for now.
