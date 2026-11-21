@@ -1,0 +1,28 @@
+---
+import Base from '../../../layouts/Base.astro';
+import NotesSubnav from '../../../components/NotesSubnav.astro';
+import { getSources } from '../../../lib/research';
+
+const sources = getSources();
+---
+
+<Base title="Source Cliff Notes" description="Bullet summaries of each close-reading source, and gaps for books not yet read.">
+  <article class="doc wide">
+    <h1 class="page-title">Sources</h1>
+    <p class="lede">
+      What each source argues, the key facts, the best quotes with page cites, and how it connects to Cardinal. Books without
+      filed notes are listed as gaps.
+    </p>
+    <NotesSubnav section="study" current="sources" />
+    <div class="catalog">
+      {
+        sources.map((source) => (
+          <a href={`/study/sources/${source.slug}`}>
+            <span class="ct">{source.title || source.slug}</span>
+            <span class="ck">{[source.author, source.status.replace('_', ' ')].filter(Boolean).join(' · ')}</span>
+          </a>
+        ))
+      }
+    </div>
+  </article>
+</Base>

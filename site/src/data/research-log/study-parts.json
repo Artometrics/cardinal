@@ -1,0 +1,1053 @@
+[
+  {
+    "slug": "land-monopoly-and-institution",
+    "name": "Act I — Land, Monopoly, and Institution",
+    "subtitle": "How California Assembled the Machinery That Would Later Think, Govern, and Project Power (1769–1905)",
+    "dates": "1769–1905",
+    "theme": "California does not stumble into power. It is engineered into it — first through land, then through law, then through an institution designed to outlast all of it.",
+    "mechanism": "California does not stumble into power. It is engineered into it — first through land, then through law, then through an institution designed to outlast all of it.",
+    "landing": "California's machinery is complete. It is ready to think.",
+    "questions": [
+      "How does power begin before markets exist?",
+      "How does empire govern without settlers?",
+      "What happens when institutions inherit territory without capacity?",
+      "How does monopoly form before capitalism?",
+      "How does conquest become capital?",
+      "What happens when extraction meets weak institutions?",
+      "Who governs when the state cannot?",
+      "Why does the railroad run where it runs?",
+      "How does infrastructure become sovereignty?",
+      "How is monopoly made permanent?",
+      "How does power stabilise itself socially?",
+      "How does power outlive its founders?",
+      "What happens when the founders disappear but the institution remains?"
+    ],
+    "chapters": [
+      {
+        "id": "2-01-mission-system",
+        "file": "ch/2-01-mission-system.qmd",
+        "title": "The Mission System: Land, Labour, and Records",
+        "dates": "1769–1821",
+        "href": "/research/ch/2-01-mission-system"
+      },
+      {
+        "id": "2-02-presidio-paper-state",
+        "file": "ch/2-02-presidio-paper-state.qmd",
+        "title": "Presidio, Port, and the Paper State",
+        "dates": "1776–1821",
+        "href": "/research/ch/2-02-presidio-paper-state"
+      },
+      {
+        "id": "2-03-thin-sovereignty",
+        "file": "ch/2-03-thin-sovereignty.qmd",
+        "title": "Mexican California and Thin Sovereignty",
+        "dates": "1821–1834",
+        "href": "/research/ch/2-03-thin-sovereignty"
+      },
+      {
+        "id": "2-04-secularization-rancho",
+        "file": "ch/2-04-secularization-rancho.qmd",
+        "title": "Secularisation and Rancho Power",
+        "dates": "1834–1846",
+        "href": "/research/ch/2-04-secularization-rancho"
+      },
+      {
+        "id": "2-05-war-paperwork",
+        "file": "ch/2-05-war-paperwork.qmd",
+        "title": "War, Occupation, and the Power of Paperwork",
+        "dates": "1846–1848",
+        "href": "/research/ch/2-05-war-paperwork"
+      },
+      {
+        "id": "2-06-gold-incentive-shock",
+        "file": "ch/2-06-gold-incentive-shock.qmd",
+        "title": "Gold and the Incentive Shock",
+        "dates": "1848–1856",
+        "href": "/research/ch/2-06-gold-incentive-shock"
+      },
+      {
+        "id": "2-07-statehood-private-governance",
+        "file": "ch/2-07-statehood-private-governance.qmd",
+        "title": "Statehood and Private Governance",
+        "dates": "1849–1856",
+        "href": "/research/ch/2-07-statehood-private-governance"
+      },
+      {
+        "id": "2-08-vacant-chairs",
+        "file": "ch/2-08-vacant-chairs.qmd",
+        "title": "The Vacant Chairs: How Secession Chose the Route",
+        "dates": "1853–1862",
+        "href": "/research/ch/2-08-vacant-chairs"
+      },
+      {
+        "id": "2-09-railroads-first-monopoly",
+        "file": "ch/2-09-railroads-first-monopoly.qmd",
+        "title": "Railroads and the First California Monopoly",
+        "dates": "1862–1869",
+        "href": "/research/ch/2-09-railroads-first-monopoly"
+      },
+      {
+        "id": "2-10-law-as-armor",
+        "file": "ch/2-10-law-as-armor.qmd",
+        "title": "Law as Monopoly Armour",
+        "dates": "1869–1890",
+        "href": "/research/ch/2-10-law-as-armor"
+      },
+      {
+        "id": "2-11-exclusion-scapegoat",
+        "file": "ch/2-11-exclusion-scapegoat.qmd",
+        "title": "Labour, Exclusion, and the Scapegoat Economy",
+        "dates": "1870s–1890s",
+        "href": "/research/ch/2-11-exclusion-scapegoat"
+      },
+      {
+        "id": "2-12-converting-monopoly-permanence",
+        "file": "ch/2-12-converting-monopoly-permanence.qmd",
+        "title": "Stanford University: Converting Monopoly into Permanence",
+        "dates": "1884–1893",
+        "href": "/research/ch/2-12-converting-monopoly-permanence"
+      },
+      {
+        "id": "2-13-widow-will-machine",
+        "file": "ch/2-13-widow-will-machine.qmd",
+        "title": "The Widow, the Will, and the Machine That Survived Its Makers",
+        "dates": "1893–1905",
+        "href": "/research/ch/2-13-widow-will-machine"
+      }
+    ],
+    "keyPeople": [],
+    "keyDates": [
+      {
+        "date": "",
+        "event": "Congress authorised $150,000 on 3 March 1853 for the War Department to survey routes from the Mississippi to the Pacific",
+        "cite": "Military Appropriations Act of 1853, ch. 98, §§10–11, via CPRR Museum transcription of the Secretary of War's 1853 Annual Report"
+      },
+      {
+        "date": "",
+        "event": "The survey was directed by Secretary of War Jefferson Davis, using the Corps of Topographical Engineers",
+        "cite": "US Capitol Visitor Center, amendment to H.R. 336, 24 February 1853; War Dept. Annual Report 1853"
+      },
+      {
+        "date": "",
+        "event": "Four corridors were surveyed: 47th–49th, 37th–39th, 35th, and 32nd parallels",
+        "cite": "Baylor University, The Texas Collection; NPS handbook"
+      },
+      {
+        "date": "",
+        "event": "The report ran to twelve volumes and was submitted in early 1855",
+        "cite": "NPS handbook; Pacific Railway Acts legislative history"
+      },
+      {
+        "date": "",
+        "event": "Every field commander reported having found the most practicable route, leaving Congress without a decision",
+        "cite": "*American Heritage*, \"Death Stalked the Grand Reconnaissance\" (Oct. 1972)"
+      },
+      {
+        "date": "",
+        "event": "Davis concluded for the 32nd parallel and announced it to Congress in 1856",
+        "cite": "*American Heritage* (1972); US Capitol Visitor Center"
+      },
+      {
+        "date": "",
+        "event": "The 32nd-parallel route was under 1,700 miles, estimated at about $72 million, with lower elevations, milder winters, and organised territory throughout",
+        "cite": "Baylor University, The Texas Collection"
+      },
+      {
+        "date": "",
+        "event": "Sectional competition prevented passage of any transcontinental railroad bill through the 1850s",
+        "cite": "US Senate Historical Office, \"Landmark Legislation: The Pacific Railway Act of 1862\""
+      }
+    ],
+    "keyMoney": [
+      {
+        "text": "Congress authorised $150,000 on 3 March 1853 for the War Department to survey routes from the Mississippi to the Pacific",
+        "cite": "Military Appropriations Act of 1853, ch. 98, §§10–11, via CPRR Museum transcription of the Secretary of War's 1853 Annual Report",
+        "source": "Manuscript research log — Act I, ch. 8 — The Vacant Chairs"
+      },
+      {
+        "text": "The 32nd-parallel route was under 1,700 miles, estimated at about $72 million, with lower elevations, milder winters, and organised territory throughout",
+        "cite": "Baylor University, The Texas Collection",
+        "source": "Manuscript research log — Act I, ch. 8 — The Vacant Chairs"
+      }
+    ],
+    "takeaways": [
+      {
+        "text": "California does not stumble into power. It is engineered into it — first through land, then through law, then through an institution designed to outlast all of it.",
+        "source": "Locked outline (act theme)"
+      },
+      {
+        "text": "California's machinery is complete. It is ready to think.",
+        "source": "Locked outline (act landing)"
+      },
+      {
+        "text": "Core question from the locked outline: How does power begin before markets exist?",
+        "source": "Locked outline (core questions)"
+      },
+      {
+        "text": "Core question from the locked outline: How does empire govern without settlers?",
+        "source": "Locked outline (core questions)"
+      },
+      {
+        "text": "Core question from the locked outline: What happens when institutions inherit territory without capacity?",
+        "source": "Locked outline (core questions)"
+      },
+      {
+        "text": "Core question from the locked outline: How does monopoly form before capitalism?",
+        "source": "Locked outline (core questions)"
+      },
+      {
+        "text": "Core question from the locked outline: How does conquest become capital?",
+        "source": "Locked outline (core questions)"
+      },
+      {
+        "text": "Core question from the locked outline: What happens when extraction meets weak institutions?",
+        "source": "Locked outline (core questions)"
+      }
+    ],
+    "gaps": [
+      "No close-reading people list for this part yet."
+    ]
+  },
+  {
+    "slug": "hoover-war-and-the-archive-state",
+    "name": "Act II — Hoover, War, and the Archive State",
+    "subtitle": "How California's Institutional Class Learns to Manage Crises, Information, and Global Logistics (1895–1945)",
+    "dates": "1895–1945",
+    "theme": "The Stanford pipeline produces its first world-historical figure. Hoover proves the model — technical training plus capital access plus institutional network equals global leverage. The Second World War industrialises the insight.",
+    "mechanism": "The Stanford pipeline produces its first world-historical figure. Hoover proves the model — technical training plus capital access plus institutional network equals global leverage. The Second World War industrialises the insight.",
+    "landing": "California has learned to think at the scale of empire. The machinery is about to produce its first self-sustaining industry.",
+    "questions": [
+      "What does the Stanford pipeline produce?",
+      "How is the pre-war elite formed?",
+      "How does an institution justify inequality?",
+      "What is power when armies cannot move without food?",
+      "Who controls the past controls the present?",
+      "How does an institution become a bridge between private money and public authority?",
+      "What does the pipeline look like from outside it?",
+      "What happens when the governing story breaks down?",
+      "How does crisis select for ecosystems?",
+      "How does wartime research become peacetime monopoly?",
+      "Why does federal money route through universities?",
+      "What changes when a state becomes strategically indispensable?",
+      "How does a temporary emergency become a permanent structure?"
+    ],
+    "chapters": [
+      {
+        "id": "3-01-stanford-prototype-hoover",
+        "file": "ch/3-01-stanford-prototype-hoover.qmd",
+        "title": "The Stanford Prototype: Herbert Hoover",
+        "dates": "1891–1900",
+        "href": "/research/ch/3-01-stanford-prototype-hoover"
+      },
+      {
+        "id": "3-02-mining-empire-frontier",
+        "file": "ch/3-02-mining-empire-frontier.qmd",
+        "title": "Mining, Empire, and the Global Frontier",
+        "dates": "1897–1914",
+        "href": "/research/ch/3-02-mining-empire-frontier"
+      },
+      {
+        "id": "3-03-eugenics-social-control",
+        "file": "ch/3-03-eugenics-social-control.qmd",
+        "title": "Eugenics, Jordan, and the Science of Social Control",
+        "dates": "1900–1913",
+        "href": "/research/ch/3-03-eugenics-social-control"
+      },
+      {
+        "id": "3-04-logistics-state",
+        "file": "ch/3-04-logistics-state.qmd",
+        "title": "The Logistics State",
+        "dates": "1914–1919",
+        "href": "/research/ch/3-04-logistics-state"
+      },
+      {
+        "id": "3-05-archive-as-power",
+        "file": "ch/3-05-archive-as-power.qmd",
+        "title": "Archive as Power: The Hoover Collection",
+        "dates": "1919",
+        "href": "/research/ch/3-05-archive-as-power"
+      },
+      {
+        "id": "3-06-credentialing-interface",
+        "file": "ch/3-06-credentialing-interface.qmd",
+        "title": "The Credentialing Interface",
+        "dates": "1919–1929",
+        "href": "/research/ch/3-06-credentialing-interface"
+      },
+      {
+        "id": "3-07-witness-who-did-not-graduate",
+        "file": "ch/3-07-witness-who-did-not-graduate.qmd",
+        "title": "The Witness Who Did Not Graduate: Steinbeck and the Counter-Archive",
+        "dates": "1919–1939",
+        "href": "/research/ch/3-07-witness-who-did-not-graduate"
+      },
+      {
+        "id": "3-08-depression-interpretation",
+        "file": "ch/3-08-depression-interpretation.qmd",
+        "title": "The Depression and the Stakes of Interpretation",
+        "dates": "1929–1939",
+        "href": "/research/ch/3-08-depression-interpretation"
+      },
+      {
+        "id": "3-09-total-war-filter",
+        "file": "ch/3-09-total-war-filter.qmd",
+        "title": "Total War and the Institutional Filter",
+        "dates": "1939–1941",
+        "href": "/research/ch/3-09-total-war-filter"
+      },
+      {
+        "id": "3-10-terman-research-university",
+        "file": "ch/3-10-terman-research-university.qmd",
+        "title": "Frederick Terman and the Research University",
+        "dates": "1942–1945",
+        "href": "/research/ch/3-10-terman-research-university"
+      },
+      {
+        "id": "3-11-university-contractor-state",
+        "file": "ch/3-11-university-contractor-state.qmd",
+        "title": "The University–Contractor–State Triangle",
+        "dates": "1942–1945",
+        "href": "/research/ch/3-11-university-contractor-state"
+      },
+      {
+        "id": "3-12-california-reclassified",
+        "file": "ch/3-12-california-reclassified.qmd",
+        "title": "California Reclassified: From Frontier to Arsenal",
+        "dates": "1945",
+        "href": "/research/ch/3-12-california-reclassified"
+      },
+      {
+        "id": "3-13-the-hand-off",
+        "file": "ch/3-13-the-hand-off.qmd",
+        "title": "The Hand-Off: From War Capacity to System Design",
+        "dates": "1945",
+        "href": "/research/ch/3-13-the-hand-off"
+      }
+    ],
+    "keyPeople": [
+      {
+        "name": "Benjamin Harrison",
+        "note": "Benjamin Harrison — former president made to pay admission at a Stanford baseball game — p. 38.",
+        "cite": "**Benjamin Harrison** — former president made to pay admission at a Stanford baseball game — p. 38."
+      },
+      {
+        "name": "Burt Brown Barker",
+        "note": "Burt Brown Barker — Salem boyhood friend; Univ. of Chicago and Harvard Law — pp. 30, 44 n.",
+        "cite": "pp. 30, 44 "
+      },
+      {
+        "name": "Charles Algernon Moreing",
+        "note": "Charles Algernon Moreing — Bewick, Moreing principal — pp. 50–51, 58, 65.",
+        "cite": "**Charles Algernon Moreing** — Bewick, Moreing principal — pp. 50–51, 58, 65."
+      },
+      {
+        "name": "Curtis H. Lindley",
+        "note": "Curtis H. Lindley — North Star's lead defense attorney — p. 47.",
+        "cite": "**Curtis H. Lindley** — North Star's lead defense attorney — p. 47."
+      },
+      {
+        "name": "Dr. Henry John Minthorn",
+        "note": "Dr. Henry John Minthorn — uncle; Union Army 1864; Jefferson Medical College; founder/superintendent Friends Pacific Academy (Newberg); later president Oregon Land Co.; wiped out in Panic of 1893 — pp. 5–6, 19–23, 26, 45.",
+        "cite": "**Dr. Henry John Minthorn** — uncle; Union Army 1864; Jefferson Medical College; founder/superintendent Friends Pacific Academy (Newberg); later president Oregon Land Co.; wiped out in Panic of 1893 — pp. 5–6, 19–23, 26, 45."
+      },
+      {
+        "name": "Edward Hooper",
+        "note": "Edward Hooper (head of operations Down Under), Ernest Williams (Welsh MD in Australia), Deane Mitchell, George Wilson (Stanford friends hired) — pp. 56–60.",
+        "cite": "**Edward Hooper** (head of operations Down Under), **Ernest Williams** (Welsh MD in Australia), **Deane Mitchell**, **George Wilson** (Stanford friends hired) — pp. 56–60."
+      },
+      {
+        "name": "Fred Williams",
+        "note": "Fred Williams — son of a Salem banker, fellow exam failer; Hoover tutored him for pay — p. 34.",
+        "cite": "**Fred Williams** — son of a Salem banker, fellow exam failer; Hoover tutored him for pay — p. 34."
+      },
+      {
+        "name": "Harriette Miles",
+        "note": "Harriette Miles — cousin; Hoover paid her way at Stanford; rumor of romance — pp. 42, 60–62.",
+        "cite": "**Harriette Miles** — cousin; Hoover paid her way at Stanford; rumor of romance — pp. 42, 60–62."
+      },
+      {
+        "name": "Hulda Minthorn Hoover",
+        "note": "Hulda Minthorn Hoover — Quaker minister, WCTU secretary, suffrage advocate — pp. 7–8, 15–17.",
+        "cite": "**Hulda Minthorn Hoover** — Quaker minister, WCTU secretary, suffrage advocate — pp. 7–8, 15–17."
+      },
+      {
+        "name": "Jennie Gray",
+        "note": "Jennie Gray, Evangeline \"Vannie\" Martin — teachers/patrons — pp. 23, 30–32, 44 n.",
+        "cite": "**Jennie Gray**, **Evangeline \"Vannie\" Martin** — teachers/patrons — pp. 23, 30–32, 44 n."
+      },
+      {
+        "name": "Jesse Clark Hoover",
+        "note": "Jesse Clark Hoover (blacksmith, implement dealer, town councilman/assessor) — pp. 4, 11.",
+        "cite": "**Jesse Clark Hoover** (blacksmith, implement dealer, town councilman/assessor) — pp. 4, 11."
+      },
+      {
+        "name": "John Casper Branner",
+        "note": "John Casper Branner — geology chair; had done research for Thomas Edison and worked in Brazil for a Boston gold-mining concern — pp. 36, 48.",
+        "cite": "**John Casper Branner** — geology chair; had done research for Thomas Edison and worked in Brazil for a Boston gold-mining concern — pp. 36, 48."
+      }
+    ],
+    "keyDates": [
+      {
+        "date": "1738",
+        "event": "Hoover ancestors (Swiss-German) land in Pennsylvania",
+        "cite": "p. 6"
+      },
+      {
+        "date": "1854",
+        "event": "Jesse Hoover, age 8, migrates with family from Miami County, Ohio, to West Branch, Iowa",
+        "cite": "pp. 6–7"
+      },
+      {
+        "date": "1859",
+        "event": "Minthorn family (incl. Hulda, 11) crosses from Norwich, Ontario, to a farm near West Branch",
+        "cite": "p. 7"
+      },
+      {
+        "date": "1869",
+        "event": "Grant's \"President's Quaker Policy\" outsources Plains Indian administration to the Friends",
+        "cite": "p. 16"
+      },
+      {
+        "date": "Mar 12, 1870",
+        "event": "Jesse Hoover marries Hulda Minthorn (Methodist pastor A. M. Smith officiates)",
+        "cite": "p. 8"
+      },
+      {
+        "date": "Aug 10/11, 1874",
+        "event": "Herbert Clark Hoover born, West Branch (date is an estimate; he switched between 10 and 11)",
+        "cite": "pp. 4–5, p. 25 n.*¹"
+      },
+      {
+        "date": "1873–74",
+        "event": "Hoover conceived during the Panic of 1873 (~14% unemployment, 18,000 business failures over two years)",
+        "cite": "pp. 10–11"
+      },
+      {
+        "date": "c. 1876–77",
+        "event": "Croup nearly kills 2-year-old Herbert; uncle Dr. Henry John Minthorn revives him",
+        "cite": "pp. 5–6"
+      },
+      {
+        "date": "1878",
+        "event": "Jesse sells blacksmith business for $1,000, opens farm-implement store (sells barbed wire)",
+        "cite": "p. 11"
+      },
+      {
+        "date": "Dec 13, 1880",
+        "event": "Jesse Hoover dies, age 34",
+        "cite": "p. 12"
+      },
+      {
+        "date": "1883",
+        "event": "Hulda given the \"gift of ministry\"",
+        "cite": "pp. 15–16"
+      },
+      {
+        "date": "Feb 24, 1884",
+        "event": "Hulda Hoover dies, age 35 (pneumonia complicated by typhoid)",
+        "cite": "p. 17"
+      },
+      {
+        "date": "1884",
+        "event": "Lawrie Tatum appointed guardian; children's joint estate ~ $2,000",
+        "cite": "p. 18"
+      },
+      {
+        "date": "Oct 1885 (2 months after 11th birthday)",
+        "event": "Hoover sent by emigrant train to Newberg, Oregon ($33 ticket from his estate share; two dimes in pocket)",
+        "cite": "p. 19"
+      },
+      {
+        "date": "1888",
+        "event": "Minthorn becomes partner/president of Oregon Land Company, Salem; firm raised $20,000",
+        "cite": "p. 26"
+      },
+      {
+        "date": "1888–91",
+        "event": "Hoover (14+) office boy at Oregon Land Co., $20/month, later $35",
+        "cite": "pp. 27–29"
+      },
+      {
+        "date": "1890",
+        "event": "Oregon Land Co. capital stock reaches $200,000",
+        "cite": "p. 28"
+      },
+      {
+        "date": "Summer 1891",
+        "event": "Hoover sits Stanford entrance exams in Portland, administered by Joseph Swain; \"came up short\"",
+        "cite": "p. 33"
+      },
+      {
+        "date": "Aug 29, 1891",
+        "event": "Hoover leaves Salem for San Francisco",
+        "cite": "p. 33"
+      },
+      {
+        "date": "Oct 1, 1891",
+        "event": "Classes begin at Stanford; Hoover in first room assignment at Encina Hall",
+        "cite": "p. 35"
+      },
+      {
+        "date": "1892 (2nd semester)",
+        "event": "Hoover becomes office assistant to John Casper Branner, $25/month",
+        "cite": "p. 36"
+      },
+      {
+        "date": "Summers 1894 & 1895 (before/after senior year)",
+        "event": "Assistant to USGS geologist Waldemar Lindgren in the Sierra",
+        "cite": "pp. 39–41"
+      },
+      {
+        "date": "Fall 1894",
+        "event": "Lou Henry, freshman from Monterey, enters Branner's geology program; meets Hoover in geology lab",
+        "cite": "p. 43"
+      },
+      {
+        "date": "Spring 1895",
+        "event": "Hoover graduates, age 20, AB in geology",
+        "cite": "p. 44"
+      },
+      {
+        "date": "Fall 1895",
+        "event": "USGS job ($1,200/yr) lost to appropriation cuts (Panic of 1893)",
+        "cite": "p. 45"
+      },
+      {
+        "date": "1895",
+        "event": "Mucker at Reward Mine (Nevada City/Grass Valley, Calif.), $2/day; then Mayflower Mine graveyard shift $2.50/day",
+        "cite": "pp. 45–46"
+      },
+      {
+        "date": "Christmas 1895",
+        "event": "Has saved $100; moves to Oakland (Twelfth St.) with Theodore and May",
+        "cite": "p. 46"
+      },
+      {
+        "date": "c. early 1896",
+        "event": "Joins Louis Janin, San Francisco; tied to North Star Mining Co. defense in $825,000 suit by Carson City Gold & Silver Co.",
+        "cite": "pp. 46–48"
+      },
+      {
+        "date": "Spring 1896",
+        "event": "Mine scout in the Southwest for Janin",
+        "cite": "p. 48"
+      },
+      {
+        "date": "Oct 1896",
+        "event": "Bewick, Moreing & Co. (London) cables SF for American engineers for W. Australia; $5,000/yr; minimum age 35; Hoover is 22",
+        "cite": "p. 49"
+      },
+      {
+        "date": "Mar 24, 1897",
+        "event": "Leaves San Francisco; stops in West Branch; London",
+        "cite": "p. 50"
+      },
+      {
+        "date": "Apr 16, 1897",
+        "event": "Leaves London by mail train to Brindisi; SS *Victoria* via Suez",
+        "cite": "p. 51"
+      },
+      {
+        "date": "May 1897",
+        "event": "Arrives Albany, W. Australia (5 days' smallpox quarantine), then Perth, Coolgardie",
+        "cite": "p. 54"
+      },
+      {
+        "date": "Jun 16, 1897",
+        "event": "Journeys north to Lawlers; first sees Sons of Gwalia lease",
+        "cite": "p. 56"
+      },
+      {
+        "date": "Late Aug 1897",
+        "event": "Examines Sons of Gwalia; recommends purchase (\"half a million dollars in profit\" in ore in sight)",
+        "cite": "p. 56"
+      },
+      {
+        "date": "By end 1897",
+        "event": "Sons of Gwalia under Hoover produces 5,667 oz gold; London committed a half million in cash",
+        "cite": "p. 56"
+      },
+      {
+        "date": "Nov 1897",
+        "event": "Raise to $10,000/yr; promoted junior partner (\"pardner\")",
+        "cite": "p. 57"
+      },
+      {
+        "date": "Jul 4, 1898",
+        "event": "Sets off 400 lb of dynamite at a remote mine to celebrate",
+        "cite": "p. 64"
+      },
+      {
+        "date": "Late 1898",
+        "event": "Plot against MD Ernest Williams discovered; Williams calls for dismissal; Moreing, back from China, sends Hoover to Tientsin",
+        "cite": "pp. 64–65"
+      },
+      {
+        "date": "1963",
+        "event": "Sons of Gwalia finally closes",
+        "cite": "p. 56"
+      },
+      {
+        "date": "",
+        "event": "Steinbeck attended Stanford intermittently 1919–1925 and never earned a degree",
+        "cite": "Nobel Prize Foundation biographical Q&A; SJSU Center for Steinbeck Studies chronology; Stanford Historical Society, \"Steinbeck at Stanford\" (2020)"
+      },
+      {
+        "date": "",
+        "event": "He accumulated 93 units over six years, reaching the status of a junior",
+        "cite": "*Stanford Daily*, 7 June 2012, \"Steinbeck at Stanford\""
+      },
+      {
+        "date": "",
+        "event": "He enrolled to satisfy his parents, chiefly his mother, and selected only courses that interested him",
+        "cite": "SJSU Center for Steinbeck Studies, \"John Steinbeck, American Writer\"; Kevin Hearle, Bill Lane Center for the American West"
+      },
+      {
+        "date": "",
+        "event": "He dropped out repeatedly to work as a farm labourer and ranch hand alongside migrants and bindlestiffs",
+        "cite": "SJSU Center for Steinbeck Studies chronology and biography"
+      },
+      {
+        "date": "",
+        "event": "He left in 1925 for New York with neither a diploma nor an intention to return, and did not maintain a relationship with the university",
+        "cite": "*Stanford Daily*, 7 June 2012"
+      },
+      {
+        "date": "",
+        "event": "In his final year he lived in a one-room shack behind a larger house in Palo Alto",
+        "cite": "*Stanford Daily*, 7 June 2012"
+      },
+      {
+        "date": "",
+        "event": "Stanford is where he developed the interests in race, poverty, marine biology and ecology that shaped the later work",
+        "cite": "Gavin Jones, Rehmus Family Professor in the Humanities, Stanford Historical Society lecture (2020)"
+      }
+    ],
+    "keyMoney": [
+      {
+        "text": "Jesse's smithy sold for $1,000 (1878) p. 11; children's joint estate ~$2,000 p. 18; $33 train ticket p. 19.",
+        "cite": "",
+        "source": "Cardinal close reading – Whyte, Hoover"
+      },
+      {
+        "text": "Oregon Land Co.: $20,000 raised (1888); capital stock $200,000 by 1890 p. 26, 28; Hoover $20 → $35/month pp. 27–28.",
+        "cite": "",
+        "source": "Cardinal close reading – Whyte, Hoover"
+      },
+      {
+        "text": "At Stanford: \"just under a thousand dollars to his name\" p. 34; Branner job $25/month p. 36; cleared inherited class debt of $1,200 p. 37.",
+        "cite": "",
+        "source": "Cardinal close reading – Whyte, Hoover"
+      },
+      {
+        "text": "Promised USGS salary $1,200/yr p. 45; mucker $2/day, Mayflower $2.50/day p. 46.",
+        "cite": "",
+        "source": "Cardinal close reading – Whyte, Hoover"
+      },
+      {
+        "text": "North Star suit: $825,000 p. 47. Janin salary hiked to $2,000/yr p. 48; Colorado assignment $150/month (Hoover's own account, flagged dubious) p. 47.",
+        "cite": "",
+        "source": "Cardinal close reading – Whyte, Hoover"
+      },
+      {
+        "text": "Bewick, Moreing: $5,000/yr offer p. 49; letter of credit £500 p. 50; $8,000 + 10% of Coolgardie profits p. 56; $10,000 (Nov 1897) p. 57; predecessor's losses £63,000 / $315,000 p. 58; businesses with $5 million/yr expenditures p. 58; Hoover claims Moreing made $2,000,000 on Gwalia p. 59; Hoover gave/lent up to $3,000/yr to family and friends p. 63.",
+        "cite": "",
+        "source": "Cardinal close reading – Whyte, Hoover"
+      }
+    ],
+    "takeaways": [
+      {
+        "text": "The Stanford pipeline produces its first world-historical figure. Hoover proves the model — technical training plus capital access plus institutional network equals global leverage. The Second World War industrialises the insight.",
+        "source": "Locked outline (act theme)"
+      },
+      {
+        "text": "California has learned to think at the scale of empire. The machinery is about to produce its first self-sustaining industry.",
+        "source": "Locked outline (act landing)"
+      },
+      {
+        "text": "Railroad → land → Hoover (spine tie). Hoover's first employer was a land-speculation company that existed because \"it was only when the transcontinental rail link was formed that full-blown settlement occurred and land prices boomed, creating the opportunity on which Minthorn and his partners intended to capitalize\" (p. 26). The firm also owned the Salem Street Railway (p. 28). Its investors \"drew few distinctions between the public's interest and their own\" (p. 27). Hoover was among the first Americans to ride the newly opened rail route to Oregon (pp. 19–20).",
+        "source": "Cardinal close reading – Whyte, Hoover"
+      },
+      {
+        "text": "Yale thread: Louis Janin — \"educated at Yale and Freiburg,\" Comstock Lode and Rothschilds (p. 46). Janin's recommendation sent Hoover to Bewick, Moreing (p. 49). Lunch \"likely at the Pacific Union Club on Nob Hill\" (p. 47), Whyte's inference.",
+        "source": "Cardinal close reading – Whyte, Hoover"
+      },
+      {
+        "text": "Public story vs. documented conduct (Janin hire). Hoover's memoir tells a charming copyist-to-engineer story. Whyte says the real hire rested on Hoover's usefulness to the North Star defense: he published a supposedly objective article in *Mining & Scientific Press* that matched North Star's case, without disclosing his tie to Janin, and was paid right after the verdict (pp. 47–48).",
+        "source": "Cardinal close reading – Whyte, Hoover"
+      },
+      {
+        "text": "Panic of 1893 as hinge. It wiped out Minthorn's Oregon Land Co. and cost Hoover his USGS job (p. 45), the same downturn that hits Stanford's estate after Leland's death (cross-check with White, *Who Killed Jane Stanford?*). Whyte's frame: Hoover was \"conceived in one economic depression\" and \"graduated into another\" (p. 45).",
+        "source": "Cardinal close reading – Whyte, Hoover"
+      },
+      {
+        "text": "Grant's Quaker Policy / Indian agents in the family. Guardian Lawrie Tatum was \"one of President Grant's first Indian Agents,\" author of *Our Red Brothers* (p. 25 n.*³). Uncle Laban Miles was Osage agent (p. 16). A possible tie to Cardinal's land-dispossession thread. Moderate.",
+        "source": "Cardinal close reading – Whyte, Hoover"
+      },
+      {
+        "text": "Branner patronage line. Hoover was office assistant from his second semester (p. 36). Branner arranged the Ozarks and Lindgren summers (pp. 37, 39–40) and advised him to turn down USGS for commercial mining (p. 48). Branner's own Edison and Boston-gold-mining past (p. 48).",
+        "source": "Cardinal close reading – Whyte, Hoover"
+      }
+    ],
+    "gaps": []
+  },
+  {
+    "slug": "the-silicon-valley-machine",
+    "name": "Act III — The Silicon Valley Machine",
+    "subtitle": "From Defence Corridor to Global Platform (1945–2002)",
+    "dates": "1945–2002",
+    "theme": "The same pipeline that moved gold moves electrons. The same chokepoint logic that ruled rail rules semiconductors, then software, then the internet. Stanford is the constant.",
+    "mechanism": "The same pipeline that moved gold moves electrons. The same chokepoint logic that ruled rail rules semiconductors, then software, then the internet. Stanford is the constant.",
+    "landing": "The pipeline is self-reinforcing and self-reproducing. The machine no longer needs to be operated. It operates itself.",
+    "questions": [
+      "How does a university become an operating system for an economy?",
+      "What happens when a genius cannot manage people?",
+      "How does one firm seed an entire industry?",
+      "What is Silicon Valley actually built on?",
+      "How does access to money become a monopoly?",
+      "Does the mechanism work outside technology?",
+      "What happens when the people inside the machine can see it?",
+      "Why did the film industry go west?",
+      "What happens when computing reaches the masses?",
+      "How does a regional elite capture national policy?",
+      "How does a research network become a commercial empire?",
+      "How does advertising become a surveillance infrastructure?",
+      "How does a failed startup become a ruling class?",
+      "What happens when private networks govern public life?"
+    ],
+    "chapters": [
+      {
+        "id": "4-01-termans-garden",
+        "file": "ch/4-01-termans-garden.qmd",
+        "title": "Terman's Garden: The Research Park",
+        "dates": "1945–1955",
+        "href": "/research/ch/4-01-termans-garden"
+      },
+      {
+        "id": "4-02-shockley-and-the-eight",
+        "file": "ch/4-02-shockley-and-the-eight.qmd",
+        "title": "Shockley, the Eight, and the Spinoff",
+        "dates": "1956–1960",
+        "href": "/research/ch/4-02-shockley-and-the-eight"
+      },
+      {
+        "id": "4-03-fairchild-platform-company",
+        "file": "ch/4-03-fairchild-platform-company.qmd",
+        "title": "Fairchild and the Platform Company",
+        "dates": "1957–1968",
+        "href": "/research/ch/4-03-fairchild-platform-company"
+      },
+      {
+        "id": "4-04-defense-corridor",
+        "file": "ch/4-04-defense-corridor.qmd",
+        "title": "The Defence Corridor: Lockheed, SRI, and the Military Substrate",
+        "dates": "1956–1970",
+        "href": "/research/ch/4-04-defense-corridor"
+      },
+      {
+        "id": "4-05-capital-chokepoint",
+        "file": "ch/4-05-capital-chokepoint.qmd",
+        "title": "Venture Capital and the Capital Chokepoint",
+        "dates": "1957–1980",
+        "href": "/research/ch/4-05-capital-chokepoint"
+      },
+      {
+        "id": "4-06-shoe-paper",
+        "file": "ch/4-06-shoe-paper.qmd",
+        "title": "The Shoe Paper: Phil Knight, Nike, and the Offshore Turn",
+        "dates": "1962–1980",
+        "href": "/research/ch/4-06-shoe-paper"
+      },
+      {
+        "id": "4-07-april-third-movement",
+        "file": "ch/4-07-april-third-movement.qmd",
+        "title": "The April Third Movement: When the Campus Discovered What It Was Building",
+        "dates": "1965–1971",
+        "href": "/research/ch/4-07-april-third-movement"
+      },
+      {
+        "id": "4-08-hollywood-parallel-platform",
+        "file": "ch/4-08-hollywood-parallel-platform.qmd",
+        "title": "Hollywood, Media, and California's Parallel Platform",
+        "dates": "1908–1990",
+        "href": "/research/ch/4-08-hollywood-parallel-platform"
+      },
+      {
+        "id": "4-09-pc-revolution",
+        "file": "ch/4-09-pc-revolution.qmd",
+        "title": "The Personal Computer and the New Consumer Monopoly",
+        "dates": "1975–1985",
+        "href": "/research/ch/4-09-pc-revolution"
+      },
+      {
+        "id": "4-10-bayh-dole-reagan",
+        "file": "ch/4-10-bayh-dole-reagan.qmd",
+        "title": "Bayh–Dole, Reagan, and Valley Ideology",
+        "dates": "1980–1990",
+        "href": "/research/ch/4-10-bayh-dole-reagan"
+      },
+      {
+        "id": "4-11-internet-gold-rush",
+        "file": "ch/4-11-internet-gold-rush.qmd",
+        "title": "The Internet Gold Rush",
+        "dates": "1993–1999",
+        "href": "/research/ch/4-11-internet-gold-rush"
+      },
+      {
+        "id": "4-12-google-attention-monopoly",
+        "file": "ch/4-12-google-attention-monopoly.qmd",
+        "title": "Google and the Attention Monopoly",
+        "dates": "1998–2004",
+        "href": "/research/ch/4-12-google-attention-monopoly"
+      },
+      {
+        "id": "4-13-paypal-origin",
+        "file": "ch/4-13-paypal-origin.qmd",
+        "title": "The PayPal Origin Story",
+        "dates": "1998–2002",
+        "href": "/research/ch/4-13-paypal-origin"
+      },
+      {
+        "id": "4-14-platforms-replace-infrastructure",
+        "file": "ch/4-14-platforms-replace-infrastructure.qmd",
+        "title": "Platforms Replace Public Infrastructure",
+        "dates": "2000–2002",
+        "href": "/research/ch/4-14-platforms-replace-infrastructure"
+      }
+    ],
+    "keyPeople": [],
+    "keyDates": [
+      {
+        "date": "",
+        "event": "Knight earned an MBA from Stanford Graduate School of Business in 1962",
+        "cite": "Nike corporate history; *Encyclopedia.com* business biography (Knight, Philip H.)"
+      },
+      {
+        "date": "",
+        "event": "The paper was written for Frank Shallenberger's entrepreneurship class",
+        "cite": "Nike, \"The Handshake That Started It All\"; *The Oregonian*, 2011"
+      },
+      {
+        "date": "",
+        "event": "Its title: \"Can Japanese Sports Shoes Do to German Sports Shoes What Japanese Cameras Did to German Cameras?\"",
+        "cite": "Nike corporate history; *The Oregonian*, 22 April 2011"
+      },
+      {
+        "date": "",
+        "event": "The idea came from overhearing photographers at the *Oregon Journal* discuss cheap Japanese cameras displacing German ones",
+        "cite": "Nike, \"The Handshake That Started It All\" — Knight's own account"
+      },
+      {
+        "date": "",
+        "event": "Knight chose shoes because he knew nothing about electronics, the fashionable topic",
+        "cite": "Knight, quoted in Nike corporate history"
+      },
+      {
+        "date": "",
+        "event": "He received an A",
+        "cite": "Nike corporate history"
+      },
+      {
+        "date": "",
+        "event": "He cold-called Onitsuka in Kobe in November 1962 and secured Tiger distribution rights for the western United States",
+        "cite": "Nike corporate history; Knight biography"
+      },
+      {
+        "date": "",
+        "event": "He invented the name \"Blue Ribbon Sports\" on the spot when asked which company he represented",
+        "cite": "*Encyclopedia.com*; Nike corporate history"
+      }
+    ],
+    "keyMoney": [],
+    "takeaways": [
+      {
+        "text": "The same pipeline that moved gold moves electrons. The same chokepoint logic that ruled rail rules semiconductors, then software, then the internet. Stanford is the constant.",
+        "source": "Locked outline (act theme)"
+      },
+      {
+        "text": "The pipeline is self-reinforcing and self-reproducing. The machine no longer needs to be operated. It operates itself.",
+        "source": "Locked outline (act landing)"
+      },
+      {
+        "text": "Core question from the locked outline: How does a university become an operating system for an economy?",
+        "source": "Locked outline (core questions)"
+      },
+      {
+        "text": "Core question from the locked outline: What happens when a genius cannot manage people?",
+        "source": "Locked outline (core questions)"
+      },
+      {
+        "text": "Core question from the locked outline: How does one firm seed an entire industry?",
+        "source": "Locked outline (core questions)"
+      },
+      {
+        "text": "Core question from the locked outline: What is Silicon Valley actually built on?",
+        "source": "Locked outline (core questions)"
+      },
+      {
+        "text": "Core question from the locked outline: How does access to money become a monopoly?",
+        "source": "Locked outline (core questions)"
+      },
+      {
+        "text": "Core question from the locked outline: Does the mechanism work outside technology?",
+        "source": "Locked outline (core questions)"
+      }
+    ],
+    "gaps": [
+      "No close-reading people list for this part yet.",
+      "No close-reading money figures for this part yet."
+    ]
+  },
+  {
+    "slug": "the-open-era",
+    "name": "Act IV — The Open Era",
+    "subtitle": "Platform Oligarchy, Global Politics, and the Closing Question (2000–2025)",
+    "dates": "2000–2025",
+    "theme": "What was once subliminal is now explicit. The pipeline operates in open political theatre, which means the book's thesis becomes checkable in real time.",
+    "mechanism": "What was once subliminal is now explicit. The pipeline operates in open political theatre, which means the book's thesis becomes checkable in real time.",
+    "landing": "the reader closes the book knowing two things — exactly how it works, and that it was never a secret, only subliminal.",
+    "questions": [
+      "What does monopoly look like when it controls attention rather than track?",
+      "What happens when the world's two largest economies share a supply chain and distrust each other?",
+      "When a platform becomes infrastructure, who is responsible for what it does?",
+      "What happens when surveillance software sits inside government capacity?",
+      "How does a modern monopolist make power invisible?",
+      "What happens when the legitimacy engine loses credibility?",
+      "When does subliminal become explicit?",
+      "Who governs when the systems govern themselves?",
+      "What does California's ascent cost, and who bears that cost?",
+      "Is this a conspiracy, or is it gravity?",
+      "What does a civilisation look like from its street signs?",
+      "What does a traveller see who can walk from Mission Dolores to a data centre?"
+    ],
+    "chapters": [
+      {
+        "id": "5-01-scale-as-governance",
+        "file": "ch/5-01-scale-as-governance.qmd",
+        "title": "Scale as Governance: The New Chokepoints",
+        "dates": "2000–2010",
+        "href": "/research/ch/5-01-scale-as-governance"
+      },
+      {
+        "id": "5-02-china-california-loop",
+        "file": "ch/5-02-china-california-loop.qmd",
+        "title": "The China–California Feedback Loop",
+        "dates": "2001–2020",
+        "href": "/research/ch/5-02-china-california-loop"
+      },
+      {
+        "id": "5-03-facebook-attention-economy",
+        "file": "ch/5-03-facebook-attention-economy.qmd",
+        "title": "Facebook, Surveillance, and the Attention Economy",
+        "dates": "2004–2018",
+        "href": "/research/ch/5-03-facebook-attention-economy"
+      },
+      {
+        "id": "5-04-palantir-software-state",
+        "file": "ch/5-04-palantir-software-state.qmd",
+        "title": "Palantir and the Software State",
+        "dates": "2003–2020",
+        "href": "/research/ch/5-04-palantir-software-state"
+      },
+      {
+        "id": "5-05-legitimation-machine",
+        "file": "ch/5-05-legitimation-machine.qmd",
+        "title": "The New Philanthropy and the Legitimation Machine",
+        "dates": "2010–2020",
+        "href": "/research/ch/5-05-legitimation-machine"
+      },
+      {
+        "id": "5-06-stanford-under-pressure",
+        "file": "ch/5-06-stanford-under-pressure.qmd",
+        "title": "Stanford Under Pressure: Institutional Cracks",
+        "dates": "2016–2023",
+        "href": "/research/ch/5-06-stanford-under-pressure"
+      },
+      {
+        "id": "5-07-inauguration-spectacle",
+        "file": "ch/5-07-inauguration-spectacle.qmd",
+        "title": "The Inauguration Spectacle: Elite Fusion Goes Public",
+        "dates": "2022–2025",
+        "href": "/research/ch/5-07-inauguration-spectacle"
+      },
+      {
+        "id": "5-08-ai-final-chokepoint",
+        "file": "ch/5-08-ai-final-chokepoint.qmd",
+        "title": "AI and the Final Chokepoint",
+        "dates": "2020–2025",
+        "href": "/research/ch/5-08-ai-final-chokepoint"
+      },
+      {
+        "id": "5-09-moral-ledger",
+        "file": "ch/5-09-moral-ledger.qmd",
+        "title": "The Moral Ledger: Who Paid and Who Was Erased",
+        "dates": "1769–2025",
+        "href": "/research/ch/5-09-moral-ledger"
+      },
+      {
+        "id": "5-10-mechanism-proven",
+        "file": "ch/5-10-mechanism-proven.qmd",
+        "title": "The Stanford Mechanism, Tested",
+        "dates": "2025",
+        "href": "/research/ch/5-10-mechanism-proven"
+      },
+      {
+        "id": "5-11-street-names",
+        "file": "ch/5-11-street-names.qmd",
+        "title": "The Street Names: How Power Memorialises Itself",
+        "dates": "—",
+        "href": "/research/ch/5-11-street-names"
+      },
+      {
+        "id": "5-12-epilogue-travelers-tour",
+        "file": "ch/5-12-epilogue-travelers-tour.qmd",
+        "title": "Epilogue: The Traveller's Tour",
+        "dates": "1776–2025",
+        "href": "/research/ch/5-12-epilogue-travelers-tour"
+      }
+    ],
+    "keyPeople": [],
+    "keyDates": [],
+    "keyMoney": [],
+    "takeaways": [
+      {
+        "text": "What was once subliminal is now explicit. The pipeline operates in open political theatre, which means the book's thesis becomes checkable in real time.",
+        "source": "Locked outline (act theme)"
+      },
+      {
+        "text": "the reader closes the book knowing two things — exactly how it works, and that it was never a secret, only subliminal.",
+        "source": "Locked outline (act landing)"
+      },
+      {
+        "text": "Core question from the locked outline: What does monopoly look like when it controls attention rather than track?",
+        "source": "Locked outline (core questions)"
+      },
+      {
+        "text": "Core question from the locked outline: What happens when the world's two largest economies share a supply chain and distrust each other?",
+        "source": "Locked outline (core questions)"
+      },
+      {
+        "text": "Core question from the locked outline: When a platform becomes infrastructure, who is responsible for what it does?",
+        "source": "Locked outline (core questions)"
+      },
+      {
+        "text": "Core question from the locked outline: What happens when surveillance software sits inside government capacity?",
+        "source": "Locked outline (core questions)"
+      },
+      {
+        "text": "Core question from the locked outline: How does a modern monopolist make power invisible?",
+        "source": "Locked outline (core questions)"
+      },
+      {
+        "text": "Core question from the locked outline: What happens when the legitimacy engine loses credibility?",
+        "source": "Locked outline (core questions)"
+      }
+    ],
+    "gaps": [
+      "No close-reading people list for this part yet.",
+      "No close-reading dated events for this part yet.",
+      "No close-reading money figures for this part yet.",
+      "Close reading of sources for this part has not started, or has not been filed in the notes folder."
+    ]
+  }
+]

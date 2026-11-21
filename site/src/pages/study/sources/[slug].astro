@@ -1,0 +1,98 @@
+---
+import Base from '../../../layouts/Base.astro';
+import NotesSubnav from '../../../components/NotesSubnav.astro';
+import { getSource, getSources } from '../../../lib/research';
+
+export function getStaticPaths() {
+  return getSources().map((source) => ({ params: { slug: source.slug } }));
+}
+
+const source = getSource(Astro.params.slug);
+---
+
+<Base title={source.title} description={source.citation || source.title}>
+  <article class="doc">
+    <h1 class="page-title">{source.title}</h1>
+    <p class="meta">{[source.author, source.citation, source.status.replace('_', ' ')].filter(Boolean).join(' · ')}</p>
+    <NotesSubnav section="study" current="sources" />
+    <h2 class="group-label">What it argues</h2>
+    {
+      source.argues.length === 0 ? (
+        <p class="gap-note">Gap: close reading has not been filed for this source yet.</p>
+      ) : (
+        <ul class="bullet-list">
+          {source.argues.map((line) => (
+            <li>{line}</li>
+          ))}
+        </ul>
+      )
+    }
+    <h2 class="group-label">Key facts</h2>
+    {
+      source.keyFacts.length === 0 ? (
+        <p class="gap-note">Gap: no key facts have been filed yet.</p>
+      ) : (
+        <ul class="bullet-list">
+          {source.keyFacts.map((line) => (
+            <li>{line}</li>
+          ))}
+        </ul>
+      )
+    }
+    <h2 class="group-label">Best quotes</h2>
+    {
+      source.bestQuotes.length === 0 ? (
+        <p class="gap-note">Gap: no verbatim quotes have been filed yet.</p>
+      ) : (
+        <ul class="bullet-list">
+          {source.bestQuotes.map((quote) => (
+            <li>
+              {quote.text}
+              {quote.page && <span class="cite"> — {quote.page}</span>}
+              {quote.images?.length ? (
+                <div class="shot-grid">
+                  {quote.images.map((src) => (
+                    <figure class="quote-shot">
+                      <img src={src} alt="" />
+                    </figure>
+                  ))}
+                </div>
+              ) : null}
+            </li>
+          ))}
+        </ul>
+      )
+    }
+    <h2 class="group-label">How it connects to Cardinal</h2>
+    {
+      source.connects.length === 0 ? (
+        <p class="gap-note">Gap: no connections have been filed yet.</p>
+      ) : (
+        <ul class="bullet-list">
+          {source.connects.map((line) => (
+            <li>{line}</li>
+          ))}
+        </ul>
+      )
+    }
+    {
+      source.gaps.length > 0 && (
+        <section>
+          <h2 class="group-label">Gaps</h2>
+          <ul class="bullet-list">
+            {source.gaps.map((gap) => (
+              <li>{gap}</li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+    {
+      (source.status === 'read' || source.status === 'in_progress') && (
+        <p>
+          <a href={`/log/notes/${source.slug}`}>Open the full reading notes</a>
+        </p>
+      )
+    }
+  </article>
+</Base>

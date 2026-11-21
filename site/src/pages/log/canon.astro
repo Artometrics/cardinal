@@ -1,0 +1,113 @@
+---
+import Base from '../../layouts/Base.astro';
+import NotesSubnav from '../../components/NotesSubnav.astro';
+import { getCanon } from '../../lib/research';
+
+const canon = getCanon();
+const statuses = ['all', 'settled', 'disputed', 'corrected'] as const;
+---
+
+<Base title="Cardinal Canon" description="Settled, disputed, and corrected facts from the close reading.">
+  <article class="doc wide">
+    <h1 class="page-title">Canon</h1>
+    <p class="lede">
+      Each fact lists the sources that back it, where they disagree, and the resolution. Filter by status or search the table.
+    </p>
+    <NotesSubnav section="log" current="canon" />
+    {
+      canon.missingOfficialSheet && (
+        <p class="gap-note">
+          The official Canon sheet is not in the reading folder yet. These rows are derived from the close-reading notes
+          and should be replaced the next time <code>node scripts/sync-research.mjs</code> is run after canon.csv is filed.
+        </p>
+      )
+    }
+    <div class="status-filters" role="group" aria-label="Filter by status">
+      {
+        statuses.map((status) => (
+          <button type="button" data-status={status} aria-pressed={status === 'all' ? 'true' : 'false'}>
+            {status === 'all' ? 'All' : status}
+          </button>
+        ))
+      }
+    </div>
+    <input class="filter" id="canon-q" type="search" placeholder="Search facts, sources, resolutions" aria-label="Search the Canon" />
+    <div class="table-scroll">
+    <table class="sheet-table" id="canon">
+      <thead>
+        <tr>
+          <th>Status</th>
+          <th>Topic</th>
+          <th>Fact</th>
+          <th>Sources</th>
+          <th>Resolution</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          canon.rows.map((row) => (
+            <tr data-status={row.status}>
+              <td data-label="Status"><span class="status">{row.status}</span></td>
+              <td data-label="Topic">{row.topic}</td>
+              <td data-label="Fact">
+                {row.fact}
+                {row.cites && (
+                  <div class="cite">{row.cites}</div>
+                )}
+                {row.images?.length ? (
+                  <div class="shot-grid">
+                    {row.images.map((src) => (
+                      <figure class="quote-shot">
+                        <img src={src} alt="" />
+                      </figure>
+                    ))}
+                  </div>
+                ) : null}
+              </td>
+              <td data-label="Sources">
+                {row.sources}
+                {row.disagreeingSources && (
+                  <div class="cite">Disagrees: {row.disagreeingSources}</div>
+                )}
+              </td>
+              <td data-label="Resolution">{row.resolution}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+    </div>
+    <p class="empty" id="canon-none" hidden>No Canon row matches.</p>
+    <p class="bill">Source: {canon.source}. {canon.rows.length} facts in this snapshot.</p>
+  </article>
+</Base>
+
+<script>
+  const input = document.querySelector('#canon-q');
+  const none = document.querySelector('#canon-none');
+  const rows = [...document.querySelectorAll('#canon tbody tr')];
+  const buttons = [...document.querySelectorAll('.status-filters button')];
+  let status = 'all';
+
+  function run() {
+    const q = input instanceof HTMLInputElement ? input.value.trim().toLowerCase() : '';
+    let shown = 0;
+    for (const row of rows) {
+      if (!(row instanceof HTMLElement)) continue;
+      const st = row.dataset.status || '';
+      const hit = (status === 'all' || st === status) && (q === '' || (row.textContent || '').toLowerCase().includes(q));
+      row.hidden = !hit;
+      if (hit) shown += 1;
+    }
+    if (none instanceof HTMLElement) none.hidden = shown !== 0;
+  }
+
+  input?.addEventListener('input', run);
+  for (const button of buttons) {
+    button.addEventListener('click', () => {
+      status = button.getAttribute('data-status') || 'all';
+      for (const other of buttons) other.setAttribute('aria-pressed', other === button ? 'true' : 'false');
+      run();
+    });
+  }
+</script>

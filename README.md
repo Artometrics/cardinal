@@ -33,3 +33,13 @@ QUARTO_PROFILE=draft quarto render
 
 The latest rendered PDFs (`Cardinal.pdf`, `Dawn.pdf`) are committed at the
 repository root for download.
+
+## Research Log and Study Guide
+
+The close-reading notes, Canon, draft fixes, and study-guide pages are generated from the reading folder.
+
+```bash
+node scripts/sync-research.mjs
+```
+
+That copies notes and cited page images into `site/` and refreshes the JSON under `site/src/data/research-log/`. It does not modify the reading-folder source files. After a new reading session, run the same command and rebuild the site.

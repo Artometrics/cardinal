@@ -1,0 +1,110 @@
+# Cardinal canon — draft fixes
+
+Exact corrections for the Artometrics / kylesmcauliffe Cardinal draft, checked against GitHub `kylesmcauliffe/cardinal` @ `63a999e` (21 Nov 2026, 11:48 PT) and against Kenneth Whyte, *Hoover: An Extraordinary Life in Extraordinary Times* (New York: Alfred A. Knopf, first edition, 2017).
+
+**Do not edit the draft or the repo in this session.** Each item is for Kyle’s approval. Quotes from the draft are verbatim from `63a999e`. Whyte quotes are verbatim from the 2017 Knopf page-list. Page images are filed with the close-reading screenshots.
+
+Last updated: 2026-11-21 (America/Los_Angeles).
+
+---
+
+## 1. Swain’s department and the Portland exams
+- **Canon:** CANON-001
+- **File:** `books/cardinal/ch/3-01-stanford-prototype-hoover.qmd` (also podcast ep04 / draft part-04)
+- **Current (l.125):** “Stanford geology professor named Joseph Swain came through Portland recruiting”
+- **Corrected:** A professor in Stanford’s inaugural math department, Joseph Swain, administered the Portland entrance exams. Hoover traveled to Portland to take them. Stanford, short of students to fill its dormitories, admitted him on condition that he catch up on geometry.
+- **Cite:** Whyte, *Hoover* (Knopf 2017), ch. 2, p. 33. Image: `screenshots/whyte-hoover/p33.png`.
+
+## 2. “Passed mathematics and failed everything else”
+- **Canon:** CANON-002
+- **Files:** `books/cardinal/ch/3-01-stanford-prototype-hoover.qmd`; `site/corpus/rewrite/chapters/ep4-03-farm-opening-day.md` (“failing every entrance subject except mathematics”); podcast ep05
+- **Current:** the “passed mathematics / failed everything else” slogan
+- **Corrected:** He struggled and came up short at Portland and was admitted on condition he bone up on geometry. On campus he studied, sat the exams, and failed English. Whyte: “Strictly speaking, he did not earn his degree.”
+- **Cite:** Whyte pp. 33, 35. Images: `p33.png`, `p35.png`. Attribute any remaining “failed everything except math” line to its actual source (check Harris) rather than to Whyte.
+
+## 3. “A Nevada mine”
+- **Canon:** CANON-003
+- **Files:** `books/cardinal/ch/3-01-stanford-prototype-hoover.qmd` l.159; `site/corpus/rewrite/chapters/ep5-01-gwalia.md` l.27; podcast ep05
+- **Current (ep5-01 l.27, verbatim):** “His first job after graduating was pushing ore carts in a Nevada mine at two dollars a day.”
+- **Corrected:** His first mine job after the last USGS summer with Lindgren was as a mucker at the Reward Mine, then the Mayflower graveyard shift, at Nevada City / Grass Valley, California (Nevada County), at $2 and then $2.50 a day — not in the state of Nevada.
+- **Cite:** Whyte, ch. 3, pp. 45–46. Images: `p45.png`, `p46.png`. Do not lean on Whyte’s later flourish at p. 271 (“those same states”) to move the job into the Colorado basin.
+
+## 4. Age when sent to Western Australia
+- **Canon:** CANON-005
+- **Files:** `ch/3-01` l.164; `ep5-01-gwalia.md` l.27
+- **Current (ep5-01 l.27, verbatim):** “In 1897, at twenty-three, he was sent to Western Australia.”
+- **Corrected:** In 1897, at twenty-two, he was sent to Western Australia (left San Francisco 24 March 1897; offer dated October 1896). An opener set in August 1897 may still say he was twenty-three (birthday 10 August 1874).
+- **Cite:** Whyte pp. 4–5, 49–50, 54.
+
+## 5. “1897–1908. Hoover in Western Australia”
+- **Canon:** CANON-004, CANON-016
+- **Files:** `site/corpus/rewrite/timeline.md` l.54; ledger-snapshot.csv note on 1897-01-01
+- **Current (timeline, verbatim):** “1897–1908. Hoover in Western Australia; his Sons of Gwalia mine has air "notably bad." (Whyte ch 5, p. 100)”
+- **Corrected:** First tour about eighteen months (arrives May 1897; leaves Australia 11 December 1898). Later returns as London-based operating partner (from mid-January 1902) until the 30 June 1908 exit from Bewick, Moreing. The “notably bad” air finding belongs to the 1905 Royal Commission on the Ventilation and Sanitation of Mines (Whyte, ch. 5, p. 100) — keep the quote, detach it from a ten-year residence.
+- **Cite:** Whyte pp. 57, 68, 89, 100, 104. Images: `p57.png`, `p68.png`, `p89.png`, `p100.png`, `p104.png`.
+
+## 6. “Whyte 2021”
+- **Canon:** CANON-006
+- **File:** `site/corpus/rewrite/chapters/ep5-01-gwalia.md` (ll. 35, 51, 82, and any others)
+- **Current:** “Whyte 2021, 43”; “Whyte 2021, 100”; “Whyte 2021, 124”
+- **Corrected:** Whyte 2017, with the same page numbers (Knopf first edition).
+- **Cite:** Copyright page of the 2017 Knopf edition (LCCN 2017015685).
+
+## 7. 1899 role in China
+- **Canon:** CANON-011
+- **Files:** `ch/3-01` l.190; `ep5-01-gwalia.md` l.57
+- **Current (ep5-01 l.57, verbatim):** “In 1899 the firm sent him to China as chief engineer for a mining concern operating at Kaiping, north-east of Tianjin, under a concession from the Chinese government.”
+- **Corrected:** In 1899 he went to China as technical adviser to Chang Yen-Mao, who paid his salary of $12,500, to survey gold mines in Chang’s realm. Moreing had a private, likely undisclosed, profit share for him, and Hoover told his brother he would “have charge” of the firm’s Chinese business. Later Chang raised his salary, expanded his role at the Chinese Engineering and Mining Company, and installed him as chief engineer of the newly created Mining Bureau for Chihli — still without yielding control.
+- **Cite:** Whyte, ch. 4, pp. 70–71, 76. Images: `p70.png`, `p71.png`, `p76.png`.
+
+## 8. Janin / the clerk story
+- **Canon:** CANON-008
+- **Files:** `ch/3-01`; `ep5-01-gwalia.md` l.27 (“the recommendation of Louis Janin, a prominent San Francisco mining engineer for whom he clerked”)
+- **Current:** the clerkship told as straight fact
+- **Corrected:** Janin, educated at Yale and Freiburg, recommended him to Bewick, Moreing. The copyist-to-engineer story is Hoover’s own account, which Whyte calls charming and dubious; Whyte’s documented basis is Hoover’s work on the North Star suit, including a *Mining & Scientific Press* article that matched the defense and did not disclose the Janin tie.
+- **Cite:** Whyte pp. 46–48. Images: `p46.png`, `p47.png`.
+
+## 9. Partnership wording (specify, don’t reverse)
+- **Canon:** CANON-015
+- **Files:** `ch/3-01` ll. 82, 110, 253: “By 1901 he is a partner in the firm” / “By 1901 Hoover was a partner in Bewick, Moreing. By 1908 he was running his own”
+- **Current:** true but thin
+- **Corrected:** At the end of 1901 he purchased an operating partnership for $40,000, borrowed from the firm, to receive 20 percent of profits over ten years. He sold out as of 30 June 1908 to William Loring for $150,000, under a ten-year restrictive covenant, and opened at 62 London Wall, the same address as Bewick, Moreing. Moreing sued him in 1910 for violating the covenant; settled out of court to Moreing’s advantage.
+- **Cite:** Whyte pp. 89, 104, 117. Images: `p89.png`, `p104.png`.
+
+## 10. CRB founding date
+- **Canon:** CANON-019
+- **File:** `apps/web-of-people/data/ledger-snapshot.csv` event 1914-10-01
+- **Current:** dated 1914-10-01, “Hoover organises the Commission for Relief in Belgium; Émile Francqui directs the Belgian Comité National de Secours et d’Alimentation.” The note already admits October 1914 is the month of formal start.
+- **Corrected:** Mid-to-late October 1914; Hoover’s informal charter is a letter to Ambassador Page dated 20 October 1914. Add that Francqui, “a former lieutenant for King Leopold II in the Congo,” had overlapped with Hoover for six months in China representing Moreing’s Belgian partners, “They had not gotten along.” Record Whyte’s “Comité Central” alongside the ledger’s “Comité National.”
+- **Cite:** Whyte, ch. 7, pp. 142–144. Images: `p142.png`, `p143.png`, `p144.png`.
+
+## 11. Joyce / party-versus-witness / minutes
+- **Canon:** CANON-014
+- **Files:** `site/corpus/rewrite/timeline.md` (Kaiping “CONTESTED” note); `ch/3-01` Kaiping section; ledger 1905-03-01 (judgment already correctly dated)
+- **Current:** timeline treats Hoover’s party-vs-witness conflict as contested, “say so in one sentence.”
+- **Corrected:** Keep the 17 January–1 March 1905 trial and Joyce’s finding that the 19 February 1901 memorandum was binding and that the breach was “a flagrant breach of faith.” Add: Hoover was not a named defendant (suit filed 7 May 1903). Whyte, weighing Hoover’s earlier letters against the testimony, calls the testimony “disingenuous.” Whyte also writes that Hoover later obtained and apparently destroyed every copy of the court minutes he could find (one set has survived).
+- **Cite:** Whyte, ch. 5, pp. 94, 100–102. Images: `p94.png`, `p100.png`, `p101.png`, `p102.png`.
+
+## 12. Trusteeship enrichment (not a reversal)
+- **Canon:** CANON-018
+- **Files:** ledger 1912-01-01; `ep5-01-gwalia.md` l.82 already quotes “in circumstances as cloudy as the awarding of his geology degree” but cites “Whyte 2021, 124”
+- **Current:** year-only trustee date; citation year wrong
+- **Corrected:** Autumn 1912. Fix the citation to Whyte 2017, p. 124. Add the residency dodge, Jordan kicked up to chancellor, Branner installed, and — attributed to Whyte — that Hoover wanted the presidency himself.
+- **Cite:** Whyte, ch. 6, p. 124. Image: `p124.png`.
+
+## Optional enrichments (no contradiction)
+- Marriage and sailing: 10 and 11 February 1899, SS *Coptic* (Whyte pp. 69, 71). `ep5-01` l.35 already says they sailed the next day.
+- Moreing’s 1898 loan: £200,000 / US$1 million at 12 percent, no equity; gold-mine survey as the opening (pp. 70–71).
+- Kaiping share watering: 625,000 shares to Moreing and “mostly Belgian associates” for no cash; £500,000 debenture at 6 percent (pp. 85–86). Hoover’s own estimate of “some $50 million worth of high-grade coal” (pp. 100–101).
+- Colorado River Compact, Hoover at Commerce, Boulder Canyon, 50-50 basins, “freed from a generation of litigation…” (pp. 270–271). New ledger-candidate. Do not cite Whyte for the 1930 Wilbur naming or Six Companies.
+- *De Re Metallica*, 1912, 289 woodcuts, AHR “noteworthy monument…” (pp. 119–120).
+- Lou Henry Hoover House: San Juan Hill, 57 rooms, 12,500 sq ft, $170,000 (p. 240). Do not take the 1920 year or “later the president’s house” from Whyte.
+- Foreign Office on Kaiping: “Yankee man of straw acting for Moreing,” “fleeced,” “a case of rogues falling out” (p. 93).
+- *Principles of Mining* (1909) from Stanford and Columbia lectures; Jordan’s letter to Taft (pp. 117, 122).
+
+## Do not “fix” from Whyte alone
+- 1919 War Collection telegram, $50,000 pledge, and Belgian Congo / Ruanda-Urundi documents (ledger 1919-01-01, 1919-04-22, 1919-06-01): Whyte is silent. Leave on existing sources (CANON-023).
+- 17 September 1930 Wilbur naming and 1 February 1931 Six Companies: Whyte is silent. Leave on Stevens / McCartney / Denton (CANON-020).
+- Wilbur “remaining Stanford’s president” while Interior Secretary: not in the Whyte cabinet-making passage (p. 364).
+- Opening-day 555 vs. 559: Whyte supports 559; do not silently drop 555 until its source is produced (CANON-007).
+- Harris’s typhoid / Branner medical bills vs. Whyte’s measles-only notice (Run 1): still needs a second source.

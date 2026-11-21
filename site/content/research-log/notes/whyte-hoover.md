@@ -1,0 +1,363 @@
+# Cardinal close reading – Whyte, Hoover
+
+**Book:** Kenneth Whyte, *Hoover: An Extraordinary Life in Extraordinary Times* (New York: Knopf, 2017). 
+
+**Citation scheme:** This epub carries the publisher's print page-list (`epub:type="pagebreak"`, 701 markers), so cites are **print page numbers** of the 2017 Knopf first edition, shown in the text file as `[[p. N]]`. Superscript numbers (e.g. n. 16) are Whyte's endnote numbers within each chapter. Front matter uses roman numerals.
+
+Prior notes in our corpus wrongly cite this book as "Whyte 2021" in places (e.g. rewrite `chapters/ep5-01-gwalia.md`); the edition here is 2017.
+
+---
+
+## Run 1 — 2026-11-21 — Preface + Chapters 1–3 (pp. xi–xvii, 1–65; ~72 pages)
+
+Chapters: Preface; Ch 1 "A Pretty Stiff Time" (pp. 3–25); Ch 2 "A Whole Jug Full of Experience" (pp. 26–44); Ch 3 "I Am the Devil" (pp. 45–65). Next run starts at Ch 4 (p. 66).
+
+### Dated events
+| Date | Event | Page |
+|---|---|---|
+| 1738 | Hoover ancestors (Swiss-German) land in Pennsylvania | p. 6 |
+| 1854 | Jesse Hoover, age 8, migrates with family from Miami County, Ohio, to West Branch, Iowa | pp. 6–7 |
+| 1859 | Minthorn family (incl. Hulda, 11) crosses from Norwich, Ontario, to a farm near West Branch | p. 7 |
+| 1869 | Grant's "President's Quaker Policy" outsources Plains Indian administration to the Friends | p. 16 |
+| Mar 12, 1870 | Jesse Hoover marries Hulda Minthorn (Methodist pastor A. M. Smith officiates) | p. 8 |
+| Aug 10/11, 1874 | Herbert Clark Hoover born, West Branch (date is an estimate; he switched between 10 and 11) | pp. 4–5, p. 25 n.*¹ |
+| 1873–74 | Hoover conceived during the Panic of 1873 (~14% unemployment, 18,000 business failures over two years) | pp. 10–11 |
+| c. 1876–77 | Croup nearly kills 2-year-old Herbert; uncle Dr. Henry John Minthorn revives him | pp. 5–6 |
+| 1878 | Jesse sells blacksmith business for $1,000, opens farm-implement store (sells barbed wire) | p. 11 |
+| Dec 13, 1880 | Jesse Hoover dies, age 34 | p. 12 |
+| 1883 | Hulda given the "gift of ministry" | pp. 15–16 |
+| Feb 24, 1884 | Hulda Hoover dies, age 35 (pneumonia complicated by typhoid) | p. 17 |
+| 1884 | Lawrie Tatum appointed guardian; children's joint estate ~ $2,000 | p. 18 |
+| Oct 1885 (2 months after 11th birthday) | Hoover sent by emigrant train to Newberg, Oregon ($33 ticket from his estate share; two dimes in pocket) | p. 19 |
+| 1888 | Minthorn becomes partner/president of Oregon Land Company, Salem; firm raised $20,000 | p. 26 |
+| 1888–91 | Hoover (14+) office boy at Oregon Land Co., $20/month, later $35 | pp. 27–29 |
+| 1890 | Oregon Land Co. capital stock reaches $200,000 | p. 28 |
+| Summer 1891 | Hoover sits Stanford entrance exams in Portland, administered by Joseph Swain; "came up short" | p. 33 |
+| Aug 29, 1891 | Hoover leaves Salem for San Francisco | p. 33 |
+| Oct 1, 1891 | Classes begin at Stanford; Hoover in first room assignment at Encina Hall | p. 35 |
+| 1892 (2nd semester) | Hoover becomes office assistant to John Casper Branner, $25/month | p. 36 |
+| Summers 1894 & 1895 (before/after senior year) | Assistant to USGS geologist Waldemar Lindgren in the Sierra | pp. 39–41 |
+| Fall 1894 | Lou Henry, freshman from Monterey, enters Branner's geology program; meets Hoover in geology lab | p. 43 |
+| Spring 1895 | Hoover graduates, age 20, AB in geology | p. 44 |
+| Fall 1895 | USGS job ($1,200/yr) lost to appropriation cuts (Panic of 1893) | p. 45 |
+| 1895 | Mucker at Reward Mine (Nevada City/Grass Valley, Calif.), $2/day; then Mayflower Mine graveyard shift $2.50/day | pp. 45–46 |
+| Christmas 1895 | Has saved $100; moves to Oakland (Twelfth St.) with Theodore and May | p. 46 |
+| c. early 1896 | Joins Louis Janin, San Francisco; tied to North Star Mining Co. defense in $825,000 suit by Carson City Gold & Silver Co. | pp. 46–48 |
+| Spring 1896 | Mine scout in the Southwest for Janin | p. 48 |
+| Oct 1896 | Bewick, Moreing & Co. (London) cables SF for American engineers for W. Australia; $5,000/yr; minimum age 35; Hoover is 22 | p. 49 |
+| Mar 24, 1897 | Leaves San Francisco; stops in West Branch; London | p. 50 |
+| Apr 16, 1897 | Leaves London by mail train to Brindisi; SS *Victoria* via Suez | p. 51 |
+| May 1897 | Arrives Albany, W. Australia (5 days' smallpox quarantine), then Perth, Coolgardie | p. 54 |
+| Jun 16, 1897 | Journeys north to Lawlers; first sees Sons of Gwalia lease | p. 56 |
+| Late Aug 1897 | Examines Sons of Gwalia; recommends purchase ("half a million dollars in profit" in ore in sight) | p. 56 |
+| By end 1897 | Sons of Gwalia under Hoover produces 5,667 oz gold; London committed a half million in cash | p. 56 |
+| Nov 1897 | Raise to $10,000/yr; promoted junior partner ("pardner") | p. 57 |
+| Jul 4, 1898 | Sets off 400 lb of dynamite at a remote mine to celebrate | p. 64 |
+| Late 1898 | Plot against MD Ernest Williams discovered; Williams calls for dismissal; Moreing, back from China, sends Hoover to Tientsin | pp. 64–65 |
+| 1963 | Sons of Gwalia finally closes | p. 56 |
+
+### People (new or newly sourced)
+- **Jesse Clark Hoover** (blacksmith, implement dealer, town councilman/assessor) — pp. 4, 11.
+- **Hulda Minthorn Hoover** — Quaker minister, WCTU secretary, suffrage advocate — pp. 7–8, 15–17.
+- **Dr. Henry John Minthorn** — uncle; Union Army 1864; Jefferson Medical College; founder/superintendent Friends Pacific Academy (Newberg); later president Oregon Land Co.; wiped out in Panic of 1893 — pp. 5–6, 19–23, 26, 45.
+- **Lawrie Tatum** — Quaker elder, Underground Railroad, "one of President Grant's first Indian Agents," Hoover's guardian/estate trustee — p. 18, p. 25 n.*³.
+- **Laban Miles** — uncle; U.S. Indian Agent to the Osage Nation, Pawhuska — p. 16.
+- **Harriette Miles** — cousin; Hoover paid her way at Stanford; rumor of romance — pp. 42, 60–62.
+- **Theodore "Tad" Hoover** — brother; later through Stanford geology on Hoover's money — pp. 50, 63–64.
+- **May Hoover** — sister; Hoover cut her to a "duty basis" — pp. 60–61.
+- **Joseph Swain** — Quaker, professor in Stanford's inaugural **math** department; administered Portland exams — p. 33.
+- **Fred Williams** — son of a Salem banker, fellow exam failer; Hoover tutored him for pay — p. 34.
+- **John Casper Branner** — geology chair; had done research for Thomas Edison and worked in Brazil for a Boston gold-mining concern — pp. 36, 48.
+- **Waldemar Lindgren** — Swedish, German-trained USGS economic geologist; Hoover's role model — pp. 40–41.
+- **Lou Henry** — freshman from Monterey (born Waterloo, Iowa), only woman in geology — pp. 43–44.
+- **Lester Hinsdale** (class president, later lawyer), **Jackson Reynolds** (later "leading New York banker"), **Will Irwin** (journalist) — classmates — pp. 36–39.
+- **Burt Brown Barker** — Salem boyhood friend; Univ. of Chicago and Harvard Law — pp. 30, 44 n.
+- **Jennie Gray**, **Evangeline "Vannie" Martin** — teachers/patrons — pp. 23, 30–32, 44 n.
+- **Louis Janin** — New Orleans-born, Yale- and Freiburg-educated mining engineer; Comstock and Rothschild associations; office in the Anglo-California Bank building, Pine & Sansome — p. 46.
+- **Curtis H. Lindley** — North Star's lead defense attorney — p. 47.
+- **Charles Algernon Moreing** — Bewick, Moreing principal — pp. 50–51, 58, 65.
+- **Edward Hooper** (head of operations Down Under), **Ernest Williams** (Welsh MD in Australia), **Deane Mitchell**, **George Wilson** (Stanford friends hired) — pp. 56–60.
+- **Benjamin Harrison** — former president made to pay admission at a Stanford baseball game — p. 38.
+- **William Jennings Bryan** — money-losing Stanford speech Hoover booked — p. 38.
+
+### Places
+West Branch, Iowa (Downey & Main; Wapsinonoc Creek) pp. 3–4 · Pawhuska, Osage reserve p. 16 · Newberg, Oregon (Friends Pacific Academy) pp. 19–20 · Salem (Oregon Land Co., Commercial & Chemeketa) p. 27 · Portland exam p. 33 · Menlo Park station / campus "eight thousand acres of what had formerly been a horse farm" p. 34 · Encina Hall p. 35 · Ozarks survey p. 37 · Yosemite, Sierra, Stockton p. 40 · Nevada City / Grass Valley (Reward, Mayflower mines) pp. 45–46 · Oakland, Twelfth St. p. 46 · Anglo-California Bank bldg, Pine & Sansome; Pacific Union Club (likely), Nob Hill pp. 46–47 · Cafe Zinkand, SF waterfront p. 50 · Coolgardie, Kalgoorlie, Lawlers, Sons of Gwalia pp. 53–56 · Tientsin p. 65.
+
+### Money figures
+- Jesse's smithy sold for $1,000 (1878) p. 11; children's joint estate ~$2,000 p. 18; $33 train ticket p. 19.
+- Oregon Land Co.: $20,000 raised (1888); capital stock $200,000 by 1890 p. 26, 28; Hoover $20 → $35/month pp. 27–28.
+- At Stanford: "just under a thousand dollars to his name" p. 34; Branner job $25/month p. 36; cleared inherited class debt of $1,200 p. 37.
+- Promised USGS salary $1,200/yr p. 45; mucker $2/day, Mayflower $2.50/day p. 46.
+- North Star suit: $825,000 p. 47. Janin salary hiked to $2,000/yr p. 48; Colorado assignment $150/month (Hoover's own account, flagged dubious) p. 47.
+- Bewick, Moreing: $5,000/yr offer p. 49; letter of credit £500 p. 50; $8,000 + 10% of Coolgardie profits p. 56; $10,000 (Nov 1897) p. 57; predecessor's losses £63,000 / $315,000 p. 58; businesses with $5 million/yr expenditures p. 58; Hoover claims Moreing made $2,000,000 on Gwalia p. 59; Hoover gave/lent up to $3,000/yr to family and friends p. 63.
+
+### Quotes worth using (verbatim)
+- Preface, p. xii: "he would rightly be concerned during his political years to obscure certain records from his business career."
+- Preface, p. xii: "When frustrated in pursuit of a righteous cause, he could fight with the heart of a saint and the conscience of a robber baron."
+- p. 33, Swain: "I observed that he put his teeth together with great decision and his whole face and posture showed his determination to pass the examination at any cost."
+- p. 34, campus: "laid out on eight thousand acres of what had formerly been a horse farm"
+- p. 35: "Strictly speaking, he did not earn his degree."
+- p. 35: Hoover "received the first room assignment under the red-tiled roof of Encina Hall, the men's dormitory, allowing him to claim throughout his life that he was Stanford's first student."
+- p. 35: "for five dollars a week he registered his 558 classmates on their arrival at the university."
+- pp. 35–36, Hoover letter: "Have considerable business worked up & 3000000000000 schemes for making more."
+- p. 38: "I have vertually control of affairs," (Hoover's spelling)
+- p. 44, Branner: "We can't see far around the corners of life."
+- p. 47: "However heartwarming that tale, the actual origins of the Janin-Hoover relationship appear to be grubbier."
+- p. 58, Hoover to Theodore: "It simply comes to this: men hate me more after they work for me than before. They don't need think they are coming to a snap. They're coming to a perfect hell and I am the devil."
+- p. 58, Moreing (as reported by Hoover): "I hear he is a slave driver," … "I would like to hire a few more slave drivers."
+- p. 59, Hoover: "I engineered the whole Sons of Gwalia deal out of which Moreing made $2,000,000 and never gave me a bean nor a share damn him."
+- p. 62, Hoover: "I am a damn fool in money matters,"
+
+### Connections to Cardinal people / threads
+1. **Railroad → land → Hoover (spine tie).** Hoover's first employer was a land-speculation company that existed because "it was only when the transcontinental rail link was formed that full-blown settlement occurred and land prices boomed, creating the opportunity on which Minthorn and his partners intended to capitalize" (p. 26). The firm also owned the Salem Street Railway (p. 28). Its investors "drew few distinctions between the public's interest and their own" (p. 27). Hoover was among the first Americans to ride the newly opened rail route to Oregon (pp. 19–20).
+2. **Yale thread: Louis Janin** — "educated at Yale and Freiburg," Comstock Lode and Rothschilds (p. 46). Janin's recommendation sent Hoover to Bewick, Moreing (p. 49). Lunch "likely at the Pacific Union Club on Nob Hill" (p. 47), Whyte's inference.
+3. **Public story vs. documented conduct (Janin hire).** Hoover's memoir tells a charming copyist-to-engineer story. Whyte says the real hire rested on Hoover's usefulness to the North Star defense: he published a supposedly objective article in *Mining & Scientific Press* that matched North Star's case, without disclosing his tie to Janin, and was paid right after the verdict (pp. 47–48).
+4. **Panic of 1893 as hinge.** It wiped out Minthorn's Oregon Land Co. and cost Hoover his USGS job (p. 45), the same downturn that hits Stanford's estate after Leland's death (cross-check with White, *Who Killed Jane Stanford?*). Whyte's frame: Hoover was "conceived in one economic depression" and "graduated into another" (p. 45).
+5. **Grant's Quaker Policy / Indian agents in the family.** Guardian Lawrie Tatum was "one of President Grant's first Indian Agents," author of *Our Red Brothers* (p. 25 n.*³). Uncle Laban Miles was Osage agent (p. 16). A possible tie to Cardinal's land-dispossession thread. Moderate.
+6. **Branner patronage line.** Hoover was office assistant from his second semester (p. 36). Branner arranged the Ozarks and Lindgren summers (pp. 37, 39–40) and advised him to turn down USGS for commercial mining (p. 48). Branner's own Edison and Boston-gold-mining past (p. 48).
+7. **Stanford enrollment corroboration.** "registered his 558 classmates" (p. 35) makes 559 with Hoover. That matches White's 559 and is a third data point for the 555 vs. 559 open issue (drafts/v0.1/OPEN_ISSUES.md).
+8. **Benjamin Harrison at Stanford** (p. 38). A former president was on campus during Hoover's years. Harrison's Stanford law lectures (1894) are NOT in Whyte; verify elsewhere before use.
+9. **Labor practices foreshadowing Gwalia/Kaiping.** He lengthened Coolgardie shifts "from forty-four to forty-eight hours," fired strikers and hired "more pliable Italian labor" (p. 55), and fired a 72-year-old bookkeeper after raising $300 for him (p. 55).
+10. **Route to Kaiping / Leopold–Francqui thread.** Moreing, "recently returned from a tour of China, had agreed to provide the imperial mining administrator at Tientsin with loans and engineering expertise" (p. 65). That is the bridge to the Kaiping/Belgian thread in the timeline (1901 memorandum).
+
+### CONTRADICTIONS with our draft (checked against GitHub kylesmcauliffe/cardinal @ 63a999e, Nov 21 2026)
+1. **Swain's department.** `books/cardinal/ch/3-01-stanford-prototype-hoover.qmd` l.125 calls Swain "A Stanford geology professor named Joseph Swain [who] came through Portland recruiting." Whyte p. 33: Swain was "a professor in Stanford's inaugural math department" who "administered the Portland exams." Whyte has Hoover going to Portland to take the exams, not Swain coming to recruit. **STRONG: fix.**
+2. **"Passed mathematics and failed everything else."** In 3-01 l.127, rewrite `chapters/ep4-03-farm-opening-day.md` l.13 ("failing every entrance subject except mathematics") and podcast ep05. Whyte p. 33: "he struggled and came up short… Bert was admitted on condition that he bone up on geometry". On campus "He studied hard, took his exams, and failed again, this time in English" (p. 35). Whyte makes geometry the condition, so math was not cleanly passed. Whyte praises his *tenacity* at plane geometry, not a pass. **STRONG: reconcile or attribute (the line appears to come from Harris or the repo ch 3-01; check Harris ch 2.3).**
+3. **"Swain admitted him."** `drafts/v0.1/part-04` l.100 and podcast ep04 l.116. Whyte p. 33 says Stanford ("Stanford, in need of students to fill its dormitories") admitted him, not Swain personally. Minor wording.
+4. **"His first job after graduating was pushing ore carts in a Nevada mine."** In 3-01 l.159, rewrite `ep5-01-gwalia.md` l.27, and podcast ep05. Whyte pp. 45–46: the Reward Mine at **Nevada City / Grass Valley, California** (Nevada County), not the state of Nevada. Whyte also says his last USGS summer with Lindgren came *after* senior year (pp. 39–41), so the mine was not strictly his first post-graduation job. **Fix wording to "a Grass Valley (Nevada County, Calif.) mine."**
+5. **"In 1897, at twenty-three, he was sent to Western Australia."** In 3-01 and ep5-01. He left SF Mar 24, 1897 and reached Albany in May 1897 (pp. 50, 54), and was born Aug 10, 1874 (p. 4). So he was **22** when sent; Whyte p. 49 says "twenty-two years of age" at the Oct 1896 offer. The ep5-01 opener "August 1897… Hoover was twenty-three" is fine (he turned 23 on Aug 10). Minor.
+6. **Timeline "1897–1908. Hoover in Western Australia."** `site/corpus/rewrite/timeline.md` l.54. Whyte p. 57 calls it an "eighteen-month tour of Western Australia." By late 1898 he was leaving for China via SF (pp. 64–65). The 1908 end date is his Bewick, Moreing exit, not WA residence. **Fix the range.**
+7. **"Louis Janin… for whom he clerked."** In 3-01 and ep5-01. The copyist story is Hoover's own account, which Whyte calls "charming, dubious" (p. 46). Whyte's documented basis is the North Star expert-witness work (p. 47). Attribute or reframe.
+8. **"By 1901 Hoover was a partner in Bewick, Moreing."** In 3-01 l.253 and draft v1. Whyte p. 57 has a junior partnership ("pardner") in Nov 1897. Not necessarily a contradiction (full partnership could be later), but specify "full partner" or check Whyte Ch 5–6.
+9. **Citation error:** rewrite `ep5-01-gwalia.md` cites "Whyte 2021, 43". Edition is 2017.
+10. **Typhoid (Harris) vs. Whyte.** Whyte's Ch 2 mentions only "A bout of measles in his second semester affected his eyesight" (p. 36) and no typhoid or Branner paying medical bills. Not a contradiction, but the timeline's "DEEP CUT" rests on Harris alone. **Unclear: needs a second source.**
+
+### Unclear / to verify
+- p. 16: Whyte says Hulda walked to "Springdale," then "straight east for Springfield" in the next sentence. This looks like an internal slip in the book; Springdale is correct per p. 18.
+- p. 47: Pacific Union Club is Whyte's "likely," not documented.
+- p. 50: the West Branch reporter's Rothschild-connection claim is Whyte's characterization ("managed to leave the reporter with the inaccurate impression").
+- p. 61: identity of the girl Hoover proposed to "two years earlier" is unknown ("may have been Lou Henry").
+
+### Content warning for production
+- p. 65 n.*²: Whyte quotes a racist slur from Hoover's letter about Aboriginal Australians (via Burner, p. 27). Use only with care and context, if at all.
+
+
+---
+
+## Run 2 — 2026-11-21 (extended afternoon session) — Chapters 4–27 + Epilogue (pp. 66–614)
+
+**Citation (full):** Kenneth Whyte, *Hoover: An Extraordinary Life in Extraordinary Times* (New York: Alfred A. Knopf, first edition, 2017; “A Borzoi Book”; hardcover ISBN 9780307597960 / ebook ISBN 9781524732462). Print page numbers from the EPUB page-list (`[[p. N]]`). Chapter titles below are Whyte’s own headings.
+
+**Coverage:** Ch 4 “The Adventures of Hu-hua and Hoo Loo” (pp. 66–87); Ch 5 “The Late Jar Rather Smashed My Nerves” (pp. 88–104); Ch 6 “What Lies Beyond Wealth” (pp. 105–125); then Books II–V (chs 7–27, pp. 128–607) and the Epilogue (pp. 608–614), close-read for Cardinal threads (Kaiping/Francqui/Leopold, Stanford/Jordan/Branner/Wilbur, CRB, Colorado/Boulder/Hoover Dam, War Library/Institution) and surveyed for the rest. Page images of key passages: .
+
+This run finishes the book. Next book in the queue is McCartney, *Friends in High Places*.
+
+---
+
+### Chapter 4 — “The Adventures of Hu-hua and Hoo Loo” (pp. 66–87)
+
+#### Dated events
+| Date | Event | Page |
+|---|---|---|
+| Autumn 1898 | Lou, still without a geology job, rolls bandages for the Spanish-American War; had not seen Hoover for almost two years; Whyte says she may have refused his proposal before Australia | p. 67 |
+| Nov 2, 1898 | Hoover to Theodore: “I am damned glad to get out of here.” Tientsin described as a “two-year siege in northern China.” No salary until the new job; firm pays only travel | p. 68 |
+| Dec 11, 1898 | Hoover leaves Australia, with books on China, via Suez–London–New York–San Francisco | p. 68 |
+| End of Jan 1899 | Arrives Monterey; meets the Henrys as prospective son-in-law | pp. 68–69 |
+| Feb 10, 1899, shortly after noon | Married at the Henry home, Monterey, by Father Mestres (Roman Catholic; the intended Palo Alto pastor, Dr. Thoburn, had died). Lou vowed to love and honor “and made no mention of obeying.” | p. 69 |
+| Feb 11, 1899 | Sail from San Francisco on the SS *Coptic* as Mr. and Mrs. H. C. Hoover | p. 71 |
+| Mid-March 1899 | George Wilson reaches Shanghai and finds “Mr H.C. Hoover and Wife” on the hotel register | p. 71 |
+| 1899 (first weeks in Tientsin) | Hoover organizes a two-month inspection tour; Lou takes a 15-room house on Racecourse Road | p. 72 |
+| June 14, 1900 | Boxers, “twenty-five thousand strong,” descend on Tientsin proper; by June 18 the foreign compound is under artillery | p. 77 |
+| June 23, 1900 | Two thousand reinforcements reach the settlement; Detring visits imprisoned Chang | p. 79 |
+| July 30, 1900 | Detring–Hoover negotiation finished (siege already lifted) | p. 81 |
+| Aug 4, 1900 | Bert and Lou leave Tientsin for Shanghai, bound for London. Hoover wires Moreing: “Have obtained necessary agreement signed placing under offer to you Kaiping.” Cables Charles D. Henry one word: “Safe.” | p. 82 |
+| Jan 10, 1901 | Back in Tientsin with Moreing’s “slight alterations” and inducements of 50,000 shares each for Detring and Chang | p. 82 |
+| Feb 19, 1901 | The transfer memorandum later litigated as the “February 19 memorandum” (Whyte p. 101, Chang’s testimony and Joyce). See date note below. | pp. 83–84, 101 |
+| Feb 21–24, 1901 | Whyte’s “four days’ row”: all-night meetings; Chang leaving for Shanghai on the 24th | p. 83 |
+| Sept 1901 | Twenty-seven-year-old Hoover and Lou sail out of China for the last time; he signs on in London as a “pardner” | p. 86 |
+
+#### People
+- **Lou Henry / Lou Henry Hoover** — born same age as Bert (both twenty-four, p. 68); family route Iowa–Texas–Kansas–Whittier, California–Monterey; father **Charles D. Henry**, “middling career in banking”; sister **Jean** (p. 66). Wanted to succeed Hoover as Branner’s assistant; the job went to a male student (p. 67). Chinese name **Hoo Loo**; Bert’s is **Hu-hua** (p. 73). During the siege: bicycle errands, .38 Mauser on her hip, night watch, hospital volunteer; later finished a game of solitaire after a shell exploded at the foot of her stairs (pp. 78, 81).
+- **Chang Yen-Mao** (Whyte’s spelling) — director-general of the Kaiping mines and of mines for Chihli and Jehol (p. 70). Official employer who paid Hoover $12,500 as technical adviser (p. 71). Later raised his salary, expanded his CEMC role, and made him chief engineer of the new Mining Bureau for Chihli, but would not yield control (p. 76). Arrested in the foreign settlement on rumor of communicating with the enemy (p. 78). Signed power of attorney to Detring (p. 79). Came to be “deeply suspicious of the motives and character of Herbert C. Hoover” (p. 83).
+- **Gustav Detring** — “well-placed Chinese-speaking German,” former commissioner of the Maritime Customs of China at Tientsin; informal alliance with Moreing, 1898 (p. 70).
+- **Charles Algernon Moreing** — 1898 China visit; loan of £200,000 (US$1 million) at 12 percent to Chang and the Chinese Engineering and Mining Company to expand Kaiping and build an ice-free harbor at Chinwangtao; Chang refused him equity (pp. 70–71).
+- **George Wilson** — Stanford classmate, “casualty of Hoover’s ill-fated Australian coup,” followed them to China (p. 71).
+- **R. A. F. Penrose Jr.** — American mining financier; Hoover’s confidential July 9, 1899 letter (p. 76; n. 23 cites Hoover Institution).
+- **Frederick Palmer** — *Collier’s* correspondent bunking with the Hoovers at the end of the siege (p. 81).
+- **Father Mestres** — Catholic priest who married them (p. 69).
+- Belgian partners in Moreing’s syndicate are already in the room when the seal is used (p. 84). Francqui is named in ch. 7, not here.
+
+#### Money / deal terms
+- Chang salary to Hoover: $12,500 (p. 71). Moreing also granted Hoover a percentage of his China profits, “an arrangement likely unknown to Chang” (p. 71).
+- Moreing loan: £200,000 / US$1 million at 12 percent (p. 70).
+- Kaiping: “among the world’s largest,” more than twenty miles northeast of Tientsin; 9,000 men at three collieries; a fourth and an ice-free port under construction on Moreing’s loan (p. 75).
+- Preliminary July 1900 deal: new British-registered company, 1 million shares at £1 par; existing Chinese shareholders to receive 375,000; promoters understood (unwritten) to get ~200,000; remaining 625,000 left to London (pp. 79–81).
+- Jan 1901 inducements: 50,000 shares each for Detring and Chang (p. 82). Hoover and Detring also expanded the claim to “an exclusive monopoly to the entire Kaiping basin, or about five times more coal than was originally contemplated” (p. 83).
+- Moreing in London: registered the company without Chinese management in the articles; distributed 625,000 shares “to himself and his mostly Belgian associates… for no cash consideration whatsoever”; then saddled the company with a £500,000 debenture at 6 percent (pp. 85–86).
+- SF *Chronicle* interview: headlined “highest salaried man of his years in the world” at $33,000 per annum — “an absurd assertion given his confessions to his brother” (p. 87). Hoover to Theodore: “a pardnership that is all hopes and no cash”; “at present it is nil” (p. 86).
+- Could later (Whyte p. 94) have sold CEMC shares in 1901 for $250,000 and walked away from Bewick, Moreing.
+
+#### Usable quotes (verbatim)
+- p. 68, Hoover to Theodore, Nov 2, 1898: “I am damned glad to get out of here.” / “My whole stay here has been a nightmare in a dozen regards.”
+- p. 68, cable to Lou: “Going to China via San Francisco. Will you go with me?”
+- p. 71, conflicting role: “Strictly speaking, Hoover was to work as a technical adviser to Chang, who would pay his salary of $12,500.”
+- p. 75, Hoover to Moreing: without “absolute control,” “the game is not worth the candle.”
+- p. 76, to Penrose: role as “consulting engineer, chief engineer, foreign advisor…I don’t know exactly what, to Chang”; opportunity “unparalleled” and “worth the gamble.” Whyte: “This breezy betrayal of his patron, Moreing, came to nothing. It did reveal, however, Hoover’s capacity for duplicity, at least where Moreing was concerned.”
+- p. 76: Hoover “secretly wrote Moreing of his hopes that political unrest in China would overthrow the government and produce new opportunities for Western capital.”
+- p. 79: “They began plotting to deliver a piece of the greatest industrial venture in China from Hoover’s employer, Chang, to his true boss, Moreing.”
+- p. 80, an English lawyer: “neither of these men seemed to trust one another very much.”
+- p. 82, wire to Moreing: “Have obtained necessary agreement signed placing under offer to you Kaiping.”
+- p. 82, New York interview: “Diplomacy with an Asiatic is of no use. If you are going to do business with him you must begin your talk with a gun in your hand, and let him know that you will use it.”
+- p. 84: “Hoover told Chang that the memorandum, and not the transfer agreement, would be the ruling document in the transaction, and that it would be binding upon the company.” Then: “Hoover, who privately considered the memorandum to be worthless, thanked the mandarin and, together with representatives of Belgian partners in Moreing’s syndicate, used the seal to assert control.” Title deeds acquired “by ‘main force.’” Cash seized “by violence.”
+- p. 85: “the largest transfer of property to foreigners in the history of China.”
+- p. 86, Hoover to Theodore: “I have carried one deal through and it may be two years before I realize anything from my shares. I hope for a moderate competence then. Meantime I am living on a pardnership that is all hopes and no cash so that I would be jolly hard up had I not made a few thousand dollars on a speculation here.”
+- p. 87: he wanted the Stanford alumni network to know he had attained a partnership “as a reward for winning the Kaiping mines, which he termed ‘a jolly good deal.’” Whyte: “He would not see it that way for long.”
+
+#### Date / wording notes (do not invent a resolution)
+- Whyte p. 83 starts the “four days’ row” on February 21, 1901; at trial (p. 101) Chang and Joyce treat the governing document as the “February 19 memorandum.” Carlson and the Cardinal ledger use 19 February. Best reading: **February 19 is the memorandum date**; Whyte’s Feb 21–24 are the meetings that produced Chang’s seal. Internal tension, not a draft error.
+- p. 85: “the context of his actions in these early months of 1902” describes the Feb 1901 Tientsin events. This looks like a Whyte slip (should be 1901). Flag, do not silently “correct” Whyte in the canon’s settled claim.
+
+#### Connections
+- Kaiping is the load-bearing Cardinal China episode. Whyte now gives the full mechanism: official adviser to Chang, secret agent of Moreing, backdated papers, trustee deed, worthless-but-promised memorandum, Belgian syndicate already present, “main force.”
+- Stanford thread continues: seven-member Stanford alumni association in Tientsin (p. 74); *Chronicle* interview with “a former Stanford mate” (pp. 86–87); Hoover wants alumni to hear of the partnership (p. 87).
+- Whittier appears in Lou’s family migration (p. 66).
+
+---
+
+### Chapter 5 — “The Late Jar Rather Smashed My Nerves” (pp. 88–104)
+
+#### Dated events
+| Date | Event | Page |
+|---|---|---|
+| Starting Oct 1901 | London as base; “five times in five years” around the globe | p. 88 |
+| End of 1901 | Purchases the Bewick, Moreing partnership for $40,000, borrowed from the firm; operating partner; 20 percent of profits over ten years | p. 89 |
+| Mid-Jan 1902 | Back in Fremantle / Western Australia (returns to the goldfields as operating partner, not as a resident) | p. 89 |
+| Christmas–Dec 29, 1902 | Partner-accountant **A. Stanley Rowe** forges and sells “a quarter million dollars’ worth of stock in the Great Fingall,” then flees | pp. 90–91 |
+| 1903 | Hoover’s total indebtedness “in the neighborhood of $300,000” | p. 92 |
+| May 7, 1903 | Chang’s lawyers sue C. Algernon Moreing, Bewick, Moreing, and the new CEMC in a British court. **Hoover is not a named defendant** | p. 94 |
+| May or June 1903 | First breakdown; month on the Riviera. July letter: “the late jar had rather smashed my nerves” | p. 94 |
+| Aug 4, 1903 | Herbert Charles Hoover Jr. born | p. 95 |
+| Fall 1903 | Storey verdict against Hoover dismissed on appeal; Lord Chancellor finds “not a particle of evidence” to implicate him | pp. 95–96 |
+| 1904 | Bewick, Moreing’s share of Australian gold production “more than doubled to 50 percent”; Hoover estimates market cap of Australian mines under his control “more than $70 million” | p. 97 |
+| May 25, 1904 | WA governor announces a Royal Commission on Hoover’s practice of “bidding down wages by importing workers from Italy” | p. 98 |
+| July 21, 1904 | Second breakdown, en route to Johannesburg on the *Carisbrook Castle* | p. 99 |
+| Nov 1904 | Royal Commission on Immigration of Non-British Labour reports | p. 100 |
+| 1905 | Royal Commission on the Ventilation and Sanitation of Mines: air at Sons of Gwalia “notably bad” | p. 100 |
+| Jan 17, 1905 | *Chang Yen-Mao v. Moreing* opens before Mr. Justice Joyce, Chancery; runs sixteen days | p. 100 |
+| March 1, 1905 | Joyce finds for Chang, emphatically | pp. 101–102 |
+| July 17, 1907 | Second son, Allan Henry, born (Whyte notes the Allen/Allan spelling confusion) | p. 103 |
+| Early 1907 | Firm clears Rowe obligations | p. 103 |
+| June 30, 1908 | Restrictive covenant starts; Hoover sells his stake to William Loring for $150,000 and almost immediately opens at 62 London Wall, “the same prestigious address as Bewick, Moreing” | p. 104 |
+
+#### Quotes
+- p. 89: firm involved in “some twenty mines around the world: coal in China and the Transvaal, tin in Cornwall, gold in South Africa and Western Australia; copper in Canada, silver in Nevada, and turquoise in the Sinai Peninsula.”
+- p. 93, British Foreign Office on Hoover: “a Yankee man of straw acting for Moreing” who had “fleeced” the Chinese shareholders; “a case of rogues falling out.”
+- p. 100, 1905 ventilation commission: the air at Sons of Gwalia was “notably bad.”
+- p. 100–101: the trial involved “the largest transfer of property in the history of China, including some $50 million worth of high-grade coal (Hoover’s own estimate).”
+- p. 101: “He sang a new tune under oath…. His testimony was disingenuous.”
+- p. 102, Joyce: the defendants’ conduct amounted to “a flagrant breach of faith” that would not be tolerated “under the laws of any country.” Joyce was “appalled that Hoover ‘actually took possession of some of the title deeds of the property by main force.’” Possible fraud of “nearly 425,000 shares.” Joyce cleared Chang, “which is more than I can say for some of the other parties concerned.”
+- p. 102: “Hoover would later obtain and apparently destroy every copy of the court minutes he could find (one set has survived).”
+- p. 102, Hoover: “God deliver me from a fool… I would rather do business with a rogue any day if he has brains.”
+- p. 94, July 1903: “I was ordered away by the doctor as the late jar had rather smashed my nerves but I am allright again…”
+
+#### Connections / draft notes
+- Ledger and timeline already cite “Whyte ch 5, p. 100” for Gwalia air “notably bad.” **That quote is correctly p. 100**, but the same ledger note attaches “(1897–1908)” as if Whyte gave a ten-year WA residence there. He does not. p. 100 is the 1905 royal commission and the opening of the Joyce trial. The “eighteen-month tour of Western Australia” remains ch. 3, p. 57. Hoover *did* return to WA as operating partner (mid-Jan 1902 and later inspection tours) until the 1908 exit, but that is not continuous residence from 1897.
+- “By 1901 he is a partner” (ch. 3-01; draft v1): confirmed as the purchased operating partnership at the end of 1901 (p. 89), $40,000 borrowed, 20 percent of profits for ten years. The earlier “pardner” language (ch. 3 p. 57 and the Sept 1901 letter, p. 86) is junior / cash-poor.
+- “By 1908 he was running his own”: confirmed, June 30, 1908 / 62 London Wall (p. 104).
+- Hoover-not-a-named-defendant (p. 94) is worth stating in the Kaiping chapter.
+- Destruction of the Joyce minutes (p. 102) is a direct illustration of the Preface line about obscuring business records (p. xii).
+- Content warning: p. 98 uses the period slur “dago influx” in describing the press and union reaction to Italian labor.
+
+---
+
+### Chapter 6 — “What Lies Beyond Wealth” (pp. 105–125)
+
+Red House, Hornton Street, Campden Hill, Kensington (p. 106). Open door for Californians and Stanford alumni. 1908–14 remembered as perhaps his happiest years (p. 105).
+
+#### Dated events / money
+- 1909: first book, *Principles of Mining*, “based on a series of lectures he had given at Stanford and Columbia” (p. 117). Became a standard text; remained in print throughout his life (p. 119). Moreing had sued him in 1910 for violating the restrictive covenants; settled out of court “to Moreing’s advantage” (p. 117).
+- By his late thirties, “worth several million, with perhaps ten times that amount in sight” (p. 120). Directors’ fees up to $5,000 a year from eighteen companies, total share capital $55 million, 100,000 employees; in position to amass “at least $30 million” (earlier in the chapter, p. 116).
+- 1908–14: Herbert and Lou assemble a library of 912 volumes, including Georgius Agricola’s *De Re Metallica* (p. 119).
+- Five years of translation work; in 1912, after four revisions, they publish: hand-printed on sixteenth-century linen, Agricola’s 289 woodcuts. *American Historical Review*: “a noteworthy monument of patient and intelligent scholarship.” Special gold medal, Mining and Metallurgical Society of America (p. 120). Hoover often quoted Agricola: mining as “a calling of peculiar dignity” (p. 120).
+- David Starr Jordan writes President Taft recommending Hoover: “a millionaire retiring at age thirty-seven” who “has lately declined the deanship of the Columbia school of mines” (p. 122).
+- Secretly paid the salary of a favorite Stanford librarian for several years; donated more than 500 books on China, including rare Jesuit publications, to Stanford; major gift to a students’ union campaign (pp. 123–124).
+- **Autumn 1912:** joins the Stanford board of trustees “in circumstances as cloudy as the awarding of his geology degree seventeen years earlier. He escaped a residency requirement by claiming immediate plans to relocate to San Francisco, knowing full well he was at least a year away from leaving London.” (p. 124)
+- Arranges for Jordan, “the only president in the university’s first two decades, to be kicked up to chancellor and replaced with the geologist John C. Branner.” “That Branner was two years from retirement some took as a signal that Hoover eventually wanted the presidency for himself, which was true.” (p. 124). Feud with Branner over the medical school; attack on tenure fails (“a protection racket for the wild and lazy” is not the wording — the wording is “a protection racket for the weak and lazy and an outrage on the sanctity of higher education. Tenure survived.” pp. 124–125).
+- Summer 1914: lobbying European courts to attend the 1915 Panama-Pacific Exposition; organizing a move of family and business to San Francisco (newspaper shopping; architect for a Presidio Heights house) when the war scatters the plans (p. 125).
+
+#### Quotes
+- p. 122, Jordan to Taft: “I would like to call your notice to a young man, available for executive service, and who possesses the greatest of talent for work in that line…. In short, should he enter public life in any capacity, he is a man who will make himself felt.”
+- p. 123: grandmother had prayed on his departure for Stanford that he would do “a conscientious work.” “That message had been echoed at Stanford, where President Jordan encouraged students to get into ‘the game’ of useful service, a phrase Hoover adopted as his own.”
+- p. 124: Stanford still “the best place in the world.”
+
+---
+
+### Books II–V and Epilogue — Cardinal threads (chs 7–27, pp. 128–614)
+
+Whyte’s later books are the war, the Commerce years, the presidency, and the long afterlife. Below are the threads that touch the Cardinal web. The presidency itself (chs 18–24) was surveyed, not line-by-line transcribed.
+
+#### CRB and Francqui (chs 7–9, especially pp. 141–144, 147–149, 167–168)
+- Sept 1914: Belgian **Comité Central de Secours et d’Alimentation** sends **Millard Shaler** to London; he arrives Sept 26 to buy $100,000 of food (p. 141). Hoover meets him “on or about October 6” (p. 142).
+- Oct 10: Hoover tells Ambassador Page he is considering schemes; within forty-eight hours he is back with a plan. Page convenes a meeting including **Emile Francqui**, chairman of the Comité Central (pp. 142–143).
+- p. 143, verbatim: “Francqui was one of the richest men in Belgium and a former lieutenant for King Leopold II in the Congo.” “Francqui was known to Hoover. They had overlapped for six months in China, with Francqui representing Moreing’s Belgian partners in the Chinese Engineering and Mining Company. They had not gotten along but now put aside their differences in the ambassador’s presence.”
+- p. 144: Page’s summit “culminated in the founding of the Committee for the Relief of Belgium (CRB).” Hoover’s informal charter is a letter to Page **dated October 20**. Hoover chairs the CRB; Francqui’s Comité handles distribution in Belgium. (Ledger dates the organization 1914-10-01, a month placeholder. Whyte’s document date is October 20. Draft fix: use mid-to-late October / the October 20 letter, not October 1.)
+- Naming: Whyte uses “Comité Central” at the founding; the ledger uses “Comité National de Secours et d’Alimentation.” Record both; do not treat as a hard contradiction (the Brussels committee is often later called the Comité National).
+- First gift ship, 3,500 tons, arrives in Holland Nov 21 (p. 147). Francqui organizes distribution to Belgium’s 2,633 communes (p. 147). Need quickly rises from Hoover’s ~20,000 tons/month estimate to Francqui’s cable of at least 80,000 tons; prewar Belgian grain imports ~250,000 tons/month; cost from $1 million/month to at least $4 million (p. 148).
+- Later, “for the better part of a year,” Hoover and Francqui “engaged in a near-psychotic quarrel for preeminence” (p. 167). Hoover “talked of laying a train of powder to blow up Francqui, and at another threatened to train a machine gun on the ‘glory hunting Belgian pinheads.’” Eustace Percy’s late November 1916 warning fails. They settle at the Savoy in London at the end of December: Francqui accuses Hoover of using a sledgehammer to kill gnats; Hoover replies that he would “use a pile driver to kill a malarial mosquito.” (pp. 167–168).
+- p. 211 is the **Order of Leopold** (a Belgian honor offered by King Albert), not King Leopold II. Leopold II appears in this book, after p. 65, only at p. 143 (Francqui in the Congo). Whyte does **not** narrate Leopold’s Kaiping share purchases or de Wouters/Thys; those remain with Nash and Carlson.
+
+#### Stanford, the house, Wilbur, Jordan (scattered)
+- Ch 9 opener (p. 175): during a Stanford presidential search Hoover moaned about “that ‘loud-mouthed Princetown [sic] professor’” (Woodrow Wilson).
+- p. 207: plans for a “twenty-one-room Stanford mansion” leak; Lou fires the architect and takes an existing Palo Alto house.
+- p. 240: she later builds the dream house on **San Juan Hill, overlooking the Stanford campus**. Lou drew the plans (Mission Revival, English cottage, Algerian notes). “Only two stories were visible at the front while fifty-seven rooms rolled down the hillside at the back to cover 12,500 square feet.” Cost $170,000, “nearly three times her initial high-end estimate.” Hoover insisted on fireproof materials and reinforced concrete. Herbert Jr. enrolls at Stanford to study engineering; 1918 influenza affected his hearing. Whyte does not give a completion year in this passage; the ledger’s 1920 year-only date is consistent with the postwar timing but is not stated here.
+- p. 364: “Ray Lyman Wilbur, medical doctor, third president of Stanford University, and a former classmate of the president, was named secretary of the interior.” Whyte does not, in this passage, say that Wilbur remained Stanford’s president while in the cabinet (the ledger does). Leave that clause on its existing sources.
+- p. 528: after the White House, Wilbur visits Hoover at Stanford in April and finds him “lonely beyond measure.”
+- p. 591: Will Irwin and Ray Lyman Wilbur, “his closest Stanford chums,” are gone.
+
+#### Colorado River / Boulder / Hoover Dam
+- pp. 270–271 (Commerce Secretary, Harding years): Hoover leads negotiations among the basin states, focuses on a Bureau of Reclamation report favoring “a dam in Nevada’s Boulder Canyon,” “arranged for the protection of native land rights,” and divides the water fifty-fifty between upper and lower basins. “In less than a year, Hoover collected seven signatures and was able to announce that the Colorado had been ‘freed from a generation of litigation, strikes and arrested development.’” Whyte calls the Colorado River Compact “a critical step in the development of the Southwest” and “a gratifying accomplishment for a man who had begun his career pushing carts beneath the arid surface of those same states.” **Geographic caution:** Whyte earlier located the Reward/Mayflower work at Nevada City / Grass Valley, California (pp. 45–46), which is not in the Colorado basin. The later flourish is imprecise; do not let it drag the first job back into “Nevada” or the Colorado country.
+- Whyte does **not** narrate Interior Secretary Wilbur’s 17 Sept 1930 naming, or the organization of Six Companies / Bechtel and Kaiser (ledger 1930-09-17, 1931-02-01). Those remain with Stevens, McCartney, Denton.
+- p. 587: after WWII, “the administration was reconsidering the name of the Boulder Dam. It had initially been called the Hoover Dam. Roosevelt’s spiteful secretary of the interior, Harold Ickes, had with his president’s approval changed it to Boulder Dam. Congress, with Truman’s support, changed it back in 1947, in part because it was deserved, and also as a reward to Hoover for his service.”
+
+#### War Library / Hoover Institution
+- Whyte does **not**, in the 1919 chapters (chs 11–12), narrate the 22 April 1919 telegram pledging $50,000, the June 1919 funding of the War Collection, or a Belgian gift of Congo / Ruanda-Urundi documents. Searches of those chapters for the library, the $50,000 pledge, and Africa/Congo documents were negative. The ledger’s 1919 founding facts therefore remain on their existing sources; Whyte is silent, not contradictory.
+- p. 527 (post-presidency, living at Stanford): he became “a regular visitor to the nearby Hoover War Library, an institution he had founded and filled with books, posters, and documents from the Great War, the Versailles conference, his relief administrations, and earlier conflicts and famines that interested him.”
+- p. 574: $250 to the War Library as a memorial in Lou’s name.
+- p. 592 (c. 1949, turning down a NY Senate seat partly to lead a Stanford fund-raising campaign): “The War Library was expanding to include research activities, a process that would see it develop into a world-class think tank and repository known as the Hoover Institution on War, Revolution, and Peace.”
+- p. 608 (funeral): “The bells tolled at noon in the tower of the Hoover Institution on War, Revolution and Peace at Stanford University.”
+
+#### Other later-chapter map (for the record, not close-transcribed)
+- Ch 7 (pp. 128–150): war begins; CRB founding (see above).
+- Ch 8 (pp. 151–174): fighting the Asquith government / blockade politics; “a pirate state organized for benevolence.”
+- Ch 9 (pp. 175–191): Wilson; Hoover as “almoner of starving Belgium.”
+- Ch 10 (pp. 192–211): U.S. Food Administration; House of Truth; visit to King Albert and the offered Order of Leopold (p. 211).
+- Ch 11 (pp. 212–226): Versailles; Hoover reads the draft treaty and walks at dawn; signs as a witness in the Hall of Mirrors.
+- Ch 12 (pp. 228–252): return, 16 Sept 1919 Waldorf; League fight; San Juan Hill house (p. 240).
+- Ch 13–14 (pp. 253–286): Harding Commerce Department; unemployment conference; Colorado compact (pp. 270–271); Harding’s death, Wilbur the physician on the train (p. 285).
+- Ch 15 (pp. 287–306): Teapot Dome / scandals around him; later Bewick, Moreing gossip (pp. 292–294) is character color, not a new Kaiping fact.
+- Ch 16–17 (pp. 307–360): Coolidge years, “Wonder Boy,” 1927 Mississippi flood.
+- Chs 18–24 (pp. 362–524): cabinet (Wilbur to Interior, p. 364), Smoot-Hawley, crash, RFC, Bonus Army, 1932 defeat.
+- Chs 25–27 (pp. 526–607): Palo Alto afterlife, “father of the new conservatism,” WWII/Truman, dam name restored (p. 587), Institution (p. 592).
+- Epilogue (pp. 608–614): death and funeral; bells at the Hoover Institution tower.
+
+No Bechtel, Six Companies, Terman, Thiel, McCone, Shultz, or Weinberger in Whyte.
+
+---
+
+### CONTRADICTIONS and draft fixes added this run
+(Full exact corrections are in . Do not edit the repo.)
+
+1. **1899 role.** `ch/3-01` and rewrite `ep5-01`: “In 1899 the firm sent him to China as chief engineer for a mining concern operating at Kaiping.” Whyte pp. 70–71, 76: sent because Chang asked Moreing for an engineer to survey gold mines; official role was technical adviser to Chang at $12,500; “chief engineer” of the Mining Bureau for Chihli comes later, after Chang raises his salary. **STRONG: reframe.**
+2. **Marriage and sailing dates** can be tightened to Feb 10 and Feb 11, 1899, SS *Coptic* (pp. 69, 71). Not a contradiction.
+3. **CRB date.** Ledger 1914-10-01 is a placeholder. Whyte’s charter letter is dated October 20 (p. 144). **Fix the placeholder.**
+4. **Ledger note on Whyte ch. 5, p. 100 (1897–1908).** The “notably bad” air quote is correctly p. 100; the ten-year residence is not. See Run 1 item 6 and p. 57.
+5. **Joyce / party-vs-witness.** Whyte settles the contest: under oath Hoover “sang a new tune” and the testimony “was disingenuous” (p. 101), against his earlier letters. Add the destruction of the court minutes (p. 102).
+6. **Trustees, autumn 1912.** Ledger year-only 1912 is fine; add the residency dodge, Jordan kicked up to chancellor, Branner installed, and Whyte’s statement that Hoover wanted the presidency himself (p. 124).
+7. **Feb 19 memorandum** is confirmed by Whyte at trial (p. 101). Keep the ledger date.
+8. **War Collection / Africa Collection, 1919.** Whyte is silent. Do not treat silence as confirmation or contradiction.
+9. **1930 Wilbur naming / Six Companies.** Whyte is silent; he only has the Compact (pp. 270–271) and the 1947 name restoration (p. 587).
+10. Run 1 items (Swain’s department, entrance exams, Nevada City not Nevada, age 22, Whyte 2017, WA tour length) all still stand after finishing the book.
+
+### Content warnings
+- p. 73, 76, 82, 85: racist language and “armed diplomacy” talk, plus a possible revolver story Whyte flags as not firmly proved.
+- p. 98: “dago influx.”

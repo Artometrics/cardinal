@@ -1,0 +1,515 @@
+[
+  {
+    "slug": "mccartney-friends-in-high-places",
+    "title": "Friends in High Places: The Bechtel Story (New York: Simon and Schuster, 1988). Hardcover ISBN 0-671-47415-4",
+    "author": "Laton McCartney",
+    "citation": "Laton McCartney, Friends in High Places: The Bechtel Story (New York: Simon and Schuster, 1988). Hardcover ISBN 0-671-47415-4",
+    "status": "read",
+    "argues": [
+      "Close reading of Laton McCartney, Friends in High Places: The Bechtel Story (New York: Simon and Schuster, 1988). Hardcover ISBN 0-671-47415-4",
+      "Gap: the notes do not yet state a one-line argument for this source."
+    ],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": []
+  },
+  {
+    "slug": "whyte-hoover",
+    "title": "Hoover: An Extraordinary Life in Extraordinary Times (New York: Knopf, 2017)",
+    "author": "Kenneth Whyte",
+    "citation": "Kenneth Whyte, Hoover: An Extraordinary Life in Extraordinary Times (New York: Knopf, 2017)",
+    "status": "read",
+    "argues": [
+      "Close reading of Kenneth Whyte, Hoover: An Extraordinary Life in Extraordinary Times (New York: Knopf, 2017)",
+      "**Railroad → land → Hoover (spine tie).** Hoover's first employer was a land-speculation company that existed because \"it was only when the transcontinental rail link was formed that full-blown settlement occurred and land prices boomed, creating the opportunity on which Minthorn and his partners intended to capitalize\" (p. 26). The firm also owned the Salem Street Railway (p. 28). Its investors \"drew few distinctions between the public's interest and their own\" (p. 27). Hoover was among the first Americans to ride the newly opened rail route to Oregon (pp. 19–20)."
+    ],
+    "keyFacts": [
+      "1738 — Hoover ancestors (Swiss-German) land in Pennsylvania — p. 6",
+      "1854 — Jesse Hoover, age 8, migrates with family from Miami County, Ohio, to West Branch, Iowa — pp. 6–7",
+      "1859 — Minthorn family (incl. Hulda, 11) crosses from Norwich, Ontario, to a farm near West Branch — p. 7",
+      "1869 — Grant's \"President's Quaker Policy\" outsources Plains Indian administration to the Friends — p. 16",
+      "Mar 12, 1870 — Jesse Hoover marries Hulda Minthorn (Methodist pastor A. M. Smith officiates) — p. 8",
+      "Aug 10/11, 1874 — Herbert Clark Hoover born, West Branch (date is an estimate; he switched between 10 and 11) — pp. 4–5, p. 25 n.*¹",
+      "1873–74 — Hoover conceived during the Panic of 1873 (~14% unemployment, 18,000 business failures over two years) — pp. 10–11",
+      "c. 1876–77 — Croup nearly kills 2-year-old Herbert; uncle Dr. Henry John Minthorn revives him — pp. 5–6",
+      "Jesse's smithy sold for $1,000 (1878) p. 11; children's joint estate ~$2,000 p. 18; $33 train ticket p. 19.",
+      "Oregon Land Co.: $20,000 raised (1888); capital stock $200,000 by 1890 p. 26, 28; Hoover $20 → $35/month pp. 27–28.",
+      "At Stanford: \"just under a thousand dollars to his name\" p. 34; Branner job $25/month p. 36; cleared inherited class debt of $1,200 p. 37.",
+      "Promised USGS salary $1,200/yr p. 45; mucker $2/day, Mayflower $2.50/day p. 46.",
+      "North Star suit: $825,000 p. 47. Janin salary hiked to $2,000/yr p. 48; Colorado assignment $150/month (Hoover's own account, flagged dubious) p. 47.",
+      "Bewick, Moreing: $5,000/yr offer p. 49; letter of credit £500 p. 50; $8,000 + 10% of Coolgardie profits p. 56; $10,000 (Nov 1897) p. 57; predecessor's losses £63,000 / $315,000 p. 58; businesses with $5 million/yr expenditures p. 58; Hoover claims Moreing made $2,000,000 on Gwalia p. 59; Hoover gave/lent up to $3,000/yr to family and friends p. 63."
+    ],
+    "bestQuotes": [
+      {
+        "text": "Preface, p. xii: \"he would rightly be concerned during his political years to obscure certain records from his business career.\"",
+        "page": "p. xii",
+        "images": []
+      },
+      {
+        "text": "Preface, p. xii: \"When frustrated in pursuit of a righteous cause, he could fight with the heart of a saint and the conscience of a robber baron.\"",
+        "page": "p. xii",
+        "images": []
+      },
+      {
+        "text": "p. 33, Swain: \"I observed that he put his teeth together with great decision and his whole face and posture showed his determination to pass the examination at any cost.\"",
+        "page": "p. 33",
+        "images": [
+          "/research-log/screenshots/whyte-hoover/p33.png"
+        ]
+      },
+      {
+        "text": "p. 34, campus: \"laid out on eight thousand acres of what had formerly been a horse farm\"",
+        "page": "p. 34",
+        "images": []
+      },
+      {
+        "text": "p. 35: \"Strictly speaking, he did not earn his degree.\"",
+        "page": "p. 35",
+        "images": [
+          "/research-log/screenshots/whyte-hoover/p35.png"
+        ]
+      },
+      {
+        "text": "p. 35: Hoover \"received the first room assignment under the red-tiled roof of Encina Hall, the men's dormitory, allowing him to claim throughout his life that he was Stanford's first student.\"",
+        "page": "p. 35",
+        "images": [
+          "/research-log/screenshots/whyte-hoover/p35.png"
+        ]
+      },
+      {
+        "text": "p. 35: \"for five dollars a week he registered his 558 classmates on their arrival at the university.\"",
+        "page": "p. 35",
+        "images": [
+          "/research-log/screenshots/whyte-hoover/p35.png"
+        ]
+      },
+      {
+        "text": "pp. 35–36, Hoover letter: \"Have considerable business worked up & 3000000000000 schemes for making more.\"",
+        "page": "pp. 35–36",
+        "images": [
+          "/research-log/screenshots/whyte-hoover/p35.png"
+        ]
+      },
+      {
+        "text": "p. 38: \"I have vertually control of affairs,\" (Hoover's spelling)",
+        "page": "p. 38",
+        "images": []
+      },
+      {
+        "text": "p. 44, Branner: \"We can't see far around the corners of life.\"",
+        "page": "p. 44",
+        "images": []
+      },
+      {
+        "text": "p. 47: \"However heartwarming that tale, the actual origins of the Janin-Hoover relationship appear to be grubbier.\"",
+        "page": "p. 47",
+        "images": [
+          "/research-log/screenshots/whyte-hoover/p47.png"
+        ]
+      },
+      {
+        "text": "p. 58, Hoover to Theodore: \"It simply comes to this: men hate me more after they work for me than before. They don't need think they are coming to a snap. They're coming to a perfect hell and I am the devil.\"",
+        "page": "p. 58",
+        "images": []
+      },
+      {
+        "text": "p. 58, Moreing (as reported by Hoover): \"I hear he is a slave driver,\" … \"I would like to hire a few more slave drivers.\"",
+        "page": "p. 58",
+        "images": []
+      },
+      {
+        "text": "p. 59, Hoover: \"I engineered the whole Sons of Gwalia deal out of which Moreing made $2,000,000 and never gave me a bean nor a share damn him.\"",
+        "page": "p. 59",
+        "images": []
+      },
+      {
+        "text": "p. 62, Hoover: \"I am a damn fool in money matters,\"",
+        "page": "p. 62",
+        "images": []
+      }
+    ],
+    "connects": [
+      "**Railroad → land → Hoover (spine tie).** Hoover's first employer was a land-speculation company that existed because \"it was only when the transcontinental rail link was formed that full-blown settlement occurred and land prices boomed, creating the opportunity on which Minthorn and his partners intended to capitalize\" (p. 26). The firm also owned the Salem Street Railway (p. 28). Its investors \"drew few distinctions between the public's interest and their own\" (p. 27). Hoover was among the first Americans to ride the newly opened rail route to Oregon (pp. 19–20).",
+      "**Yale thread: Louis Janin** — \"educated at Yale and Freiburg,\" Comstock Lode and Rothschilds (p. 46). Janin's recommendation sent Hoover to Bewick, Moreing (p. 49). Lunch \"likely at the Pacific Union Club on Nob Hill\" (p. 47), Whyte's inference.",
+      "**Public story vs. documented conduct (Janin hire).** Hoover's memoir tells a charming copyist-to-engineer story. Whyte says the real hire rested on Hoover's usefulness to the North Star defense: he published a supposedly objective article in *Mining & Scientific Press* that matched North Star's case, without disclosing his tie to Janin, and was paid right after the verdict (pp. 47–48).",
+      "**Panic of 1893 as hinge.** It wiped out Minthorn's Oregon Land Co. and cost Hoover his USGS job (p. 45), the same downturn that hits Stanford's estate after Leland's death (cross-check with White, *Who Killed Jane Stanford?*). Whyte's frame: Hoover was \"conceived in one economic depression\" and \"graduated into another\" (p. 45).",
+      "**Grant's Quaker Policy / Indian agents in the family.** Guardian Lawrie Tatum was \"one of President Grant's first Indian Agents,\" author of *Our Red Brothers* (p. 25 n.*³). Uncle Laban Miles was Osage agent (p. 16). A possible tie to Cardinal's land-dispossession thread. Moderate.",
+      "**Branner patronage line.** Hoover was office assistant from his second semester (p. 36). Branner arranged the Ozarks and Lindgren summers (pp. 37, 39–40) and advised him to turn down USGS for commercial mining (p. 48). Branner's own Edison and Boston-gold-mining past (p. 48).",
+      "**Stanford enrollment corroboration.** \"registered his 558 classmates\" (p. 35) makes 559 with Hoover. That matches White's 559 and is a third data point for the 555 vs. 559 open issue (drafts/v0.1/OPEN_ISSUES.md).",
+      "**Benjamin Harrison at Stanford** (p. 38). A former president was on campus during Hoover's years. Harrison's Stanford law lectures (1894) are NOT in Whyte; verify elsewhere before use.",
+      "**Labor practices foreshadowing Gwalia/Kaiping.** He lengthened Coolgardie shifts \"from forty-four to forty-eight hours,\" fired strikers and hired \"more pliable Italian labor\" (p. 55), and fired a 72-year-old bookkeeper after raising $300 for him (p. 55).",
+      "**Route to Kaiping / Leopold–Francqui thread.** Moreing, \"recently returned from a tour of China, had agreed to provide the imperial mining administrator at Tientsin with loans and engineering expertise\" (p. 65). That is the bridge to the Kaiping/Belgian thread in the timeline (1901 memorandum)."
+    ],
+    "gaps": [
+      "p. 16: Whyte says Hulda walked to \"Springdale,\" then \"straight east for Springfield\" in the next sentence. This looks like an internal slip in the book; Springdale is correct per p. 18.",
+      "p. 47: Pacific Union Club is Whyte's \"likely,\" not documented.",
+      "p. 50: the West Branch reporter's Rothschild-connection claim is Whyte's characterization (\"managed to leave the reporter with the inaccurate impression\").",
+      "p. 61: identity of the girl Hoover proposed to \"two years earlier\" is unknown (\"may have been Lou Henry\")."
+    ]
+  },
+  {
+    "slug": "denton-the-profiteers",
+    "title": "The Profiteers: Bechtel and the Men Who Built the World",
+    "author": "Sally Denton",
+    "citation": "Sally Denton, The Profiteers: Bechtel and the Men Who Built the World",
+    "status": "downloaded",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "white-railroaded",
+    "title": "Railroaded: The Transcontinentals and the Making of Modern America",
+    "author": "Richard White",
+    "citation": "Richard White, Railroaded: The Transcontinentals and the Making of Modern America",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "brechin-imperial-san-francisco",
+    "title": "Imperial San Francisco: Urban Power, Earthly Ruin",
+    "author": "Gray Brechin",
+    "citation": "Gray Brechin, Imperial San Francisco: Urban Power, Earthly Ruin",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "chang-ghosts-of-gold-mountain",
+    "title": "Ghosts of Gold Mountain",
+    "author": "Gordon H. Chang",
+    "citation": "Gordon H. Chang, Ghosts of Gold Mountain",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "miller-why-fish-dont-exist",
+    "title": "Why Fish Don't Exist",
+    "author": "Lulu Miller",
+    "citation": "Lulu Miller, Why Fish Don't Exist",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "winkler-we-the-corporations",
+    "title": "We the Corporations",
+    "author": "Adam Winkler",
+    "citation": "Adam Winkler, We the Corporations",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "white-who-killed-jane-stanford",
+    "title": "Who Killed Jane Stanford?",
+    "author": "Richard White",
+    "citation": "Richard White, Who Killed Jane Stanford?",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "baker-how-to-rule-the-world",
+    "title": "How to Rule the World: An Education in Power at Stanford",
+    "author": "Theo Baker",
+    "citation": "Theo Baker, How to Rule the World: An Education in Power at Stanford",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "rayner-the-associates",
+    "title": "The Associates: Four Capitalists Who Created California",
+    "author": "Richard Rayner",
+    "citation": "Richard Rayner, The Associates: Four Capitalists Who Created California",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "ambrose-nothing-like-it",
+    "title": "Nothing Like It in the World",
+    "author": "Stephen E. Ambrose",
+    "citation": "Stephen E. Ambrose, Nothing Like It in the World",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "levine-surveillance-valley",
+    "title": "Surveillance Valley",
+    "author": "Yasha Levine",
+    "citation": "Yasha Levine, Surveillance Valley",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "berlin-troublemakers",
+    "title": "Troublemakers: Silicon Valley's Coming of Age",
+    "author": "Leslie Berlin",
+    "citation": "Leslie Berlin, Troublemakers: Silicon Valley's Coming of Age",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "mallaby-the-power-law",
+    "title": "The Power Law",
+    "author": "Sebastian Mallaby",
+    "citation": "Sebastian Mallaby, The Power Law",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "chafkin-the-contrarian",
+    "title": "The Contrarian: Peter Thiel and Silicon Valley's Pursuit of Power",
+    "author": "Max Chafkin",
+    "citation": "Max Chafkin, The Contrarian: Peter Thiel and Silicon Valley's Pursuit of Power",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "soni-the-founders",
+    "title": "The Founders: The Story of PayPal",
+    "author": "Jimmy Soni",
+    "citation": "Jimmy Soni, The Founders: The Story of PayPal",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "fisher-valley-of-genius",
+    "title": "Valley of Genius",
+    "author": "Adam Fisher",
+    "citation": "Adam Fisher, Valley of Genius",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "wu-the-master-switch",
+    "title": "The Master Switch",
+    "author": "Tim Wu",
+    "citation": "Tim Wu, The Master Switch",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "levy-in-the-plex",
+    "title": "In the Plex",
+    "author": "Steven Levy",
+    "citation": "Steven Levy, In the Plex",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "levy-facebook",
+    "title": "Facebook: The Inside Story",
+    "author": "Steven Levy",
+    "citation": "Steven Levy, Facebook: The Inside Story",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "wylie-mindfck",
+    "title": "Mindf*ck: Cambridge Analytica and the Plot to Break America",
+    "author": "Christopher Wylie",
+    "citation": "Christopher Wylie, Mindf*ck: Cambridge Analytica and the Plot to Break America",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "sheehan-transpacific-experiment",
+    "title": "The Transpacific Experiment",
+    "author": "Matt Sheehan",
+    "citation": "Matt Sheehan, The Transpacific Experiment",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "vance-elon-musk",
+    "title": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+    "author": "Ashlee Vance",
+    "citation": "Ashlee Vance, Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "isaacson-elon-musk",
+    "title": "Elon Musk",
+    "author": "Walter Isaacson",
+    "citation": "Walter Isaacson, Elon Musk",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "siddiqui-hubris-maximus",
+    "title": "Hubris Maximus: The Shattering of Elon Musk",
+    "author": "Faiz Siddiqui",
+    "citation": "Faiz Siddiqui, Hubris Maximus: The Shattering of Elon Musk",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "jacobsen-phenomena",
+    "title": "Phenomena: US Government Investigations into ESP and Psychokinesis",
+    "author": "Annie Jacobsen",
+    "citation": "Annie Jacobsen, Phenomena: US Government Investigations into ESP and Psychokinesis",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  },
+  {
+    "slug": "harris-palo-alto",
+    "title": "Palo Alto: A History of California, Capitalism, and the World",
+    "author": "Malcolm Harris",
+    "citation": "Malcolm Harris, Palo Alto: A History of California, Capitalism, and the World",
+    "status": "queued",
+    "argues": [],
+    "keyFacts": [],
+    "bestQuotes": [],
+    "connects": [],
+    "gaps": [
+      "Close reading has not been filed for this source yet."
+    ]
+  }
+]

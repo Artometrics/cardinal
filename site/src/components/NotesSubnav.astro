@@ -1,0 +1,33 @@
+---
+interface Props {
+  section: 'log' | 'study';
+  current: string;
+}
+const { section, current } = Astro.props;
+const log = [
+  ['index', 'Sessions', '/log'],
+  ['notes', 'Notes', '/log#notes'],
+  ['canon', 'Canon', '/log/canon'],
+  ['fixes', 'Fixes', '/log/fixes'],
+];
+const study = [
+  ['index', 'Guide', '/study'],
+  ['outline', 'Outline', '/study/outline'],
+  ['parts', 'Cliff Notes', '/study#parts'],
+  ['sources', 'Sources', '/study/sources'],
+  ['people', 'People', '/study/people'],
+  ['timeline', 'Timeline', '/study/timeline'],
+];
+const items = section === 'log' ? log : study;
+const label = section === 'log' ? 'Research Log' : 'Study Guide';
+---
+
+<nav class="notes-subnav" aria-label={label}>
+  {
+    items.map(([key, name, href]) => (
+      <a href={href} aria-current={key === current ? 'page' : undefined}>
+        {name}
+      </a>
+    ))
+  }
+</nav>

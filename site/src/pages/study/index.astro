@@ -1,0 +1,82 @@
+---
+import Base from '../../layouts/Base.astro';
+import NotesSubnav from '../../components/NotesSubnav.astro';
+import { getOutline, getParts, getSources } from '../../lib/research';
+
+const outline = getOutline();
+const parts = getParts();
+const sources = getSources();
+const read = sources.filter((s) => s.status === 'read' || s.status === 'in_progress');
+const queued = sources.filter((s) => s.status !== 'read' && s.status !== 'in_progress');
+---
+
+<Base title="Study Guide" description="Outlines, Cliff Notes, source summaries, people, and a timeline for Cardinal.">
+  <article class="doc wide">
+    <h1 class="page-title">Study Guide</h1>
+    <p class="lede">
+      A bullet-point companion to the book: the locked outline, Cliff Notes for each act, a summary of each source, and a
+      quick-reference people list and timeline. Every line is grounded in the draft, the outline, or the close-reading notes.
+      Gaps are marked rather than filled in.
+    </p>
+    <NotesSubnav section="study" current="index" />
+    {
+      outline.gaps.map((gap) => (
+        <p class="gap-note">{gap}</p>
+      ))
+    }
+    {
+      outline.mechanism.length > 0 && (
+        <section>
+          <h2 class="group-label">The mechanism</h2>
+          <ul class="bullet-list">
+            {outline.mechanism.map((line) => (
+              <li set:html={line.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')} />
+            ))}
+          </ul>
+        </section>
+      )
+    }
+    {
+      outline.framingClaim && (
+        <section>
+          <h2 class="group-label">Framing claim</h2>
+          <p class="lede">{outline.framingClaim}</p>
+        </section>
+      )
+    }
+    <section id="parts">
+      <h2 class="group-label">Cliff Notes by part</h2>
+      <div class="catalog">
+        {
+          parts.map((part) => (
+            <a href={`/study/parts/${part.slug}`}>
+              <span class="ct">{part.name}</span>
+              <span class="ck">{[part.dates, `${part.chapters.length} chapters`].filter(Boolean).join(' · ')}</span>
+            </a>
+          ))
+        }
+      </div>
+    </section>
+    <section>
+      <h2 class="group-label">Also in this guide</h2>
+      <div class="catalog">
+        <a href="/study/outline">
+          <span class="ct">Full outline</span>
+          <span class="ck">Part by part, chapter by chapter</span>
+        </a>
+        <a href="/study/sources">
+          <span class="ct">Sources</span>
+          <span class="ck">{read.length} read, {queued.length} not yet filed</span>
+        </a>
+        <a href="/study/people">
+          <span class="ct">People</span>
+          <span class="ck">Quick-reference list from the notes</span>
+        </a>
+        <a href="/study/timeline">
+          <span class="ct">Timeline</span>
+          <span class="ck">Dated events from the notes</span>
+        </a>
+      </div>
+    </section>
+  </article>
+</Base>
