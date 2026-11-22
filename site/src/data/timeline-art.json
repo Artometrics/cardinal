@@ -239,12 +239,6 @@
     "caption": "Illustrated reconstruction",
     "slug": "1887-01-01-hopkins-plats-university-park"
   },
-  "1890-01-01::The Stanfords travel to Bloomington to recruit David Starr Jordan as first president": {
-    "src": "/timeline-art/1890-01-01-recruit-jordan-bloomington.webp",
-    "alt": "Illustrated six-panel reconstruction of the Stanfords’ 1890 journey to Bloomington to recruit the university’s first president.",
-    "caption": "Illustrated reconstruction",
-    "slug": "1890-01-01-recruit-jordan-bloomington"
-  },
   "1891-10-01::Stanford University opens": {
     "src": "/timeline-art/1891-10-01-stanford-university-opens.webp",
     "alt": "Illustrated six-panel reconstruction of Stanford University opening in 1891, with unfinished sandstone arcades and arriving students.",
@@ -832,5 +826,11 @@
     "alt": "Illustrated six-panel reconstruction of a January 2025 presidential inauguration, with generic figures in winter coats seated in outdoor stands: a wide view of the Capitol, a blank program, a crowd from above, an over-the-shoulder toward the platform, and dusk on the plaza, with no recognizable likenesses.",
     "caption": "Illustrated reconstruction",
     "slug": "2025-01-20-tech-founders-inauguration"
+  },
+  "1891-03-22::The Stanfords travel to Bloomington to recruit David Starr Jordan as first president": {
+    "src": "/timeline-art/1890-01-01-recruit-jordan-bloomington.webp",
+    "alt": "Illustrated six-panel reconstruction of the Stanfords’ 1890 journey to Bloomington to recruit the university’s first president.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1890-01-01-recruit-jordan-bloomington"
   }
 }

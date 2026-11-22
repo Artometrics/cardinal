@@ -43,7 +43,7 @@ Quotes were checked against the EPUB text extracted on Oct 13, 2026. Page number
 ## Episode 4
 - **Harris, Palo Alto** (Ch 1.3): Stanford rehired Muybridge in 1876, “apparently not begrudging Helios the murder and child abandonment” in between.
   - *Why:* The man who invents cinema on the farm had just killed his wife's lover. **[DEEP CUT]**
-- **Miller, Why Fish Don't Exist** (Ch 4): Paraphrase: in 1890 the Stanfords travel to Bloomington to recruit Jordan; Jane soon becomes “the only mark on David’s dream life.”
+- **Miller, Why Fish Don't Exist** (Ch 4): Paraphrase: the Stanfords travel to Bloomington to recruit Jordan (Miller says 1890; it was March 21–22, 1891, per McMains 2019); Jane soon becomes “the only mark on David’s dream life.”
   - *Why:* The president and the widow at odds. **[Miller argues Jordan's involvement; contested]**
 - **Miller, Why Fish Don't Exist** (Ch 9): Paraphrase: upon learning the death would be ruled a poisoning, Jordan “set sail for Hawaii.”
   - *Why:* The president races to control the story. **[contested]**

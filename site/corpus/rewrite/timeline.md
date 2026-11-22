@@ -44,7 +44,7 @@
 - **1886, May 10.** Yick Wo v. Hopkins decided. (event ledger)
 - **1887.** Timothy Hopkins — adopted son of Mark Hopkins’s widow and a founding Stanford trustee — buys land from the Seale estate and plats University Park; it becomes Palo Alto in 1892. (Elliott 1937, Internet Archive; Wikipedia, “Timothy Hopkins”)
   - ★ DEEP CUT: the railroad Associate’s heir lays out the town at the university’s gate, and in 1905 (most likely) sails with Jordan to Honolulu. (Jordan, *Days of a Man* vol. 2 — see 1905, Mar.)
-- **1890.** The Stanfords travel to Bloomington to recruit David Starr Jordan. (Miller ch 4)
+- **1891, Mar 21–22.** The Stanfords travel to Bloomington; Jordan, president of Indiana University, accepts the Stanford presidency on Sunday, March 22. (McMains, *Indiana Magazine of History* 115, 2019; Stanford Magazine, “Meet President Jordan.” Miller ch 4 gives “1890,” which is wrong.)
 - **1891, Oct 1.** Opening day; Herbert Hoover is in the pioneer class. (Harris ch 2.3)
 - **1893, Jun.** Leland Stanford dies; the estate is frozen and Jane funds the university. (White-J)
 - **1894–95.** Hoover meets Lou Henry in Branner's geology lab. (Whyte ch 2, p. 43)

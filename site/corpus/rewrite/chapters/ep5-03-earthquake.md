@@ -30,7 +30,7 @@ The university did not close. Governance did not change. The self-perpetuating b
 
 Jordan was fifty years old in 1906. He had spent seventeen years building a coeducational western university into a national presence, and he had done it while publishing on fish taxonomy, peace, conservation, and heredity with the same pen.
 
-In the days after the earthquake he was everywhere on campus — assigning labour crews, negotiating with insurers, writing donors, reassuring parents. He was good at institutions in crisis. He had silenced faculty during the Ross affair. He would sail for Hawaii when Jane Stanford's death threatened to become a scandal the university could not control (Miller 2018; White 2022).
+In the days after the earthquake he was everywhere on campus — assigning labour crews, negotiating with insurers, writing donors, reassuring parents. He was good at institutions in crisis. He had silenced faculty during the Ross affair. He would sail for Hawaii when Jane Stanford's death threatened to become a scandal the university could not control (Miller 2020, ch. 9, pp. 112–117; White 2022).
 
 The spire in the grass was a photograph the country would see in newspapers. The institution that owned the photograph was already arranging who would interpret what it meant.
 
