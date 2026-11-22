@@ -173,12 +173,6 @@
     "caption": "Illustrated reconstruction",
     "slug": "1874-10-01-muybridge-calistoga-trial"
   },
-  "1876-01-01::Southern Pacific completes the line to Los Angeles": {
-    "src": "/timeline-art/1876-01-01-southern-pacific-los-angeles.webp",
-    "alt": "Illustrated six-panel reconstruction of the Southern Pacific completing its line to Los Angeles in 1876.",
-    "caption": "Illustrated reconstruction",
-    "slug": "1876-01-01-southern-pacific-los-angeles"
-  },
   "1877-01-01::Denis Kearney’s Workingmen march on Stanford’s Nob Hill mansion": {
     "src": "/timeline-art/1877-01-01-kearney-nob-hill-march.webp",
     "alt": "Illustrated six-panel reconstruction of an 1877 Workingmen's march climbing toward a railroad baron's mansion on San Francisco's Nob Hill.",
@@ -485,12 +479,6 @@
     "caption": "Illustrated reconstruction",
     "slug": "1946-11-06-stanford-research-institute"
   },
-  "1951-01-01::Stanford Industrial Park opens": {
-    "src": "/timeline-art/1951-01-01-stanford-industrial-park.webp",
-    "alt": "Illustrated six-panel reconstruction of Stanford Industrial Park opening on Page Mill Road: foothills, a graded road, a steel frame going up, and a dusk pavilion.",
-    "caption": "Illustrated reconstruction",
-    "slug": "1951-01-01-stanford-industrial-park"
-  },
   "1953-01-01::First Stanford Industrial Park lease goes to Varian Associates; Terman is an investor and board member": {
     "src": "/timeline-art/1953-01-01-varian-first-park-lease.webp",
     "alt": "Illustrated six-panel reconstruction of Varian’s first Industrial Park lease: a hillside modernist lab, a blank lease being signed, and a dean’s office at dusk.",
@@ -599,35 +587,17 @@
     "caption": "Illustrated reconstruction",
     "slug": "1974-01-01-shultz-bechtel-stanford"
   },
-  "1974-01-01::Niels Reimers files the Cohen–Boyer recombinant-DNA patent application for Stanford": {
-    "src": "/timeline-art/1974-01-01-reimers-cohen-boyer-patent.webp",
-    "alt": "Illustrated six-panel reconstruction of a university licensing office filing a recombinant-DNA patent: a campus corridor, a stamp over blank forms, a laboratory bench, and a dusk office window.",
-    "caption": "Illustrated reconstruction",
-    "slug": "1974-01-01-reimers-cohen-boyer-patent"
-  },
   "1975-03-05::First Homebrew Computer Club meeting": {
     "src": "/timeline-art/1975-03-05-homebrew-computer-club.webp",
     "alt": "Illustrated six-panel reconstruction of the first Homebrew Computer Club meeting: a Menlo Park garage at night, a crowded workbench of unbranded circuit boards, hands over a soldering iron, and figures gathered in warm lamplight.",
     "caption": "Illustrated reconstruction",
     "slug": "1975-03-05-homebrew-computer-club"
   },
-  "1976-01-01::Genentech is founded by Robert Swanson and Herbert Boyer": {
-    "src": "/timeline-art/1976-01-01-genentech-founded.webp",
-    "alt": "Illustrated six-panel reconstruction of the founding of a South San Francisco biotechnology firm: a handshake over blank papers, a modest lab bench, a waterfront industrial street, and an empty night exterior, figures seen from behind.",
-    "caption": "Illustrated reconstruction",
-    "slug": "1976-01-01-genentech-founded"
-  },
   "1979-02-01::ERISA prudent man rule clarified": {
     "src": "/timeline-art/1979-02-01-erisa-prudent-man.webp",
     "alt": "Illustrated six-panel reconstruction of the 1979 ERISA prudent-man clarification: a federal building, a hearing table with blank papers, a corridor of file cabinets, and dusk over a Washington dome.",
     "caption": "Illustrated reconstruction",
     "slug": "1979-02-01-erisa-prudent-man"
-  },
-  "1980-08-12::IBM Personal Computer development; MS-DOS licensed non-exclusively": {
-    "src": "/timeline-art/1980-08-12-ibm-pc-msdos.webp",
-    "alt": "Illustrated six-panel reconstruction of early personal-computer development and a non-exclusive operating-system licence: a beige unbranded desktop with a blank glowing CRT, a lab seen from behind, rain on a Seattle street, and a blank licence page.",
-    "caption": "Illustrated reconstruction",
-    "slug": "1980-08-12-ibm-pc-msdos"
   },
   "1980-10-14::Genentech IPO": {
     "src": "/timeline-art/1980-10-14-genentech-ipo.webp",
@@ -646,18 +616,6 @@
     "alt": "Illustrated six-panel reconstruction of former construction executives entering a presidential cabinet: a federal entrance, a marble corridor, a raised hand over a blank book, and official cars at dusk.",
     "caption": "Illustrated reconstruction",
     "slug": "1981-01-21-bechtel-cabinet"
-  },
-  "1987-01-01::Peter Thiel founds The Stanford Review": {
-    "src": "/timeline-art/1987-01-01-stanford-review-founded.webp",
-    "alt": "Illustrated six-panel reconstruction of a student newspaper being founded on a sandstone campus: a dusk quadrangle, a cramped office, a typewriter with a blank page, and a night walk under arcades.",
-    "caption": "Illustrated reconstruction",
-    "slug": "1987-01-01-stanford-review-founded"
-  },
-  "1995-01-01::Elon Musk enrolls at Stanford and leaves almost immediately": {
-    "src": "/timeline-art/1995-01-01-musk-enrolls-leaves-stanford.webp",
-    "alt": "Illustrated six-panel reconstruction of a brief 1995 campus arrival and immediate departure: an almost empty sandstone quadrangle, a suitcase in a bare dorm doorway, a figure walking away under an arcade, and a dusk gate, no identifiable person.",
-    "caption": "Illustrated reconstruction",
-    "slug": "1995-01-01-musk-enrolls-leaves-stanford"
   },
   "1995-04-30::NSFNET backbone decommissioned; the network passes to commercial operators": {
     "src": "/timeline-art/1995-04-30-nsfnet-backbone-decommissioned.webp",
@@ -682,12 +640,6 @@
     "alt": "Illustrated six-panel reconstruction of a late-1990s licence pitch by a graduate student to a Silicon Valley firm: an office-park exterior, a blank packet, a conference table seen from behind, a computer lab, and a dusk office window, no logos or likenesses.",
     "caption": "Illustrated reconstruction",
     "slug": "1997-01-01-page-excite-backrub-pitch"
-  },
-  "1998-01-01::Google operates from the Santa Margarita Avenue garage in Menlo Park at $1,700 a month": {
-    "src": "/timeline-art/1998-01-01-google-santa-margarita-garage.webp",
-    "alt": "Illustrated six-panel reconstruction of a late-1990s startup working out of a rented Menlo Park garage: a ranch-house street, a garage interior with blank glowing CRTs, a desk of blank papers, and a night doorway silhouette, no logos or likenesses.",
-    "caption": "Illustrated reconstruction",
-    "slug": "1998-01-01-google-santa-margarita-garage"
   },
   "1998-09-04::Google incorporated": {
     "src": "/timeline-art/1998-09-04-google-incorporated.webp",
@@ -832,5 +784,53 @@
     "alt": "Illustrated six-panel reconstruction of the Stanfords’ 1890 journey to Bloomington to recruit the university’s first president.",
     "caption": "Illustrated reconstruction",
     "slug": "1890-01-01-recruit-jordan-bloomington"
+  },
+  "1876-09-05::Southern Pacific completes the line to Los Angeles": {
+    "src": "/timeline-art/1876-01-01-southern-pacific-los-angeles.webp",
+    "alt": "Illustrated six-panel reconstruction of the Southern Pacific completing its line to Los Angeles in 1876.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1876-01-01-southern-pacific-los-angeles"
+  },
+  "1953-01-01::Stanford Industrial Park opens (first building occupied by Varian Associates)": {
+    "src": "/timeline-art/1951-01-01-stanford-industrial-park.webp",
+    "alt": "Illustrated six-panel reconstruction of Stanford Industrial Park opening on Page Mill Road: foothills, a graded road, a steel frame going up, and a dusk pavilion.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1951-01-01-stanford-industrial-park"
+  },
+  "1980-11-06::Microsoft signs a contract with IBM to create an operating system for the IBM PC": {
+    "src": "/timeline-art/1980-08-12-ibm-pc-msdos.webp",
+    "alt": "Illustrated six-panel reconstruction of early personal-computer development and a non-exclusive operating-system licence: a beige unbranded desktop with a blank glowing CRT, a lab seen from behind, rain on a Seattle street, and a blank licence page.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1980-08-12-ibm-pc-msdos"
+  },
+  "1974-11-11::Niels Reimers files the Cohen–Boyer recombinant-DNA patent application for Stanford": {
+    "src": "/timeline-art/1974-11-11-reimers-cohen-boyer-patent.webp",
+    "alt": "Illustrated six-panel reconstruction of a university licensing office filing a recombinant-DNA patent: a campus corridor, a stamp over blank forms, a laboratory bench, and a dusk office window.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1974-11-11-reimers-cohen-boyer-patent"
+  },
+  "1976-04-07::Genentech is founded by Robert Swanson and Herbert Boyer": {
+    "src": "/timeline-art/1976-04-07-genentech-founded.webp",
+    "alt": "Illustrated six-panel reconstruction of the founding of a South San Francisco biotechnology firm: a handshake over blank papers, a modest lab bench, a waterfront industrial street, and an empty night exterior, figures seen from behind.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1976-04-07-genentech-founded"
+  },
+  "1987-06-09::Peter Thiel founds The Stanford Review": {
+    "src": "/timeline-art/1987-06-09-stanford-review-founded.webp",
+    "alt": "Illustrated six-panel reconstruction of a student newspaper being founded on a sandstone campus: a dusk quadrangle, a cramped office, a typewriter with a blank page, and a night walk under arcades.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1987-06-09-stanford-review-founded"
+  },
+  "1998-09-04::Google operates from the Santa Margarita Avenue garage in Menlo Park at $1,700 a month": {
+    "src": "/timeline-art/1998-09-04-google-santa-margarita-garage.webp",
+    "alt": "Illustrated six-panel reconstruction of a late-1990s startup working out of a rented Menlo Park garage: a ranch-house street, a garage interior with blank glowing CRTs, a desk of blank papers, and a night doorway silhouette, no logos or likenesses.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1998-09-04-google-santa-margarita-garage"
+  },
+  "1995-01-01::Elon Musk is admitted to a Stanford graduate program in materials science; he does not enroll": {
+    "src": "/timeline-art/1995-01-01-musk-admitted-does-not-enroll.webp",
+    "alt": "Illustrated six-panel reconstruction of a brief 1995 campus arrival and immediate departure: an almost empty sandstone quadrangle, a suitcase in a bare dorm doorway, a figure walking away under an arcade, and a dusk gate, no identifiable person.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1995-01-01-musk-admitted-does-not-enroll"
   }
 }

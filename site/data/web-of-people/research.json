@@ -63,7 +63,7 @@
     },
     "google-garage": {
       "status": "VERIFIED",
-      "revisionNote": "Sources agree on 232 Santa Margarita Ave., Menlo Park, owned by Susan Wojcicki, and $1,700 a month. Wojcicki bought the house after earning her MBA in 1998; Google’s own history page says the garage became the first office after the August 1998 Bechtolsheim cheque and incorporation.",
+      "revisionNote": "Sources agree on 232 Santa Margarita Ave., Menlo Park, owned by Susan Wojcicki, and $1,700 a month. Wojcicki bought the house after earning her MBA in 1998; Google’s own history page says the garage became the first office after the August 1998 Bechtolsheim cheque and incorporation. Levy, re-opened 22 Nov 2026, dates the move off campus to the incorporation day, 4 September 1998.",
       "note": "Wojcicki herself gave the $1,700 figure (Dreamforce, 2015) and in 2007 to USA TODAY.",
       "cites": [
         {
@@ -87,7 +87,8 @@
           "kind": "institutional",
           "q": "the newly incorporated team made the upgrade from the dorms to their first office: a garage in suburban Menlo Park, California, owned by Susan Wojcicki"
         }
-      ]
+      ],
+      "dateNote": "Levy, In the Plex (2011), Part One ch. 1 ¶112 (EPUB re-opened 22 Nov 2026): “On September 4, 1998, Page and Brin filed for incorporation and finally moved off campus.” The ledger garage row, previously year-only, is now dated 4 September 1998, the same day as incorporation. Levy writes “Santa Margarita Street”; the address is 232 Santa Margarita Avenue."
     },
     "hoover-australia": {
       "status": "VERIFIED",
@@ -582,9 +583,15 @@
       "status": "CONTESTED",
       "date": "1995",
       "title": "Accepted to Stanford’s materials science graduate program; by Musk’s account leaves after two days",
-      "revisionNote": "Stanford confirms he applied and was accepted to a materials science and engineering graduate program in 1995 but has no record he enrolled; “after two days” is Musk’s own account (often repeated as a physics or applied physics PhD, which Stanford did not confirm).",
+      "revisionNote": "Stanford confirms he applied and was accepted to a materials science and engineering graduate program in 1995 but has no record he enrolled. Vance, Elon Musk (2015), Appendix 1, prints the 22 June 2009 registrar letter (Judith Haccou): admitted, “did not enroll.” “After two days” is Musk’s own account (often repeated as a physics or applied physics PhD, which Stanford did not confirm). Isaacson’s “officially enrolled then deferred” (2023, ch. 9) conflicts with the letter. Ledger event retitled 22 Nov 2026; status VERIFIED for admission and non-enrollment.",
       "note": "Widely repeated: Musk left Stanford after two days. Stanford says it has no record of him enrolling.",
       "cites": [
+        {
+          "title": "Letter of Judith Haccou, director of graduate admissions, 22 June 2009, printed in Vance",
+          "publisher": "Ashlee Vance, Elon Musk (HarperCollins, 2015), Appendix 1",
+          "kind": "institutional",
+          "q": "you applied and were admitted to the graduate program in Material Science Engineering in 1995. Since you did not enroll, Stanford is not able to issue you an official certification document."
+        },
         {
           "url": "https://stanforddaily.com/2024/11/11/elon-musk-stanford-work-status/",
           "title": "Elon Musk's brief Stanford affiliation raises questions about previous immigration status",
@@ -612,9 +619,9 @@
       "status": "VERIFIED",
       "date": "1997",
       "title": "Proposes that Excite buy BackRub: a $1.6 million package including \"$300,000 to Stanford for the license\"",
-      "dateNote": "Levy dates Page’s emails to Vinod Khosla laying out the plan to January 1997; the reachable excerpt says only that Page was “not-quite-twenty-four” and would return for the fall 1997 semester.",
+      "dateNote": "Levy, In the Plex (2011), Part One ch. 1 ¶90 (EPUB re-opened 22 Nov 2026): Page described the plan in detail in emails to Vinod Khosla in January 1997. Day in January is not given; the ledger keeps 1997-01-01 as a month placeholder. Page was “not-quite-twenty-four” and would return for the fall 1997 semester.",
       "revisionNote": "The $300,000 figure is one part of a $1.6 million proposed outlay (also a $200,000 salary, $400,000 bonus, $700,000 in Excite stock). Khosla made a tentative counter-offer of $750,000 and the deal never happened. The manuscript’s month (1997-01) is not stated by any web-reachable source, so the date is given as 1997.",
-      "note": "Source is a blog excerpt of Steven Levy’s In the Plex (2011), a tertiary route to a scholarly/journalistic book.",
+      "note": "The January 1997 month is now taken from the book itself, not only from a blog excerpt of pp. 24–29. The $300,000 figure is one part of a $1.6 million proposed outlay; Khosla’s tentative counter-offer was $750,000 and the deal never happened.",
       "cites": [
         {
           "url": "https://www.startup-book.com/2015/08/27/google-in-the-plex-part-1-a-technology/",
@@ -1200,50 +1207,6 @@
           "publisher": "Stanford University Libraries",
           "kind": "institutional",
           "q": "1919 June 20 Hoover War Collection (now the Hoover Institution on War, Revolution and Peace) established"
-        }
-      ]
-    },
-    "ledger-1951-01-01-stanford-industrial-park-opens": {
-      "status": "CONTESTED",
-      "date": "1951",
-      "dateNote": "1951 = authorised / first lease (October); 1953 = first tenant occupies its building.",
-      "revisionNote": "Ledger entry is dated 1951-01-01 as 'opens'. Sources agree on the sequence but use 'opened' differently: the park was authorised (209 acres set aside) and the first ground lease (Varian) signed in October 1951; Varian built its lab and moved in 1953, which Wikipedia and Palo Alto History call the opening. No source gives January 1951.",
-      "note": "Sources differ on when the park 'opened': 1951 (authorised; first lease signed October 1951) versus 1953 (first tenant moved in).",
-      "cites": [
-        {
-          "url": "https://stanfordresearchpark.com/about/",
-          "title": "About Stanford Research Park",
-          "publisher": "Stanford Research Park (Stanford University)",
-          "kind": "institutional",
-          "q": "Since 1951, Stanford Research Park has been home to the R&D branches of pioneering companies from Varian Associates to HP, Lockheed Martin, SAP, Tesla, and more."
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Stanford_Research_Park",
-          "title": "Stanford Research Park",
-          "publisher": "Wikipedia",
-          "kind": "tertiary",
-          "q": "In 1951, the initiative was authorized and 209 acres were allocated. In 1953, Varian Associates moved in as the park's first tenant."
-        },
-        {
-          "url": "https://stanfordmag.org/contents/century-at-stanford",
-          "title": "Century at Stanford (50 years ago, 1951)",
-          "publisher": "Stanford Magazine",
-          "kind": "institutional",
-          "q": "University officials in October took the first step in opening portions of Stanford land to industrial users when they signed a lease with Varian Associates for a 10-acre tract"
-        },
-        {
-          "url": "https://paloaltohistory.org/stanford-research-park-1",
-          "title": "Stanford Research Park",
-          "publisher": "Palo Alto Historical Association",
-          "kind": "institutional",
-          "q": "Varian Associates were the park's first tenants when it opened in 1953."
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Frederick_Terman",
-          "title": "Frederick Terman",
-          "publisher": "Wikipedia",
-          "kind": "tertiary",
-          "q": "In 1951 he spearheaded the creation of Stanford Industrial Park (now Stanford Research Park)"
         }
       ]
     },
@@ -4460,6 +4423,22 @@
           "publisher": "Wikipedia",
           "kind": "tertiary",
           "q": "given in 1841 by Governor Juan Alvarado to María Antonia Mesa"
+        }
+      ]
+    },
+    {
+      "id": "dwight-d-eisenhower",
+      "name": "Dwight D. Eisenhower",
+      "given": "Dwight D.",
+      "surname": "Eisenhower",
+      "role": "34th president of the United States; delivered the 17 January 1961 farewell address",
+      "roleCites": [
+        {
+          "url": "https://www.archives.gov/milestone-documents/president-dwight-d-eisenhowers-farewell-address",
+          "title": "President Dwight D. Eisenhower's Farewell Address (1961)",
+          "publisher": "National Archives",
+          "kind": "institutional",
+          "q": "Three days from now, after half a century in the service of our country, I shall lay down the responsibilities of office"
         }
       ]
     }

@@ -68,7 +68,8 @@ it under the rule in `_project/voice.md`.
 | 1862-07-01 | Pacific Railway Act signed | Passes only after secession empties the Southern seats. Land grants and 30-year bonds at 6 per cent. Union Pacific is the first federally chartered corporation since the Second Bank. | VERIFIED |
 | 1867-06-24 | Chinese workers strike on the Sierra grade | About 3,000 men demand pay parity and shorter tunnel hours. Ends after about eight days, without concessions, once provisions are stopped. | VERIFIED |
 | 1869-05-10 | Golden spike completes the transcontinental railroad | A public work becomes a private monopoly. The Chinese workforce is absent from the photograph. | VERIFIED |
-| 1876-01-01 | Southern Pacific completes the line to Los Angeles | Consolidation of rail power; the company begins deciding which towns exist. | NEEDS SOURCE |
+| 1876-09-05 | Southern Pacific completes the line to Los Angeles | Consolidation of rail power; the company begins deciding which towns exist. | VERIFIED |
+| 1877-01-01 | Denis Kearney’s Workingmen march on Stanford’s Nob Hill mansion | Year-only. Harris p. 59, citing Saxton p. 118. White does not describe the march (CANON-066). | VERIFIED |
 | 1880-05-11 | Mussel Slough shootout | Seven dead in a dispute over railroad land titles. The physical edge of legal architecture. | VERIFIED |
 | 1882-05-06 | Chinese Exclusion Act signed | First federal law barring a nationality. The men who built the Sierra grade are prohibited from the country they connected. | VERIFIED |
 
@@ -100,40 +101,50 @@ it under the rule in `_project/voice.md`.
 | 1942-02-19 | Executive Order 9066 | Incarceration of some 120,000 people of Japanese ancestry. Property lost at distress prices; the transfer had beneficiaries. | VERIFIED |
 | 1945-07-01 | Vannevar Bush delivers 'Science, the Endless Frontier' | The intellectual case for permanent federal funding of basic research through universities. | VERIFIED |
 | 1946-08-01 | Office of Naval Research established | Fills the five-year gap before the NSF. American basic science funding is architected with a service branch as founding patron. | VERIFIED |
-| 1946-11-06 | Stanford Research Institute established | Owned by the university. The ownership is what the 1969 protests turn on. | NEEDS SOURCE |
+| 1946-11-06 | Stanford Research Institute established | Owned by the university. The ownership is what the 1969 protests turn on. | VERIFIED |
 
 ## The Valley (1951–1979)
 
 | Date | Event | Why it matters | Status |
 |---|---|---|---|
-| 1951-01-01 | Stanford Industrial Park opens | First university-owned industrial park in the US. Direct consequence of the 1885 prohibition on selling land. | NEEDS SOURCE |
-| 1956-01-01 | Lockheed Missiles and Space opens in Sunnyvale | Becomes the county's largest employer and is absent from the region's origin story. | NEEDS SOURCE |
+| 1953-01-01 | Stanford Industrial Park opens (first building occupied by Varian Associates) | First university-owned industrial park in the US. Direct consequence of the 1885 prohibition on selling land. Authorized 1951; Varian lease October 1951; occupied 1953. | VERIFIED |
+| 1956-01-01 | Lockheed Missiles and Space opens in Sunnyvale | Becomes the county's largest employer and is absent from the region's origin story. | VERIFIED |
 | 1956-02-01 | Shockley Semiconductor opens in Mountain View | Located there because his mother lived there. | VERIFIED |
 | 1957-09-18 | The eight resign from Shockley; Fairchild Semiconductor follows | The spinoff becomes the Valley's reproductive mechanism, enabled by California's refusal to enforce non-competes. | VERIFIED |
 | 1959-01-01 | Planar process developed at Fairchild | Makes the integrated circuit manufacturable. The advantage lives in people and therefore walks. | VERIFIED |
+| 1961-01-17 | Eisenhower delivers his farewell address warning of unwarranted influence by the military-industrial complex | Public warning about a permanent peacetime arms industry and federally contracted university research. The address does not name Stanford or Lockheed. | VERIFIED |
 | 1962-11-01 | Knight secures Tiger distribution rights in Kobe | Blue Ribbon Sports invented on the spot. The company began as a Stanford class paper. | VERIFIED |
-| 1963-01-01 | Fairchild opens assembly operations in Hong Kong | The offshore turn in semiconductors, in the same years Knight is arranging it in footwear. | NEEDS SOURCE |
+| 1963-01-01 | Fairchild opens assembly operations in Hong Kong | The offshore turn in semiconductors, in the same years Knight is arranging it in footwear. | VERIFIED |
 | 1965-04-19 | Moore's law published | A coordination device rather than a prediction. Sets the industry's clock for half a century. | VERIFIED |
 | 1968-12-09 | Engelbart's demonstration at the Fall Joint Computer Conference | Mouse, hypertext, windows, collaborative editing. Federally funded and commercially uncaptured. | VERIFIED |
 | 1969-04-09 | Students occupy the Applied Electronics Laboratory | Nine days. They print the classified research they find. The senate bans classified work on 24 April. | VERIFIED |
 | 1969-05-16 | Police tear-gas students protesting the SRI divestment | They had asked the university to take responsibility. It took its name off the door instead. | VERIFIED |
 | 1969-10-29 | First ARPANET message, UCLA to SRI | The system crashes after two letters. The internet's first word is 'lo'. | VERIFIED |
 | 1970-01-01 | Trustees set terms for the SRI divestment | SRI sold to itself for 1 per cent of gross revenues up to $25 million. Pressure produced reorganisation, not reform. | VERIFIED |
+| 1970-06-01 | Stanford’s Office of Technology Licensing is made a permanent office | The in-house licensing office that will later file Cohen–Boyer and license PageRank leaves the Research Corporation model. Day in June is not given. | VERIFIED |
 | 1972-01-01 | Kleiner Perkins and Sequoia Capital founded on Sand Hill Road | Both founded by operators from the semiconductor industry, four minutes from the campus supplying the deal flow. | VERIFIED |
+| 1974-11-11 | Niels Reimers files the Cohen–Boyer recombinant-DNA patent application for Stanford | The university turns a laboratory method into licensing income, years before Bayh–Dole. Filed 11 November 1974, a week before the statutory deadline. | VERIFIED |
 | 1975-03-05 | First Homebrew Computer Club meeting | Circulating culture, enclosed within about five years. | VERIFIED |
+| 1976-04-07 | Genentech is founded by Robert Swanson and Herbert Boyer | A Kleiner & Perkins associate, let go with payroll to the end of 1975, builds the first biotech company on the Cohen–Boyer method (patent issued 2 December 1980). | VERIFIED |
 | 1979-02-01 | ERISA prudent man rule clarified | Admits pension money to venture funds. The public-money leg of the capital chokepoint. | VERIFIED |
 
 ## Platforms (1980–2005)
 
 | Date | Event | Why it matters | Status |
 |---|---|---|---|
-| 1980-08-12 | IBM Personal Computer development; MS-DOS licensed non-exclusively | The most valuable clause never inserted. Hardware commoditises; the operating system does not. | NEEDS SOURCE |
 | 1980-10-14 | Genentech IPO | Biology financed like software, on a Stanford and UCSF patent. | VERIFIED |
+| 1980-11-06 | Microsoft signs a contract with IBM to create an operating system for the IBM PC | The most valuable clause never inserted. Hardware commoditises; the operating system does not. Contract date is 6 November 1980, not 12 August 1980. | VERIFIED |
+| 1980-12-02 | Cohen–Boyer recombinant-DNA patent issued to Stanford and the University of California | U.S. Patent 4,237,224. Two months after the Genentech IPO and ten days before Bayh–Dole. | VERIFIED |
 | 1980-12-12 | Bayh-Dole Act enacted | Universities take title to federally funded inventions. Answers the question Act II left open. | VERIFIED |
+| 1987-06-09 | Peter Thiel founds The Stanford Review | Inaugural issue 9 June 1987. The campus newspaper becomes the starting point of a political and financial network that later includes PayPal and Palantir. | VERIFIED |
+| 1995-01-01 | Elon Musk is admitted to a Stanford graduate program in materials science; he does not enroll | Year-only. Registrar letter, 22 June 2009, in Vance Appendix 1. The “two days” story is Musk’s account. | VERIFIED |
 | 1995-04-30 | NSFNET backbone decommissioned; the network passes to commercial operators | Thirty years of public investment transferred without compensation, equity, or public debate. | VERIFIED |
 | 1995-08-09 | Netscape IPO | Built on Mosaic, developed at a public university on federal funding. | VERIFIED |
 | 1996-02-08 | Section 230 enacted | Twenty-six words. The legal foundation of the platform economy. | VERIFIED |
+| 1997-01-01 | Larry Page’s Excite pitch for BackRub includes a proposed $300,000 licence payment to Stanford | Month placeholder. Emails to Khosla in January 1997; the $1.6 million package includes the university licence fee. The deal never happened. | VERIFIED |
+| 1998-01-01 | Stanford files a patent for Larry Page’s PageRank system | Month placeholder. University IP months before incorporation. USPTO primary not opened this pass. | VERIFIED |
 | 1998-09-04 | Google incorporated | Their published paper argues ad-funded search will be biased against users. Stanford owns the PageRank patent. | VERIFIED |
+| 1998-09-04 | Google operates from the Santa Margarita Avenue garage in Menlo Park at $1,700 a month | Same day as incorporation: they leave campus for Susan Wojcicki’s house. | VERIFIED |
 | 2002-10-03 | eBay acquires PayPal | About $1.5 billion. The product was payments; the durable asset was the address book. | VERIFIED |
 
 ## The Open Era (2006–2025)
@@ -143,7 +154,7 @@ it under the rule in `_project/voice.md`.
 | 2006-03-14 | Amazon Web Services launches | Computing as a metered utility. Within fifteen years much of the internet runs on three providers. | VERIFIED |
 | 2006-11-16 | Nvidia introduces CUDA | A software ecosystem accumulated fifteen years before there was a market for it. The switching cost that holds the position. | VERIFIED |
 | 2012-04-09 | Facebook acquires Instagram | About $1 billion for a company with no revenue. Buying the competitor before it is one. | VERIFIED |
-| 2018-03-17 | Cambridge Analytica reporting published | The neutrality posture collapses in public. | VERIFIED |
+| 2018-03-17 | Cambridge Analytica reporting published | The neutrality posture collapses in public. Observer, New York Times, and Channel 4, 17 March 2018. | VERIFIED |
 | 2018-08-27 | UN fact-finding mission reports on Myanmar | Addresses the platform's role in the spread of hate speech. The company's own commissioned assessment follows. | VERIFIED |
 | 2019-07-24 | FTC announces $5 billion Facebook privacy settlement | Largest privacy penalty the agency had imposed. | VERIFIED |
 | 2020-11-03 | Proposition 22 passes in California | Over $200 million spent to exempt platforms from a classification law passed the previous year. | VERIFIED |
@@ -156,12 +167,18 @@ it under the rule in `_project/voice.md`.
 
 ## Outstanding
 
-Six rows are marked `NEEDS SOURCE` and are the priority verification queue:
-the Southern Pacific's completion to Los Angeles, SRI's founding instrument, the Stanford
-Industrial Park's authorisation and opening dates (sources give 1951 and 1953 and
-the discrepancy is unresolved), Lockheed's Sunnyvale employment figures,
-Fairchild's Hong Kong opening, and the IBM–Microsoft contract date and terms.
-For SRI (incorporated 6 November 1946), McCartney names the founders, but the
-founding instrument is not yet cited. The Central
-Pacific's incorporation (certificate filed 28 June 1861) is now verified
+No ledger rows remain marked `NEEDS SOURCE` as of 21 November 2026. The six
+rows that had been the verification queue are now verified, as follows: the
+Southern Pacific reached Los Angeles on 5 September 1876 (California Historical
+Landmark No. 590, Lang Station); SRI's articles of incorporation were filed
+6 November 1946 (SRI corporate history; the original instrument is in the
+Stanford Archives and was not opened); the Stanford Industrial Park was
+authorized in 1951, Varian signed its lease in October 1951, and the first
+building was occupied in 1953 (Sandelin 2004; Stanford Heritage Services 2016);
+Lockheed Missiles & Space moved to Sunnyvale in 1956 (City of Sunnyvale;
+Lockheed Martin); Fairchild opened a Hong Kong assembly plant in 1963 (Charles
+Sporck's firsthand account; a 1963 contemporaneous filing was not opened);
+and Microsoft signed its IBM operating-system contract on 6 November 1980
+(Computer History Museum), not 12 August 1980. The Central
+Pacific's incorporation (certificate filed 28 June 1861) was already verified
 (Evans 1954; Ambrose 2000, ch. 3, p. 72).

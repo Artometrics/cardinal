@@ -90,12 +90,17 @@ built on top of it.
 ## Beats
 
 1. **Hook.** A clause in an 1885 document forbidding a sale, and the industrial
-   park it produced sixty-six years later. Begin with the legal accident.
-2. **The land problem.** Eight thousand acres, unsellable, and a university
-   short of money. Terman's solution is a lease.
-3. **1951.** The Stanford Industrial Park opens — the first university-owned
-   industrial park in the country. Varian first, then Hewlett-Packard in 1956.
-   Page Mill Road as the spine.
+   park it produced. Begin with the legal accident. (The Grant forbids sale of
+   the Palo Alto Farm; it does not itself state an acreage. The park was
+   authorised in 1951, sixty-six years later, and first occupied in 1953.)
+2. **The land problem.** The unsellable Palo Alto Farm, and a university
+   short of money. Terman's solution is a lease. Official Stanford Facts give
+   8,180 acres as the University's Peninsula landholding today, not as a
+   Founding Grant figure.
+3. **1951 and 1953.** The Stanford Industrial Park is authorised in 1951
+   (209 acres; Varian signs a 99-year lease in October). Varian occupies the
+   first building in 1953. Hewlett-Packard follows in 1956. Page Mill Road
+   as the spine.
 4. **The four roles.** Landlord, talent pool, research partner, legitimacy
    anchor. State them as a list and then show one company experiencing all four.
 5. **The Honors Cooperative Program, 1954.** Part-time graduate study for

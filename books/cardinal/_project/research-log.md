@@ -48,7 +48,7 @@ National Park Service's *The Pacific Railway* handbook.
 | Thirty-year government bonds at six percent, plus land grants | VERIFIED | 12 Stat. 489; Pacific Railway Acts legislative history |
 | The Union Pacific was the first corporation chartered by the federal government since the Second Bank of the United States | VERIFIED | NPS handbook |
 | Central Pacific incorporated 28 June 1861 | VERIFIED | Certificate filed 28 June 1861 after organization on 30 April (Evans, *Collis Potter Huntington*, 1954); Ambrose 2000, ch. 3, p. 72 |
-| California gold's contribution to Union war finance | NEEDS SOURCE | Load-bearing for the chapter's second half |
+| California gold's contribution to Union war finance | VERIFIED (narrowly) | *Report of the Secretary of the Treasury on the State of the Finances for the Year 1864*, pp. 8–9 (FRASER): miscellaneous receipts include “Premium on gold shipped from San Francisco to London,” $2,799,920.64. The Secretary explains that exchange drawn against five-twenty bonds in London had to be met at maturity, “which was accomplished by shipments of gold from California.” This documents one official mechanism in 1863–64; it does not by itself quantify gold’s overall share of Union war finance. |
 
 **Discrepancy flagged.** The National Archives' summary page for the Pacific
 Railway Act states that the 1862 Act "designated the 32nd parallel as the initial
@@ -84,7 +84,7 @@ Worth a footnote — a reader checking the most obvious source will hit this.
 | Bowerman and Knight each put in $500 and ordered 300 pairs; partnership sealed by handshake 25 January 1964 | VERIFIED | Nike corporate history |
 | Jeff Johnson, Nike's first full-time employee (1965), was met at Stanford through intramural track | VERIFIED | Nike corporate history; *The Oregonian*, 2011 |
 | Knight later funded the Knight Management Center at Stanford GSB, dedicated 2011 | VERIFIED | *The Oregonian*, 22 April 2011 |
-| Nike revenues exceeded $3 million in 1972, its first year under the Nike brand | NEEDS SOURCE | *Encyclopedia.com* gives this; want a second source |
+| Nike sales in the first years of the Nike brand | CONTESTED (figure) | *Encyclopedia.com* said revenues exceeded $3 million in 1972, the first year under the Nike brand. A second source does not corroborate that wording. Phil Knight, Address to the Graduating Class, Stanford GSB, 14 June 2014, transcribed by Allan Brettman, *The Oregonian*, 16 June 2014: “By 1972 we got to $2 million in sales with a 3 percent net profit.” After the Onitsuka break, the Nike name, and new product lines, “Sales grew to $3.2 million, but we had our first-ever loss.” Use Knight’s figures; do not treat the *Encyclopedia.com* “exceeded $3 million in 1972” line as settled. |
 | Page length of the Shallenberger paper | CONTESTED | *The Oregonian* says 50 pages; other accounts differ. Omit the number from the prose. |
 
 ### Act III, ch. 7 — The April Third Movement
@@ -220,3 +220,86 @@ Recorded so they are not silently reintroduced.
 
 Sources, verification status and single-source flags for the events added on branch `research/web-expansion-2026-11-21` are recorded in the ledger `note` column and in the "Research log — Nov 21, 2026" section of the Google Doc "Cardinal — Rewrite Additions, Cuts & Missing People". Borrowed Internet Archive books (Nash 1983, Carlson 1971, Stevens 1988, McCartney 1988) were read by search-inside and returned; their pages are IA leaf numbers, not printed pages.
 
+---
+
+## Nov 22, 2026 — Whyte-depth re-reads (lean-mode books)
+
+The seven books that had been read in lean mode were re-read to Whyte-level thoroughness from the existing extracts (Chang, Miller, Winkler earlier on Nov 22; White, *Who Killed Jane Stanford?*; Baker, *How to Rule the World*; Rayner, *The Associates*; Ambrose, *Nothing Like It in the World*). Notes and dated-event tables are in `/workspace/cardinal-reading/notes/` and in the corresponding Google Docs. No new ledger dates were changed in this pass. A few hedges belong here so they are not silently imported:
+
+| Claim | Correction / hedge |
+|---|---|
+| White 2022 p. 300: “In 2019 the Stanford administration removed David Starr Jordan’s name from Jordan Hall… They renamed the road in front of the Quad Jane Stanford Way.” | Two different actions. Jane Stanford Way (formerly Serra Mall) took effect 7 October 2019. The Board of Trustees voted on 7 October 2020 to remove Jordan’s name from Jordan Hall (now temporarily Building 420). The ledger 2020-10-07 row stands. |
+| Rayner, ch. 15: Leland Stanford, 14 March 1884, “Our darling boy went to heaven this morning at half-past seven.” | The ledger, White, Harris and the university histories use 13 March 1884. Do not move the ledger on the letter date alone. |
+| White’s Epilogue: “I think she [Bertha Berner] was a murderer.” | White’s conclusion, not a settled fact. The cover-up (Jordan, Waterhouse, the *Alameda* trip, the natural-causes statement) remains the firm part (CANON-110, 122). |
+| Baker, Prologue: “the cumulative value of companies that currently maintain offices on Stanford land is north of $6 trillion.” | Baker’s round figure appears to assign whole-company market caps to a park office. Do not import as a land-value or Research Park valuation. |
+| Rayner, ch. 8: “Stanford and Durant took turns… driving home the golden spike.” | Already rejected (CANON-091, 130, 136). Ambrose and Chang: Stanford swung and missed; the gold spike was tapped into a pre-drilled hole. |
+
+### Levine, *Surveillance Valley* (first Whyte-depth read, 22 Nov 2026)
+
+Yasha Levine, *Surveillance Valley* (PublicAffairs, 2018) was read in full from a clean extract (`[[p. N]]` markers, pp. 1–274 plus notes). No new canon row and no ledger or draft date changes. The book is useful as a lead for ch/4-04, 4-09, 4-11 and 4-12 (Brand at SAIL, October 1972; Digital Libraries / a 1998 Page paper Levine says was disclosed as “funded by DARPA”; SRI’s ARPA chemical-warfare work under the same roof as Engelbart; a 22 November 1977 SRI packet-radio TCP/IP test near Stanford; a 2011 SPAWAR–Tor contract Levine says was passed through SRI). Those remain leads until confirmed. Three wordings must not be imported:
+
+| Claim | Correction / hedge |
+|---|---|
+| Levine p. 62: first ARPANET node “linking Stanford to UCLA,” 29 October 1969; p. 145: “the ARPANET was part-born at Stanford.” | The ledger, ch/4-04 and voice.md are already right: first message UCLA to SRI, Menlo Park. SRI is not the Stanford campus. |
+| Levine p. 145: Shockley Semiconductor “inside the university’s Stanford Industrial Park” in 1956, with HP, Kodak, GE, Xerox PARC and Lockheed “around the same time.” | Ledger: Shockley opens in Mountain View, 1 February 1956. Park authorization/lease October 1951, first occupancy 1953 (Varian, CANON-139). Do not move Shockley into the park on this wording. |
+| Levine p. 247: 2011 Tor/SPAWAR money “passed through SRI, the old Stanford military contractor.” | After the 1970 divestment SRI is not university-owned. “Old Stanford” is origin, not 2011 ownership. |
+
+Notes: `/workspace/cardinal-reading/notes/levine-surveillance-valley.md` and https://docs.google.com/document/d/1tXtkbUHvIVkdqkV_1jd_wt5X5_nNfja_pKNF6691TgM/edit
+
+### 22 Nov 2026 — Berlin, Mallaby, Chafkin, Soni (Whyte-depth first reads)
+
+Four books in the Silicon Valley / founders queue were read in full from clean `[[p. N]]` extracts. No new canon row. Ledger dates that these books already underwrote as year-only were tightened, and two dated rows were added. Timeline-art keys for the re-dated events were moved with the image files copied (old webps left in place).
+
+| Change | Source | Notes |
+|---|---|---|
+| 1969-05-16 SRI protest location: Menlo Park → Palo Alto, Stanford Industrial Park (Hanover Street / Oregon Expressway) | Berlin, *Troublemakers*, pp. 56–57 | Date already correct (morning after People’s Park). Berlin distinguishes SRI HQ in Menlo Park from this satellite office in the park. “A dozen years earlier” for the park is approximate (CANON-139). |
+| New 1970-06-01: OTL made permanent (month placeholder) | Berlin pp. 132–133 | Pilot-to-permanent in June 1970 after $55,000 in a single year vs $2,944.91 from Research Corporation (1954–67). Day not given. |
+| 1974-01-01 → **1974-11-11** Cohen–Boyer filing | Berlin pp. 137–142 | November 1973 paper started a one-year clock; filed “one week before the deadline.” citations.json already noted he did not file a completed application that summer. |
+| 1976-01-01 → **1976-04-07** Genentech incorporated | Berlin pp. 199–201; also Mallaby p. 74 (1 April pitch) and `research.json` (`swanson-genentech`, Swanson oral history) | First office is the Wells Fargo annex, Sutter and Montgomery, San Francisco. Ledger location “South San Francisco” is the later campus and was left unchanged. The method was not yet a issued Stanford license on founding day (patent 2 Dec 1980). |
+| New 1980-12-02: Cohen–Boyer patent issued (U.S. 4,237,224) | Berlin p. 264 | Two months after the Genentech IPO, ten days before Bayh–Dole. Preferential license window closed 15 Dec 1981. USPTO primary not opened this pass. |
+| 1987-01-01 → **1987-06-09** *Stanford Review* inaugural issue | Chafkin, *The Contrarian*, p. 25 | Thiel editor in chief; cofounder Norman Book added as an actor. Soni agrees on Book. |
+| 2008-01-01 Sequoia/Stanford endowment hires: note tightened, still year-only | Mallaby pp. 334–335 | Key recruit Keith Johnson (age 31), for Sequoia’s Heritage business. Second hire unnamed. |
+
+Hedges, not imported: Mallaby p. 17 (and Levine before him) placing Shockley Semiconductor “on Terman’s campus” in 1956 — ledger is Mountain View, 1 Feb 1956. Mallaby’s “Terman created the research park” in 1951 is the authorization year, not occupancy (CANON-139). Soni: Musk was admitted to a Stanford graduate program, deferred from Sept 1995 to Jan 1996, and did not enroll — do not call him a Stanford graduate student or a dropout in the undergraduate sense. Chafkin’s Hoover thumbnail and “Jordan’s white supremacy … never entirely absent from the psyche” are not ledger changes (Hoover funding already overridden to 22 Apr 1919; Jordan Hall renamed 7 Oct 2020).
+
+Notes: Berlin https://docs.google.com/document/d/1BGa65uPwkcUgSXbo6ynMEy9Q2LrDWMQ41DlO81Vipqw/edit ; Mallaby https://docs.google.com/document/d/1_EGxAcaNO_caEn81Ow5y871A7ZooigmJgLZKMtLdxq0/edit ; Chafkin https://docs.google.com/document/d/1r8v0nXIXy3g3x3Zro4TqrYb87vqAgGlR8WliB1KovRg/edit ; Soni https://docs.google.com/document/d/13sRDBK7KRt4BDlfAf9yJ97zq7h-dp8ljQBU5dWUwZ4g/edit
+
+### 22 Nov 2026 — Fisher, Wu, Levy *In the Plex*, Wylie, Sheehan (Whyte-depth first reads)
+
+Five books in the queue were read in full from clean extracts (Wylie’s page-list was rebuilt so `id="page_N"` markers render as `[[p. N]]`; Fisher and Levy have no numeric page-list and are cited by chapter / part ¶). No new canon row. Levy is the book that required ledger work: the master timeline had already used it for the Excite pitch and the garage, but had flagged “EPUB not re-opened.”
+
+| Change | Source | Notes |
+|---|---|---|
+| 1997-01-01 Excite / $300,000 Stanford licence pitch: note updated, date stays a January placeholder | Levy, *In the Plex*, Part One ch. 1 ¶90 | “Emails to Khosla in January 1997.” $1.6 million package ($300,000 to Stanford, $200,000 salary, $400,000 bonus, $700,000 in Excite stock). Khosla countered at $750,000; George Bell declined. |
+| New 1998-01-01: Stanford files the PageRank patent (month placeholder) | Levy, Part One ch. 1 ¶81 | “Until January 1998.” No day or patent number in Levy. USPTO primary not opened this pass. The previous year-only garage row vacated this date. |
+| 1998-01-01 → **1998-09-04** Santa Margarita garage at $1,700 a month | Levy, Part One ch. 1 ¶112 | “On September 4, 1998, Page and Brin filed for incorporation and finally moved off campus.” Same day as the existing incorporation row. Levy’s “Santa Margarita Street” is a slip; the house is 232 Santa Margarita Avenue. Timeline-art rekeyed; old webp left in place. Draft chapter `ep7-05-google-garage.md` already said September 1998. |
+| 2018-03-17 Cambridge Analytica actors: added Channel 4 News | Wylie, *Mindf*ck*, p. 6 | Wylie names The Guardian, The New York Times, and Channel 4 publishing simultaneously. Cadwalladr’s piece ran in *The Observer*; the ledger keeps Observer and does not overwrite it with Guardian. Date unchanged. |
+
+Hedges, not imported: Fisher is an oral-history collage (spoken language edited); he places the 1968 demo at Brooks Hall / Civic Center in December but does not give 9 December — the ledger day stands. Do not collapse SRI into the university. Wu’s “Stanford’s funding of the Google search engine” is an analogy with Columbia FM, secondhand via Battelle on bandwidth; Levy is the source for founding dates. Levy gives no DARPA (Digital Library Project is NSF); the Levine lead that the 1998 Page paper disclosed DARPA funding remains a lead. The exclusive license “in exchange for 1.8 million shares” and the Bechtolsheim $100,000 check (about a month before incorporation) have no calendar day in Levy. Google IPO 19 August 2004 is in Levy but was not added: no Stanford share-proceeds figure. Wylie’s summer 2014 Palantir–CA meetings are single-source memoir. Sheehan’s intro has Gold Mountain, railroad labor, Exclusion, and an unnamed California governor demanding Congress “check this tide of Asiatic immigration”; he does not name Kearney. Kearney / Nob Hill / CANON-112, and the post-1906 trustees / Romanesque / purge lines, remain for Harris.
+Notes: Fisher https://docs.google.com/document/d/1M44nrwVdr0JEFY9l9CPhRTKXqpyjOqXRmh2W6inlAFU/edit ; Wu https://docs.google.com/document/d/1UW2gRAMWr2CvJRQBm5oY_0cDCib88Xqjnxgz5ZTXe60/edit ; Levy https://docs.google.com/document/d/1ycqyramnX4U69ACwpzLxvhVVB3O_mOVVR1HK0EQBVZs/edit ; Wylie https://docs.google.com/document/d/1VTtAY8NcF34LtGEkK3G4TMvj0Ynav6b6lnN3EKEM-Q8/edit ; Sheehan https://docs.google.com/document/d/1TaQZR3noue4o7McjDjXpeJh3e3ohBJerny_BG1l2Dj0/edit
+
+### 22 Nov 2026 — Vance, Isaacson, Siddiqui, Jacobsen, Harris (Whyte-depth first reads)
+
+Five books were read in full from clean extracts (Harris and Jacobsen and Siddiqui have print `[[p. N]]`; Vance has no page-list, cited by chapter ¶; Isaacson’s page-list is sparse). No new canon row. Harris was the assigned closer for Kearney / Nob Hill, CANON-112, and the post-1906 lines. Vance supplied the document that corrects the 1995 Musk ledger wording.
+
+| Change | Source | Notes |
+|---|---|---|
+| 1877-01-01 Kearney / Nob Hill march: note rewritten; White dropped as a source; date and title kept | Harris, *Palo Alto*, ch. 1.2, p. 59, n. 19 → Saxton, *The Indispensable Enemy* (1995), p. 118 | “Marched up to Leland Stanford’s mansion and threatened him” in the 1877 unemployment crisis. “Nob Hill” is not in that sentence; Harris pp. 64 and 96–97 identify the house. CANON-066 updated. Year-only date stands. Saxton not opened. |
+| 1995-01-01 retitled: admitted to a materials-science graduate program; he does not enroll. Status CONTESTED → VERIFIED for admission and non-enrollment | Vance, *Elon Musk* (2015), Appendix 1, Judith Haccou letter, 22 June 2009; also Soni pp. 40–41 and *Stanford Daily*, 11 Nov 2024 | Vance ch. 4 still has “as the story goes, dropped out after two days.” Isaacson ch. 9 says he “officially enrolled” then deferred — conflicts with the registrar letter. Timeline-art rekeyed; old webp left in place. |
+| CANON-104 post-1906 lines (Romanesque-Moorish / eucalyptus / 1906 purge of dissidents / corporate trustees) | Harris, full-text + ch. 2.1, pp. 96–97 | Still unsupported. Zero hits for Romanesque, Moorish, eucalyptus. Goebel was purged after Jane’s death, over trustee objection, *before* the quake. The p. 97 “aura of divine approval” line is a metaphor about the museum, not a faculty purge. |
+| CANON-112 Jordan / 1909 law / Mary Harriman–ERO gift | Harris ch. 2.2, pp. 102, 119 | ABA Eugenics Committee chair in 1906 and later California sterilizations / *Buck v. Bell* + Stanford-Binet are in Harris. The 1909-law advocacy and the Harriman gift are **not**. Contested points keep the existing hedges. |
+
+Hedges, not imported: Harris’s conclusion that Jordan was “part of the conspiracy” to murder Jane, “most likely with” Berner (p. 94) — cover-up remains the firm part (CANON-110, 122). Jacobsen’s 1972 CIA–SRI ESP / remote-viewing program (Puthoff, Targ, Swann) is after the 1970 divestment; do not write it as a Stanford University laboratory. Siddiqui (2025) has almost no 1995 Stanford scene.
+Notes: Vance https://docs.google.com/document/d/1UAD8IY5poYyVFCs4VFUXxR0q1S8_2fp4V_omGmi1mxg/edit ; Isaacson https://docs.google.com/document/d/1_fsMHR9rP16-JHaKWTkDhvjYEalt5pmzPIFqejQ8pH4/edit ; Siddiqui https://docs.google.com/document/d/1c62ltfM9u4c1LTLBkPBOm8_vMHX8V2htRhwQ-9Rf7aY/edit ; Jacobsen https://docs.google.com/document/d/1KeFHzWcAgDH-GnbcTGcWMTTn-t238jqDVdRc62iunrY/edit ; Harris https://docs.google.com/document/d/1xUnI4LCAGtDYOaM-H1tCyJv-HxO6cYcz9allKdZFbMs/edit
+
+### 22 Nov 2026 — Presidents queue (IA lending check) and the 1961 farewell
+
+The six presidents-queue monographs (Dean *Warren G. Harding*; McCartney *The Teapot Dome Scandal*; Shlaes *Coolidge*; Smith *FDR*; McCullough *Truman*; Smith *Eisenhower in War and Peace*) were not in Drive. Kyle’s Internet Archive login (xauthn) succeeded. All scanned identifiers are print-disabled and **not lendable** from this account: `is_lendable: false`, 0 lendable copies, borrow/browse returned “This book is not available to borrow at this time.” `join_waitlist` returned success and `user_on_waitlist` is true, but `available_to_waitlist` is false, waitlist size is 0, and the copies cannot be claimed. No book text was obtained (ACS/LCP files were not downloaded). Library ebook paths and purchase-only prices are in `/workspace/cardinal-reading/notes/presidents-queue-copies.md`.
+
+The 17 January 1961 farewell address was read from the official public text (Miller Center transcript, collated against the National Archives page; Eisenhower Library press-release scan is an image PDF).
+
+| Change | Source | Notes |
+|---|---|---|
+| New 1961-01-17: Eisenhower delivers his farewell address warning of unwarranted influence by the military-industrial complex | Official text: Miller Center; National Archives milestone-document page; Eisenhower Presidential Library 17 Jan 1961 press release | VERIFIED. The speech also warns that federal employment, project allocations, and money may dominate “the nation’s scholars,” and that public policy could become the captive of a “scientific-technological elite.” It does not name Stanford, Lockheed, or the Industrial Park. “Military-industrial-congressional complex” is not in the delivered text. Smith *Eisenhower in War and Peace* was not opened. Event ID `ledger-1961-01-17-eisenhower-delivers-his-farewell-address-warning`. Dwight D. Eisenhower added as a research.json person with a curated actor alias so the row appears in the web of people. |
+
+No new canon row. Presidents monographs remain unread.

@@ -6,16 +6,16 @@
       "branch": "main"
     },
     "counts": {
-      "people": 234,
-      "events": 256,
+      "people": 235,
+      "events": 259,
       "relationships": 245,
-      "places": 109,
+      "places": 110,
       "sources": 13,
       "webSources": 196,
       "orgs": 21,
       "affiliations": 68
     },
-    "ledgerRows": 139,
+    "ledgerRows": 143,
     "ledgerActorsNotMapped": [
       "48 delegates",
       "Alf Brandin",
@@ -29,6 +29,7 @@
       "Central Pacific",
       "Central Pacific Chinese workforce",
       "Chang Yen-mao",
+      "Channel 4 News",
       "Denis Kearney",
       "Electronics magazine",
       "Facebook",
@@ -42,6 +43,7 @@
       "Joseph Biden",
       "Juan Alvarado",
       "Juan Crespí",
+      "Keith Johnson",
       "Kleiner Perkins",
       "Lockheed",
       "Mexican republic",
@@ -51,8 +53,8 @@
       "National Science Foundation",
       "New York Times",
       "Niels Reimers",
+      "Norman Book",
       "Nvidia",
-      "Observer",
       "Onitsuka",
       "OpenAI",
       "OpenAI board",
@@ -71,6 +73,7 @@
       "Stanford trustees",
       "Stanley Cohen",
       "Tamien Ohlone",
+      "The Observer",
       "Tomás de la Peña",
       "UN Human Rights Council",
       "US Congress",
@@ -1232,6 +1235,23 @@
         "subjectEvidence": "Commons title: \"Douglas Engelbart in 2008\"",
         "verifiedOn": "2026-11-10"
       }
+    },
+    {
+      "id": "dwight-d-eisenhower",
+      "name": "Dwight D. Eisenhower",
+      "given": "Dwight D.",
+      "surname": "Eisenhower",
+      "role": "34th president of the United States; delivered the 17 January 1961 farewell address",
+      "roleCites": [
+        {
+          "url": "https://www.archives.gov/milestone-documents/president-dwight-d-eisenhowers-farewell-address",
+          "title": "President Dwight D. Eisenhower's Farewell Address (1961)",
+          "publisher": "National Archives",
+          "kind": "institutional",
+          "q": "Three days from now, after half a century in the service of our country, I shall lay down the responsibilities of office"
+        }
+      ],
+      "portrait": null
     },
     {
       "id": "dyer-lathrop",
@@ -5233,28 +5253,6 @@
       ]
     },
     {
-      "id": "ledger-1861-09-04-leland-stanford-elected-governor-of-california",
-      "people": [
-        "leland-stanford"
-      ],
-      "date": "1861-09-04",
-      "kind": "other",
-      "title": "Leland Stanford elected governor of California",
-      "place": "california",
-      "locationText": "California",
-      "status": "VERIFIED",
-      "why": "The railroad president becomes the state’s war governor in the same year the Central Pacific is incorporated. The office and the charter travel together.",
-      "ledgerNote": "Election day 4 September 1861, with nearly 56,000 votes (Richard Rayner, The Associates (W. W. Norton, 2008), ch. 3 ¶33). Earlier this row used 1 January as a placeholder.",
-      "origin": "ledger",
-      "cites": [
-        {
-          "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1861-09-04,Leland Stanford elected governor of California,Leland Stanford,Califo",
-          "line": 22
-        }
-      ]
-    },
-    {
       "id": "ledger-1861-01-21-jefferson-davis-speaks-for-a-transcontinental-ra",
       "people": [
         "jefferson-davis"
@@ -5271,7 +5269,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1861-01-21,Jefferson Davis speaks for a transcontinental railroad days before le",
-          "line": 23
+          "line": 22
         }
       ]
     },
@@ -5300,7 +5298,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1861-06-28,Central Pacific Railroad incorporated,Leland Stanford; Collis Hunting",
-          "line": 24
+          "line": 23
         },
         {
           "url": "https://archive.org/stream/collispotterhunt01evan/collispotterhunt01evan_djvu.txt",
@@ -5322,6 +5320,28 @@
           "publisher": "Wikipedia",
           "kind": "tertiary",
           "q": "1861 June 28, 1861: \"Central Pacific Rail Road of California\" incorporated"
+        }
+      ]
+    },
+    {
+      "id": "ledger-1861-09-04-leland-stanford-elected-governor-of-california",
+      "people": [
+        "leland-stanford"
+      ],
+      "date": "1861-09-04",
+      "kind": "other",
+      "title": "Leland Stanford elected governor of California",
+      "place": "california",
+      "locationText": "California",
+      "status": "VERIFIED",
+      "why": "The railroad president becomes the state’s war governor in the same year the Central Pacific is incorporated. The office and the charter travel together.",
+      "ledgerNote": "Election day 4 September 1861, with nearly 56,000 votes (Richard Rayner, The Associates (W. W. Norton, 2008), ch. 3 ¶33). Earlier this row used 1 January as a placeholder.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1861-09-04,Leland Stanford elected governor of California,Leland Stanford,Califo",
+          "line": 24
         }
       ]
     },
@@ -5447,7 +5467,7 @@
       "locationText": "San Francisco, CA",
       "status": "VERIFIED",
       "why": "The anti-Chinese labour politics of the 1870s arrive at the door of the man whose railroad ran on Chinese labour.",
-      "ledgerNote": "Master timeline: Harris ch 1.2; White, Railroaded, ch 7. EPUB not re-opened in this pass. Year-only date.",
+      "ledgerNote": "Harris, Palo Alto (2023), ch. 1.2, p. 59: in “the midst of the 1877 unemployment crisis,” the Workingmen’s Party “marched up to Leland Stanford’s mansion and threatened him”; Denis Kearney is “their front man.” Harris n. 19 cites Alexander Saxton, The Indispensable Enemy (1995), p. 118. Harris does not use the words “Nob Hill” in the march sentence; pp. 64 and 96–97 identify the Stanfords’ San Francisco house in this period as the Nob Hill mansion (burned 18 April 1906). White, Railroaded, ch. 7, does not describe the march (CANON-066) and is dropped as a source for this row. Year-only date; no day in Harris. EPUB re-opened 22 Nov 2026. Saxton not opened this pass.",
       "origin": "ledger",
       "cites": [
         {
@@ -5858,6 +5878,28 @@
       ]
     },
     {
+      "id": "ledger-1905-03-01-justice-joyce-in-chang-yen-mao-v-moreing-holds-t",
+      "people": [
+        "herbert-hoover"
+      ],
+      "date": "1905-03-01",
+      "kind": "other",
+      "title": "Justice Joyce, in Chang Yen-mao v. Moreing, holds the February 1901 Kaiping memorandum binding",
+      "place": "london-high-court-of-justice-chancery-division",
+      "locationText": "London, High Court of Justice, Chancery Division",
+      "status": "VERIFIED",
+      "why": "The same week Jane Stanford dies in Honolulu, a London judge rules on the China deal Hoover helped to make. Joyce finds that the memorandum “formed the basis and foundation of the whole arrangement,” that Chang sealed the transfer in reliance on assurances it would bind, and that the company had “declined to recognize” it. He is also disturbed by the 1901 flotation. An appeal follows (The Times, 25 January 1906, as cited by Carlson); the outcome of that appeal was not read in full in this pass.",
+      "ledgerNote": "Carlson, The Kaiping Mines (1971), IA search-inside: trial before Joyce in early 1905; decision 1 March 1905; testimony by Chang, Detring, Hoover, Moreing in late January and early February. Nash, The Engineer (1983), IA search-inside: trial opened 17 January 1905; verdict 1 March; Joyce’s findings as quoted. The Times (London), 2 March 1905, p. 3, is the contemporary report both books cite; the newspaper page itself was not retrieved in this pass.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1905-03-01,\"Justice Joyce, in Chang Yen-mao v. Moreing, holds the February 1901 ",
+          "line": 53
+        }
+      ]
+    },
+    {
       "id": "ledger-1905-03-09-a-honolulu-coroner-s-jury-finds-jane-stanford-di",
       "people": [
         "bertha-berner",
@@ -5878,28 +5920,6 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1905-03-09,A Honolulu coroner’s jury finds Jane Stanford died of strychnine pois",
-          "line": 53
-        }
-      ]
-    },
-    {
-      "id": "ledger-1905-03-01-justice-joyce-in-chang-yen-mao-v-moreing-holds-t",
-      "people": [
-        "herbert-hoover"
-      ],
-      "date": "1905-03-01",
-      "kind": "other",
-      "title": "Justice Joyce, in Chang Yen-mao v. Moreing, holds the February 1901 Kaiping memorandum binding",
-      "place": "london-high-court-of-justice-chancery-division",
-      "locationText": "London, High Court of Justice, Chancery Division",
-      "status": "VERIFIED",
-      "why": "The same week Jane Stanford dies in Honolulu, a London judge rules on the China deal Hoover helped to make. Joyce finds that the memorandum “formed the basis and foundation of the whole arrangement,” that Chang sealed the transfer in reliance on assurances it would bind, and that the company had “declined to recognize” it. He is also disturbed by the 1901 flotation. An appeal follows (The Times, 25 January 1906, as cited by Carlson); the outcome of that appeal was not read in full in this pass.",
-      "ledgerNote": "Carlson, The Kaiping Mines (1971), IA search-inside: trial before Joyce in early 1905; decision 1 March 1905; testimony by Chang, Detring, Hoover, Moreing in late January and early February. Nash, The Engineer (1983), IA search-inside: trial opened 17 January 1905; verdict 1 March; Joyce’s findings as quoted. The Times (London), 2 March 1905, p. 3, is the contemporary report both books cite; the newspaper page itself was not retrieved in this pass.",
-      "origin": "ledger",
-      "cites": [
-        {
-          "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1905-03-01,\"Justice Joyce, in Chang Yen-mao v. Moreing, holds the February 1901 ",
           "line": 54
         }
       ]
@@ -6457,77 +6477,15 @@
       "title": "Stanford Research Institute established",
       "place": "menlo-park-ca",
       "locationText": "Menlo Park, CA",
-      "status": "NEEDS SOURCE",
+      "status": "VERIFIED",
       "why": "Owned by the university. The ownership is what the 1969 protests turn on. McCartney adds that West Coast businessmen including Steve Bechtel and Henry J. Kaiser founded and bankrolled it.",
-      "ledgerNote": "Partly sourced: founders per McCartney; founding instrument not yet cited. Incorporated 6 Nov 1946 (see CANON lead-chase rows). McCartney, Friends in High Places (1988), ch. 6, p. 78 & note: “Founded in 1946 by a group of West Coast businessmen, including Steve Bechtel and Henry J. Kaiser, and originally affiliated with Stanford University”; Bechtel “had been one of SRI’s principal founders and had bankrolled its operations heavily.”",
+      "ledgerNote": "Founding instrument: articles of incorporation for Stanford Research Institute were signed and filed with the State of California on 6 November 1946, and the Institute was granted nonprofit status; Stanford trustees then elected 11 SRI directors. SRI International, “Corporate History” (archived 22 January 2017): https://web.archive.org/web/20170122205603/https://www.sri.com/about/corporate-history. SRI’s 70th-anniversary statement (PR Newswire, 7 November 2016) repeats that SRI “was founded by the trustees of Stanford University on November 6, 1946.” Donald Nielson, A Heritage of Innovation, ch. 1 and Appendix B (SRI, 2004/2022 PDF): trustees voted in February 1946 to establish a research affiliate in principle; a small incorporating board filed articles and bylaws in November 1946; the trustees accepted the charter the following month. The original articles and bylaws (1946–1949) are in Stanford University Archives (OAC, Box B14, Folder 3) and were not opened this session. McCartney, Friends in High Places (1988), ch. 6, p. 78, names Steve Bechtel and Henry J. Kaiser among the West Coast businessmen who founded and bankrolled it.",
       "origin": "ledger",
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1946-11-06,Stanford Research Institute established,Stanford trustees; Stephen Be",
           "line": 83
-        }
-      ]
-    },
-    {
-      "id": "ledger-1951-01-01-stanford-industrial-park-opens",
-      "people": [
-        "frederick-terman"
-      ],
-      "date": "1951",
-      "ledgerDate": "1951-01-01",
-      "dateNote": "1951 = authorised / first lease (October); 1953 = first tenant occupies its building.",
-      "kind": "founding",
-      "title": "Stanford Industrial Park opens",
-      "place": "page-mill-road-palo-alto-ca",
-      "locationText": "Page Mill Road, Palo Alto, CA",
-      "status": "CONTESTED",
-      "ledgerStatus": "NEEDS SOURCE",
-      "revisionNote": "Ledger entry is dated 1951-01-01 as 'opens'. Sources agree on the sequence but use 'opened' differently: the park was authorised (209 acres set aside) and the first ground lease (Varian) signed in October 1951; Varian built its lab and moved in 1953, which Wikipedia and Palo Alto History call the opening. No source gives January 1951.",
-      "note": "Sources differ on when the park 'opened': 1951 (authorised; first lease signed October 1951) versus 1953 (first tenant moved in).",
-      "why": "First university-owned industrial park in the US. Direct consequence of the 1885 prohibition on selling land.",
-      "ledgerNote": "Sources differ on authorised 1951 vs opened 1953; resolve",
-      "origin": "ledger",
-      "cites": [
-        {
-          "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1951-01-01,Stanford Industrial Park opens,Frederick Terman; Alf Brandin; Varian ",
-          "line": 84
-        },
-        {
-          "url": "https://stanfordresearchpark.com/about/",
-          "title": "About Stanford Research Park",
-          "publisher": "Stanford Research Park (Stanford University)",
-          "kind": "institutional",
-          "q": "Since 1951, Stanford Research Park has been home to the R&D branches of pioneering companies from Varian Associates to HP, Lockheed Martin, SAP, Tesla, and more."
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Stanford_Research_Park",
-          "title": "Stanford Research Park",
-          "publisher": "Wikipedia",
-          "kind": "tertiary",
-          "q": "In 1951, the initiative was authorized and 209 acres were allocated. In 1953, Varian Associates moved in as the park's first tenant."
-        },
-        {
-          "url": "https://stanfordmag.org/contents/century-at-stanford",
-          "title": "Century at Stanford (50 years ago, 1951)",
-          "publisher": "Stanford Magazine",
-          "kind": "institutional",
-          "q": "University officials in October took the first step in opening portions of Stanford land to industrial users when they signed a lease with Varian Associates for a 10-acre tract"
-        },
-        {
-          "url": "https://paloaltohistory.org/stanford-research-park-1",
-          "title": "Stanford Research Park",
-          "publisher": "Palo Alto Historical Association",
-          "kind": "institutional",
-          "q": "Varian Associates were the park's first tenants when it opened in 1953."
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Frederick_Terman",
-          "title": "Frederick Terman",
-          "publisher": "Wikipedia",
-          "kind": "tertiary",
-          "q": "In 1951 he spearheaded the creation of Stanford Industrial Park (now Stanford Research Park)"
         }
       ]
     },
@@ -6549,6 +6507,28 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1953-01-01,First Stanford Industrial Park lease goes to Varian Associates; Terma",
+          "line": 84
+        }
+      ]
+    },
+    {
+      "id": "ledger-1953-01-01-stanford-industrial-park-opens-first-building-oc",
+      "people": [
+        "frederick-terman"
+      ],
+      "date": "1953-01-01",
+      "kind": "founding",
+      "title": "Stanford Industrial Park opens (first building occupied by Varian Associates)",
+      "place": "page-mill-road-palo-alto-ca",
+      "locationText": "Page Mill Road, Palo Alto, CA",
+      "status": "VERIFIED",
+      "why": "First university-owned industrial park in the US. Direct consequence of the 1885 prohibition on selling land.",
+      "ledgerNote": "Two dates, both documented, for different events: the park was authorized in 1951 (209 acres set aside); Varian Associates signed a 99-year lease on 10 acres in October 1951; Varian occupied the first building in 1953. Jon Sandelin, “The Story of the Stanford Industrial/Research Park,” Stanford Office of Technology Licensing paper for the International Forum of University Science Park (2004), https://web.stanford.edu/group/OTL/documents/JSstanfordpark.pdf. Stanford University Heritage Services, “Stanford Research Park: Framework for Historic Resource Evaluation” (3 November 2016), submitted to the City of Palo Alto Historic Resources Board (ID 8184, 22 June 2017): the correct year for the opening of the first facility is 1953; some sources wrongly date the park to 1949; construction began February 1952. Stanford Research Park, “Success Story: Varian” (16 March 2024): Varian “moved into the first building in what was then known as Stanford Industrial Park” in 1953. The event is therefore dated 1953 (year-only, for occupancy). Authorization and the first lease are 1951. A separate ledger row still dated 1953 for the Varian lease records the occupancy year, not the October 1951 signing. Stanford Research Park, “About,” https://stanfordresearchpark.com/about/ (verified 21 Nov 2026): “Since 1951, Stanford Research Park has been home to the R&D …” (the park’s own dating is the 1951 authorization, not the 1953 occupancy).",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1953-01-01,Stanford Industrial Park opens (first building occupied by Varian Ass",
           "line": 85
         }
       ]
@@ -6659,6 +6639,28 @@
       ]
     },
     {
+      "id": "ledger-1961-01-17-eisenhower-delivers-his-farewell-address-warning",
+      "people": [
+        "dwight-d-eisenhower"
+      ],
+      "date": "1961-01-17",
+      "kind": "publication",
+      "title": "Eisenhower delivers his farewell address warning of unwarranted influence by the military-industrial complex",
+      "place": "washington-dc",
+      "locationText": "Washington, DC",
+      "status": "VERIFIED",
+      "why": "The public warning about a permanent peacetime arms industry and about federally contracted research at the university, after the Industrial Park’s first decade and Lockheed’s 1956 arrival in Sunnyvale. The address does not name Stanford or Lockheed.",
+      "ledgerNote": "Official text of the 17 January 1961 radio and television farewell. Miller Center transcript (https://millercenter.org/the-presidency/presidential-speeches/january-17-1961-farewell-address); National Archives milestone-document page (https://www.archives.gov/milestone-documents/president-dwight-d-eisenhowers-farewell-address); Eisenhower Presidential Library press-release scan (https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/farewell-address/1961-01-17-press-release.pdf). The delivered text warns of unwarranted influence, “sought or unsought,” by the military-industrial complex, and, separately, of federal employment, project allocations, and money dominating “the nation’s scholars,” and of public policy becoming the captive of a “scientific-technological elite.” It does not name Stanford, Lockheed, or the Industrial Park. The wording “military-industrial-congressional complex” is not in the delivered text. Library draft PDFs were not opened this pass. Jean Edward Smith, Eisenhower in War and Peace (2012), was not available to borrow (print-disabled on Internet Archive; not lendable from this login).",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1961-01-17,Eisenhower delivers his farewell address warning of unwarranted influ",
+          "line": 91
+        }
+      ]
+    },
+    {
       "id": "ledger-1961-11-29-john-mccone-is-sworn-in-as-director-of-central-i",
       "people": [
         "john-mccone"
@@ -6676,7 +6678,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1961-11-29,John McCone is sworn in as Director of Central Intelligence,John McCo",
-          "line": 91
+          "line": 92
         }
       ]
     },
@@ -6697,7 +6699,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1962-11-01,Knight secures Tiger distribution rights in Kobe,Phil Knight; Onitsuk",
-          "line": 92
+          "line": 93
         }
       ]
     },
@@ -6720,7 +6722,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1963-01-01,Stephen Bechtel Sr.’s gift funds the remodelling of a former Zeta Psi",
-          "line": 94
+          "line": 95
         }
       ]
     },
@@ -6741,7 +6743,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1965-04-19,Moore's law published,Gordon Moore; Electronics magazine,\"Santa Clara",
-          "line": 95
+          "line": 96
         }
       ]
     },
@@ -6762,7 +6764,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1968-12-09,Engelbart's demonstration at the Fall Joint Computer Conference,Dougl",
-          "line": 96
+          "line": 97
         }
       ]
     },
@@ -6784,7 +6786,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1969-10-29,\"First ARPANET message, UCLA to SRI\",Charley Kline; Bill Duvall,\"Los ",
-          "line": 99
+          "line": 100
         }
       ]
     },
@@ -6807,7 +6809,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1972-01-01,Kleiner Perkins and Sequoia Capital founded on Sand Hill Road,Eugene ",
-          "line": 101
+          "line": 103
         }
       ]
     },
@@ -6830,29 +6832,29 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1974-05-01,\"George Shultz leaves federal office to become president and director",
-          "line": 102
+          "line": 104
         }
       ]
     },
     {
-      "id": "ledger-1974-01-01-niels-reimers-files-the-cohen-boyer-recombinant-",
+      "id": "ledger-1974-11-11-niels-reimers-files-the-cohen-boyer-recombinant-",
       "people": [
         "herbert-boyer"
       ],
-      "date": "1974-01-01",
+      "date": "1974-11-11",
       "kind": "other",
       "title": "Niels Reimers files the Cohen–Boyer recombinant-DNA patent application for Stanford",
       "place": "stanford-ca",
       "locationText": "Stanford, CA",
       "status": "VERIFIED",
       "why": "The university turns a laboratory method into licensing income, years before Bayh–Dole.",
-      "ledgerNote": "Carried over from the master timeline (Berlin pt 3). Year-only date.",
+      "ledgerNote": "Berlin, Troublemakers (2017), pp. 137–142: Cohen called Reimers at the end of July 1974; the November 1973 paper started a one-year clock; Stanford filed on 11 November 1974, “one week before the deadline,” as “Process and Composition for Biologically Functional Molecular Chimeras.” Previously dated 1974-01-01 year-only (master timeline, Berlin pt 3). Tightened 22 Nov 2026.",
       "origin": "ledger",
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1974-01-01,Niels Reimers files the Cohen–Boyer recombinant-DNA patent applicatio",
-          "line": 103
+          "q": "1974-11-11,Niels Reimers files the Cohen–Boyer recombinant-DNA patent applicatio",
+          "line": 105
         }
       ]
     },
@@ -6874,30 +6876,30 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1975-03-05,First Homebrew Computer Club meeting,Fred Moore; Gordon French,\"Menlo",
-          "line": 104
+          "line": 106
         }
       ]
     },
     {
-      "id": "ledger-1976-01-01-genentech-is-founded-by-robert-swanson-and-herbe",
+      "id": "ledger-1976-04-07-genentech-is-founded-by-robert-swanson-and-herbe",
       "people": [
         "herbert-boyer",
         "robert-swanson"
       ],
-      "date": "1976-01-01",
+      "date": "1976-04-07",
       "kind": "founding",
       "title": "Genentech is founded by Robert Swanson and Herbert Boyer",
       "place": "south-san-francisco-ca",
       "locationText": "South San Francisco, CA",
       "status": "VERIFIED",
-      "why": "A Kleiner & Perkins associate, let go with payroll to the end of 1975, builds the first biotech company on a Stanford-licensed method.",
-      "ledgerNote": "Carried over from the master timeline (Berlin ch 15). Year from the timeline; exact founding day not rechecked.",
+      "why": "A Kleiner & Perkins associate, let go with payroll to the end of 1975, builds the first biotech company on the Cohen–Boyer method (Stanford/UCSF patent issued 2 December 1980; licenses offered in 1981).",
+      "ledgerNote": "Berlin, Troublemakers (2017), pp. 199–201: pitch to Kleiner & Perkins on 1 April 1976; Swanson and Boyer incorporated Genentech on 7 April 1976; K&P’s $100,000 arrived in June. First office: Wells Fargo annex, Sutter and Montgomery, San Francisco — the ledger location “South San Francisco” is the later campus, not the incorporation address, and is left unchanged pending a move-in date. Independently noted in research.json (swanson-genentech) from a Swanson oral history. Previously dated 1976-01-01 year-only. Tightened 22 Nov 2026.",
       "origin": "ledger",
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1976-01-01,Genentech is founded by Robert Swanson and Herbert Boyer,Robert Swans",
-          "line": 105
+          "q": "1976-04-07,Genentech is founded by Robert Swanson and Herbert Boyer,Robert Swans",
+          "line": 107
         }
       ]
     },
@@ -6919,7 +6921,29 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1980-10-14,Genentech IPO,Genentech; Herbert Boyer; Robert Swanson,NASDAQ,\"Biolog",
-          "line": 108
+          "line": 109
+        }
+      ]
+    },
+    {
+      "id": "ledger-1980-12-02-cohen-boyer-recombinant-dna-patent-issued-to-sta",
+      "people": [
+        "herbert-boyer"
+      ],
+      "date": "1980-12-02",
+      "kind": "other",
+      "title": "Cohen–Boyer recombinant-DNA patent issued to Stanford and the University of California",
+      "place": "united-states-u-s-patent-4-237-224",
+      "locationText": "United States (U.S. Patent 4,237,224)",
+      "status": "VERIFIED",
+      "why": "The method patent issues two months after the Genentech IPO and ten days before Bayh–Dole. Berlin: this patent and related ones later yielded about $255 million to Stanford and UC.",
+      "ledgerNote": "Berlin, Troublemakers (2017), pp. 264, 140: Bert Rowland called Reimers on 2 December 1980; Reimers memo “Method patent allowed!”; patent number 4,237,224. Preferential license window advertised in August 1981 and closed 15 December 1981. Added 22 Nov 2026. USPTO primary check not opened this pass.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1980-12-02,Cohen–Boyer recombinant-DNA patent issued to Stanford and the Univers",
+          "line": 111
         }
       ]
     },
@@ -6942,51 +6966,51 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1981-01-21,Caspar Weinberger becomes Secretary of Defense; George Shultz becomes",
-          "line": 110
+          "line": 113
         }
       ]
     },
     {
-      "id": "ledger-1987-01-01-peter-thiel-founds-the-stanford-review",
+      "id": "ledger-1987-06-09-peter-thiel-founds-the-stanford-review",
       "people": [
         "peter-thiel"
       ],
-      "date": "1987-01-01",
+      "date": "1987-06-09",
       "kind": "other",
       "title": "Peter Thiel founds The Stanford Review",
       "place": "stanford-ca",
       "locationText": "Stanford, CA",
       "status": "VERIFIED",
       "why": "The campus newspaper becomes the starting point of a political and financial network that later includes PayPal and Palantir, both of them Palo Alto companies.",
-      "ledgerNote": "Master timeline: Chafkin ch 2, p. 24. EPUB not re-opened in this pass. Year-only date.",
+      "ledgerNote": "Chafkin, The Contrarian (2021), p. 25: inaugural issue published 9 June 1987; masthead listed twelve names, all men, with Thiel as editor in chief; cofounder Norman Book, a high-school friend and soon-to-be Stanford student. Previously dated 1987-01-01 year-only (master timeline, Chafkin ch. 2, p. 24, “EPUB not re-opened”). Tightened 22 Nov 2026.",
       "origin": "ledger",
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1987-01-01,Peter Thiel founds The Stanford Review,Peter Thiel,\"Stanford, CA\",\"Th",
-          "line": 111
+          "q": "1987-06-09,Peter Thiel founds The Stanford Review,Peter Thiel; Norman Book,\"Stan",
+          "line": 114
         }
       ]
     },
     {
-      "id": "ledger-1995-01-01-elon-musk-enrolls-at-stanford-and-leaves-almost-",
+      "id": "ledger-1995-01-01-elon-musk-is-admitted-to-a-stanford-graduate-pro",
       "people": [
         "elon-musk"
       ],
       "date": "1995-01-01",
-      "kind": "other",
-      "title": "Elon Musk enrolls at Stanford and leaves almost immediately",
+      "kind": "law",
+      "title": "Elon Musk is admitted to a Stanford graduate program in materials science; he does not enroll",
       "place": "stanford-ca",
       "locationText": "Stanford, CA",
-      "status": "CONTESTED",
-      "why": "The link is thin: admitted, briefly present, no degree. The later Musk/DOGE material remains the weakest tie to the land and should stay short, as already decided in the rewrite additions document.",
-      "ledgerNote": "Master timeline: Vance (EPUB not re-opened). The Ep8 source pack records that Stanford has no enrollment record; the “two days” story is Musk’s own account as retold. Year-only date.",
+      "status": "VERIFIED",
+      "why": "Admitted to a materials-science graduate program, he did not enroll. The later “two days at Stanford” story is Musk’s own account. The link to the land stays thin; the later Musk/DOGE material remains the weakest tie, as already decided in the rewrite additions document.",
+      "ledgerNote": "Vance, Elon Musk (2015), Appendix 1, prints a letter dated 22 June 2009 from Judith Haccou, director of graduate admissions, Stanford registrar: Musk “applied and were admitted to the graduate program in Material Science Engineering in 1995. Since you did not enroll, Stanford is not able to issue you an official certification document.” Vance ch. 4 still recites “as the story goes, Musk dropped out after two days.” Isaacson, Elon Musk (2023), ch. 9, p. 14, says he “officially enrolled” then immediately requested a deferral from professor Bill Nix — wording that conflicts with the registrar letter. Soni, The Founders (2022), pp. 40–41: admitted, deferred September 1995 to January 1996, did not enroll. Stanford Daily, 11 November 2024, confirms no enrollment record. Event retitled 22 Nov 2026 from “enrolls at Stanford and leaves almost immediately.” Status was CONTESTED under the old enrollment wording; admission and non-enrollment are now VERIFIED. Year-only date.",
       "origin": "ledger",
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1995-01-01,Elon Musk enrolls at Stanford and leaves almost immediately,Elon Musk",
-          "line": 112
+          "q": "1995-01-01,Elon Musk is admitted to a Stanford graduate program in materials sci",
+          "line": 115
         }
       ]
     },
@@ -7008,7 +7032,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1995-08-09,Netscape IPO,Marc Andreessen; Jim Clark,NASDAQ,\"Built on Mosaic, deve",
-          "line": 114
+          "line": 117
         }
       ]
     },
@@ -7024,36 +7048,35 @@
       "locationText": "Stanford, CA",
       "status": "VERIFIED",
       "why": "The search work is already imagined as a university licence — the farm’s intellectual property, priced.",
-      "ledgerNote": "Master timeline: Levy ch 1. EPUB not re-opened. Month January from the timeline. Dated 1 January as a month placeholder.",
+      "ledgerNote": "Levy, In the Plex (2011), Part One ch. 1 ¶90: Page described the plan “in detail in emails to Khosla in January 1997.” Package $1.6 million, including $300,000 to Stanford for the license, $200,000 salary, $400,000 bonus, $700,000 in Excite stock. Khosla’s tentative counteroffer $750,000; the deal never happened. Day in January is not given; dated 1997-01-01 as a month placeholder. EPUB re-opened 22 Nov 2026 (previous note had said it was not).",
       "origin": "ledger",
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1997-01-01,\"Larry Page’s Excite pitch for BackRub includes a proposed $300,000 l",
-          "line": 116
+          "line": 119
         }
       ]
     },
     {
-      "id": "ledger-1998-01-01-google-operates-from-the-santa-margarita-avenue-",
+      "id": "ledger-1998-01-01-stanford-files-a-patent-for-larry-page-s-pageran",
       "people": [
-        "larry-page",
-        "sergey-brin"
+        "larry-page"
       ],
       "date": "1998-01-01",
       "kind": "other",
-      "title": "Google operates from the Santa Margarita Avenue garage in Menlo Park at $1,700 a month",
-      "place": "santa-margarita-avenue-menlo-park-ca",
-      "locationText": "Santa Margarita Avenue, Menlo Park, CA",
+      "title": "Stanford files a patent for Larry Page’s PageRank system",
+      "place": "stanford-ca",
+      "locationText": "Stanford, CA",
       "status": "VERIFIED",
-      "why": "The incorporation is already in the ledger (4 September 1998). This is the off-campus garage the later origin story uses.",
-      "ledgerNote": "Master timeline: Levy ch 1. EPUB not re-opened. Year-only date for the garage period.",
+      "why": "The search algorithm is already university intellectual property months before incorporation. The later exclusive license (Levy: 1.8 million shares) is still undated.",
+      "ledgerNote": "Levy, In the Plex (2011), Part One ch. 1 ¶81: “Stanford University would not file its patent for Larry Page’s PageRank system until January 1998.” Day not given; dated 1998-01-01 as a month placeholder. USPTO primary not opened this pass. Added 22 Nov 2026.",
       "origin": "ledger",
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1998-01-01,\"Google operates from the Santa Margarita Avenue garage in Menlo Park",
-          "line": 117
+          "q": "1998-01-01,Stanford files a patent for Larry Page’s PageRank system,Larry Page; ",
+          "line": 120
         }
       ]
     },
@@ -7075,7 +7098,30 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1998-09-04,Google incorporated,Larry Page; Sergey Brin,\"Menlo Park, CA\",Their pu",
-          "line": 118
+          "line": 121
+        }
+      ]
+    },
+    {
+      "id": "ledger-1998-09-04-google-operates-from-the-santa-margarita-avenue-",
+      "people": [
+        "larry-page",
+        "sergey-brin"
+      ],
+      "date": "1998-09-04",
+      "kind": "other",
+      "title": "Google operates from the Santa Margarita Avenue garage in Menlo Park at $1,700 a month",
+      "place": "santa-margarita-avenue-menlo-park-ca",
+      "locationText": "Santa Margarita Avenue, Menlo Park, CA",
+      "status": "VERIFIED",
+      "why": "The same day they incorporate, they leave campus for Susan Wojcicki’s house. Stanford still owns PageRank; they keep teaching CS 349 that fall.",
+      "ledgerNote": "Levy, In the Plex (2011), Part One ch. 1 ¶112: “On September 4, 1998, Page and Brin filed for incorporation and finally moved off campus.” Rent $1,700 a month for the garage and several rooms; Wojcicki house purchased for $615,000. Levy writes “Santa Margarita Street”; the address is 232 Santa Margarita Avenue (USA TODAY, 4 July 2007; Google company history; research.json). Date moved from year-only 1998-01-01 on 22 Nov 2026 when the EPUB was re-opened.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1998-09-04,\"Google operates from the Santa Margarita Avenue garage in Menlo Park",
+          "line": 122
         }
       ]
     },
@@ -7098,7 +7144,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1999-01-01,\"X.com and Confinity, later PayPal, operate in Palo Alto\",Elon Musk; ",
-          "line": 119
+          "line": 123
         }
       ]
     },
@@ -7121,7 +7167,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2003-05-06,Palantir Technologies is founded in Palo Alto,Peter Thiel; Alex Karp,",
-          "line": 122
+          "line": 126
         }
       ]
     },
@@ -7144,7 +7190,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2011-07-01,George Shultz joins the Theranos board of directors after a meeting w",
-          "line": 126
+          "line": 130
         }
       ]
     },
@@ -7167,7 +7213,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2015-01-01,Theranos begins to collapse after the Wall Street Journal’s investiga",
-          "line": 128
+          "line": 132
         }
       ]
     },
@@ -7190,7 +7236,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2020-10-07,Stanford’s Board of Trustees approves removing David Starr Jordan’s n",
-          "line": 132
+          "line": 136
         }
       ]
     },
@@ -7213,7 +7259,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2022-11-29,Theo Baker’s Stanford Daily reporting on Marc Tessier-Lavigne’s scien",
-          "line": 135
+          "line": 139
         }
       ]
     },
@@ -7234,7 +7280,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2023-07-19,Marc Tessier-Lavigne resigns as Stanford president,Stanford board spe",
-          "line": 138
+          "line": 142
         }
       ]
     },
@@ -7255,7 +7301,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2025-01-20,Technology founders seated at the presidential inauguration,—,\"Washin",
-          "line": 140
+          "line": 144
         }
       ]
     },
@@ -8488,9 +8534,9 @@
           "q": "Khosla made a tentative counteroffer of $750,000 total. But the deal never happened."
         }
       ],
-      "dateNote": "Levy dates Page’s emails to Vinod Khosla laying out the plan to January 1997; the reachable excerpt says only that Page was “not-quite-twenty-four” and would return for the fall 1997 semester.",
+      "dateNote": "Levy, In the Plex (2011), Part One ch. 1 ¶90 (EPUB re-opened 22 Nov 2026): Page described the plan in detail in emails to Vinod Khosla in January 1997. Day in January is not given; the ledger keeps 1997-01-01 as a month placeholder. Page was “not-quite-twenty-four” and would return for the fall 1997 semester.",
       "revisionNote": "The $300,000 figure is one part of a $1.6 million proposed outlay (also a $200,000 salary, $400,000 bonus, $700,000 in Excite stock). Khosla made a tentative counter-offer of $750,000 and the deal never happened. The manuscript’s month (1997-01) is not stated by any web-reachable source, so the date is given as 1997.",
-      "note": "Source is a blog excerpt of Steven Levy’s In the Plex (2011), a tertiary route to a scholarly/journalistic book.",
+      "note": "The January 1997 month is now taken from the book itself, not only from a blog excerpt of pp. 24–29. The $300,000 figure is one part of a $1.6 million proposed outlay; Khosla’s tentative counter-offer was $750,000 and the deal never happened.",
       "place": null,
       "origin": "curated"
     },
@@ -8532,8 +8578,9 @@
           "q": "the newly incorporated team made the upgrade from the dorms to their first office: a garage in suburban Menlo Park, California, owned by Susan Wojcicki"
         }
       ],
-      "revisionNote": "Sources agree on 232 Santa Margarita Ave., Menlo Park, owned by Susan Wojcicki, and $1,700 a month. Wojcicki bought the house after earning her MBA in 1998; Google’s own history page says the garage became the first office after the August 1998 Bechtolsheim cheque and incorporation.",
+      "revisionNote": "Sources agree on 232 Santa Margarita Ave., Menlo Park, owned by Susan Wojcicki, and $1,700 a month. Wojcicki bought the house after earning her MBA in 1998; Google’s own history page says the garage became the first office after the August 1998 Bechtolsheim cheque and incorporation. Levy, re-opened 22 Nov 2026, dates the move off campus to the incorporation day, 4 September 1998.",
       "note": "Wojcicki herself gave the $1,700 figure (Dreamforce, 2015) and in 2007 to USA TODAY.",
+      "dateNote": "Levy, In the Plex (2011), Part One ch. 1 ¶112 (EPUB re-opened 22 Nov 2026): “On September 4, 1998, Page and Brin filed for incorporation and finally moved off campus.” The ledger garage row, previously year-only, is now dated 4 September 1998, the same day as incorporation. Levy writes “Santa Margarita Street”; the address is 232 Santa Margarita Avenue.",
       "origin": "curated"
     },
     {
@@ -8593,6 +8640,12 @@
           "q": "Musk enrolls in Stanford and leaves “after two days,” as the story goes."
         },
         {
+          "title": "Letter of Judith Haccou, director of graduate admissions, 22 June 2009, printed in Vance",
+          "publisher": "Ashlee Vance, Elon Musk (HarperCollins, 2015), Appendix 1",
+          "kind": "institutional",
+          "q": "you applied and were admitted to the graduate program in Material Science Engineering in 1995. Since you did not enroll, Stanford is not able to issue you an official certification document."
+        },
+        {
           "url": "https://stanforddaily.com/2024/11/11/elon-musk-stanford-work-status/",
           "title": "Elon Musk's brief Stanford affiliation raises questions about previous immigration status",
           "publisher": "The Stanford Daily, 11 Nov 2024",
@@ -8614,7 +8667,7 @@
           "q": "In 1995, he was accepted to a graduate program in materials science at Stanford University, but did not enroll."
         }
       ],
-      "revisionNote": "Stanford confirms he applied and was accepted to a materials science and engineering graduate program in 1995 but has no record he enrolled; “after two days” is Musk’s own account (often repeated as a physics or applied physics PhD, which Stanford did not confirm).",
+      "revisionNote": "Stanford confirms he applied and was accepted to a materials science and engineering graduate program in 1995 but has no record he enrolled. Vance, Elon Musk (2015), Appendix 1, prints the 22 June 2009 registrar letter (Judith Haccou): admitted, “did not enroll.” “After two days” is Musk’s own account (often repeated as a physics or applied physics PhD, which Stanford did not confirm). Isaacson’s “officially enrolled then deferred” (2023, ch. 9) conflicts with the letter. Ledger event retitled 22 Nov 2026; status VERIFIED for admission and non-enrollment.",
       "note": "Widely repeated: Musk left Stanford after two days. Stanford says it has no record of him enrolling.",
       "origin": "curated"
     },
@@ -16605,6 +16658,11 @@
       "kind": "place"
     },
     {
+      "id": "united-states-u-s-patent-4-237-224",
+      "name": "United States (U.S. Patent 4,237,224)",
+      "kind": "place"
+    },
+    {
       "id": "utah-territory",
       "name": "Utah Territory",
       "kind": "place"
@@ -17120,7 +17178,7 @@
       "publisher": "Wikipedia",
       "kind": "tertiary",
       "retrieved": "2026-11-21",
-      "cites": 7
+      "cites": 6
     },
     {
       "url": "https://en.wikipedia.org/wiki/Gaspar_de_Portol%C3%A0",
@@ -17496,7 +17554,7 @@
       "publisher": "Wikipedia",
       "kind": "tertiary",
       "retrieved": "2026-11-21",
-      "cites": 2
+      "cites": 1
     },
     {
       "url": "https://en.wikipedia.org/wiki/Stanford_University",
@@ -17936,7 +17994,7 @@
       "publisher": "Palo Alto Historical Association",
       "kind": "institutional",
       "retrieved": "2026-11-21",
-      "cites": 2
+      "cites": 1
     },
     {
       "url": "https://physics.stanford.edu/about/our-history",
@@ -17980,11 +18038,11 @@
     },
     {
       "url": "https://stanfordmag.org/contents/century-at-stanford",
-      "title": "Century at Stanford (50 years ago, 1951)",
-      "publisher": "Stanford Magazine",
+      "title": "Century at Stanford",
+      "publisher": "Stanford magazine (Stanford Alumni Association)",
       "kind": "institutional",
       "retrieved": "2026-11-21",
-      "cites": 2
+      "cites": 1
     },
     {
       "url": "https://stanfordmag.org/contents/jane-stanford-s-allowance-saved-the-university",
@@ -18009,14 +18067,6 @@
       "kind": "institutional",
       "retrieved": "2026-11-21",
       "cites": 9
-    },
-    {
-      "url": "https://stanfordresearchpark.com/about/",
-      "title": "About Stanford Research Park",
-      "publisher": "Stanford Research Park (Stanford University)",
-      "kind": "institutional",
-      "retrieved": "2026-11-21",
-      "cites": 1
     },
     {
       "url": "https://stanfordreview.org/editors-note-3/",
@@ -18080,6 +18130,14 @@
       "publisher": "Alta Journal",
       "kind": "scholarly",
       "retrieved": "2026-11-21",
+      "cites": 1
+    },
+    {
+      "url": "https://www.archives.gov/milestone-documents/president-dwight-d-eisenhowers-farewell-address",
+      "title": "President Dwight D. Eisenhower's Farewell Address (1961)",
+      "publisher": "National Archives",
+      "kind": "institutional",
+      "retrieved": "",
       "cites": 1
     },
     {
