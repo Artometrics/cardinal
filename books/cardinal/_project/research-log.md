@@ -233,3 +233,15 @@ The seven books that had been read in lean mode were re-read to Whyte-level thor
 | White’s Epilogue: “I think she [Bertha Berner] was a murderer.” | White’s conclusion, not a settled fact. The cover-up (Jordan, Waterhouse, the *Alameda* trip, the natural-causes statement) remains the firm part (CANON-110, 122). |
 | Baker, Prologue: “the cumulative value of companies that currently maintain offices on Stanford land is north of $6 trillion.” | Baker’s round figure appears to assign whole-company market caps to a park office. Do not import as a land-value or Research Park valuation. |
 | Rayner, ch. 8: “Stanford and Durant took turns… driving home the golden spike.” | Already rejected (CANON-091, 130, 136). Ambrose and Chang: Stanford swung and missed; the gold spike was tapped into a pre-drilled hole. |
+
+### Levine, *Surveillance Valley* (first Whyte-depth read, 22 Nov 2026)
+
+Yasha Levine, *Surveillance Valley* (PublicAffairs, 2018) was read in full from a clean extract (`[[p. N]]` markers, pp. 1–274 plus notes). No new canon row and no ledger or draft date changes. The book is useful as a lead for ch/4-04, 4-09, 4-11 and 4-12 (Brand at SAIL, October 1972; Digital Libraries / a 1998 Page paper Levine says was disclosed as “funded by DARPA”; SRI’s ARPA chemical-warfare work under the same roof as Engelbart; a 22 November 1977 SRI packet-radio TCP/IP test near Stanford; a 2011 SPAWAR–Tor contract Levine says was passed through SRI). Those remain leads until confirmed. Three wordings must not be imported:
+
+| Claim | Correction / hedge |
+|---|---|
+| Levine p. 62: first ARPANET node “linking Stanford to UCLA,” 29 October 1969; p. 145: “the ARPANET was part-born at Stanford.” | The ledger, ch/4-04 and voice.md are already right: first message UCLA to SRI, Menlo Park. SRI is not the Stanford campus. |
+| Levine p. 145: Shockley Semiconductor “inside the university’s Stanford Industrial Park” in 1956, with HP, Kodak, GE, Xerox PARC and Lockheed “around the same time.” | Ledger: Shockley opens in Mountain View, 1 February 1956. Park authorization/lease October 1951, first occupancy 1953 (Varian, CANON-139). Do not move Shockley into the park on this wording. |
+| Levine p. 247: 2011 Tor/SPAWAR money “passed through SRI, the old Stanford military contractor.” | After the 1970 divestment SRI is not university-owned. “Old Stanford” is origin, not 2011 ownership. |
+
+Notes: `/workspace/cardinal-reading/notes/levine-surveillance-valley.md` and https://docs.google.com/document/d/1tXtkbUHvIVkdqkV_1jd_wt5X5_nNfja_pKNF6691TgM/edit
