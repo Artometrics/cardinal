@@ -7,15 +7,15 @@
     },
     "counts": {
       "people": 234,
-      "events": 256,
+      "events": 257,
       "relationships": 245,
-      "places": 109,
+      "places": 110,
       "sources": 13,
       "webSources": 195,
       "orgs": 21,
       "affiliations": 68
     },
-    "ledgerRows": 139,
+    "ledgerRows": 141,
     "ledgerActorsNotMapped": [
       "48 delegates",
       "Alf Brandin",
@@ -42,6 +42,7 @@
       "Joseph Biden",
       "Juan Alvarado",
       "Juan Crespí",
+      "Keith Johnson",
       "Kleiner Perkins",
       "Lockheed",
       "Mexican republic",
@@ -51,6 +52,7 @@
       "National Science Foundation",
       "New York Times",
       "Niels Reimers",
+      "Norman Book",
       "Nvidia",
       "Observer",
       "Onitsuka",
@@ -5233,28 +5235,6 @@
       ]
     },
     {
-      "id": "ledger-1861-09-04-leland-stanford-elected-governor-of-california",
-      "people": [
-        "leland-stanford"
-      ],
-      "date": "1861-09-04",
-      "kind": "other",
-      "title": "Leland Stanford elected governor of California",
-      "place": "california",
-      "locationText": "California",
-      "status": "VERIFIED",
-      "why": "The railroad president becomes the state’s war governor in the same year the Central Pacific is incorporated. The office and the charter travel together.",
-      "ledgerNote": "Election day 4 September 1861, with nearly 56,000 votes (Richard Rayner, The Associates (W. W. Norton, 2008), ch. 3 ¶33). Earlier this row used 1 January as a placeholder.",
-      "origin": "ledger",
-      "cites": [
-        {
-          "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1861-09-04,Leland Stanford elected governor of California,Leland Stanford,Califo",
-          "line": 22
-        }
-      ]
-    },
-    {
       "id": "ledger-1861-01-21-jefferson-davis-speaks-for-a-transcontinental-ra",
       "people": [
         "jefferson-davis"
@@ -5271,7 +5251,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1861-01-21,Jefferson Davis speaks for a transcontinental railroad days before le",
-          "line": 23
+          "line": 22
         }
       ]
     },
@@ -5300,7 +5280,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1861-06-28,Central Pacific Railroad incorporated,Leland Stanford; Collis Hunting",
-          "line": 24
+          "line": 23
         },
         {
           "url": "https://archive.org/stream/collispotterhunt01evan/collispotterhunt01evan_djvu.txt",
@@ -5322,6 +5302,28 @@
           "publisher": "Wikipedia",
           "kind": "tertiary",
           "q": "1861 June 28, 1861: \"Central Pacific Rail Road of California\" incorporated"
+        }
+      ]
+    },
+    {
+      "id": "ledger-1861-09-04-leland-stanford-elected-governor-of-california",
+      "people": [
+        "leland-stanford"
+      ],
+      "date": "1861-09-04",
+      "kind": "other",
+      "title": "Leland Stanford elected governor of California",
+      "place": "california",
+      "locationText": "California",
+      "status": "VERIFIED",
+      "why": "The railroad president becomes the state’s war governor in the same year the Central Pacific is incorporated. The office and the charter travel together.",
+      "ledgerNote": "Election day 4 September 1861, with nearly 56,000 votes (Richard Rayner, The Associates (W. W. Norton, 2008), ch. 3 ¶33). Earlier this row used 1 January as a placeholder.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1861-09-04,Leland Stanford elected governor of California,Leland Stanford,Califo",
+          "line": 24
         }
       ]
     },
@@ -5858,6 +5860,28 @@
       ]
     },
     {
+      "id": "ledger-1905-03-01-justice-joyce-in-chang-yen-mao-v-moreing-holds-t",
+      "people": [
+        "herbert-hoover"
+      ],
+      "date": "1905-03-01",
+      "kind": "other",
+      "title": "Justice Joyce, in Chang Yen-mao v. Moreing, holds the February 1901 Kaiping memorandum binding",
+      "place": "london-high-court-of-justice-chancery-division",
+      "locationText": "London, High Court of Justice, Chancery Division",
+      "status": "VERIFIED",
+      "why": "The same week Jane Stanford dies in Honolulu, a London judge rules on the China deal Hoover helped to make. Joyce finds that the memorandum “formed the basis and foundation of the whole arrangement,” that Chang sealed the transfer in reliance on assurances it would bind, and that the company had “declined to recognize” it. He is also disturbed by the 1901 flotation. An appeal follows (The Times, 25 January 1906, as cited by Carlson); the outcome of that appeal was not read in full in this pass.",
+      "ledgerNote": "Carlson, The Kaiping Mines (1971), IA search-inside: trial before Joyce in early 1905; decision 1 March 1905; testimony by Chang, Detring, Hoover, Moreing in late January and early February. Nash, The Engineer (1983), IA search-inside: trial opened 17 January 1905; verdict 1 March; Joyce’s findings as quoted. The Times (London), 2 March 1905, p. 3, is the contemporary report both books cite; the newspaper page itself was not retrieved in this pass.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1905-03-01,\"Justice Joyce, in Chang Yen-mao v. Moreing, holds the February 1901 ",
+          "line": 53
+        }
+      ]
+    },
+    {
       "id": "ledger-1905-03-09-a-honolulu-coroner-s-jury-finds-jane-stanford-di",
       "people": [
         "bertha-berner",
@@ -5878,28 +5902,6 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1905-03-09,A Honolulu coroner’s jury finds Jane Stanford died of strychnine pois",
-          "line": 53
-        }
-      ]
-    },
-    {
-      "id": "ledger-1905-03-01-justice-joyce-in-chang-yen-mao-v-moreing-holds-t",
-      "people": [
-        "herbert-hoover"
-      ],
-      "date": "1905-03-01",
-      "kind": "other",
-      "title": "Justice Joyce, in Chang Yen-mao v. Moreing, holds the February 1901 Kaiping memorandum binding",
-      "place": "london-high-court-of-justice-chancery-division",
-      "locationText": "London, High Court of Justice, Chancery Division",
-      "status": "VERIFIED",
-      "why": "The same week Jane Stanford dies in Honolulu, a London judge rules on the China deal Hoover helped to make. Joyce finds that the memorandum “formed the basis and foundation of the whole arrangement,” that Chang sealed the transfer in reliance on assurances it would bind, and that the company had “declined to recognize” it. He is also disturbed by the 1901 flotation. An appeal follows (The Times, 25 January 1906, as cited by Carlson); the outcome of that appeal was not read in full in this pass.",
-      "ledgerNote": "Carlson, The Kaiping Mines (1971), IA search-inside: trial before Joyce in early 1905; decision 1 March 1905; testimony by Chang, Detring, Hoover, Moreing in late January and early February. Nash, The Engineer (1983), IA search-inside: trial opened 17 January 1905; verdict 1 March; Joyce’s findings as quoted. The Times (London), 2 March 1905, p. 3, is the contemporary report both books cite; the newspaper page itself was not retrieved in this pass.",
-      "origin": "ledger",
-      "cites": [
-        {
-          "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1905-03-01,\"Justice Joyce, in Chang Yen-mao v. Moreing, holds the February 1901 ",
           "line": 54
         }
       ]
@@ -6470,28 +6472,6 @@
       ]
     },
     {
-      "id": "ledger-1953-01-01-stanford-industrial-park-opens-first-building-oc",
-      "people": [
-        "frederick-terman"
-      ],
-      "date": "1953-01-01",
-      "kind": "founding",
-      "title": "Stanford Industrial Park opens (first building occupied by Varian Associates)",
-      "place": "page-mill-road-palo-alto-ca",
-      "locationText": "Page Mill Road, Palo Alto, CA",
-      "status": "VERIFIED",
-      "why": "First university-owned industrial park in the US. Direct consequence of the 1885 prohibition on selling land.",
-      "ledgerNote": "Two dates, both documented, for different events: the park was authorized in 1951 (209 acres set aside); Varian Associates signed a 99-year lease on 10 acres in October 1951; Varian occupied the first building in 1953. Jon Sandelin, “The Story of the Stanford Industrial/Research Park,” Stanford Office of Technology Licensing paper for the International Forum of University Science Park (2004), https://web.stanford.edu/group/OTL/documents/JSstanfordpark.pdf. Stanford University Heritage Services, “Stanford Research Park: Framework for Historic Resource Evaluation” (3 November 2016), submitted to the City of Palo Alto Historic Resources Board (ID 8184, 22 June 2017): the correct year for the opening of the first facility is 1953; some sources wrongly date the park to 1949; construction began February 1952. Stanford Research Park, “Success Story: Varian” (16 March 2024): Varian “moved into the first building in what was then known as Stanford Industrial Park” in 1953. The event is therefore dated 1953 (year-only, for occupancy). Authorization and the first lease are 1951. A separate ledger row still dated 1953 for the Varian lease records the occupancy year, not the October 1951 signing. Stanford Research Park, “About,” https://stanfordresearchpark.com/about/ (verified 21 Nov 2026): “Since 1951, Stanford Research Park has been home to the R&D …” (the park’s own dating is the 1951 authorization, not the 1953 occupancy).",
-      "origin": "ledger",
-      "cites": [
-        {
-          "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1953-01-01,Stanford Industrial Park opens (first building occupied by Varian Ass",
-          "line": 84
-        }
-      ]
-    },
-    {
       "id": "ledger-1953-01-01-first-stanford-industrial-park-lease-goes-to-var",
       "people": [
         "frederick-terman"
@@ -6509,6 +6489,28 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1953-01-01,First Stanford Industrial Park lease goes to Varian Associates; Terma",
+          "line": 84
+        }
+      ]
+    },
+    {
+      "id": "ledger-1953-01-01-stanford-industrial-park-opens-first-building-oc",
+      "people": [
+        "frederick-terman"
+      ],
+      "date": "1953-01-01",
+      "kind": "founding",
+      "title": "Stanford Industrial Park opens (first building occupied by Varian Associates)",
+      "place": "page-mill-road-palo-alto-ca",
+      "locationText": "Page Mill Road, Palo Alto, CA",
+      "status": "VERIFIED",
+      "why": "First university-owned industrial park in the US. Direct consequence of the 1885 prohibition on selling land.",
+      "ledgerNote": "Two dates, both documented, for different events: the park was authorized in 1951 (209 acres set aside); Varian Associates signed a 99-year lease on 10 acres in October 1951; Varian occupied the first building in 1953. Jon Sandelin, “The Story of the Stanford Industrial/Research Park,” Stanford Office of Technology Licensing paper for the International Forum of University Science Park (2004), https://web.stanford.edu/group/OTL/documents/JSstanfordpark.pdf. Stanford University Heritage Services, “Stanford Research Park: Framework for Historic Resource Evaluation” (3 November 2016), submitted to the City of Palo Alto Historic Resources Board (ID 8184, 22 June 2017): the correct year for the opening of the first facility is 1953; some sources wrongly date the park to 1949; construction began February 1952. Stanford Research Park, “Success Story: Varian” (16 March 2024): Varian “moved into the first building in what was then known as Stanford Industrial Park” in 1953. The event is therefore dated 1953 (year-only, for occupancy). Authorization and the first lease are 1951. A separate ledger row still dated 1953 for the Varian lease records the occupancy year, not the October 1951 signing. Stanford Research Park, “About,” https://stanfordresearchpark.com/about/ (verified 21 Nov 2026): “Since 1951, Stanford Research Park has been home to the R&D …” (the park’s own dating is the 1951 authorization, not the 1953 occupancy).",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1953-01-01,Stanford Industrial Park opens (first building occupied by Varian Ass",
           "line": 85
         }
       ]
@@ -6767,7 +6769,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1972-01-01,Kleiner Perkins and Sequoia Capital founded on Sand Hill Road,Eugene ",
-          "line": 101
+          "line": 102
         }
       ]
     },
@@ -6790,29 +6792,29 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1974-05-01,\"George Shultz leaves federal office to become president and director",
-          "line": 102
+          "line": 103
         }
       ]
     },
     {
-      "id": "ledger-1974-01-01-niels-reimers-files-the-cohen-boyer-recombinant-",
+      "id": "ledger-1974-11-11-niels-reimers-files-the-cohen-boyer-recombinant-",
       "people": [
         "herbert-boyer"
       ],
-      "date": "1974-01-01",
+      "date": "1974-11-11",
       "kind": "other",
       "title": "Niels Reimers files the Cohen–Boyer recombinant-DNA patent application for Stanford",
       "place": "stanford-ca",
       "locationText": "Stanford, CA",
       "status": "VERIFIED",
       "why": "The university turns a laboratory method into licensing income, years before Bayh–Dole.",
-      "ledgerNote": "Carried over from the master timeline (Berlin pt 3). Year-only date.",
+      "ledgerNote": "Berlin, Troublemakers (2017), pp. 137–142: Cohen called Reimers at the end of July 1974; the November 1973 paper started a one-year clock; Stanford filed on 11 November 1974, “one week before the deadline,” as “Process and Composition for Biologically Functional Molecular Chimeras.” Previously dated 1974-01-01 year-only (master timeline, Berlin pt 3). Tightened 22 Nov 2026.",
       "origin": "ledger",
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1974-01-01,Niels Reimers files the Cohen–Boyer recombinant-DNA patent applicatio",
-          "line": 103
+          "q": "1974-11-11,Niels Reimers files the Cohen–Boyer recombinant-DNA patent applicatio",
+          "line": 104
         }
       ]
     },
@@ -6834,30 +6836,30 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1975-03-05,First Homebrew Computer Club meeting,Fred Moore; Gordon French,\"Menlo",
-          "line": 104
+          "line": 105
         }
       ]
     },
     {
-      "id": "ledger-1976-01-01-genentech-is-founded-by-robert-swanson-and-herbe",
+      "id": "ledger-1976-04-07-genentech-is-founded-by-robert-swanson-and-herbe",
       "people": [
         "herbert-boyer",
         "robert-swanson"
       ],
-      "date": "1976-01-01",
+      "date": "1976-04-07",
       "kind": "founding",
       "title": "Genentech is founded by Robert Swanson and Herbert Boyer",
       "place": "south-san-francisco-ca",
       "locationText": "South San Francisco, CA",
       "status": "VERIFIED",
-      "why": "A Kleiner & Perkins associate, let go with payroll to the end of 1975, builds the first biotech company on a Stanford-licensed method.",
-      "ledgerNote": "Carried over from the master timeline (Berlin ch 15). Year from the timeline; exact founding day not rechecked.",
+      "why": "A Kleiner & Perkins associate, let go with payroll to the end of 1975, builds the first biotech company on the Cohen–Boyer method (Stanford/UCSF patent issued 2 December 1980; licenses offered in 1981).",
+      "ledgerNote": "Berlin, Troublemakers (2017), pp. 199–201: pitch to Kleiner & Perkins on 1 April 1976; Swanson and Boyer incorporated Genentech on 7 April 1976; K&P’s $100,000 arrived in June. First office: Wells Fargo annex, Sutter and Montgomery, San Francisco — the ledger location “South San Francisco” is the later campus, not the incorporation address, and is left unchanged pending a move-in date. Independently noted in research.json (swanson-genentech) from a Swanson oral history. Previously dated 1976-01-01 year-only. Tightened 22 Nov 2026.",
       "origin": "ledger",
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1976-01-01,Genentech is founded by Robert Swanson and Herbert Boyer,Robert Swans",
-          "line": 105
+          "q": "1976-04-07,Genentech is founded by Robert Swanson and Herbert Boyer,Robert Swans",
+          "line": 106
         }
       ]
     },
@@ -6884,6 +6886,28 @@
       ]
     },
     {
+      "id": "ledger-1980-12-02-cohen-boyer-recombinant-dna-patent-issued-to-sta",
+      "people": [
+        "herbert-boyer"
+      ],
+      "date": "1980-12-02",
+      "kind": "other",
+      "title": "Cohen–Boyer recombinant-DNA patent issued to Stanford and the University of California",
+      "place": "united-states-u-s-patent-4-237-224",
+      "locationText": "United States (U.S. Patent 4,237,224)",
+      "status": "VERIFIED",
+      "why": "The method patent issues two months after the Genentech IPO and ten days before Bayh–Dole. Berlin: this patent and related ones later yielded about $255 million to Stanford and UC.",
+      "ledgerNote": "Berlin, Troublemakers (2017), pp. 264, 140: Bert Rowland called Reimers on 2 December 1980; Reimers memo “Method patent allowed!”; patent number 4,237,224. Preferential license window advertised in August 1981 and closed 15 December 1981. Added 22 Nov 2026. USPTO primary check not opened this pass.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1980-12-02,Cohen–Boyer recombinant-DNA patent issued to Stanford and the Univers",
+          "line": 110
+        }
+      ]
+    },
+    {
       "id": "ledger-1981-01-21-caspar-weinberger-becomes-secretary-of-defense-g",
       "people": [
         "caspar-weinberger",
@@ -6902,29 +6926,29 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1981-01-21,Caspar Weinberger becomes Secretary of Defense; George Shultz becomes",
-          "line": 110
+          "line": 112
         }
       ]
     },
     {
-      "id": "ledger-1987-01-01-peter-thiel-founds-the-stanford-review",
+      "id": "ledger-1987-06-09-peter-thiel-founds-the-stanford-review",
       "people": [
         "peter-thiel"
       ],
-      "date": "1987-01-01",
+      "date": "1987-06-09",
       "kind": "other",
       "title": "Peter Thiel founds The Stanford Review",
       "place": "stanford-ca",
       "locationText": "Stanford, CA",
       "status": "VERIFIED",
       "why": "The campus newspaper becomes the starting point of a political and financial network that later includes PayPal and Palantir, both of them Palo Alto companies.",
-      "ledgerNote": "Master timeline: Chafkin ch 2, p. 24. EPUB not re-opened in this pass. Year-only date.",
+      "ledgerNote": "Chafkin, The Contrarian (2021), p. 25: inaugural issue published 9 June 1987; masthead listed twelve names, all men, with Thiel as editor in chief; cofounder Norman Book, a high-school friend and soon-to-be Stanford student. Previously dated 1987-01-01 year-only (master timeline, Chafkin ch. 2, p. 24, “EPUB not re-opened”). Tightened 22 Nov 2026.",
       "origin": "ledger",
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1987-01-01,Peter Thiel founds The Stanford Review,Peter Thiel,\"Stanford, CA\",\"Th",
-          "line": 111
+          "q": "1987-06-09,Peter Thiel founds The Stanford Review,Peter Thiel; Norman Book,\"Stan",
+          "line": 113
         }
       ]
     },
@@ -6946,7 +6970,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1995-01-01,Elon Musk enrolls at Stanford and leaves almost immediately,Elon Musk",
-          "line": 112
+          "line": 114
         }
       ]
     },
@@ -6968,7 +6992,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1995-08-09,Netscape IPO,Marc Andreessen; Jim Clark,NASDAQ,\"Built on Mosaic, deve",
-          "line": 114
+          "line": 116
         }
       ]
     },
@@ -6990,7 +7014,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1997-01-01,\"Larry Page’s Excite pitch for BackRub includes a proposed $300,000 l",
-          "line": 116
+          "line": 118
         }
       ]
     },
@@ -7013,7 +7037,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1998-01-01,\"Google operates from the Santa Margarita Avenue garage in Menlo Park",
-          "line": 117
+          "line": 119
         }
       ]
     },
@@ -7035,7 +7059,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1998-09-04,Google incorporated,Larry Page; Sergey Brin,\"Menlo Park, CA\",Their pu",
-          "line": 118
+          "line": 120
         }
       ]
     },
@@ -7058,7 +7082,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1999-01-01,\"X.com and Confinity, later PayPal, operate in Palo Alto\",Elon Musk; ",
-          "line": 119
+          "line": 121
         }
       ]
     },
@@ -7081,7 +7105,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2003-05-06,Palantir Technologies is founded in Palo Alto,Peter Thiel; Alex Karp,",
-          "line": 122
+          "line": 124
         }
       ]
     },
@@ -7104,7 +7128,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2011-07-01,George Shultz joins the Theranos board of directors after a meeting w",
-          "line": 126
+          "line": 128
         }
       ]
     },
@@ -7127,7 +7151,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2015-01-01,Theranos begins to collapse after the Wall Street Journal’s investiga",
-          "line": 128
+          "line": 130
         }
       ]
     },
@@ -7150,7 +7174,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2020-10-07,Stanford’s Board of Trustees approves removing David Starr Jordan’s n",
-          "line": 132
+          "line": 134
         }
       ]
     },
@@ -7173,7 +7197,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2022-11-29,Theo Baker’s Stanford Daily reporting on Marc Tessier-Lavigne’s scien",
-          "line": 135
+          "line": 137
         }
       ]
     },
@@ -7194,7 +7218,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2023-07-19,Marc Tessier-Lavigne resigns as Stanford president,Stanford board spe",
-          "line": 138
+          "line": 140
         }
       ]
     },
@@ -7215,7 +7239,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2025-01-20,Technology founders seated at the presidential inauguration,—,\"Washin",
-          "line": 140
+          "line": 142
         }
       ]
     },
@@ -16562,6 +16586,11 @@
     {
       "id": "united-states",
       "name": "United States",
+      "kind": "place"
+    },
+    {
+      "id": "united-states-u-s-patent-4-237-224",
+      "name": "United States (U.S. Patent 4,237,224)",
       "kind": "place"
     },
     {

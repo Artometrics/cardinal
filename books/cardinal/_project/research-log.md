@@ -245,3 +245,21 @@ Yasha Levine, *Surveillance Valley* (PublicAffairs, 2018) was read in full from 
 | Levine p. 247: 2011 Tor/SPAWAR money “passed through SRI, the old Stanford military contractor.” | After the 1970 divestment SRI is not university-owned. “Old Stanford” is origin, not 2011 ownership. |
 
 Notes: `/workspace/cardinal-reading/notes/levine-surveillance-valley.md` and https://docs.google.com/document/d/1tXtkbUHvIVkdqkV_1jd_wt5X5_nNfja_pKNF6691TgM/edit
+
+### 22 Nov 2026 — Berlin, Mallaby, Chafkin, Soni (Whyte-depth first reads)
+
+Four books in the Silicon Valley / founders queue were read in full from clean `[[p. N]]` extracts. No new canon row. Ledger dates that these books already underwrote as year-only were tightened, and two dated rows were added. Timeline-art keys for the re-dated events were moved with the image files copied (old webps left in place).
+
+| Change | Source | Notes |
+|---|---|---|
+| 1969-05-16 SRI protest location: Menlo Park → Palo Alto, Stanford Industrial Park (Hanover Street / Oregon Expressway) | Berlin, *Troublemakers*, pp. 56–57 | Date already correct (morning after People’s Park). Berlin distinguishes SRI HQ in Menlo Park from this satellite office in the park. “A dozen years earlier” for the park is approximate (CANON-139). |
+| New 1970-06-01: OTL made permanent (month placeholder) | Berlin pp. 132–133 | Pilot-to-permanent in June 1970 after $55,000 in a single year vs $2,944.91 from Research Corporation (1954–67). Day not given. |
+| 1974-01-01 → **1974-11-11** Cohen–Boyer filing | Berlin pp. 137–142 | November 1973 paper started a one-year clock; filed “one week before the deadline.” citations.json already noted he did not file a completed application that summer. |
+| 1976-01-01 → **1976-04-07** Genentech incorporated | Berlin pp. 199–201; also Mallaby p. 74 (1 April pitch) and `research.json` (`swanson-genentech`, Swanson oral history) | First office is the Wells Fargo annex, Sutter and Montgomery, San Francisco. Ledger location “South San Francisco” is the later campus and was left unchanged. The method was not yet a issued Stanford license on founding day (patent 2 Dec 1980). |
+| New 1980-12-02: Cohen–Boyer patent issued (U.S. 4,237,224) | Berlin p. 264 | Two months after the Genentech IPO, ten days before Bayh–Dole. Preferential license window closed 15 Dec 1981. USPTO primary not opened this pass. |
+| 1987-01-01 → **1987-06-09** *Stanford Review* inaugural issue | Chafkin, *The Contrarian*, p. 25 | Thiel editor in chief; cofounder Norman Book added as an actor. Soni agrees on Book. |
+| 2008-01-01 Sequoia/Stanford endowment hires: note tightened, still year-only | Mallaby pp. 334–335 | Key recruit Keith Johnson (age 31), for Sequoia’s Heritage business. Second hire unnamed. |
+
+Hedges, not imported: Mallaby p. 17 (and Levine before him) placing Shockley Semiconductor “on Terman’s campus” in 1956 — ledger is Mountain View, 1 Feb 1956. Mallaby’s “Terman created the research park” in 1951 is the authorization year, not occupancy (CANON-139). Soni: Musk was admitted to a Stanford graduate program, deferred from Sept 1995 to Jan 1996, and did not enroll — do not call him a Stanford graduate student or a dropout in the undergraduate sense. Chafkin’s Hoover thumbnail and “Jordan’s white supremacy … never entirely absent from the psyche” are not ledger changes (Hoover funding already overridden to 22 Apr 1919; Jordan Hall renamed 7 Oct 2020).
+
+Notes: Berlin https://docs.google.com/document/d/1BGa65uPwkcUgSXbo6ynMEy9Q2LrDWMQ41DlO81Vipqw/edit ; Mallaby https://docs.google.com/document/d/1_EGxAcaNO_caEn81Ow5y871A7ZooigmJgLZKMtLdxq0/edit ; Chafkin https://docs.google.com/document/d/1r8v0nXIXy3g3x3Zro4TqrYb87vqAgGlR8WliB1KovRg/edit ; Soni https://docs.google.com/document/d/13sRDBK7KRt4BDlfAf9yJ97zq7h-dp8ljQBU5dWUwZ4g/edit

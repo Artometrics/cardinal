@@ -119,17 +119,22 @@ it under the rule in `_project/voice.md`.
 | 1969-05-16 | Police tear-gas students protesting the SRI divestment | They had asked the university to take responsibility. It took its name off the door instead. | VERIFIED |
 | 1969-10-29 | First ARPANET message, UCLA to SRI | The system crashes after two letters. The internet's first word is 'lo'. | VERIFIED |
 | 1970-01-01 | Trustees set terms for the SRI divestment | SRI sold to itself for 1 per cent of gross revenues up to $25 million. Pressure produced reorganisation, not reform. | VERIFIED |
+| 1970-06-01 | Stanford’s Office of Technology Licensing is made a permanent office | The in-house licensing office that will later file Cohen–Boyer and license PageRank leaves the Research Corporation model. Day in June is not given. | VERIFIED |
 | 1972-01-01 | Kleiner Perkins and Sequoia Capital founded on Sand Hill Road | Both founded by operators from the semiconductor industry, four minutes from the campus supplying the deal flow. | VERIFIED |
+| 1974-11-11 | Niels Reimers files the Cohen–Boyer recombinant-DNA patent application for Stanford | The university turns a laboratory method into licensing income, years before Bayh–Dole. Filed 11 November 1974, a week before the statutory deadline. | VERIFIED |
 | 1975-03-05 | First Homebrew Computer Club meeting | Circulating culture, enclosed within about five years. | VERIFIED |
+| 1976-04-07 | Genentech is founded by Robert Swanson and Herbert Boyer | A Kleiner & Perkins associate, let go with payroll to the end of 1975, builds the first biotech company on the Cohen–Boyer method (patent issued 2 December 1980). | VERIFIED |
 | 1979-02-01 | ERISA prudent man rule clarified | Admits pension money to venture funds. The public-money leg of the capital chokepoint. | VERIFIED |
 
 ## Platforms (1980–2005)
 
 | Date | Event | Why it matters | Status |
 |---|---|---|---|
-| 1980-11-06 | Microsoft signs a contract with IBM to create an operating system for the IBM PC | The most valuable clause never inserted. Hardware commoditises; the operating system does not. Contract date is 6 November 1980, not 12 August 1980. | VERIFIED |
 | 1980-10-14 | Genentech IPO | Biology financed like software, on a Stanford and UCSF patent. | VERIFIED |
+| 1980-11-06 | Microsoft signs a contract with IBM to create an operating system for the IBM PC | The most valuable clause never inserted. Hardware commoditises; the operating system does not. Contract date is 6 November 1980, not 12 August 1980. | VERIFIED |
+| 1980-12-02 | Cohen–Boyer recombinant-DNA patent issued to Stanford and the University of California | U.S. Patent 4,237,224. Two months after the Genentech IPO and ten days before Bayh–Dole. | VERIFIED |
 | 1980-12-12 | Bayh-Dole Act enacted | Universities take title to federally funded inventions. Answers the question Act II left open. | VERIFIED |
+| 1987-06-09 | Peter Thiel founds The Stanford Review | Inaugural issue 9 June 1987. The campus newspaper becomes the starting point of a political and financial network that later includes PayPal and Palantir. | VERIFIED |
 | 1995-04-30 | NSFNET backbone decommissioned; the network passes to commercial operators | Thirty years of public investment transferred without compensation, equity, or public debate. | VERIFIED |
 | 1995-08-09 | Netscape IPO | Built on Mosaic, developed at a public university on federal funding. | VERIFIED |
 | 1996-02-08 | Section 230 enacted | Twenty-six words. The legal foundation of the platform economy. | VERIFIED |
