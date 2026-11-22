@@ -7,7 +7,7 @@
     },
     "counts": {
       "people": 234,
-      "events": 257,
+      "events": 258,
       "relationships": 245,
       "places": 110,
       "sources": 13,
@@ -15,7 +15,7 @@
       "orgs": 21,
       "affiliations": 68
     },
-    "ledgerRows": 141,
+    "ledgerRows": 142,
     "ledgerActorsNotMapped": [
       "48 delegates",
       "Alf Brandin",
@@ -29,6 +29,7 @@
       "Central Pacific",
       "Central Pacific Chinese workforce",
       "Chang Yen-mao",
+      "Channel 4 News",
       "Denis Kearney",
       "Electronics magazine",
       "Facebook",
@@ -54,7 +55,6 @@
       "Niels Reimers",
       "Norman Book",
       "Nvidia",
-      "Observer",
       "Onitsuka",
       "OpenAI",
       "OpenAI board",
@@ -73,6 +73,7 @@
       "Stanford trustees",
       "Stanley Cohen",
       "Tamien Ohlone",
+      "The Observer",
       "Tomás de la Peña",
       "UN Human Rights Council",
       "US Congress",
@@ -7008,7 +7009,7 @@
       "locationText": "Stanford, CA",
       "status": "VERIFIED",
       "why": "The search work is already imagined as a university licence — the farm’s intellectual property, priced.",
-      "ledgerNote": "Master timeline: Levy ch 1. EPUB not re-opened. Month January from the timeline. Dated 1 January as a month placeholder.",
+      "ledgerNote": "Levy, In the Plex (2011), Part One ch. 1 ¶90: Page described the plan “in detail in emails to Khosla in January 1997.” Package $1.6 million, including $300,000 to Stanford for the license, $200,000 salary, $400,000 bonus, $700,000 in Excite stock. Khosla’s tentative counteroffer $750,000; the deal never happened. Day in January is not given; dated 1997-01-01 as a month placeholder. EPUB re-opened 22 Nov 2026 (previous note had said it was not).",
       "origin": "ledger",
       "cites": [
         {
@@ -7019,24 +7020,23 @@
       ]
     },
     {
-      "id": "ledger-1998-01-01-google-operates-from-the-santa-margarita-avenue-",
+      "id": "ledger-1998-01-01-stanford-files-a-patent-for-larry-page-s-pageran",
       "people": [
-        "larry-page",
-        "sergey-brin"
+        "larry-page"
       ],
       "date": "1998-01-01",
       "kind": "other",
-      "title": "Google operates from the Santa Margarita Avenue garage in Menlo Park at $1,700 a month",
-      "place": "santa-margarita-avenue-menlo-park-ca",
-      "locationText": "Santa Margarita Avenue, Menlo Park, CA",
+      "title": "Stanford files a patent for Larry Page’s PageRank system",
+      "place": "stanford-ca",
+      "locationText": "Stanford, CA",
       "status": "VERIFIED",
-      "why": "The incorporation is already in the ledger (4 September 1998). This is the off-campus garage the later origin story uses.",
-      "ledgerNote": "Master timeline: Levy ch 1. EPUB not re-opened. Year-only date for the garage period.",
+      "why": "The search algorithm is already university intellectual property months before incorporation. The later exclusive license (Levy: 1.8 million shares) is still undated.",
+      "ledgerNote": "Levy, In the Plex (2011), Part One ch. 1 ¶81: “Stanford University would not file its patent for Larry Page’s PageRank system until January 1998.” Day not given; dated 1998-01-01 as a month placeholder. USPTO primary not opened this pass. Added 22 Nov 2026.",
       "origin": "ledger",
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1998-01-01,\"Google operates from the Santa Margarita Avenue garage in Menlo Park",
+          "q": "1998-01-01,Stanford files a patent for Larry Page’s PageRank system,Larry Page; ",
           "line": 119
         }
       ]
@@ -7064,6 +7064,29 @@
       ]
     },
     {
+      "id": "ledger-1998-09-04-google-operates-from-the-santa-margarita-avenue-",
+      "people": [
+        "larry-page",
+        "sergey-brin"
+      ],
+      "date": "1998-09-04",
+      "kind": "other",
+      "title": "Google operates from the Santa Margarita Avenue garage in Menlo Park at $1,700 a month",
+      "place": "santa-margarita-avenue-menlo-park-ca",
+      "locationText": "Santa Margarita Avenue, Menlo Park, CA",
+      "status": "VERIFIED",
+      "why": "The same day they incorporate, they leave campus for Susan Wojcicki’s house. Stanford still owns PageRank; they keep teaching CS 349 that fall.",
+      "ledgerNote": "Levy, In the Plex (2011), Part One ch. 1 ¶112: “On September 4, 1998, Page and Brin filed for incorporation and finally moved off campus.” Rent $1,700 a month for the garage and several rooms; Wojcicki house purchased for $615,000. Levy writes “Santa Margarita Street”; the address is 232 Santa Margarita Avenue (USA TODAY, 4 July 2007; Google company history; research.json). Date moved from year-only 1998-01-01 on 22 Nov 2026 when the EPUB was re-opened.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1998-09-04,\"Google operates from the Santa Margarita Avenue garage in Menlo Park",
+          "line": 121
+        }
+      ]
+    },
+    {
       "id": "ledger-1999-01-01-x-com-and-confinity-later-paypal-operate-in-palo",
       "people": [
         "elon-musk",
@@ -7082,7 +7105,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1999-01-01,\"X.com and Confinity, later PayPal, operate in Palo Alto\",Elon Musk; ",
-          "line": 121
+          "line": 122
         }
       ]
     },
@@ -7105,7 +7128,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2003-05-06,Palantir Technologies is founded in Palo Alto,Peter Thiel; Alex Karp,",
-          "line": 124
+          "line": 125
         }
       ]
     },
@@ -7128,7 +7151,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2011-07-01,George Shultz joins the Theranos board of directors after a meeting w",
-          "line": 128
+          "line": 129
         }
       ]
     },
@@ -7151,7 +7174,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2015-01-01,Theranos begins to collapse after the Wall Street Journal’s investiga",
-          "line": 130
+          "line": 131
         }
       ]
     },
@@ -7174,7 +7197,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2020-10-07,Stanford’s Board of Trustees approves removing David Starr Jordan’s n",
-          "line": 134
+          "line": 135
         }
       ]
     },
@@ -7197,7 +7220,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2022-11-29,Theo Baker’s Stanford Daily reporting on Marc Tessier-Lavigne’s scien",
-          "line": 137
+          "line": 138
         }
       ]
     },
@@ -7218,7 +7241,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2023-07-19,Marc Tessier-Lavigne resigns as Stanford president,Stanford board spe",
-          "line": 140
+          "line": 141
         }
       ]
     },
@@ -7239,7 +7262,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2025-01-20,Technology founders seated at the presidential inauguration,—,\"Washin",
-          "line": 142
+          "line": 143
         }
       ]
     },
@@ -8472,9 +8495,9 @@
           "q": "Khosla made a tentative counteroffer of $750,000 total. But the deal never happened."
         }
       ],
-      "dateNote": "Levy dates Page’s emails to Vinod Khosla laying out the plan to January 1997; the reachable excerpt says only that Page was “not-quite-twenty-four” and would return for the fall 1997 semester.",
+      "dateNote": "Levy, In the Plex (2011), Part One ch. 1 ¶90 (EPUB re-opened 22 Nov 2026): Page described the plan in detail in emails to Vinod Khosla in January 1997. Day in January is not given; the ledger keeps 1997-01-01 as a month placeholder. Page was “not-quite-twenty-four” and would return for the fall 1997 semester.",
       "revisionNote": "The $300,000 figure is one part of a $1.6 million proposed outlay (also a $200,000 salary, $400,000 bonus, $700,000 in Excite stock). Khosla made a tentative counter-offer of $750,000 and the deal never happened. The manuscript’s month (1997-01) is not stated by any web-reachable source, so the date is given as 1997.",
-      "note": "Source is a blog excerpt of Steven Levy’s In the Plex (2011), a tertiary route to a scholarly/journalistic book.",
+      "note": "The January 1997 month is now taken from the book itself, not only from a blog excerpt of pp. 24–29. The $300,000 figure is one part of a $1.6 million proposed outlay; Khosla’s tentative counter-offer was $750,000 and the deal never happened.",
       "place": null,
       "origin": "curated"
     },
@@ -8516,8 +8539,9 @@
           "q": "the newly incorporated team made the upgrade from the dorms to their first office: a garage in suburban Menlo Park, California, owned by Susan Wojcicki"
         }
       ],
-      "revisionNote": "Sources agree on 232 Santa Margarita Ave., Menlo Park, owned by Susan Wojcicki, and $1,700 a month. Wojcicki bought the house after earning her MBA in 1998; Google’s own history page says the garage became the first office after the August 1998 Bechtolsheim cheque and incorporation.",
+      "revisionNote": "Sources agree on 232 Santa Margarita Ave., Menlo Park, owned by Susan Wojcicki, and $1,700 a month. Wojcicki bought the house after earning her MBA in 1998; Google’s own history page says the garage became the first office after the August 1998 Bechtolsheim cheque and incorporation. Levy, re-opened 22 Nov 2026, dates the move off campus to the incorporation day, 4 September 1998.",
       "note": "Wojcicki herself gave the $1,700 figure (Dreamforce, 2015) and in 2007 to USA TODAY.",
+      "dateNote": "Levy, In the Plex (2011), Part One ch. 1 ¶112 (EPUB re-opened 22 Nov 2026): “On September 4, 1998, Page and Brin filed for incorporation and finally moved off campus.” The ledger garage row, previously year-only, is now dated 4 September 1998, the same day as incorporation. Levy writes “Santa Margarita Street”; the address is 232 Santa Margarita Avenue.",
       "origin": "curated"
     },
     {

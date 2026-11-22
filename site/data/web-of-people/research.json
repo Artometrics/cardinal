@@ -63,7 +63,7 @@
     },
     "google-garage": {
       "status": "VERIFIED",
-      "revisionNote": "Sources agree on 232 Santa Margarita Ave., Menlo Park, owned by Susan Wojcicki, and $1,700 a month. Wojcicki bought the house after earning her MBA in 1998; Google’s own history page says the garage became the first office after the August 1998 Bechtolsheim cheque and incorporation.",
+      "revisionNote": "Sources agree on 232 Santa Margarita Ave., Menlo Park, owned by Susan Wojcicki, and $1,700 a month. Wojcicki bought the house after earning her MBA in 1998; Google’s own history page says the garage became the first office after the August 1998 Bechtolsheim cheque and incorporation. Levy, re-opened 22 Nov 2026, dates the move off campus to the incorporation day, 4 September 1998.",
       "note": "Wojcicki herself gave the $1,700 figure (Dreamforce, 2015) and in 2007 to USA TODAY.",
       "cites": [
         {
@@ -87,7 +87,8 @@
           "kind": "institutional",
           "q": "the newly incorporated team made the upgrade from the dorms to their first office: a garage in suburban Menlo Park, California, owned by Susan Wojcicki"
         }
-      ]
+      ],
+      "dateNote": "Levy, In the Plex (2011), Part One ch. 1 ¶112 (EPUB re-opened 22 Nov 2026): “On September 4, 1998, Page and Brin filed for incorporation and finally moved off campus.” The ledger garage row, previously year-only, is now dated 4 September 1998, the same day as incorporation. Levy writes “Santa Margarita Street”; the address is 232 Santa Margarita Avenue."
     },
     "hoover-australia": {
       "status": "VERIFIED",
@@ -612,9 +613,9 @@
       "status": "VERIFIED",
       "date": "1997",
       "title": "Proposes that Excite buy BackRub: a $1.6 million package including \"$300,000 to Stanford for the license\"",
-      "dateNote": "Levy dates Page’s emails to Vinod Khosla laying out the plan to January 1997; the reachable excerpt says only that Page was “not-quite-twenty-four” and would return for the fall 1997 semester.",
+      "dateNote": "Levy, In the Plex (2011), Part One ch. 1 ¶90 (EPUB re-opened 22 Nov 2026): Page described the plan in detail in emails to Vinod Khosla in January 1997. Day in January is not given; the ledger keeps 1997-01-01 as a month placeholder. Page was “not-quite-twenty-four” and would return for the fall 1997 semester.",
       "revisionNote": "The $300,000 figure is one part of a $1.6 million proposed outlay (also a $200,000 salary, $400,000 bonus, $700,000 in Excite stock). Khosla made a tentative counter-offer of $750,000 and the deal never happened. The manuscript’s month (1997-01) is not stated by any web-reachable source, so the date is given as 1997.",
-      "note": "Source is a blog excerpt of Steven Levy’s In the Plex (2011), a tertiary route to a scholarly/journalistic book.",
+      "note": "The January 1997 month is now taken from the book itself, not only from a blog excerpt of pp. 24–29. The $300,000 figure is one part of a $1.6 million proposed outlay; Khosla’s tentative counter-offer was $750,000 and the deal never happened.",
       "cites": [
         {
           "url": "https://www.startup-book.com/2015/08/27/google-in-the-plex-part-1-a-technology/",

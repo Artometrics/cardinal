@@ -647,12 +647,6 @@
     "caption": "Illustrated reconstruction",
     "slug": "1997-01-01-page-excite-backrub-pitch"
   },
-  "1998-01-01::Google operates from the Santa Margarita Avenue garage in Menlo Park at $1,700 a month": {
-    "src": "/timeline-art/1998-01-01-google-santa-margarita-garage.webp",
-    "alt": "Illustrated six-panel reconstruction of a late-1990s startup working out of a rented Menlo Park garage: a ranch-house street, a garage interior with blank glowing CRTs, a desk of blank papers, and a night doorway silhouette, no logos or likenesses.",
-    "caption": "Illustrated reconstruction",
-    "slug": "1998-01-01-google-santa-margarita-garage"
-  },
   "1998-09-04::Google incorporated": {
     "src": "/timeline-art/1998-09-04-google-incorporated.webp",
     "alt": "Illustrated six-panel reconstruction of a 1998 California incorporation: a suburban house, a blank legal form, a clerk at a desk, a filing cabinet, a blank seal, and a dusk porch light, no logos or likenesses.",
@@ -832,5 +826,11 @@
     "alt": "Illustrated six-panel reconstruction of a student newspaper being founded on a sandstone campus: a dusk quadrangle, a cramped office, a typewriter with a blank page, and a night walk under arcades.",
     "caption": "Illustrated reconstruction",
     "slug": "1987-06-09-stanford-review-founded"
+  },
+  "1998-09-04::Google operates from the Santa Margarita Avenue garage in Menlo Park at $1,700 a month": {
+    "src": "/timeline-art/1998-09-04-google-santa-margarita-garage.webp",
+    "alt": "Illustrated six-panel reconstruction of a late-1990s startup working out of a rented Menlo Park garage: a ranch-house street, a garage interior with blank glowing CRTs, a desk of blank papers, and a night doorway silhouette, no logos or likenesses.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1998-09-04-google-santa-margarita-garage"
   }
 }
