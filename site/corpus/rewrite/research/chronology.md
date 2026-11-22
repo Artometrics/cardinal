@@ -56,40 +56,40 @@ The historical reality underlying *Cardinal* is that Silicon Valley is not the a
 
 - **March 13, 1884 — Death of Leland Stanford Jr. & The Founding Vow**  
   - *Location:* Hotel Bristol, Florence, Italy.  
-  - *Event:* Fifteen-year-old Leland Stanford Jr. dies of typhoid fever. Leland Stanford Sr. famously declares: *"The children of California shall be our children."*  
+  - *Event:* Fifteen-year-old Leland Stanford Jr. dies of typhoid fever. Leland Stanford Sr. famously declares: *"The children of California shall be our children."* [needs source — the quotation is not in White, *Who Killed Jane Stanford?*]  
   - *Institutional Meaning:* The grief-stricken oligarchs divert their railroad wealth into a secular cathedral of learning designed to perpetuate their dynastic lineage and ideological legacy in perpetuity.  
-  - *Sources:* Richard White, *Who Killed Jane Stanford?*, Ch. 1; Malcolm Harris, *Palo Alto*, Ch. 3.
+  - *Sources:* Richard White, *Who Killed Jane Stanford?*, Ch. 7 (p. 41ff.: typhoid, Florence, March 13, 1884) and Preface; Malcolm Harris, *Palo Alto*, Ch. 3.
 
 - **November 11, 1885 — The Founding Grant of Stanford University**  
   - *Location:* San Francisco / Sacramento.  
-  - *Event:* The Stanfords sign the Founding Grant creating Leland Stanford Junior University as an irrevocable, tax-exempt private trust under California law.  
+  - *Event:* The Stanfords sign the Founding Grant creating Leland Stanford Junior University as a private trust under California law (Enabling Act of March 1885; the Grant names the trustees). It was not tax-exempt: the tax exemption Jane Stanford wanted was dropped from the Crothers amendment, ratified November 6, 1900 (White, *Who Killed Jane Stanford?*, ch. 12, pp. 71–72).  
   - *Key Clauses:* The 8,180 acres of the Palo Alto campus can never be sold or alienated, establishing an indestructible geopolitical land empire.  
-  - *Sources:* Richard White, *Who Killed Jane Stanford?*, Ch. 2; Adam Winkler, *We the Corporations*.
+  - *Sources:* Richard White, *Who Killed Jane Stanford?*, Ch. 9 ¶24 (p. 53). [Acreage and no-sale clause: needs source. Winkler, *We the Corporations*, does not discuss the Founding Grant, so that citation was removed.]
 
 - **October 1, 1891 — Stanford University Opens**  
   - *Location:* Inner Quad, Palo Alto, CA.  
-  - *Event:* The university opens tuition-free to 555 students. David Starr Jordan, an Indiana ichthyologist and disciple of Agassiz, is inaugurated as the founding president. Among the pioneer class is an orphaned 17-year-old geology student named Herbert Hoover.  
+  - *Event:* The university opens tuition-free to 555 students (the university's count; White, *Who Killed Jane Stanford?*, ch. 10 p. 58, counts 559). David Starr Jordan, an Indiana ichthyologist and disciple of Agassiz, is inaugurated as the founding president. Among the pioneer class is an orphaned 17-year-old geology student named Herbert Hoover.  
   - *Institutional Meaning:* Jordan embeds social Darwinism, racial taxonomy, and biological efficiency into the foundational ethos of the university.  
   - *Sources:* Lulu Miller, *Why Fish Don't Exist*, Ch. 4–6; Kenneth Whyte, *Hoover*, Ch. 2.
 
 - **June 21, 1893 — Death of Leland Stanford & The Insolvency Crisis**  
   - *Location:* Palo Alto Mansion.  
   - *Event:* Leland Stanford dies in his sleep of heart failure. Within months, the federal government sues the Stanford estate for $15,237,000 over the Central Pacific's Pacific Railway Act bonds; the suit fails (United States v. Stanford, 161 U.S. 412, affirmed March 2, 1896).  
-  - *Institutional Meaning:* Jane Stanford refuses to close the university, keeping it running on her household allowance from the frozen estate [needs source — not in White, Railroaded] while fighting the case to the U.S. Supreme Court.  
-  - *Sources:* Richard White, *Who Killed Jane Stanford?*, Ch. 3; Richard White, *Railroaded*, Ch. 9 ¶103–108.
+  - *Institutional Meaning:* Jane Stanford refuses to close the university, keeping it running on the household allowance the court allowed her, an insurance policy and the sale of personal belongings, and cutting salaries by 10 percent (White, *Who Killed Jane Stanford?*, ch. 10 ¶17, pp. 58–59), while fighting the case to the U.S. Supreme Court.  
+  - *Sources:* Richard White, *Who Killed Jane Stanford?*, Ch. 10 ¶17–19 (pp. 58–59); Richard White, *Railroaded*, Ch. 9 ¶103–108.
 
 - **January 14, 1905 — The Nob Hill Strychnine Attempt**  
   - *Location:* Stanford Mansion, Nob Hill, San Francisco.  
   - *Event:* Jane Stanford drinks Poland Spring water from a bottle in her bedroom, tastes bitterness, and induces vomiting. Chemical analysis reveals massive lethal quantities of strychnine.  
   - *Institutional Meaning:* Jane suspects members of her inner household or university leadership. She prepares to travel to Honolulu, intending to dismiss David Starr Jordan upon her return.  
-  - *Sources:* Richard White, *Who Killed Jane Stanford?*, Ch. 5–7.
+  - *Sources:* Richard White, *Who Killed Jane Stanford?*, Chs. 1–2 (the January poisoning); ch. 35 p. 201 ("It had been Stanford’s intention to fire both of them [Jordan and Hopkins] on her return").
 
 - **February 28, 1905 — The Murder of Jane Stanford**  
   - *Location:* Moana Hotel, Waikiki, Honolulu, Hawaii.  
-  - *Event:* Jane Stanford drinks bicarbonate of soda in her hotel room, suffers violent muscular convulsions and tetanic spasms, and dies crying: *"This is a horrible death to die... I have been poisoned."*  
-  - *The Autopsy:* Hawaiian territorial physicians and toxicologists recover strychnine from her stomach, liver, and intestines, with a formal coroner's inquest ruling murder by person or persons unknown.  
-  - *The Coverup:* David Starr Jordan rushes to Honolulu on a chartered steamer with a paid physician (Dr. Ernest Forbes), pressures the press and officials, and fabricates a false narrative that Jane died of "heart disease caused by a heavy dinner." Jordan successfully buries the criminal investigation to protect the university's reputation and financial security.  
-  - *Sources:* Richard White, *Who Killed Jane Stanford?*, Ch. 8–15; Malcolm Harris, *Palo Alto*, Ch. 4.
+  - *Event:* Jane Stanford drinks bicarbonate of soda in her hotel room, suffers violent muscular convulsions and tetanic spasms, and dies. She tells Dr. Humphris she has been poisoned again; her last words are *"This a horrible death to die"* (White, *Who Killed Jane Stanford?*, ch. 29, pp. 171–173).  
+  - *The Autopsy:* Hawaiian territorial physicians and toxicologists recover strychnine from her stomach, liver, and intestines, The coroner's jury convened March 6 and returned its verdict the evening of March 9 (printed March 10): strychnine "introduced into a bottle of bicarbonate of soda with felonious intent by some person or persons to this Jury unknown" (White, ch. 36, pp. 205–211).  
+  - *The Coverup:* David Starr Jordan sails on the S.S. *Alameda* (it left March 4) with trustee Timothy Hopkins and detectives Jules Callundan and Harry Reynolds, and arrives March 10. In Honolulu he engages Dr. Ernest C. Waterhouse, who never saw the body, to dispute the poisoning. On the night before the March 15 funeral, Jordan and Hopkins issue a statement that she died of "advanced age, the unaccustomed exertion, a surfeit of unsuitable food, and the unusual exposure of the picnic party" (White, chs. 35, 41, 42, pp. 201, 234–241). San Francisco physicians recruited by Mountford Wilson called it angina pectoris (ch. 40, p. 231). Jordan successfully buries the criminal investigation to protect the university's reputation and financial security.  
+  - *Sources:* Richard White, *Who Killed Jane Stanford?*, Chs. 28–47 (pp. 167–289); Malcolm Harris, *Palo Alto*, Ch. 4.
 
 ---
 

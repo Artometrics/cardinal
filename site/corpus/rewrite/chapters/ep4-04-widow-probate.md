@@ -10,7 +10,7 @@ The Panic of 1893 had begun in the spring. Banks failed. Railroads defaulted. Un
 
 On campus, the question was narrower and more urgent: who pays the geology instructor in September when the man who used to sign checks is dead and the court has locked his desk? Jordan could postpone some bills. He could not postpone every professor without losing the faculty he had recruited from Indiana and the East. Jane became the signer he needed.
 
-The university had four hundred students. Four hundred payrolls worth of hope that probate would end before enrolment collapsed. Each month without endowment release was a month the institution lived on allowance, jewelry, and nerve.
+The university had four hundred students [needs source — White 2022, ch. 10, p. 58, counts 559 at the 1891 opening]. Four hundred payrolls worth of hope that probate would end before enrolment collapsed. Each month without endowment release was a month the institution lived on allowance, jewelry, and nerve.
 
 In 1894 the federal government sued the Stanford estate for fifteen million dollars, claiming Leland Stanford was personally liable for the Central Pacific's unpaid debts to the United States under the Pacific Railway Act (repo ch 2-13). Until that suit was resolved, no money could flow from the estate to the university. The payroll still came due.
 
@@ -38,7 +38,7 @@ Jane Stanford delivered all three longer than the drafts of history usually cred
 
 What she did over the following six years deserves plain description (repo ch 2-13).
 
-She kept the institution open. She argued successfully that faculty were her personal servants so their salaries could be paid from the household allowance the probate court permitted her—a lawyer's device and an effective one. She cut expenditure to the bone. She closed the university's construction program when new stone could wait. She sold personal property. She offered her jewels, a gesture romanticized in later accounts; the collection was genuinely enormous, and its eventual sale did fund a library.
+She kept the institution open. She kept it open on the household allowance the court allowed her, an insurance policy, and the sale of personal belongings, and she cut salaries by 10 percent (White 2022, ch. 10, pp. 58–59). The often-told version, that she argued the faculty were her personal servants so their salaries could come out of that allowance, [needs source — not in White 2022]. She cut expenditure to the bone. She closed the university's construction program when new stone could wait. She sold personal property. She offered her jewels, a gesture romanticized in later accounts; the collection was genuinely enormous, and its eventual sale did fund a library.
 
 Newspapers loved the image of a widow selling diamonds for books. Jane used the image when it helped. She also used quieter sales of property and ruthless cuts to maintenance. Every saved dollar was a day classes continued.
 

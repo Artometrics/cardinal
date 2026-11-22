@@ -24,7 +24,7 @@ DRAMA (Sulafat: Jane Stanford, the same breath, almost no voice left): "Is my so
 Narrator (Kore): And then the sentence Richard White, who wrote the history of this death, says she rarely if ever spoke, because she had spent twenty years calling death a passage into a higher life.
 DRAMA (Sulafat: Jane Stanford, the last words, nearly a whisper): [SILENCE] [HARD] "This a horrible death to die."
 Narrator (Kore): [SILENCE] The body went rigid. The soles of the feet turned inward toward each other, insteps arched, toes pointing forward, knees wide. The eyeballs protruded. The pupils dilated. The jaws fixed. The fingers contracted, and the thumbs dug into the palms. Breathing stopped. From the moment the doctor entered the room to the last spasm, ten minutes.
-Narrator (Kore): The inquest is three weeks away. The reason any of this is a university story is twenty-one years away, in Florence, where a boy of fifteen died and his parents decided the fortune would outlive them. Come back to the bedroom across the hall.
+Narrator (Kore): The inquest is six days away. The reason any of this is a university story is twenty-one years away, in Florence, where a boy of fifteen died and his parents decided the fortune would outlive them. Come back to the bedroom across the hall.
 
 ## 02. Florence
 [CUE: singing-bowl chapter chime] [MUSIC: aase from 0s, ducked] [AMBIENCE: wind.mp3] [MOTIF: Jane, Goldberg Aria phrase]
