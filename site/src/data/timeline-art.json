@@ -598,5 +598,65 @@
     "alt": "Illustrated six-panel reconstruction of Kleiner Perkins and Sequoia founding on Sand Hill Road: foothill offices, a handshake over blank paper, and dusk along the road.",
     "caption": "Illustrated reconstruction",
     "slug": "1972-01-01-kleiner-perkins-sequoia"
+  },
+  "1974-01-01::George Shultz leaves federal office to become president and director of Bechtel, while joining the Stanford faculty": {
+    "src": "/timeline-art/1974-01-01-shultz-bechtel-stanford.webp",
+    "alt": "Illustrated six-panel reconstruction of a 1970s official leaving federal office for a construction firm and a campus faculty post: a Washington corridor, a handshake over blank papers, a sandstone quadrangle, and a sedan at dusk, figures seen from behind.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1974-01-01-shultz-bechtel-stanford"
+  },
+  "1974-01-01::Niels Reimers files the Cohen–Boyer recombinant-DNA patent application for Stanford": {
+    "src": "/timeline-art/1974-01-01-reimers-cohen-boyer-patent.webp",
+    "alt": "Illustrated six-panel reconstruction of a university licensing office filing a recombinant-DNA patent: a campus corridor, a stamp over blank forms, a laboratory bench, and a dusk office window.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1974-01-01-reimers-cohen-boyer-patent"
+  },
+  "1975-03-05::First Homebrew Computer Club meeting": {
+    "src": "/timeline-art/1975-03-05-homebrew-computer-club.webp",
+    "alt": "Illustrated six-panel reconstruction of the first Homebrew Computer Club meeting: a Menlo Park garage at night, a crowded workbench of unbranded circuit boards, hands over a soldering iron, and figures gathered in warm lamplight.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1975-03-05-homebrew-computer-club"
+  },
+  "1976-01-01::Genentech is founded by Robert Swanson and Herbert Boyer": {
+    "src": "/timeline-art/1976-01-01-genentech-founded.webp",
+    "alt": "Illustrated six-panel reconstruction of the founding of a South San Francisco biotechnology firm: a handshake over blank papers, a modest lab bench, a waterfront industrial street, and an empty night exterior, figures seen from behind.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1976-01-01-genentech-founded"
+  },
+  "1979-02-01::ERISA prudent man rule clarified": {
+    "src": "/timeline-art/1979-02-01-erisa-prudent-man.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1979 ERISA prudent-man clarification: a federal building, a hearing table with blank papers, a corridor of file cabinets, and dusk over a Washington dome.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1979-02-01-erisa-prudent-man"
+  },
+  "1980-08-12::IBM Personal Computer development; MS-DOS licensed non-exclusively": {
+    "src": "/timeline-art/1980-08-12-ibm-pc-msdos.webp",
+    "alt": "Illustrated six-panel reconstruction of early personal-computer development and a non-exclusive operating-system licence: a beige unbranded desktop with a blank glowing CRT, a lab seen from behind, rain on a Seattle street, and a blank licence page.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1980-08-12-ibm-pc-msdos"
+  },
+  "1980-10-14::Genentech IPO": {
+    "src": "/timeline-art/1980-10-14-genentech-ipo.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1980 Genentech initial public offering: a wide trading floor, a blank share certificate, a boardroom seen from behind, and a modest waterside laboratory at dusk.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1980-10-14-genentech-ipo"
+  },
+  "1980-12-12::Bayh-Dole Act enacted": {
+    "src": "/timeline-art/1980-12-12-bayh-dole-act.webp",
+    "alt": "Illustrated six-panel reconstruction of the Bayh-Dole Act being enacted: the Capitol at dusk, a blank bill, a hearing room seen from behind, a campus laboratory window, and a dome in last light.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1980-12-12-bayh-dole-act"
+  },
+  "1981-01-21::Caspar Weinberger becomes Secretary of Defense; George Shultz becomes Secretary of State the following year — both after Bechtel": {
+    "src": "/timeline-art/1981-01-21-bechtel-cabinet.webp",
+    "alt": "Illustrated six-panel reconstruction of former construction executives entering a presidential cabinet: a federal entrance, a marble corridor, a raised hand over a blank book, and official cars at dusk.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1981-01-21-bechtel-cabinet"
+  },
+  "1987-01-01::Peter Thiel founds The Stanford Review": {
+    "src": "/timeline-art/1987-01-01-stanford-review-founded.webp",
+    "alt": "Illustrated six-panel reconstruction of a student newspaper being founded on a sandstone campus: a dusk quadrangle, a cramped office, a typewriter with a blank page, and a night walk under arcades.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1987-01-01-stanford-review-founded"
   }
 }
