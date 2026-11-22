@@ -66,7 +66,7 @@ it under the rule in `_project/voice.md`.
 | 1861-01-21 | Jefferson Davis speaks for a transcontinental railroad days before leaving the Senate | 'To couple with bonds of iron the people of the Pacific with the valley of the Mississippi.' His departure is what makes it possible. | VERIFIED |
 | 1861-06-28 | Central Pacific Railroad incorporated | Four merchants and an engineer. Judah is bought out and dies in 1863. | NEEDS SOURCE |
 | 1862-07-01 | Pacific Railway Act signed | Passes only after secession empties the Southern seats. Land grants and 30-year bonds at 6 per cent. Union Pacific is the first federally chartered corporation since the Second Bank. | VERIFIED |
-| 1867-06-25 | Chinese workers strike on the Sierra grade | Several thousand men demand pay parity and shorter tunnel hours. Broken within a week by cutting off food. | VERIFIED |
+| 1867-06-24 | Chinese workers strike on the Sierra grade | About 3,000 men demand pay parity and shorter tunnel hours. Ends after about eight days, without concessions, once provisions are stopped. | VERIFIED |
 | 1869-05-10 | Golden spike completes the transcontinental railroad | A public work becomes a private monopoly. The Chinese workforce is absent from the photograph. | VERIFIED |
 | 1876-01-01 | Southern Pacific completes the line to Los Angeles | Consolidation of rail power; the company begins deciding which towns exist. | NEEDS SOURCE |
 | 1880-05-11 | Mussel Slough shootout | Seven dead in a dispute over railroad land titles. The physical edge of legal architecture. | VERIFIED |
@@ -81,7 +81,7 @@ it under the rule in `_project/voice.md`.
 | 1886-05-10 | Santa Clara County v. Southern Pacific decided | Decided on narrow grounds; the reporter's headnote records corporate personhood. Doctrine develops over subsequent decades. | VERIFIED |
 | 1886-05-10 | Yick Wo v. Hopkins decided | A law fair on its face but administered with an unequal hand violates equal protection. Brought by Chinese laundry operators. | VERIFIED |
 | 1891-10-01 | Stanford University opens | Free tuition, coeducational, practical curriculum. First president is a leading eugenicist. | VERIFIED |
-| 1893-06-21 | Leland Stanford dies during the Panic of 1893 | Estate frozen; the federal government sues for $15 million. The university nearly closes. | VERIFIED |
+| 1893-06-21 | Leland Stanford dies during the Panic of 1893 | Estate frozen; within months the federal government sues for $15,237,000. The university nearly closes; the Supreme Court dismisses the claim in 1896 (161 U.S. 412). | VERIFIED |
 | 1898-03-28 | United States v. Wong Kim Ark decided | Establishes birthright citizenship, on a case brought by a man born in San Francisco to Chinese parents. | VERIFIED |
 | 1900-11-12 | Edward Ross forced out of Stanford | Founding controversy of American academic freedom, at a university built by a railroad, over criticism of railroads. | VERIFIED |
 | 1905-02-28 | Jane Stanford dies in Honolulu | Cause contested. The institution continues without structural change, which is the load-bearing fact. | CONTESTED |

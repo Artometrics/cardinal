@@ -46,7 +46,7 @@ His advantage was that he supplied an interpretation. He told the country that t
 
 ## The trustee
 
-Through it all Hoover remained tied to Stanford. He had joined the board of trustees in 1912, “in circumstances as cloudy as the awarding of his geology degree” (Whyte 2021, 124). The pioneer student had become the owner's representative while still a mining engineer abroad.
+Through it all Hoover remained tied to Stanford. He had joined the board of trustees in 1912, “in circumstances as cloudy as the awarding of his geology degree” (Whyte 2017, 124). The pioneer student had become the owner's representative while still a mining engineer abroad.
 
 Defeat in 1932 did not sever the connection. He retreated to Palo Alto, to the institution that had credentialed him and to the archive he had planted on its land. The defeated president would spend decades building an intellectual apparatus on campus — the Hoover Institution — that outlasted his term and would shape conservative policy long after his name became a synonym for failure in the popular press.
 
@@ -78,7 +78,7 @@ They were the actions of a man who thought the role was to stabilise the existin
 
 Defeat sent Hoover back to California and into the institution that had credentialed him. The Hoover Institution on War, Revolution, and Peace grew out of the collections he had planted in 1919. It would employ scholars, host fellows, and circulate arguments through Washington long after his electoral career ended.
 
-The pioneer graduate who had pushed ore carts in Nevada became the ex-president who could still convene rooms in Washington through the archive on the quad. The pipeline's first product had failed politically and succeeded institutionally.
+The pioneer graduate who had mucked ore in the Grass Valley mines became the ex-president who could still convene rooms in Washington through the archive on the quad. The pipeline's first product had failed politically and succeeded institutionally.
 
 ## The dean's son
 

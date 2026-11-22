@@ -25,16 +25,15 @@
 - **1861, Jan 21.** Jefferson Davis speaks for a transcontinental railroad days before leaving the Senate. (event ledger)
 - **1861, Jun 28.** Central Pacific Railroad incorporated. (event ledger) **Needs a source.**
 - **1862, Jul 1.** Pacific Railway Act. (senate.gov; Ambrose)
-- **1867, late May.** Chinese workers' strike at the Sierra summit; Crocker cuts off provisions. (Ambrose ch 11; Chang ch 7)
-  - ★ DEEP CUT: Stanford himself relayed the warning about Chinese unhappiness to Huntington weeks earlier (Chang ch 7).
-  - Ledger dates the strike Jun 25; check Chang ch 7 before drafting.
+- **1867, Jun 24.** Chinese workers' strike on the Sierra grade (about 3,000, Cisco to Truckee); ends after about eight days when provisions are stopped (Crocker later claimed credit). (Chang pp. 147–158; E. B. Crocker to Huntington, Jun 27, 1867, “last Monday.” Ambrose ch 11's “late May” is wrong.)
+  - ★ DEEP CUT: On May 18, 1867, Stanford, then CPRR president, wrote to Mark Hopkins warning of Chinese unhappiness under Sisson (Chang p. 150).
 - **1869, Apr 28.** Ten miles of track in one day, won on a $10,000 bet. (Ambrose ch 16)
 - **1869, May 10.** Promontory: Stanford "swung and missed." (Ambrose ch 17)
 - **1872–78.** Muybridge photographs Stanford's horses. In between, in 1874, he killed his wife's lover; Stanford rehired him in 1876. (Harris ch 1.3)
   - ★ DEEP CUT: the man who invents cinema on the Stanford farm had just killed a man.
   - Detail: first commission May 1872, Occident at Union Park, Sacramento; Larkyns killed October 1874, Muybridge acquitted as justifiable homicide; the Palo Alto demonstration on 15 June 1878 (Abe Edgington), Sallie Gardner on 19 June. (Mozley, *Eadweard Muybridge: The Stanford Years*, 1972, Internet Archive)
 - **1876.** Southern Pacific completes the line to Los Angeles. (event ledger) **Needs a source.**
-- **1877.** Kearney's Workingmen march on Stanford's Nob Hill mansion. (Harris ch 1.2; White-R ch 7)
+- **1877.** Kearney's Workingmen march on Stanford's Nob Hill mansion. (Harris ch 1.2; White-R ch 7 ¶59 identifies Kearney only)
 - **1878, Mar 28.** Mark Hopkins dies in his rail car at Yuma. (Rayner ch 12)
 - **1880, May 11.** Mussel Slough. (Rayner ch 13)
 - **1882.** Chinese Exclusion Act. (repo ch 2-11)
@@ -51,7 +50,7 @@
 - **1894–95.** Hoover meets Lou Henry in Branner's geology lab. (Whyte ch 2, p. 43)
   - ★ DEEP CUT: Branner had earlier paid Hoover's typhoid bills (Harris ch 2.3).
   - Lou Henry graduates in 1898, the first woman to take a Stanford geology degree; with Hoover she translates Agricola’s *De re metallica* (1912). (Wikipedia, “Lou Henry Hoover”)
-- **1897–1908.** Hoover in Western Australia; his Sons of Gwalia mine has air "notably bad." (Whyte ch 5, p. 100)
+- **1897–1898.** Hoover's first Western Australia tour (arrives May 1897; leaves 11 Dec 1898); he later returns as Bewick, Moreing's London-based operating partner (from Jan 1902) until his 30 June 1908 exit. A 1905 Royal Commission finds the air at his Sons of Gwalia mine "notably bad." (Whyte 2017, pp. 57, 68, 89, 100, 104)
 - **1898, Mar 28.** United States v. Wong Kim Ark decided. (event ledger)
 - **1900, May 7–Nov 14.** The Ross affair. Jane wants Ross out over speeches including "Warning Against Coolie 'Natives' and Japanese." Jordan tells Howard to "keep still." (White-J ch 16–17, p. 101)
   - ★ DEEP CUT: the railroad that ran on Chinese labor costs a professor his job for attacking it.
@@ -68,7 +67,7 @@
 - **1905, Mar 15.** Jordan leaves Honolulu with the body; "Tay Wang" writes to him. (White-J ch 43, p. 248)
 - **1906, Apr 18.** Earthquake; the Memorial Church spire falls. (Harris ch 2.1)
 - **1909, Apr 26.** California sterilisation law enacted. (event ledger)
-- **1912.** Hoover joins the Stanford board of trustees and campaigns for Branner as president. (Whyte ch 6, p. 124; Wikipedia, “Herbert Hoover”)
+- **1912, autumn.** Hoover joins the Stanford board of trustees, "in circumstances as cloudy as the awarding of his geology degree"; Jordan is moved up to chancellor and Branner installed as president. Whyte adds that Hoover wanted the presidency himself. (Whyte 2017, ch 6, p. 124; Wikipedia, “Herbert Hoover”)
 - **1913.** John Casper Branner, Hoover’s geology mentor, becomes Stanford’s second president (to Dec 31, 1915). (Wikipedia, “John Casper Branner”; Elliott 1937)
 - **1913, May 19.** California Alien Land Law. (event ledger)
 - **1914, Oct.** Hoover’s Commission for Relief in Belgium begins; Francqui directs the Belgian Comité National, which distributes the food. After the war the leftover funds create the Belgian American Educational Foundation (Jan 9, 1920); Hoover and Francqui later create the Francqui Foundation (1932). (Wikipedia, “Commission for Relief in Belgium,” “Comité National…,” “Émile Francqui,” “Belgian American Educational Foundation” — BAEF date single-source)
@@ -87,11 +86,11 @@
   - ★ DEEP CUT: one Stanford president names the dam for another Stanford man; Bechtel and Kaiser build it.
 - **1931.** Six Companies, Inc. is formed to build the dam; Warren “Dad” Bechtel, Henry Kaiser’s partner and mentor, joins and becomes its president; the Bechtel–Kaiser share is the largest (30%). Construction runs 1931–36. (Stevens 1988; McCartney, *Friends in High Places*, 1988; Wikipedia, “Six Companies, Inc.” — share single-source)
   - Detail: McCartney says the name was Felix Kahn’s idea, after the Chinese tongs’ council in San Francisco — single-source.
-- **1933.** Warren Bechtel dies in Moscow; his son Stephen D. Bechtel Sr. runs the firm to 1960. (Wikipedia, “Warren A. Bechtel,” “Stephen Bechtel Sr.”)
+- **1933, Aug 28.** Warren Bechtel dies at the National Hotel in Moscow; his son Stephen D. Bechtel Sr. runs the firm to 1960. (McCartney ch 4, p. 45; Wikipedia, “Warren A. Bechtel,” “Stephen Bechtel Sr.”)
 - **1936, Feb 29.** Frank Crowe turns Hoover Dam over to the government; Ickes accepts it the next day. (Stevens 1988)
 - **1936, Oct 5.** Steinbeck's 'The Harvest Gypsies' begins publication. (event ledger)
 - **1937, May.** Steve Bechtel and his Berkeley friend John McCone open Bechtel-McCone in Los Angeles. (McCartney 1988)
-  - ★ DEEP CUT: McCone goes on to chair the AEC (Jul 14, 1958–Jan 20, 1961) and run the CIA (Nov 29, 1961–Apr 28, 1965). McCartney also lists him as an SRI director and says Bechtel and Kaiser were among SRI’s 1946 founders — single-source; the standard account credits the Stanford trustees. (Wikipedia, “John A. McCone”; McCartney)
+  - ★ DEEP CUT: McCone goes on to chair the AEC (Jul 14, 1958–Jan 20, 1961) and run the CIA (Nov 29, 1961–Apr 28, 1965). McCone as an SRI director is unverified (the indexed McCartney page, p. 97, is missing from our copy). McCartney, citing SRI papers, says SRI was “founded in 1946 by a group of West Coast businessmen, including Steve Bechtel and Henry J. Kaiser, and originally affiliated with Stanford University” (p. 78 & n.); the Stanford trustees owned it. (Wikipedia, “John A. McCone”; McCartney)
 - **1939.** HP in the Addison Ave garage. (repo ch 4-01)
 - **1942.** Japanese American internment on the Peninsula. (Harris ch 2.4)
 - **WWII.** Shockley's operations research raises successful anti-submarine attacks fivefold. (Harris ch 2.4)
@@ -116,7 +115,7 @@
 - **1969, Oct 29.** First ARPANET message, UCLA to SRI. (event ledger)
 - **1970.** Trustees set terms for the SRI divestment. (event ledger)
 - **1972.** Kleiner & Perkins starts at 3000 Sand Hill Road. (Berlin ch 15)
-- **1974.** Shultz leaves government to become president and director of Bechtel (to 1982), while joining the Stanford faculty. (McCartney ch 14; Hoover Institution, Shultz profile)
+- **1974, May.** Shultz leaves government to become executive president of Bechtel (president of Bechtel Corporation May 1975; with Bechtel to 1982), while teaching at Stanford and sitting on SRI International’s board. (McCartney ch 15, pp. 170–173; Hoover Institution, Shultz profile)
 - **1974.** Reimers files the Cohen–Boyer recombinant-DNA patent for Stanford. (Berlin pt 3)
 - **1975, Mar 5.** First Homebrew Computer Club meeting. (event ledger)
 - **1976.** Genentech; Swanson, let go by Kleiner & Perkins (payroll through the end of 1975), co-founds it. (Berlin ch 15)
@@ -124,7 +123,7 @@
 - **1980, Aug 12.** IBM Personal Computer development; MS-DOS licensed non-exclusively. (event ledger) **Needs a source.**
 - **1980, Oct 14.** Genentech IPO. (event ledger)
 - **1980.** Bayh–Dole Act. (Berlin ch 19; Harris ch 4.2)
-- **1981–82.** Reagan cabinet: Weinberger (Defense) and Shultz (State), both ex-Bechtel. (Denton chs 24, 35; McCartney)
+- **1981–82.** Reagan cabinet: Weinberger (Defense) and Shultz (State), both ex-Bechtel. (Denton chs 17–18, 35; McCartney)
   - ★ DEEP CUT
 - **1987.** Thiel founds the *Stanford Review*. (Chafkin ch 2, p. 24)
 - **1995.** Musk enrolls in Stanford and leaves "after two days," as the story goes. (Vance)
@@ -166,7 +165,7 @@
 - **Bancroft Davis headnote:** **SOURCED** (Winkler ch 4 plus the chronology).
 - **Crespí / El Palo Alto naming:** **SOURCED** at the secondary level (Harris, intro). For the primary source, Crespí's diary, keep the source to be identified (TBD).
 - **Soto rancho diseño:** not found in the EPUBs. **Primary needed** (Bancroft Library); otherwise **CUT** the image and keep the grant.
-- **Kearney sandlot:** **SOURCED** (Harris ch 1.2; White-R ch 7).
+- **Kearney sandlot:** **SOURCED** for the march by Harris ch 1.2 alone; White-R ch 7 ¶59 supports only Kearney's identity (“a San Francisco drayman and petty entrepreneur”).
 - **2025 inauguration seating:** not in the EPUBs (Siddiqui runs to early 2025). **Primary needed** (news photos, Jan 20, 2025).
 - **Hoover archive crate:** partly sourced (Whyte, Hoover Institution context). Find the specific Whyte chapter on the War Library.
 - **Sons of Gwalia:** **SOURCED** (Whyte ch 5, p. 100).
@@ -175,7 +174,7 @@
 - **Bohemian Grove:** two sources (Denton, McCartney). Allowed as a detail only.
 - **Remote viewing (Jacobsen):** **CUT.**
 - **Facebook scenes:** the Levy MOBI isn't converted yet (calibre not installed). Use the FTC 2019 report meanwhile.
-- **Kaiping / Leopold II / Francqui:** **SOURCED** (Nash 1983, Carlson 1971 — Internet Archive loans; Annales 1934). Hoover party-vs-witness: **CONTESTED**, say so in one sentence.
+- **Kaiping / Leopold II / Francqui:** **SOURCED** (Nash 1983, Carlson 1971 — Internet Archive loans; Annales 1934). Hoover party-vs-witness: **SETTLED** — Hoover was a witness, not a named defendant (suit filed 7 May 1903); Whyte calls his testimony "disingenuous" and says he later destroyed every copy of the court minutes he could find (Whyte 2017, pp. 94, 100–102).
 - **Jane Stanford’s death and Jordan:** inquest and Jordan’s Waterhouse account **SOURCED** (Wolfe 2003; Jordan 1922). Cutler 2003 still to borrow; jury timing and Berner’s tenure unresolved.
 - **Six Companies / Wilbur naming the dam:** **SOURCED** (Stevens 1988). Kahn naming story and Bechtel–Kaiser SRI founding: single-source (McCartney).
 - **Bechtel Sr. and Allen Dulles (power matrix):** not found in any source this pass. **Unverified — do not use** until sourced.

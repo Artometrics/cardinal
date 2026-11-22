@@ -30,7 +30,7 @@
   4. *Rancho.* POV: the Soto family (Rancho San Francisquito). Date: 1839. Opening image: a diseño, a hand-drawn grant map using oaks and creek bends as boundaries.
   5. *Nine Days.* POV: James Marshall at Coloma, intercut with treaty signers at Guadalupe Hidalgo. Date: Jan 24 / Feb 2, 1848. Opening image: a flake of gold in a mill race.
 - **Repo:** ch/2-01-mission-system.qmd, 2-02-presidio-paper-state.qmd, 2-03-thin-sovereignty.qmd, 2-04-secularization-rancho.qmd, 2-05-war-paperwork.qmd.
-- **Sources:** Harris ch 1.1; Madley; Brechin ch 1; the Crespí diary (primary, needs sourcing); White-R ch 1.
+- **Sources:** Harris ch 1.1; Madley; the Crespí diary (primary, needs sourcing); White-R ch 1. (Brechin ch 1 is mining and has none of this.)
 - **End turn:** the border moves nine days after gold, and nobody at the table knows.
 - **Reader realizes, without being told:** the first owners of this land held it by record-keeping, not by settlement.
 
@@ -44,7 +44,7 @@
   3. *Vigilance.* POV: a merchant on the Committee at Fort Gunnybags. Date: 1856. Opening image: sandbags on Sacramento Street. Repo 2-07 is strong here.
   4. *The Surveyor.* POV: Theodore Judah. Date: 1860–63. Opening image: Judah's letter, "I have struck a lucky streak" (Rayner notes ch 3). Judah dies of yellow fever after Panama, sidelined.
   5. *Vacant Chairs.* POV: Lincoln's Congress. Date: July 1, 1862. Opening image: empty Southern desks.
-  6. *The Summit.* POV: Chinese crews and J. H. Strobridge. Date: 1866–67. Opening image: tunnel faces under snow, and the strike of late May 1867, "the hardest blow we have had" (Ambrose ch 11).
+  6. *The Summit.* POV: Chinese crews and J. H. Strobridge. Date: 1866–67. Opening image: tunnel faces under snow, and the strike of June 24, 1867 (Chang pp. 147–150), "the hardest blow we have had" (Ambrose ch 11, who misdates it to late May).
   7. *Ten Miles.* POV: Crocker. Date: Apr 28, 1869. Opening image: the $10,000 bet with Durant (Ambrose ch 16/17).
 - **Repo:** ch/2-06-gold-incentive-shock.qmd, 2-07-statehood-private-governance.qmd, 2-08-vacant-chairs.qmd, 2-09-railroads-first-monopoly.qmd.
 - **Sources:** Rayner chs 2–8; Ambrose chs 1, 11, 16–17; Chang; White-R chs 1–3; Harris ch 1.2.
@@ -122,7 +122,7 @@
   2. *Pong and Atari.* POV: Al Alcorn. Date: 1972–79 (Berlin ch 20).
   3. *Reimers's Patent.* POV: Niels Reimers at Stanford's licensing office, patenting recombinant DNA; Bayh–Dole follows in 1980 (Berlin pt 3; Harris ch 4.2).
   4. *Nike.* POV: Phil Knight. Date: 1964–80. Repo 4-06.
-  5. *Reagan's Cabinet.* Shultz and Weinberger, both Bechtel men, at the Bohemian Grove nexus (Denton chs 12, 24; one sourced detail only).
+  5. *Reagan's Cabinet.* Shultz and Weinberger, both Bechtel men, with the Grove as one sourced detail only (cabinet: Denton chs 17–18; Grove: Denton ch 10 ¶13–18, ch 12 ¶13, ch 13 ¶10).
   6. *BackRub.* POV: Larry Page. Date: 1996–98. Jan 1997: Page emails Vinod Khosla a plan for Excite to buy BackRub for $1.6M, including $300,000 to Stanford for the license; Excite passes (Levy ch 1, “Excite’s total outlay would be $1.6 million, including $300,000 to Stanford for the license”). Stanford holds the PageRank patent.
   7. *The Garage.* Santa Margarita Ave., Menlo Park, rented to Google at $1,700 a month (Levy ch 1).
   8. *PayPal.* Date: 1998–2002 (Chafkin; Soni).
@@ -186,7 +186,7 @@ PLACEHOLDER: Kyle will export his NotebookLM notes to the Cardinal Research fold
 | The Associates | Richard Rayner | Text OK | 2–3 |
 | Nothing Like It in the World | Stephen E. Ambrose | Text OK | 2 |
 | Ghosts of Gold Mountain | Gordon H. Chang | Untested (epub) | 2–3 |
-| Imperial San Francisco | Gray Brechin | Untested (epub) | 1, 3, 5 |
+| Imperial San Francisco | Gray Brechin | Read in full (epub, 2006 ed.) | p. 283 (Stanford campus, 1883 regent fight); ch 1 mining, ch 3 Scotts/Navy, ch 5 Hearsts |
 | Why Fish Don't Exist | Lulu Miller | Untested (epub) | 5 (Jordan) |
 | How to Rule the World | Theo Baker | Text OK, page markers | 8 |
 | The Contrarian | Max Chafkin | Untested (epub) | 7–8 |

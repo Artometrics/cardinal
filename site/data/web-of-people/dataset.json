@@ -5358,7 +5358,7 @@
       "place": "sierra-nevada-ca",
       "locationText": "Sierra Nevada, CA",
       "status": "VERIFIED",
-      "why": "Several thousand men demand pay parity and shorter tunnel hours. Broken within a week by cutting off food.",
+      "why": "About 3000 men demand pay parity and shorter tunnel hours. Ends after about eight days without concessions once provisions are stopped (Chang 2019 pp. 147–158).",
       "origin": "ledger",
       "cites": [
         {
@@ -5649,7 +5649,7 @@
       "place": "palo-alto-ca",
       "locationText": "Palo Alto, CA",
       "status": "VERIFIED",
-      "why": "Estate frozen; the federal government sues for $15 million. The university nearly closes.",
+      "why": "Estate frozen; within months the federal government sues for $15,237,000. The university nearly closes; the Supreme Court dismisses the claim in 1896 (161 U.S. 412).",
       "origin": "ledger",
       "cites": [
         {
@@ -5695,7 +5695,7 @@
       "locationText": "Western Australia",
       "status": "VERIFIED",
       "why": "The Stanford geologist’s fortune is made in other people’s ground, first in Australia, then in China. The master timeline already records Whyte’s description of the air at Sons of Gwalia as “notably bad.”",
-      "ledgerNote": "Master timeline: Whyte ch 5, p. 100 (1897–1908). Miller Center, “Life Before the Presidency”: Hoover moved to Australia in 1897 and China in 1899. Year-only start date.",
+      "ledgerNote": "Whyte 2017: first WA tour May 1897–Dec 1898, then London-based partner 1902–1908; “notably bad” air is the 1905 Royal Commission finding (pp. 57, 68, 89, 100, 104). Miller Center, “Life Before the Presidency”: Hoover moved to Australia in 1897 and China in 1899. Year-only start date.",
       "origin": "ledger",
       "cites": [
         {
@@ -5939,7 +5939,7 @@
       "locationText": "Stanford, CA",
       "status": "VERIFIED",
       "why": "The mining engineer, now rich, returns as a trustee of the university that trained him. Wikipedia’s Hoover biography, in the same 1912 passage as the Hoovers’ De re metallica translation, says he “led a successful campaign to appoint Branner as the university’s president.”",
-      "ledgerNote": "Year from the master timeline (Whyte ch 6, p. 124) and Wikipedia, “Herbert Hoover,” consulted 21 Nov 2026. Year-only date. EPUB of Whyte not re-opened in this pass.",
+      "ledgerNote": "Autumn 1912 per Whyte 2017, ch 6, p. 124 (re-checked 21 Nov 2026); also Wikipedia, “Herbert Hoover.” Date field is a year placeholder.",
       "origin": "ledger",
       "cites": [
         {
@@ -5985,7 +5985,7 @@
       "locationText": "London / occupied Belgium",
       "status": "VERIFIED",
       "why": "The two men who faced each other over Kaiping now run the two sides of Belgian wartime relief: Hoover’s CRB bringing food in from outside, Francqui’s CNSA distributing it under occupation. After the war, leftover CRB funds help create the Belgian American Educational Foundation (9 January 1920, by the Foundation’s own later account) and sustain Hoover’s Stanford collecting.",
-      "ledgerNote": "Structure of CRB and CNSA: Wikipedia, “Commission for Relief in Belgium” and “Comité National de Secours et d’Alimentation,” consulted 21 Nov 2026 (tertiary, but consistent across both pages and with Francqui’s Wikipedia biography). BAEF date 9 January 1920: Wikipedia, “Belgian American Educational Foundation” — single tertiary source; mark as such. Month of CRB’s formal start is October 1914 in those pages; dated 1 October as a month placeholder.",
+      "ledgerNote": "Structure of CRB and CNSA: Wikipedia, “Commission for Relief in Belgium” and “Comité National de Secours et d’Alimentation,” consulted 21 Nov 2026 (tertiary, but consistent across both pages and with Francqui’s Wikipedia biography). BAEF date 9 January 1920: Wikipedia, “Belgian American Educational Foundation” — single tertiary source; mark as such. Month of CRB’s formal start is October 1914 in those pages; dated 1 October as a month placeholder. Whyte 2017 (pp. 142–144) dates it mid-to-late October 1914, with Hoover’s informal charter a letter to Ambassador Page of 20 October; Francqui, “a former lieutenant for King Leopold II in the Congo,” had overlapped with Hoover in China, and “they had not gotten along.” Whyte calls the Belgian body the Comité Central.",
       "origin": "ledger",
       "cites": [
         {
@@ -6301,8 +6301,8 @@
       "place": null,
       "locationText": "Moscow / San Francisco",
       "status": "VERIFIED",
-      "why": "The founder of the firm that helped build Hoover Dam dies before it is finished; his son runs Bechtel until 1960 and later ties it to Stanford through gifts and his son’s MBA.",
-      "ledgerNote": "Wikipedia, “Warren A. Bechtel” (died in Moscow, 1933) and “Stephen Bechtel Sr.” (president 1933–1960), consulted 21 Nov 2026. McCartney, Friends in High Places (IA), captions Dad Bechtel as having “died in Russia before his crowning achievement, Hoover Dam, was completed.” Year-only date.",
+      "why": "The founder of the firm that helped build Hoover Dam dies at the National Hotel in Moscow on 28 August 1933 before the dam is finished; his son runs Bechtel until 1960 and later ties it to Stanford through gifts and his son’s MBA.",
+      "ledgerNote": "Wikipedia, “Warren A. Bechtel” (died in Moscow, 1933) and “Stephen Bechtel Sr.” (president 1933–1960), consulted 21 Nov 2026. McCartney, Friends in High Places (IA), captions Dad Bechtel as having “died in Russia before his crowning achievement, Hoover Dam, was completed.” Date: McCartney ch. 4, p. 45 (n3: San Francisco Chronicle, 29 Aug 1933).",
       "origin": "ledger",
       "cites": [
         {
@@ -6368,8 +6368,8 @@
       "place": "los-angeles-ca",
       "locationText": "Los Angeles, CA",
       "status": "VERIFIED",
-      "why": "The partnership that later biographies and government profiles treat as McCone’s wartime business. After the war McCone goes to the Air Force, the Atomic Energy Commission (chair, 1958–61) and the CIA (Director of Central Intelligence, 1961–65). McCartney also records him as a director of the Stanford Research Institute.",
-      "ledgerNote": "Laton McCartney, Friends in High Places (Simon & Schuster, 1988), IA search-inside (friendsinhighpla00mcca): the partners “in May 1937, proclaimed themselves in business,” McCone as president and Bechtel as chairman with controlling interest; McCone and Bechtel had been Berkeley engineering classmates. Wikipedia, “John A. McCone”: founded Bechtel-McCone; AEC chair 14 July 1958–20 January 1961; DCI 29 November 1961–28 April 1965. McCone as SRI director: McCartney (single source). Dated 1 May as a month placeholder.",
+      "why": "The partnership that later biographies and government profiles treat as McCone’s wartime business. After the war McCone goes to the Air Force, the Atomic Energy Commission (chair, 1958–61) and the CIA (Director of Central Intelligence, 1961–65). McCartney's index may also list him as a director of the Stanford Research Institute.",
+      "ledgerNote": "Laton McCartney, Friends in High Places (Simon & Schuster, 1988), IA search-inside (friendsinhighpla00mcca): the partners “in May 1937, proclaimed themselves in business,” McCone as president and Bechtel as chairman with controlling interest; McCone and Bechtel had been Berkeley engineering classmates. Wikipedia, “John A. McCone”: founded Bechtel-McCone; AEC chair 14 July 1958–20 January 1961; DCI 29 November 1961–28 April 1965. McCone as SRI director: unverified — not in the readable McCartney text; the index points to p. 97, missing from our copy. Dated 1 May as a month placeholder.",
       "origin": "ledger",
       "cites": [
         {
@@ -6690,7 +6690,7 @@
       "locationText": "584 Capistrano Way, Stanford, CA",
       "status": "VERIFIED",
       "why": "The family whose firm built Hoover Dam, and whose son took a Stanford MBA in 1948, writes its name onto a campus building for international students. Bechtel himself wrote that “friendship and mutual understanding flourish in just such surroundings as the new center will provide.”",
-      "ledgerNote": "Cameron Duran, “What’s in a name? Philanthropic histories bridge buildings across the Bay,” The Stanford Daily, 16 November 2023: the center “was similarly named for Bechtel, whose 1963 donation helped fund the remodeling of the former Zeta Psi fraternity house,” with the quoted sentence. McCartney, Friends in High Places, IA search-inside, lists “Stanford University’s International Student Center” among Bechtel family gifts. Stephen Bechtel Jr., Stanford GSB MBA 1948: Wikipedia, “Stephen Bechtel Jr.” Year-only date.",
+      "ledgerNote": "Cameron Duran, “What’s in a name? Philanthropic histories bridge buildings across the Bay,” The Stanford Daily, 16 November 2023: the center “was similarly named for Bechtel, whose 1963 donation helped fund the remodeling of the former Zeta Psi fraternity house,” with the quoted sentence. McCartney, Friends in High Places, IA search-inside, lists “Stanford University’s International Student Center” among Bechtel family gifts. Stephen Bechtel Jr., Stanford GSB MBA 1948: Wikipedia, “Stephen Bechtel Jr.” (McCartney p. 131 says 1947; wrong per Bechtel/LA Times obituaries). Year-only date.",
       "origin": "ledger",
       "cites": [
         {
@@ -6800,7 +6800,7 @@
       "locationText": "San Francisco / Stanford, CA",
       "status": "VERIFIED",
       "why": "The future Secretary of State, and later a distinguished fellow of the Hoover Institution, spends the mid-1970s running Bechtel and teaching at Stanford. The revolving door in the power matrix is a matter of dates.",
-      "ledgerNote": "Hoover Institution, “George P. Shultz” profile, consulted 21 Nov 2026: “Shultz left government service in 1974 to become president and director of the Bechtel Group, where he remained until 1982. While at Bechtel, he maintained close ties with the academic world by joining the faculty of Stanford University.” Master timeline already had “1970s” (McCartney ch 14). Year-only date.",
+      "ledgerNote": "Hoover Institution, “George P. Shultz” profile, consulted 21 Nov 2026: “Shultz left government service in 1974 to become president and director of the Bechtel Group, where he remained until 1982. While at Bechtel, he maintained close ties with the academic world by joining the faculty of Stanford University.” McCartney ch. 15, pp. 170–173: executive president of Bechtel in May 1974 (president of Bechtel Corporation May 1975); lived on the Stanford campus and taught management and public policy; SRI International board. Dated 1 May as a month placeholder.",
       "origin": "ledger",
       "cites": [
         {

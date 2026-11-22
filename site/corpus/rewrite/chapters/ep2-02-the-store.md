@@ -178,8 +178,8 @@ sides of the transaction.
 
 The profit was captured at the point of transfer. The railroad could show modest
 returns while the men controlling it became extraordinarily rich, and the
-accounts of the Contract and Finance Company were destroyed before a
-congressional investigation could examine them.
+books of the Contract and Finance Company disappeared, never to resurface, when
+a congressional investigation threatened (White 2011, ch. 1).
 
 Keep this manoeuvre in mind. Later, a university under pressure over its
 military research will divest the research institute to itself, and the
@@ -201,13 +201,15 @@ avalanches, and cold. The company did not systematically record their deaths,
 which is why every figure offered is an estimate and why the estimates vary so
 widely.
 
-In June 1867 several thousand Chinese workers in the Sierra struck. Their
-demands were an increase in pay to match white workers, a reduction in the
-working day in the tunnels, and an end to the practice of whipping and of
-restraining workers from leaving. It was, by any measure, one of the largest
-labour actions in the United States to that date.
+On Monday, 24 June 1867, about three thousand Chinese workers in the Sierra
+struck. Their demands were an increase in pay to match white workers and a
+shorter working day in the tunnels; one paper, the Sacramento Union, added an
+end to whipping and to restraining workers from leaving. It was, by any
+measure, one of the largest labour actions in the United States to that date.
 
-Crocker broke it in about a week by cutting off the food supply.
+The strike ended after about eight days, without concessions, once provisions
+were stopped; Crocker later claimed that he cut them off (Chang 2019, pp.
+147–158).
 
 They went back to work. Two years later they finished the line, and on 28 April
 1869 a Central Pacific crew — Chinese, with a handful of Irish rail handlers —
@@ -292,8 +294,8 @@ sides of the transaction.
 
 The profit was captured at the point of transfer. The railroad could show modest
 returns while the men controlling it became extraordinarily rich, and the
-accounts of the Contract and Finance Company were destroyed before a
-congressional investigation could examine them.
+books of the Contract and Finance Company disappeared, never to resurface, when
+a congressional investigation threatened (White 2011, ch. 1).
 
 Keep this manoeuvre in mind. Later, a university under pressure over its
 military research will divest the research institute to itself, and the

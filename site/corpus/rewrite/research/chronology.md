@@ -23,13 +23,13 @@ The historical reality underlying *Cardinal* is that Silicon Valley is not the a
   - *Location:* San Francisquito Creek.  
   - *Event:* Gaspar de Portolá's expedition camps beneath the twin redwood tree (*El Palo Alto*). Father Juan Crespí records the strategic value of the Santa Clara Valley.  
   - *Institutional Meaning:* The establishment of Spanish imperial cadastral claims over the Ohlone lands; the redwood tree becomes the future seal and symbolic totem of Stanford University.  
-  - *Sources:* Malcolm Harris, *Palo Alto*, Ch. 1; Gray Brechin, *Imperial San Francisco*, Ch. 1.
+  - *Sources:* Malcolm Harris, *Palo Alto*, Ch. 1. (Not in Brechin.)
 
 - **1848–1850 — The Treaty of Guadalupe Hidalgo & The Gold Rush**  
   - *Location:* Alta California / San Francisco Bay.  
   - *Event:* California is ceded to the United States. Gold is discovered at Sutter's Mill. Leland Stanford, Charles Crocker, Collis Huntington, and Mark Hopkins arrive in Sacramento as dry-goods merchants and hardware purveyors.  
   - *Institutional Meaning:* The shift from pastoral Mexican rancho economy to rapid speculative Anglo-Saxon resource extraction. The future "Big Four" form their commercial alliance in Sacramento.  
-  - *Sources:* Richard White, *Railroaded*, Ch. 1; Rayner W. Kelsey, *The Associates*.
+  - *Sources:* Richard White, *Railroaded*, Ch. 1; Richard Rayner, *The Associates* (2008).
 
 - **1861–1862 — The Pacific Railway Act & The Central Pacific Railroad**  
   - *Location:* Sacramento, CA & Washington, D.C.  
@@ -39,16 +39,16 @@ The historical reality underlying *Cardinal* is that Silicon Valley is not the a
 
 - **1865–1869 — Chinese Labor & The Promontory Summit Fraud**  
   - *Location:* Sierra Nevada / Promontory Summit, Utah.  
-  - *Event:* Charles Crocker recruits over 15,000 Chinese laborers to blast through the granite of the Sierra Nevada. The "Contract and Finance Company"—a dummy corporation wholly owned by Stanford, Huntington, Hopkins, and Crocker—bills the federal government triple the actual construction costs.  
+  - *Event:* Charles Crocker's construction operation employs roughly ten to eleven thousand Chinese laborers at peak (the company sought fifteen to twenty thousand) to blast through the granite of the Sierra Nevada. The "Contract and Finance Company"—a construction company owned by Stanford, Huntington, Hopkins, and Crocker—is paid, by the Pacific Railway Commission's later estimate, roughly twice the actual cost of construction per mile; when a congressional investigation threatened, its books disappeared.  
   - *Date:* May 10, 1869: Leland Stanford drives the Golden Spike at Promontory Summit.  
   - *Institutional Meaning:* Massive racialized wage exploitation coupled with systemic accounting embezzlement creates the initial fortunes that will endow Stanford University.  
-  - *Sources:* Gordon H. Chang, *Ghosts of Gold Mountain*, Ch. 3–7; Richard White, *Railroaded*, Ch. 3.
+  - *Sources:* Gordon H. Chang, *Ghosts of Gold Mountain*, Ch. 3–9 (labor; pp. 124, 139, 195); Richard White, *Railroaded*, Ch. 1 ¶80, ¶94 (Contract and Finance), Ch. 7 ¶49 (headcount).
 
 - **1876 — Purchase of the Palo Alto Stock Farm**  
   - *Location:* Santa Clara County, CA.  
   - *Event:* Leland Stanford purchases the 650-acre Rancho San Francisquito property, eventually expanding it to an 8,000-acre estate known as the Palo Alto Stock Farm. Stanford applies Taylorist industrial precision to the breeding of trotting horses.  
   - *Institutional Meaning:* Stanford commissions Eadweard Muybridge to set up an array of 24 shuttered cameras along the track to prove whether a galloping horse's hooves leave the ground simultaneously. This proto-cinematic surveillance experiment forms the technological genesis of motion pictures and computer animation in Palo Alto.  
-  - *Sources:* Malcolm Harris, *Palo Alto*, Ch. 2; Gray Brechin, *Imperial San Francisco*, Ch. 3.
+  - *Sources:* Malcolm Harris, *Palo Alto*, Ch. 2. (Not in Brechin.)
 
 ---
 
@@ -74,9 +74,9 @@ The historical reality underlying *Cardinal* is that Silicon Valley is not the a
 
 - **June 21, 1893 — Death of Leland Stanford & The Insolvency Crisis**  
   - *Location:* Palo Alto Mansion.  
-  - *Event:* Leland Stanford dies in his sleep of heart failure. The federal government files suit to seize the Stanford estate to recoup the $15 million in defaulted Central Pacific Pacific Railway Act bonds.  
-  - *Institutional Meaning:* Jane Stanford refuses to close the university, financing faculty salaries out of her personal jewelry allowance and widow's stipend while fighting the case to the U.S. Supreme Court.  
-  - *Sources:* Richard White, *Who Killed Jane Stanford?*, Ch. 3; Richard White, *Railroaded*, Ch. 11.
+  - *Event:* Leland Stanford dies in his sleep of heart failure. Within months, the federal government sues the Stanford estate for $15,237,000 over the Central Pacific's Pacific Railway Act bonds; the suit fails (United States v. Stanford, 161 U.S. 412, affirmed March 2, 1896).  
+  - *Institutional Meaning:* Jane Stanford refuses to close the university, keeping it running on her household allowance from the frozen estate [needs source — not in White, Railroaded] while fighting the case to the U.S. Supreme Court.  
+  - *Sources:* Richard White, *Who Killed Jane Stanford?*, Ch. 3; Richard White, *Railroaded*, Ch. 9 ¶103–108.
 
 - **January 14, 1905 — The Nob Hill Strychnine Attempt**  
   - *Location:* Stanford Mansion, Nob Hill, San Francisco.  
@@ -99,7 +99,7 @@ The historical reality underlying *Cardinal* is that Silicon Valley is not the a
   - *Location:* San Francisco & Palo Alto.  
   - *Event:* The San Andreas fault slips. The newly constructed Stanford Memorial Church, Library, and Gymnasium collapse in ruins.  
   - *Institutional Meaning:* Jordan rebuilds the university using reinforced concrete and structural steel, while consolidation of university governance shifts to corporate trustees and alumni engineers.  
-  - *Sources:* Gray Brechin, *Imperial San Francisco*, Ch. 5; Kenneth Whyte, *Hoover*, Ch. 4.
+  - *Sources:* Kenneth Whyte, *Hoover*, Ch. 4; Gray Brechin, *Imperial San Francisco*, p. 283 n1 (the Memorial Arch felled in 1906 only). Governance shift: [needs source].
 
 - **1909–1912 — Federal Telegraph Company & The Audio Amplifying Tube**  
   - *Location:* Emerson Street, Palo Alto, CA.  

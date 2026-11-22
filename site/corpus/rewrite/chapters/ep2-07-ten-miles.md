@@ -10,9 +10,9 @@ Charles Crocker offered a bet of ten thousand dollars to Thomas Durant of the Un
 
 Durant ran the eastern company the way the Associates ran the western one: as a race for subsidies, land, and credit. The bet was not a sporting gesture. It was a public-relations weapon in a contest over which line could claim the continent’s attention while both hauled iron toward Promontory. Ten miles in a day had never been done. Crocker intended to do it anyway.
 
-Ten thousand dollars was a fortune to a rail hand and a line item to a man who would invoice the work through a construction company he co-owned. The wager made the newspapers. The invoices made the fortune. Both depended on Chinese crews who had already struck once and been starved back to the grade (repo ch. 2-09; Chang 2019, ch. 7).
+Ten thousand dollars was a fortune to a rail hand and a line item to a man who would invoice the work through a construction company he co-owned. The wager made the newspapers. The invoices made the fortune. Both depended on Chinese crews who had already struck once and gone back to the grade after their provisions were stopped (repo ch. 2-09; Chang 2019, pp. 147–158).
 
-Organizing such a day required the same brutality the Sierra had taught. Rails, ties, and spikes had to be staged for miles. Teams had to be fed before dawn and moved in relays. Chinese crews who had been paid less than white workers, who had struck in 1867 and been starved back to work, would shoulder the heaviest share again (repo ch. 2-09). The record—ten miles and fifty-six feet—still stands. It is remembered as triumph. It is also the arithmetic of a company that had learned to treat men as movable parts in a wager between millionaires.
+Organizing such a day required the same brutality the Sierra had taught. Rails, ties, and spikes had to be staged for miles. Teams had to be fed before dawn and moved in relays. Chinese crews who had been paid less than white workers, who had struck in 1867 and gone back to work when their provisions were stopped, would shoulder the heaviest share again (repo ch. 2-09). The record—ten miles and fifty-six feet—still stands. It is remembered as triumph. It is also the arithmetic of a company that had learned to treat men as movable parts in a wager between millionaires.
 
 Think of what ten miles means for a body.
 
@@ -34,7 +34,7 @@ Where the mountains began was a question of geology, and geology was a matter of
 
 The larger method was the construction company. The Central Pacific contracted the building of its line to the Contract and Finance Company, which was owned by the same four men. The railroad—a corporation with public obligations, public credit, and eventually public shareholders—paid the construction firm, which was private and theirs, at prices they set on both sides of the transaction.
 
-The profit was captured at the point of transfer. The railroad could show modest returns while the men controlling it became extraordinarily rich, and the accounts of the Contract and Finance Company were destroyed before a congressional investigation could examine them (repo ch. 2-09).
+The profit was captured at the point of transfer. The railroad could show modest returns while the men controlling it became extraordinarily rich, and the books of the Contract and Finance Company disappeared, never to resurface, when a congressional investigation threatened (White 2011, ch. 1 ¶94; repo ch. 2-09).
 
 Collis Huntington feared that investigators would demand to see those books (Rayner 2008, ch. 9).
 
@@ -64,7 +64,7 @@ The nation heard bells on 10 May 1869. Editors called it binding. Engineers shoo
 
 The Contract and Finance Company books were already being kept where no passenger would look. Huntington’s Washington work ensured that the margin stayed on the private side of the transfer while the risk stayed on the public side of the charter.
 
-The Chinese workers who laid ten miles in a day were not in the photograph. The men who starved a strike in the Sierra were not on the platform. The Americans who died on the isthmus in 1849 were not remembered at all.
+The Chinese workers who laid ten miles in a day were not in the photograph. The men who stopped the strikers' provisions in the Sierra were not on the platform. The Americans who died on the isthmus in 1849 were not remembered at all.
 
 The episode ends on that split: a public story told in spikes and bells, and a private story told in ledgers that would burn before investigators could read them.
 
@@ -92,7 +92,7 @@ The Act paid in land checkerboarded along the route—acres that would become to
 
 The Contract and Finance Company sat between the public railroad and the private fortunes. It invoiced the work. It set the prices. It destroyed its books when investigators drew near (repo ch. 2-09; Rayner 2008, ch. 9).
 
-The Chinese workforce that made the ten-mile day possible had been imported when white labour would not stay, paid less when it did, struck when the terms became unbearable, and starved back to the grade when the company refused to bargain (repo ch. 2-09; Chang 2019, ch. 7).
+The Chinese workforce that made the ten-mile day possible had been imported when white labour would not stay, paid less when it did, struck when the terms became unbearable, and went back to the grade, without concessions, when the company stopped their provisions (repo ch. 2-09; Chang 2019, pp. 147–158).
 
 The isthmus deaths Huntington recorded in 1849 were not on the platform either. They were part of the same supply chain: bodies moving toward California, money moving toward whoever owned the bottleneck.
 
@@ -136,7 +136,7 @@ The bet mattered because it was public. The books mattered because they were pri
 
 ## One sentence on fire
 
-The accounts of the Contract and Finance Company were destroyed before a congressional investigation could examine them (repo ch. 2-09). Rayner’s account of Huntington’s fear that the Wilson Committee would demand those books is the shadow of that fire in Washington correspondence (Rayner 2008, ch. 9).
+The books of the Contract and Finance Company disappeared, never to resurface, when a congressional investigation threatened (White 2011, ch. 1 ¶94; repo ch. 2-09). Rayner’s account of Huntington’s fear that the Wilson Committee would demand those books is the shadow of that fire in Washington correspondence (Rayner 2008, ch. 9).
 
 Fire is convenient when margin lives on the construction side and modesty lives on the railroad side. The public saw ties and spikes. The investigators saw smoke.
 

@@ -30,30 +30,31 @@
 - **Scope:** Definitive economic and political history of the transcontinental railroads, focusing on the Central Pacific, the Union Pacific, the Southern Pacific "Octopus", and the financial chicanery of the Big Four.  
 - **Core Thesis:** The transcontinental railroads were economically unnecessary, socially destructive, and commercially bankrupt enterprises that succeeded only because their promoters captured federal land grants, bribed legislators, and embezzled federal subsidy bonds through insider dummy corporations.  
 - **Key Scenes for Cardinal:**  
-  - The founding of the "Contract and Finance Company" by Stanford, Huntington, Hopkins, and Crocker; writing contracts to themselves at triple market rates, keeping no accounting ledgers, and burning the books when subpoenaed by the Pacific Railway Commission.  
+  - The founding of the "Contract and Finance Company" by Stanford, Huntington, Hopkins, and Crocker; paying themselves, by the Pacific Railway Commission's later estimate, roughly twice the actual cost of construction per mile; the company's books disappeared when a congressional investigation threatened, years before the 1887 commission (White, Railroaded, ch. 1 ¶80, ¶94).  
   - Collis Huntington's cynical letters from Washington detailing the exact bribe prices of congressmen and senators, contrasted with Leland Stanford's pompous moralizing in Sacramento.  
-  - The 1893 panic and the federal lawsuit against Leland Stanford's estate to collect $15 million in defaulted bonds, which nearly crushed the nascent university.  
+  - The 1893 panic and the federal lawsuit against Leland Stanford's estate for $15,237,000 over the railroad's government bonds, which nearly crushed the nascent university before the Supreme Court dismissed it in 1896 (White, Railroaded, ch. 9 ¶103–108).  
 - **Cardinal Concordance:** Crucial context for Chapter 02 ("The Associates") and Chapter 03 ("The Embezzlement of an Empire").
 
 ---
 
 ## 4. Gordon H. Chang — *Ghosts of Gold Mountain: The Epic Story of the Chinese Who Built the Transcontinental Railroad* (2019)  
-- **Scope:** The lived reality, organization, strikes, and technological brilliance of the 15,000 Chinese railroad workers who carved the Central Pacific through the granite peaks of the Sierra Nevada.  
+- **Scope:** The lived reality, organization, strikes, and technological brilliance of the roughly ten to eleven thousand (at peak) Chinese railroad workers who carved the Central Pacific through the granite peaks of the Sierra Nevada.  
 - **Core Thesis:** Without Chinese stonemasons, explosive handlers, and disciplined labor battalions, the Central Pacific would never have crossed the mountains. Yet their wages were systematically discounted, hundreds died in avalanches and nitro-glycerin blasts, and they were erased from the iconic Promontory Summit photographs.  
 - **Key Scenes for Cardinal:**  
   - The winter of 1866–1867: Chinese workers living in tunnels beneath forty-foot snowdrifts, lighting black powder and nitro-glycerin charges on the shear rock faces of Donner Summit.  
-  - The Great Chinese Railroad Strike of June 1867: 3,000 workers down tools demanding eight-hour days and wage parity with white workers; Charles Crocker cuts off their food supply in the high desert until they are starved into submission.  
+  - The Great Chinese Railroad Strike of June 24, 1867: about 3,000 workers between Cisco and Truckee in the Sierra down tools demanding $40 a month (parity) and a ten-hour day (some reports say eight); provisions are stopped (Charles Crocker later claimed the credit), the sheriff and armed men stand by, and after about eight days they return without concessions, though pay later rises (Chang 2019, pp. 147–158).  
   - Leland Stanford's extreme duplicity: relying on Chinese labor to amass his railroad fortune while simultaneously running for governor on an anti-Chinese, white supremacist platform.  
 - **Cardinal Concordance:** Grounding the opening chapters in the brutal labor extraction that paid for Stanford's campus.
 
 ---
 
-## 5. Gray Brechin — *Imperial San Francisco: Urban Power, Earthly Ruin* (1999)  
+## 5. Gray Brechin — *Imperial San Francisco: Urban Power, Earthly Ruin* (UC Press 1999; our copy is the 2006 edition with a new preface)  
 - **Scope:** Environmental and political critique of the dynastic oligarchies (the Comstock kings, the Big Four, the Hearst empire, and the de Young family) that turned San Francisco into an imperial metropolis.  
 - **Core Thesis:** San Francisco operated as an extraction pump, draining the mineral wealth, timber, and agricultural labor of the American West and the Pacific Rim to build dynastic monuments, private estates, and universities on the Bay.  
 - **Key Scenes for Cardinal:**  
-  - The architectural design of the Stanford campus: a Romanesque-Moorish secular fortress surrounded by vast eucalyptus groves and golden foothills, deliberately physically separated from the working-class politics of San Francisco.  
-  - The devastation of the 1906 Earthquake: how the collapse of the Stanford library and chapel provided an opportunity for the university to purge dissidents and restructure itself along corporate lines.  
+  - The architectural design of the Stanford campus (p. 283): the 9,000-acre farm; Romanesque buildings roofed in red tile; the chapel after Boston's Trinity Church; the Memorial Arch frieze *The Progress of Civilization*, felled in 1906 (n1).  
+  - The 1883 regent-nomination withdrawal and the “spite of a peanut vendor” line (p. 283), which Brechin quotes as “his lawyer”; the line is Alfred A. Cohen's 1876 courtroom attack on Stanford (*Central Pacific Railroad Co. v. Cohen*).  
+  - [needs source] Earlier drafts credited Brechin with a “Romanesque-Moorish fortress” amid eucalyptus groves and a post-1906 purge of dissidents; neither is in Brechin.
 - **Cardinal Concordance:** Sets the visual atmosphere and geopolitical geography of Northern California in Act I and Act II.
 
 ---

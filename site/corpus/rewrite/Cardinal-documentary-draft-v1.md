@@ -1776,8 +1776,8 @@ sides of the transaction.
 
 The profit was captured at the point of transfer. The railroad could show modest
 returns while the men controlling it became extraordinarily rich, and the
-accounts of the Contract and Finance Company were destroyed before a
-congressional investigation could examine them.
+books of the Contract and Finance Company disappeared, never to resurface, when
+a congressional investigation threatened (White 2011, ch. 1).
 
 Keep this manoeuvre in mind. Later, a university under pressure over its
 military research will divest the research institute to itself, and the
@@ -1799,13 +1799,15 @@ avalanches, and cold. The company did not systematically record their deaths,
 which is why every figure offered is an estimate and why the estimates vary so
 widely.
 
-In June 1867 several thousand Chinese workers in the Sierra struck. Their
-demands were an increase in pay to match white workers, a reduction in the
-working day in the tunnels, and an end to the practice of whipping and of
-restraining workers from leaving. It was, by any measure, one of the largest
-labour actions in the United States to that date.
+On Monday, 24 June 1867, about three thousand Chinese workers in the Sierra
+struck. Their demands were an increase in pay to match white workers and a
+shorter working day in the tunnels; one paper, the Sacramento Union, added an
+end to whipping and to restraining workers from leaving. It was, by any
+measure, one of the largest labour actions in the United States to that date.
 
-Crocker broke it in about a week by cutting off the food supply.
+The strike ended after about eight days, without concessions, once provisions
+were stopped; Crocker later claimed that he cut them off (Chang 2019, pp.
+147–158).
 
 They went back to work. Two years later they finished the line, and on 28 April
 1869 a Central Pacific crew — Chinese, with a handful of Irish rail handlers —
@@ -1886,8 +1888,8 @@ sides of the transaction.
 
 The profit was captured at the point of transfer. The railroad could show modest
 returns while the men controlling it became extraordinarily rich, and the
-accounts of the Contract and Finance Company were destroyed before a
-congressional investigation could examine them.
+books of the Contract and Finance Company disappeared, never to resurface, when
+a congressional investigation threatened (White 2011, ch. 1).
 
 Keep this manoeuvre in mind. Later, a university under pressure over its
 military research will divest the research institute to itself, and the
@@ -2494,8 +2496,8 @@ sides of the transaction.
 
 The profit was captured at the point of transfer. The railroad could show modest
 returns while the men controlling it became extraordinarily rich, and the
-accounts of the Contract and Finance Company were destroyed before a
-congressional investigation could examine them.
+books of the Contract and Finance Company disappeared, never to resurface, when
+a congressional investigation threatened (White 2011, ch. 1).
 
 Keep this manoeuvre in mind. Later, a university under pressure over its
 military research will divest the research institute to itself, and the
@@ -2517,13 +2519,15 @@ avalanches, and cold. The company did not systematically record their deaths,
 which is why every figure offered is an estimate and why the estimates vary so
 widely.
 
-In June 1867 several thousand Chinese workers in the Sierra struck. Their
-demands were an increase in pay to match white workers, a reduction in the
-working day in the tunnels, and an end to the practice of whipping and of
-restraining workers from leaving. It was, by any measure, one of the largest
-labour actions in the United States to that date.
+On Monday, 24 June 1867, about three thousand Chinese workers in the Sierra
+struck. Their demands were an increase in pay to match white workers and a
+shorter working day in the tunnels; one paper, the Sacramento Union, added an
+end to whipping and to restraining workers from leaving. It was, by any
+measure, one of the largest labour actions in the United States to that date.
 
-Crocker broke it in about a week by cutting off the food supply.
+The strike ended after about eight days, without concessions, once provisions
+were stopped; Crocker later claimed that he cut them off (Chang 2019, pp.
+147–158).
 
 They went back to work. Two years later they finished the line, and on 28 April
 1869 a Central Pacific crew — Chinese, with a handful of Irish rail handlers —
@@ -2714,11 +2718,11 @@ Crocker's construction superintendent, James Strobridge, had opposed hiring Chin
 
 They were paid less than white workers doing the same work, and unlike white workers they were not provided with board, which they organised themselves. The company did not systematically record their deaths, which is why every figure offered is an estimate and why the estimates vary so widely. Avalanches, explosions, rockfalls, and cold killed men whose names rarely entered the official story the Promontory photograph would later tell.
 
-In late May, unbelievably and unacceptably, the Chinese went on strike. “This is the hardest blow we have had,” E. B. Crocker reported (Ambrose 2000, ch. 11).
+On Monday, 24 June 1867, the Chinese went on strike; E. B. Crocker's letter of 27 June dates it to “last Monday” (Chang 2019, pp. 147–150). Ambrose places the walkout in late May; Crocker's “this strike of the chinamen is the hardest blow we have had” comes from his letter of 28 June (Chang 2019, p. 151; Ambrose 2000, ch. 11).
 
 
 
-The ledger in the project appendix fixes a date: 25 June 1867, several thousand men on the Sierra grade demanding pay parity and shorter tunnel hours (appendix-b-ledger.qmd). Ambrose places the walkout in late May; the company’s own later accounts blur the calendar. The strike’s length in days matters less than its length in leverage: long enough to frighten Crocker, short enough to break before bond deadlines slipped. Whether the walkout began in late May or consolidated in June, the fact on the ground was the same: labour that had been treated as replaceable stopped moving rock and rail at the moment the company needed it most.
+The ledger in the project appendix fixes a date: 24 June 1867, about three thousand men on the Sierra grade, from Cisco toward Truckee, demanding pay parity and shorter tunnel hours (appendix-b-ledger.qmd; Chang 2019, pp. 147–150). Ambrose places the walkout in late May, which the company’s June letters contradict. The strike’s length in days matters less than its length in leverage: long enough to frighten Crocker, short enough to break before bond deadlines slipped. The fact on the ground was the same: labour that had been treated as replaceable stopped moving rock and rail at the moment the company needed it most.
 
 Chang’s account of the walkout is quieter than a Hollywood strike. “The men who were working at that hour walked out of the tunnels and away from the tracks. The ones who were sleeping slept on…” (Chang 2019, ch. 7).
 
@@ -2726,13 +2730,13 @@ Chang’s account of the walkout is quieter than a Hollywood strike. “The men 
 
 No speeches survive in the company record like Crocker’s complaint. The action was spatial: bodies leaving the tunnel mouth, tools set down, the grade going still while foremen counted who was missing.
 
-The demands, as reconstructed in the secondary literature summarized in repo ch. 2-09, were concrete: wages equal to white workers doing the same work, shorter hours in the tunnels, and an end to whipping and to physical restraint when men tried to leave camp. By any measure it was one of the largest labour actions in the United States to that date.
+The demands, as reconstructed in the secondary literature summarized in repo ch. 2-09, were concrete: wages equal to white workers doing the same work ($40 a month) and shorter hours in the tunnels; one paper, the Sacramento Union, added an end to whipping and to physical restraint when men tried to leave camp (Chang 2019, pp. 147–152). By any measure it was one of the largest labour actions in the United States to that date.
 
-The timeline notes Stanford relayed warning about Chinese unhappiness to Huntington before the walkout (timeline.md; Chang 2019, ch. 7). If the governor in Sacramento knew trouble was coming and the men in the snow knew they had been underpaid for years, the strike was not a surprise. It was a bill presented after a long tab.
+On 18 May 1867 Stanford wrote to Mark Hopkins that he had heard of widespread unhappiness among Chinese workers contracted under Sisson (Chang 2019, p. 150). If the railroad's president, a former governor, knew trouble was coming and the men in the snow knew they had been underpaid for years, the strike was not a surprise. It was a bill presented after a long tab.
 
-Charles Crocker broke it in about a week by cutting off the food supply.
+It ended after about eight days, without concessions, once provisions were stopped; Charles Crocker later boasted, “I stopped the provisions” (Chang 2019, pp. 155–158).
 
-That sentence is the whole politics of the summit in seven words. The company did not argue the merits on a square. It controlled rice and pork and flour in camps miles from any town. Men who refused to work could be starved back to the face faster than any court could hear them. They went back to work.
+That is the whole politics of the summit. The company did not argue the merits on a square. It controlled rice and pork and flour in camps miles from any town. Men who refused to work could be starved back to the face faster than any court could hear them. They went back to work.
 
 ## After the strike
 
@@ -2796,7 +2800,7 @@ The summit was not a backdrop. It was the price of the photograph.
 
 ## Numbers without names
 
-Between ten and twelve thousand Chinese workers at peak. Several thousand on strike. A week to break them. Two years later, ten miles and fifty-six feet of track in a day. These figures come from company papers, congressional testimony summarized in secondary accounts, and the project ledger that lists 25 June 1867 as a strike date (repo ch. 2-09; appendix-b-ledger.qmd).
+Between ten and twelve thousand Chinese workers at peak. Several thousand on strike. A week to break them. Two years later, ten miles and fifty-six feet of track in a day. These figures come from company papers, congressional testimony summarized in secondary accounts, and the project ledger that lists 24 June 1867 as the strike's first day (repo ch. 2-09; appendix-b-ledger.qmd; Chang 2019, pp. 147–150).
 
 What the numbers do not carry is names in proportion. The Central Pacific did not systematically record Chinese deaths. Estimates of fatalities on the Sierra range widely in later scholarship. The company preferred records that could be shown to bondholders: miles completed, subsidies claimed, photographs taken.
 
@@ -2855,9 +2859,9 @@ Charles Crocker offered a bet of ten thousand dollars to Thomas Durant of the Un
 
 Durant ran the eastern company the way the Associates ran the western one: as a race for subsidies, land, and credit. The bet was not a sporting gesture. It was a public-relations weapon in a contest over which line could claim the continent’s attention while both hauled iron toward Promontory. Ten miles in a day had never been done. Crocker intended to do it anyway.
 
-Ten thousand dollars was a fortune to a rail hand and a line item to a man who would invoice the work through a construction company he co-owned. The wager made the newspapers. The invoices made the fortune. Both depended on Chinese crews who had already struck once and been starved back to the grade (repo ch. 2-09; Chang 2019, ch. 7).
+Ten thousand dollars was a fortune to a rail hand and a line item to a man who would invoice the work through a construction company he co-owned. The wager made the newspapers. The invoices made the fortune. Both depended on Chinese crews who had already struck once and gone back to the grade after their provisions were stopped (repo ch. 2-09; Chang 2019, pp. 147–158).
 
-Organizing such a day required the same brutality the Sierra had taught. Rails, ties, and spikes had to be staged for miles. Teams had to be fed before dawn and moved in relays. Chinese crews who had been paid less than white workers, who had struck in 1867 and been starved back to work, would shoulder the heaviest share again (repo ch. 2-09). The record—ten miles and fifty-six feet—still stands. It is remembered as triumph. It is also the arithmetic of a company that had learned to treat men as movable parts in a wager between millionaires.
+Organizing such a day required the same brutality the Sierra had taught. Rails, ties, and spikes had to be staged for miles. Teams had to be fed before dawn and moved in relays. Chinese crews who had been paid less than white workers, who had struck in 1867 and gone back to work when their provisions were stopped, would shoulder the heaviest share again (repo ch. 2-09). The record—ten miles and fifty-six feet—still stands. It is remembered as triumph. It is also the arithmetic of a company that had learned to treat men as movable parts in a wager between millionaires.
 
 Think of what ten miles means for a body.
 
@@ -2879,7 +2883,7 @@ Where the mountains began was a question of geology, and geology was a matter of
 
 The larger method was the construction company. The Central Pacific contracted the building of its line to the Contract and Finance Company, which was owned by the same four men. The railroad—a corporation with public obligations, public credit, and eventually public shareholders—paid the construction firm, which was private and theirs, at prices they set on both sides of the transaction.
 
-The profit was captured at the point of transfer. The railroad could show modest returns while the men controlling it became extraordinarily rich, and the accounts of the Contract and Finance Company were destroyed before a congressional investigation could examine them (repo ch. 2-09).
+The profit was captured at the point of transfer. The railroad could show modest returns while the men controlling it became extraordinarily rich, and the books of the Contract and Finance Company disappeared, never to resurface, when a congressional investigation threatened (White 2011, ch. 1 ¶94; repo ch. 2-09).
 
 Collis Huntington feared that investigators would demand to see those books (Rayner 2008, ch. 9).
 
@@ -2909,7 +2913,7 @@ The nation heard bells on 10 May 1869. Editors called it binding. Engineers shoo
 
 The Contract and Finance Company books were already being kept where no passenger would look. Huntington’s Washington work ensured that the margin stayed on the private side of the transfer while the risk stayed on the public side of the charter.
 
-The Chinese workers who laid ten miles in a day were not in the photograph. The men who starved a strike in the Sierra were not on the platform. The Americans who died on the isthmus in 1849 were not remembered at all.
+The Chinese workers who laid ten miles in a day were not in the photograph. The men who stopped the strikers' provisions in the Sierra were not on the platform. The Americans who died on the isthmus in 1849 were not remembered at all.
 
 The episode ends on that split: a public story told in spikes and bells, and a private story told in ledgers that would burn before investigators could read them.
 
@@ -2937,7 +2941,7 @@ The Act paid in land checkerboarded along the route—acres that would become to
 
 The Contract and Finance Company sat between the public railroad and the private fortunes. It invoiced the work. It set the prices. It destroyed its books when investigators drew near (repo ch. 2-09; Rayner 2008, ch. 9).
 
-The Chinese workforce that made the ten-mile day possible had been imported when white labour would not stay, paid less when it did, struck when the terms became unbearable, and starved back to the grade when the company refused to bargain (repo ch. 2-09; Chang 2019, ch. 7).
+The Chinese workforce that made the ten-mile day possible had been imported when white labour would not stay, paid less when it did, struck when the terms became unbearable, and went back to the grade, without concessions, when the company stopped their provisions (repo ch. 2-09; Chang 2019, pp. 147–158).
 
 The isthmus deaths Huntington recorded in 1849 were not on the platform either. They were part of the same supply chain: bodies moving toward California, money moving toward whoever owned the bottleneck.
 
@@ -2981,7 +2985,7 @@ The bet mattered because it was public. The books mattered because they were pri
 
 ## One sentence on fire
 
-The accounts of the Contract and Finance Company were destroyed before a congressional investigation could examine them (repo ch. 2-09). Rayner’s account of Huntington’s fear that the Wilson Committee would demand those books is the shadow of that fire in Washington correspondence (Rayner 2008, ch. 9).
+The books of the Contract and Finance Company disappeared, never to resurface, when a congressional investigation threatened (White 2011, ch. 1 ¶94; repo ch. 2-09). Rayner’s account of Huntington’s fear that the Wilson Committee would demand those books is the shadow of that fire in Washington correspondence (Rayner 2008, ch. 9).
 
 Fire is convenient when margin lives on the construction side and modesty lives on the railroad side. The public saw ties and spikes. The investigators saw smoke.
 
@@ -4031,7 +4035,7 @@ The Southern Pacific still ran trains past fields that had once been only Stanfo
 
 Among them was Herbert Hoover, seventeen years old, born in Iowa in 1874, raised in Oregon after his parents died, admitted to the pioneer class without a high school diploma (Harris 2023, ch. 2.3). He had come to study geology under John Casper Branner. He would later remember the day as the beginning of a life the university would adopt in ways he could not yet imagine—professors paying medical bills when typhoid struck, a geology lab where he would meet Lou Henry, a board seat in circumstances cloudy enough to raise questions decades later (Harris 2023, ch. 2.3; Whyte 2017, ch. 6). 
 
-Hoover had arrived in the summer of 1891, before the university opened, among the first students resident on the campus—admitted conditionally after failing every entrance subject except mathematics, working his way through with a laundry agency and a lecture bureau (repo ch 3-01; Harris 2023, ch. 2.3).
+Hoover had arrived in the summer of 1891, before the university opened, among the first students resident on the campus—admitted conditionally after coming up short on the entrance examinations (Whyte 2017, 33), working his way through with a laundry agency and a lecture bureau (repo ch 3-01; Harris 2023, ch. 2.3 [needs page check]).
 
 Hoover stood on ground Leland Stanford had bought with railroad money. The founder himself was present for the opening. Jane Stanford was present. David Starr Jordan was inaugurated as president. Tuition was free. Women studied beside men. The curriculum promised usefulness rather than polish alone.
 
@@ -4584,7 +4588,7 @@ Within a year the San Andreas Fault would test the campus physically. Buildings 
 
 On the far side of the Pacific, a pioneer student from the class of 1891 was no longer sleeping in unfinished campus housing. Herbert Hoover, born 1874, had taken his geology training into mines in Western Australia and China (Harris 2023, ch. 2.3). By 1905 he was a young mining engineer accumulating the fortune that would later fund relief commissions, cabinet departments, a tower on the quad, and a library of war documents.
 
-By 1901 he was a partner in Bewick, Moreing; by 1908 he was running his own firm (repo ch 3-01). He was not on the board yet—that cloudy appointment would come in 1912 (Whyte 2017, ch. 6).  He was proof of what the opening day had promised: the university could produce a man who moved ore and capital on four continents while the founders' names moved into stone.
+At the end of 1901 he bought an operating partnership in Bewick, Moreing; by 1908 he was running his own firm (Whyte 2017, 89, 104, 117). He was not on the board yet—that cloudy appointment would come in 1912 (Whyte 2017, ch. 6).  He was proof of what the opening day had promised: the university could produce a man who moved ore and capital on four continents while the founders' names moved into stone.
 
 The orphans California claimed as children had grown into engineers the world could use. One of them was rich before he was famous, and the farm that had photographed a horse in mid-air had credentialed him.
 
@@ -4691,7 +4695,7 @@ What he had was a certified technical competence that a London capital market ne
 
 The mining industry of the 1890s ran on a specific informational problem. Investors in London were funding operations in Western Australia, South Africa, Burma, and China, and they had no way of knowing whether the promoters' claims about a deposit were true. They needed people who could go and look, who understood the geology, and whose reports could be trusted. Trust was the scarce input, and a degree from a serious institution was the available proxy for it.
 
-His first job after graduating was pushing ore carts in a Nevada mine at two dollars a day. The credential opened a door. It did not deliver a career. What moved him was the recommendation of Louis Janin, a prominent San Francisco mining engineer for whom he clerked, to the London firm of Bewick, Moreing and Company. In 1897, at twenty-three, he was sent to Western Australia.
+His first mine job after graduating was as a mucker at the Reward and then the Mayflower mines around Grass Valley, in Nevada County, California, at two dollars and then two-fifty a day (Whyte 2017, 45–46). The credential opened a door. It did not deliver a career. What moved him was the recommendation of Louis Janin, a Yale- and Freiburg-trained San Francisco mining engineer, to the London firm of Bewick, Moreing and Company. Hoover later told it as a copyist-to-engineer story; Whyte doubts that account (Whyte 2017, 46–48). In 1897, at twenty-two, he was sent to Western Australia (Whyte 2017, 49–50, 54).
 
 Each step in that sequence is a recommendation rather than an application. That is what a network is, and the university is where he acquired one.
 
@@ -4699,7 +4703,7 @@ Each step in that sequence is a recommendation rather than an application. That 
 
 The relationship was not abstract. When Hoover fell ill with typhoid as a junior, his professor John Casper Branner “even paid his favorite pupil’s medical bills” (Harris 2023, ch. 2.3). Branner was chairman of the geology department, later president of the university, and the man who would stand at Hoover's wedding. The orphan was being folded into a patronage line that ran through the campus and out into the professions.
 
-In Branner's presence, in a geology lab, Lou Henry first laid eyes on Herbert Hoover (Whyte 2021, 43). She entered Stanford in 1894 and took a degree in geology in 1898 — the only woman in the programme at a time when the field was closed to women almost everywhere. They married in Monterey in February 1899 and sailed for China the next day.
+In Branner's presence, in a geology lab, Lou Henry first laid eyes on Herbert Hoover (Whyte 2017, 43). She entered Stanford in 1894 and took a degree in geology in 1898 — the only woman in the programme at a time when the field was closed to women almost everywhere. They married in Monterey in February 1899 and sailed for China the next day.
 
 They were both Stanford geologists. The partnership is the network operating at its smallest possible scale, and it was formed in a laboratory.
 
@@ -4715,13 +4719,13 @@ That is a general management education conducted under difficult conditions, and
 
 The humanitarian Hoover would feed Belgium through a blockade and run American relief after the Mississippi flood. The engineer Hoover left a record in Western Australia that does not fit the later legend as neatly.
 
-A 1905 Royal Commission found the air at Hoover's Sons of Gwalia mine “notably bad” (Whyte 2021, 100). The finding sits in the public record beside the balance sheets he kept so carefully. Men worked in heat and dust while London read his valuations. The commission did not stop the mine. It named a cost the market had not priced.
+A 1905 Royal Commission found the air at Hoover's Sons of Gwalia mine “notably bad” (Whyte 2017, 100). The finding sits in the public record beside the balance sheets he kept so carefully. Men worked in heat and dust while London read his valuations. The commission did not stop the mine. It named a cost the market had not priced.
 
 Hoover would spend decades defending his professional reputation. The honest summary, at this distance, is that he was a young man doing what his industry did, in a legal environment created by imperial power, and that the industry's normal practice was extractive in ways courts and commissions would later document.
 
 ## China and Tianjin
 
-In 1899 the firm sent him to China as chief engineer for a mining concern operating at Kaiping, north-east of Tianjin, under a concession from the Chinese government.
+In 1899 he went to China as technical adviser to Chang Yen-mao, who paid his $12,500 salary, to survey mines in Chang's realm; Moreing gave him a private profit share, and he later became chief engineer of the Chinese Engineering and Mining Company's operations at Kaiping, north-east of Tianjin, and of the new Chihli Mining Bureau (Whyte 2017, 70–71, 76).
 
 In the summer of 1900 the Boxer Uprising reached Tianjin, and the foreign settlement was besieged for roughly a month. The Hoovers were inside it. He organised the barricades and the food and water supply. She worked in the hospital, and by several accounts carried a revolver and rode a bicycle through streets under fire.
 
@@ -4739,14 +4743,14 @@ Hoover spent decades disputing characterisations of the affair and it followed h
 
 ## The formula
 
-By 1901 Hoover was a partner in Bewick, Moreing. By 1908 he was running his own consultancy with interests worldwide. He was, in a decade and a half, one of the richest self-made men in the profession.
+At the end of 1901 Hoover bought an operating partnership in Bewick, Moreing for $40,000, borrowed from the firm; he sold out as of 30 June 1908 for $150,000 and was soon running his own consultancy with interests worldwide (Whyte 2017, 89, 104, 117). He was, in a decade and a half, one of the richest self-made men in the profession.
 
 Technical training, plus capital access, plus institutional network, equals global leverage.
 
 
 That is the formula, and it is the thing Stanford turned out to manufacture. Not scholars, not gentlemen, and not — at this stage — capitalists. Managers of complex systems, credentialled by an institution whose certification a distant market would accept, who could be dropped into any extraction economy on earth and produce a return.
 
-In 1912 he would join the Stanford board of trustees, “in circumstances as cloudy as the awarding of his geology degree” (Whyte 2021, 124). The pioneer student was becoming the owner's representative. The mine at Gwalia was only the first place the pipeline sent him.
+In 1912 he would join the Stanford board of trustees, “in circumstances as cloudy as the awarding of his geology degree” (Whyte 2017, 124). The pioneer student was becoming the owner's representative. The mine at Gwalia was only the first place the pipeline sent him.
 
 ## The cable
 
@@ -4764,7 +4768,7 @@ The people being valued did not appear as people in the valuations. Across the g
 
 ## Conditional admit
 
-The pipeline's prototype nearly did not get in. Hoover failed the entrance exam in everything but mathematics and was admitted on condition. That conditional line matters: the institution could have said no. It said yes, and then Branner paid the typhoid bills and stood at the wedding. The orphan was being claimed.
+The pipeline's prototype nearly did not get in. Hoover came up short on the entrance exams and was admitted on condition that he catch up on geometry (Whyte 2017, 33). That conditional line matters: the institution could have said no. It said yes, and then Branner paid the typhoid bills and stood at the wedding. The orphan was being claimed.
 
 When Hoover joined the board in 1912, the claim was complete. The graduate represented the owners. The mine engineer who had recommended Gwalia would later feed continents and preside over a country, and the university would archive the wars he opposed and the revolutions he feared.
 
@@ -5218,7 +5222,7 @@ His advantage was that he supplied an interpretation. He told the country that t
 
 ## The trustee
 
-Through it all Hoover remained tied to Stanford. He had joined the board of trustees in 1912, “in circumstances as cloudy as the awarding of his geology degree” (Whyte 2021, 124). The pioneer student had become the owner's representative while still a mining engineer abroad.
+Through it all Hoover remained tied to Stanford. He had joined the board of trustees in 1912, “in circumstances as cloudy as the awarding of his geology degree” (Whyte 2017, 124). The pioneer student had become the owner's representative while still a mining engineer abroad.
 
 Defeat in 1932 did not sever the connection. He retreated to Palo Alto, to the institution that had credentialed him and to the archive he had planted on its land. The defeated president would spend decades building an intellectual apparatus on campus — the Hoover Institution — that outlasted his term and would shape conservative policy long after his name became a synonym for failure in the popular press.
 
@@ -5250,7 +5254,7 @@ They were the actions of a man who thought the role was to stabilise the existin
 
 Defeat sent Hoover back to California and into the institution that had credentialed him. The Hoover Institution on War, Revolution, and Peace grew out of the collections he had planted in 1919. It would employ scholars, host fellows, and circulate arguments through Washington long after his electoral career ended.
 
-The pioneer graduate who had pushed ore carts in Nevada became the ex-president who could still convene rooms in Washington through the archive on the quad. The pipeline's first product had failed politically and succeeded institutionally.
+The pioneer graduate who had mucked ore in the Grass Valley mines became the ex-president who could still convene rooms in Washington through the archive on the quad. The pipeline's first product had failed politically and succeeded institutionally.
 
 ## The dean's son
 
