@@ -534,15 +534,65 @@ a {
 
 .ledger {
   list-style: none;
-  margin: 1rem 0 0;
+  margin: 1.15rem 0 0;
   padding: 0;
+  display: grid;
+  gap: 1.1rem;
 }
 
 .ledger li {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  background: var(--ground-2);
+  border: 1px solid var(--rule);
+  border-radius: 0.85rem;
+  overflow: hidden;
+}
+
+.ledger .card-art {
+  margin: 0;
+  position: relative;
+  aspect-ratio: 16 / 9;
+  background: #1c0d10;
+  overflow: hidden;
+}
+
+.ledger .card-art img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  vertical-align: middle;
+}
+
+.ledger .card-art figcaption {
+  position: absolute;
+  left: 0.55rem;
+  bottom: 0.45rem;
+  margin: 0;
+  padding: 0.12rem 0.45rem;
+  border-radius: 999px;
+  background: rgba(20, 9, 11, 0.72);
+  color: #f6efe9;
+  font-family: var(--font-display);
+  font-stretch: 95%;
+  font-weight: 620;
+  font-size: 0.68rem;
+  letter-spacing: 0.03em;
+  line-height: 1.3;
+}
+
+:root[data-theme="light"] .ledger .card-art figcaption {
+  background: rgba(244, 236, 228, 0.86);
+  color: #1c0d10;
+}
+
+.ledger .card-body {
   display: grid;
-  gap: 0.2rem;
-  padding: 0.9rem 0;
-  border-top: 1px solid var(--rule);
+  gap: 0.28rem;
+  padding: 0.85rem 0.95rem 1rem;
 }
 
 .ledger .when {
@@ -556,6 +606,27 @@ a {
 
 .ledger .what {
   margin: 0;
+  font-family: var(--font-display);
+  font-stretch: 88%;
+  font-weight: 680;
+  font-size: 1.15rem;
+  line-height: 1.25;
+}
+
+.ledger .card-body .meta {
+  margin: 0;
+}
+
+.ledger .status {
+  justify-self: start;
+  margin: 0.35rem 0 0;
+  padding: 0.18rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid var(--rule);
+  background: color-mix(in srgb, var(--cardinal) 18%, transparent);
+  color: var(--ink);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
 }
 
 .cites {
@@ -815,9 +886,14 @@ a {
     max-width: 72rem;
   }
 
+  .ledger {
+    grid-template-columns: 1fr 1fr;
+    gap: 1.2rem;
+  }
+
   .ledger li {
-    grid-template-columns: 8.5rem 1fr;
-    gap: 1rem;
+    display: flex;
+    flex-direction: column;
   }
 }
 
