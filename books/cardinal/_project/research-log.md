@@ -220,3 +220,16 @@ Recorded so they are not silently reintroduced.
 
 Sources, verification status and single-source flags for the events added on branch `research/web-expansion-2026-11-21` are recorded in the ledger `note` column and in the "Research log — Nov 21, 2026" section of the Google Doc "Cardinal — Rewrite Additions, Cuts & Missing People". Borrowed Internet Archive books (Nash 1983, Carlson 1971, Stevens 1988, McCartney 1988) were read by search-inside and returned; their pages are IA leaf numbers, not printed pages.
 
+---
+
+## Nov 22, 2026 — Whyte-depth re-reads (lean-mode books)
+
+The seven books that had been read in lean mode were re-read to Whyte-level thoroughness from the existing extracts (Chang, Miller, Winkler earlier on Nov 22; White, *Who Killed Jane Stanford?*; Baker, *How to Rule the World*; Rayner, *The Associates*; Ambrose, *Nothing Like It in the World*). Notes and dated-event tables are in `/workspace/cardinal-reading/notes/` and in the corresponding Google Docs. No new ledger dates were changed in this pass. A few hedges belong here so they are not silently imported:
+
+| Claim | Correction / hedge |
+|---|---|
+| White 2022 p. 300: “In 2019 the Stanford administration removed David Starr Jordan’s name from Jordan Hall… They renamed the road in front of the Quad Jane Stanford Way.” | Two different actions. Jane Stanford Way (formerly Serra Mall) took effect 7 October 2019. The Board of Trustees voted on 7 October 2020 to remove Jordan’s name from Jordan Hall (now temporarily Building 420). The ledger 2020-10-07 row stands. |
+| Rayner, ch. 15: Leland Stanford, 14 March 1884, “Our darling boy went to heaven this morning at half-past seven.” | The ledger, White, Harris and the university histories use 13 March 1884. Do not move the ledger on the letter date alone. |
+| White’s Epilogue: “I think she [Bertha Berner] was a murderer.” | White’s conclusion, not a settled fact. The cover-up (Jordan, Waterhouse, the *Alameda* trip, the natural-causes statement) remains the firm part (CANON-110, 122). |
+| Baker, Prologue: “the cumulative value of companies that currently maintain offices on Stanford land is north of $6 trillion.” | Baker’s round figure appears to assign whole-company market caps to a park office. Do not import as a land-value or Research Park valuation. |
+| Rayner, ch. 8: “Stanford and Durant took turns… driving home the golden spike.” | Already rejected (CANON-091, 130, 136). Ambrose and Chang: Stanford swung and missed; the gold spike was tapped into a pre-drilled hole. |
