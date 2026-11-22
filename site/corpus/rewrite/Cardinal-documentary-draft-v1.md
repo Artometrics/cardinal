@@ -2718,7 +2718,7 @@ Crocker's construction superintendent, James Strobridge, had opposed hiring Chin
 
 They were paid less than white workers doing the same work, and unlike white workers they were not provided with board, which they organised themselves. The company did not systematically record their deaths, which is why every figure offered is an estimate and why the estimates vary so widely. Avalanches, explosions, rockfalls, and cold killed men whose names rarely entered the official story the Promontory photograph would later tell.
 
-On Monday, 24 June 1867, the Chinese went on strike; E. B. Crocker's letter of 27 June dates it to “last Monday” (Chang 2019, pp. 147–150). Ambrose places the walkout in late May; Crocker's “this strike of the chinamen is the hardest blow we have had” comes from his letter of 28 June (Chang 2019, p. 151; Ambrose 2000, ch. 11).
+On Monday, 24 June 1867, the Chinese went on strike; E. B. Crocker's letter of 27 June dates it to “last Monday” (Chang 2019, pp. 147–150). Ambrose places the walkout in late May; Crocker's “this strike of the chinamen is the hardest blow we have had” comes from his letter of 28 June (Chang 2019, p. 151). Ambrose cites the same sentence to a letter of 27 May 1867 (Ambrose 2000, ch. 11 n. 34), which is probably where his “late May” comes from. His own narrative then runs through letters of 26 and 28 June and has Charles Crocker confront the strikers on 1 July “after a week” (ch. 11 ¶54–57), which fits a strike beginning 24 June.
 
 
 

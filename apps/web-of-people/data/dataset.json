@@ -7,7 +7,7 @@
     },
     "counts": {
       "people": 234,
-      "events": 255,
+      "events": 256,
       "relationships": 245,
       "places": 109,
       "sources": 13,
@@ -5233,11 +5233,11 @@
       ]
     },
     {
-      "id": "ledger-1861-01-01-leland-stanford-elected-governor-of-california",
+      "id": "ledger-1861-09-04-leland-stanford-elected-governor-of-california",
       "people": [
         "leland-stanford"
       ],
-      "date": "1861-01-01",
+      "date": "1861-09-04",
       "kind": "other",
       "title": "Leland Stanford elected governor of California",
       "place": "california",
@@ -5249,7 +5249,7 @@
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1861-01-01,Leland Stanford elected governor of California,Leland Stanford,Califo",
+          "q": "1861-09-04,Leland Stanford elected governor of California,Leland Stanford,Califo",
           "line": 22
         }
       ]
@@ -5348,11 +5348,11 @@
       ]
     },
     {
-      "id": "ledger-1867-06-25-chinese-workers-strike-on-the-sierra-grade",
+      "id": "ledger-1867-06-24-chinese-workers-strike-on-the-sierra-grade",
       "people": [
         "charles-crocker"
       ],
-      "date": "1867-06-25",
+      "date": "1867-06-24",
       "kind": "conflict",
       "title": "Chinese workers strike on the Sierra grade",
       "place": "sierra-nevada-ca",
@@ -5363,7 +5363,7 @@
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1867-06-25,Chinese workers strike on the Sierra grade,Central Pacific Chinese wo",
+          "q": "1867-06-24,Chinese workers strike on the Sierra grade,Central Pacific Chinese wo",
           "line": 26
         }
       ]
@@ -5380,8 +5380,8 @@
       "place": "utah-territory",
       "locationText": "Utah Territory",
       "status": "VERIFIED",
-      "why": "A public wager, won just before Promontory, becomes part of the railroad’s legend. The labour is Chinese; the credit is not.",
-      "ledgerNote": "Master timeline: Ambrose ch 16. EPUB not re-opened in this pass.",
+      "why": "A public wager, won just before Promontory, becomes part of the railroad’s legend. Thousands of Chinese workers unloaded the cars, set ties and drove the spikes, but the eight men the celebratory accounts name are the Irish rail handlers.",
+      "ledgerNote": "Stephen E. Ambrose, Nothing Like It in the World (Simon & Schuster, 2000), ch. 16 ¶36–49, pp. 347–350: Crocker's $10,000 bet with Durant; a derailment on April 27 postponed the attempt; sunrise 7:15 a.m. Corinne time; six miles by the 1:30 p.m. meal; ten miles and fifty-six feet by 7 p.m.; eight named Irish rail handlers; spikes 'put in place by the Chinese'. EPUB checked 21 Nov 2026.",
       "origin": "ledger",
       "cites": [
         {
@@ -5593,13 +5593,13 @@
       ]
     },
     {
-      "id": "ledger-1890-01-01-the-stanfords-travel-to-bloomington-to-recruit-d",
+      "id": "ledger-1891-03-22-the-stanfords-travel-to-bloomington-to-recruit-d",
       "people": [
         "david-starr-jordan",
         "jane-stanford",
         "leland-stanford"
       ],
-      "date": "1890-01-01",
+      "date": "1891-03-22",
       "kind": "other",
       "title": "The Stanfords travel to Bloomington to recruit David Starr Jordan as first president",
       "place": "bloomington-in",
@@ -5611,7 +5611,7 @@
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1890-01-01,The Stanfords travel to Bloomington to recruit David Starr Jordan as ",
+          "q": "1891-03-22,The Stanfords travel to Bloomington to recruit David Starr Jordan as ",
           "line": 42
         }
       ]
@@ -5650,6 +5650,7 @@
       "locationText": "Palo Alto, CA",
       "status": "VERIFIED",
       "why": "Estate frozen; within months the federal government sues for $15,237,000. The university nearly closes; the Supreme Court dismisses the claim in 1896 (161 U.S. 412).",
+      "ledgerNote": "United States v. Stanford, 161 U.S. 412 (1896); Richard White, Who Killed Jane Stanford? (W. W. Norton, 2022), ch. 10, pp. 58–59 (suit froze the estate; Jane kept the university open on the court-allowed household allowance, an insurance policy and sales of belongings).",
       "origin": "ledger",
       "cites": [
         {
@@ -5812,6 +5813,7 @@
       "status": "CONTESTED",
       "note": "Date and place are agreed (28 February 1905, the Moana Hotel, Honolulu); the cause is contested. The Honolulu coroner's jury found strychnine poisoning, while President Jordan announced heart failure, which most later histories repeated. The California governors' site gives her death as 25 February in its summary box and 28 February in its text, which looks like a typo.",
       "why": "Cause contested. The institution continues without structural change, which is the load-bearing fact.",
+      "ledgerNote": "Richard White, Who Killed Jane Stanford? (W. W. Norton, 2022), chs. 28–29, pp. 167–174 (Moana Hotel, Room 120; death the night of 28 February).",
       "origin": "ledger",
       "cites": [
         {
@@ -5857,14 +5859,14 @@
       ]
     },
     {
-      "id": "ledger-1905-03-01-a-honolulu-coroner-s-jury-finds-jane-stanford-di",
+      "id": "ledger-1905-03-09-a-honolulu-coroner-s-jury-finds-jane-stanford-di",
       "people": [
         "bertha-berner",
         "david-starr-jordan",
         "jane-stanford",
         "timothy-hopkins"
       ],
-      "date": "1905-03-01",
+      "date": "1905-03-09",
       "kind": "other",
       "title": "A Honolulu coroner’s jury finds Jane Stanford died of strychnine poisoning; David Starr Jordan publicly attributes the death to natural causes",
       "place": "moana-hotel-honolulu",
@@ -5876,7 +5878,7 @@
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1905-03-01,A Honolulu coroner’s jury finds Jane Stanford died of strychnine pois",
+          "q": "1905-03-09,A Honolulu coroner’s jury finds Jane Stanford died of strychnine pois",
           "line": 53
         }
       ]
@@ -6290,12 +6292,12 @@
       ]
     },
     {
-      "id": "ledger-1933-01-01-warren-a-bechtel-dies-in-moscow-stephen-d-bechte",
+      "id": "ledger-1933-08-28-warren-a-bechtel-dies-in-moscow-stephen-d-bechte",
       "people": [
         "stephen-bechtel-sr",
         "warren-a-bechtel"
       ],
-      "date": "1933-01-01",
+      "date": "1933-08-28",
       "kind": "life",
       "title": "Warren A. Bechtel dies in Moscow; Stephen D. Bechtel Sr. becomes president of the family firm",
       "place": null,
@@ -6307,7 +6309,7 @@
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1933-01-01,Warren A. Bechtel dies in Moscow; Stephen D. Bechtel Sr. becomes pres",
+          "q": "1933-08-28,Warren A. Bechtel dies in Moscow; Stephen D. Bechtel Sr. becomes pres",
           "line": 74
         }
       ]
@@ -6442,6 +6444,29 @@
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1945-07-01,\"Vannevar Bush delivers 'Science, the Endless Frontier'\",Vannevar Bus",
           "line": 81
+        }
+      ]
+    },
+    {
+      "id": "ledger-1946-11-06-stanford-research-institute-established",
+      "people": [
+        "henry-j-kaiser",
+        "stephen-bechtel-sr"
+      ],
+      "date": "1946-11-06",
+      "kind": "founding",
+      "title": "Stanford Research Institute established",
+      "place": "menlo-park-ca",
+      "locationText": "Menlo Park, CA",
+      "status": "PARTLY SOURCED",
+      "why": "Owned by the university. The ownership is what the 1969 protests turn on. McCartney adds that West Coast businessmen including Steve Bechtel and Henry J. Kaiser founded and bankrolled it.",
+      "ledgerNote": "Incorporated 6 Nov 1946 (see CANON lead-chase rows). McCartney, Friends in High Places (1988), ch. 6, p. 78 & note: “Founded in 1946 by a group of West Coast businessmen, including Steve Bechtel and Henry J. Kaiser, and originally affiliated with Stanford University”; Bechtel “had been one of SRI’s principal founders and had bankrolled its operations heavily.”",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1946-11-06,Stanford Research Institute established,Stanford trustees; Stephen Be",
+          "line": 83
         }
       ]
     },
@@ -6788,12 +6813,12 @@
       ]
     },
     {
-      "id": "ledger-1974-01-01-george-shultz-leaves-federal-office-to-become-pr",
+      "id": "ledger-1974-05-01-george-shultz-leaves-federal-office-to-become-pr",
       "people": [
         "george-shultz",
         "stephen-bechtel-sr"
       ],
-      "date": "1974-01-01",
+      "date": "1974-05-01",
       "kind": "other",
       "title": "George Shultz leaves federal office to become president and director of Bechtel, while joining the Stanford faculty",
       "place": null,
@@ -6805,7 +6830,7 @@
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1974-01-01,\"George Shultz leaves federal office to become president and director",
+          "q": "1974-05-01,\"George Shultz leaves federal office to become president and director",
           "line": 102
         }
       ]
@@ -7171,12 +7196,12 @@
       ]
     },
     {
-      "id": "ledger-2022-11-01-theo-baker-s-stanford-daily-reporting-on-marc-te",
+      "id": "ledger-2022-11-29-theo-baker-s-stanford-daily-reporting-on-marc-te",
       "people": [
         "marc-tessier-lavigne",
         "theo-baker"
       ],
-      "date": "2022-11-01",
+      "date": "2022-11-29",
       "kind": "publication",
       "title": "Theo Baker’s Stanford Daily reporting on Marc Tessier-Lavigne’s scientific papers begins",
       "place": "stanford-ca",
@@ -7188,7 +7213,7 @@
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "2022-11-01,Theo Baker’s Stanford Daily reporting on Marc Tessier-Lavigne’s scien",
+          "q": "2022-11-29,Theo Baker’s Stanford Daily reporting on Marc Tessier-Lavigne’s scien",
           "line": 135
         }
       ]
