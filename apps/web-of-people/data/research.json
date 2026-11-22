@@ -4425,6 +4425,22 @@
           "q": "given in 1841 by Governor Juan Alvarado to María Antonia Mesa"
         }
       ]
+    },
+    {
+      "id": "dwight-d-eisenhower",
+      "name": "Dwight D. Eisenhower",
+      "given": "Dwight D.",
+      "surname": "Eisenhower",
+      "role": "34th president of the United States; delivered the 17 January 1961 farewell address",
+      "roleCites": [
+        {
+          "url": "https://www.archives.gov/milestone-documents/president-dwight-d-eisenhowers-farewell-address",
+          "title": "President Dwight D. Eisenhower's Farewell Address (1961)",
+          "publisher": "National Archives",
+          "kind": "institutional",
+          "q": "Three days from now, after half a century in the service of our country, I shall lay down the responsibilities of office"
+        }
+      ]
     }
   ],
   "places": [

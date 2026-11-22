@@ -6,16 +6,16 @@
       "branch": "main"
     },
     "counts": {
-      "people": 234,
-      "events": 258,
+      "people": 235,
+      "events": 259,
       "relationships": 245,
       "places": 110,
       "sources": 13,
-      "webSources": 195,
+      "webSources": 196,
       "orgs": 21,
       "affiliations": 68
     },
-    "ledgerRows": 142,
+    "ledgerRows": 143,
     "ledgerActorsNotMapped": [
       "48 delegates",
       "Alf Brandin",
@@ -1235,6 +1235,23 @@
         "subjectEvidence": "Commons title: \"Douglas Engelbart in 2008\"",
         "verifiedOn": "2026-11-10"
       }
+    },
+    {
+      "id": "dwight-d-eisenhower",
+      "name": "Dwight D. Eisenhower",
+      "given": "Dwight D.",
+      "surname": "Eisenhower",
+      "role": "34th president of the United States; delivered the 17 January 1961 farewell address",
+      "roleCites": [
+        {
+          "url": "https://www.archives.gov/milestone-documents/president-dwight-d-eisenhowers-farewell-address",
+          "title": "President Dwight D. Eisenhower's Farewell Address (1961)",
+          "publisher": "National Archives",
+          "kind": "institutional",
+          "q": "Three days from now, after half a century in the service of our country, I shall lay down the responsibilities of office"
+        }
+      ],
+      "portrait": null
     },
     {
       "id": "dyer-lathrop",
@@ -6622,6 +6639,28 @@
       ]
     },
     {
+      "id": "ledger-1961-01-17-eisenhower-delivers-his-farewell-address-warning",
+      "people": [
+        "dwight-d-eisenhower"
+      ],
+      "date": "1961-01-17",
+      "kind": "publication",
+      "title": "Eisenhower delivers his farewell address warning of unwarranted influence by the military-industrial complex",
+      "place": "washington-dc",
+      "locationText": "Washington, DC",
+      "status": "VERIFIED",
+      "why": "The public warning about a permanent peacetime arms industry and about federally contracted research at the university, after the Industrial Park’s first decade and Lockheed’s 1956 arrival in Sunnyvale. The address does not name Stanford or Lockheed.",
+      "ledgerNote": "Official text of the 17 January 1961 radio and television farewell. Miller Center transcript (https://millercenter.org/the-presidency/presidential-speeches/january-17-1961-farewell-address); National Archives milestone-document page (https://www.archives.gov/milestone-documents/president-dwight-d-eisenhowers-farewell-address); Eisenhower Presidential Library press-release scan (https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/farewell-address/1961-01-17-press-release.pdf). The delivered text warns of unwarranted influence, “sought or unsought,” by the military-industrial complex, and, separately, of federal employment, project allocations, and money dominating “the nation’s scholars,” and of public policy becoming the captive of a “scientific-technological elite.” It does not name Stanford, Lockheed, or the Industrial Park. The wording “military-industrial-congressional complex” is not in the delivered text. Library draft PDFs were not opened this pass. Jean Edward Smith, Eisenhower in War and Peace (2012), was not available to borrow (print-disabled on Internet Archive; not lendable from this login).",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1961-01-17,Eisenhower delivers his farewell address warning of unwarranted influ",
+          "line": 91
+        }
+      ]
+    },
+    {
       "id": "ledger-1961-11-29-john-mccone-is-sworn-in-as-director-of-central-i",
       "people": [
         "john-mccone"
@@ -6639,7 +6678,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1961-11-29,John McCone is sworn in as Director of Central Intelligence,John McCo",
-          "line": 91
+          "line": 92
         }
       ]
     },
@@ -6660,7 +6699,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1962-11-01,Knight secures Tiger distribution rights in Kobe,Phil Knight; Onitsuk",
-          "line": 92
+          "line": 93
         }
       ]
     },
@@ -6683,7 +6722,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1963-01-01,Stephen Bechtel Sr.’s gift funds the remodelling of a former Zeta Psi",
-          "line": 94
+          "line": 95
         }
       ]
     },
@@ -6704,7 +6743,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1965-04-19,Moore's law published,Gordon Moore; Electronics magazine,\"Santa Clara",
-          "line": 95
+          "line": 96
         }
       ]
     },
@@ -6725,7 +6764,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1968-12-09,Engelbart's demonstration at the Fall Joint Computer Conference,Dougl",
-          "line": 96
+          "line": 97
         }
       ]
     },
@@ -6747,7 +6786,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1969-10-29,\"First ARPANET message, UCLA to SRI\",Charley Kline; Bill Duvall,\"Los ",
-          "line": 99
+          "line": 100
         }
       ]
     },
@@ -6770,7 +6809,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1972-01-01,Kleiner Perkins and Sequoia Capital founded on Sand Hill Road,Eugene ",
-          "line": 102
+          "line": 103
         }
       ]
     },
@@ -6793,7 +6832,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1974-05-01,\"George Shultz leaves federal office to become president and director",
-          "line": 103
+          "line": 104
         }
       ]
     },
@@ -6815,7 +6854,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1974-11-11,Niels Reimers files the Cohen–Boyer recombinant-DNA patent applicatio",
-          "line": 104
+          "line": 105
         }
       ]
     },
@@ -6837,7 +6876,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1975-03-05,First Homebrew Computer Club meeting,Fred Moore; Gordon French,\"Menlo",
-          "line": 105
+          "line": 106
         }
       ]
     },
@@ -6860,7 +6899,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1976-04-07,Genentech is founded by Robert Swanson and Herbert Boyer,Robert Swans",
-          "line": 106
+          "line": 107
         }
       ]
     },
@@ -6882,7 +6921,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1980-10-14,Genentech IPO,Genentech; Herbert Boyer; Robert Swanson,NASDAQ,\"Biolog",
-          "line": 108
+          "line": 109
         }
       ]
     },
@@ -6904,7 +6943,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1980-12-02,Cohen–Boyer recombinant-DNA patent issued to Stanford and the Univers",
-          "line": 110
+          "line": 111
         }
       ]
     },
@@ -6927,7 +6966,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1981-01-21,Caspar Weinberger becomes Secretary of Defense; George Shultz becomes",
-          "line": 112
+          "line": 113
         }
       ]
     },
@@ -6949,7 +6988,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1987-06-09,Peter Thiel founds The Stanford Review,Peter Thiel; Norman Book,\"Stan",
-          "line": 113
+          "line": 114
         }
       ]
     },
@@ -6971,7 +7010,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1995-01-01,Elon Musk is admitted to a Stanford graduate program in materials sci",
-          "line": 114
+          "line": 115
         }
       ]
     },
@@ -6993,7 +7032,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1995-08-09,Netscape IPO,Marc Andreessen; Jim Clark,NASDAQ,\"Built on Mosaic, deve",
-          "line": 116
+          "line": 117
         }
       ]
     },
@@ -7015,7 +7054,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1997-01-01,\"Larry Page’s Excite pitch for BackRub includes a proposed $300,000 l",
-          "line": 118
+          "line": 119
         }
       ]
     },
@@ -7037,7 +7076,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1998-01-01,Stanford files a patent for Larry Page’s PageRank system,Larry Page; ",
-          "line": 119
+          "line": 120
         }
       ]
     },
@@ -7059,7 +7098,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1998-09-04,Google incorporated,Larry Page; Sergey Brin,\"Menlo Park, CA\",Their pu",
-          "line": 120
+          "line": 121
         }
       ]
     },
@@ -7082,7 +7121,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1998-09-04,\"Google operates from the Santa Margarita Avenue garage in Menlo Park",
-          "line": 121
+          "line": 122
         }
       ]
     },
@@ -7105,7 +7144,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1999-01-01,\"X.com and Confinity, later PayPal, operate in Palo Alto\",Elon Musk; ",
-          "line": 122
+          "line": 123
         }
       ]
     },
@@ -7128,7 +7167,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2003-05-06,Palantir Technologies is founded in Palo Alto,Peter Thiel; Alex Karp,",
-          "line": 125
+          "line": 126
         }
       ]
     },
@@ -7151,7 +7190,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2011-07-01,George Shultz joins the Theranos board of directors after a meeting w",
-          "line": 129
+          "line": 130
         }
       ]
     },
@@ -7174,7 +7213,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2015-01-01,Theranos begins to collapse after the Wall Street Journal’s investiga",
-          "line": 131
+          "line": 132
         }
       ]
     },
@@ -7197,7 +7236,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2020-10-07,Stanford’s Board of Trustees approves removing David Starr Jordan’s n",
-          "line": 135
+          "line": 136
         }
       ]
     },
@@ -7220,7 +7259,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2022-11-29,Theo Baker’s Stanford Daily reporting on Marc Tessier-Lavigne’s scien",
-          "line": 138
+          "line": 139
         }
       ]
     },
@@ -7241,7 +7280,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2023-07-19,Marc Tessier-Lavigne resigns as Stanford president,Stanford board spe",
-          "line": 141
+          "line": 142
         }
       ]
     },
@@ -7262,7 +7301,7 @@
         {
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "2025-01-20,Technology founders seated at the presidential inauguration,—,\"Washin",
-          "line": 143
+          "line": 144
         }
       ]
     },
@@ -18091,6 +18130,14 @@
       "publisher": "Alta Journal",
       "kind": "scholarly",
       "retrieved": "2026-11-21",
+      "cites": 1
+    },
+    {
+      "url": "https://www.archives.gov/milestone-documents/president-dwight-d-eisenhowers-farewell-address",
+      "title": "President Dwight D. Eisenhower's Farewell Address (1961)",
+      "publisher": "National Archives",
+      "kind": "institutional",
+      "retrieved": "",
       "cites": 1
     },
     {

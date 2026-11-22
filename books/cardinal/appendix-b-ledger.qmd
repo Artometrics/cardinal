@@ -112,6 +112,7 @@ it under the rule in `_project/voice.md`.
 | 1956-02-01 | Shockley Semiconductor opens in Mountain View | Located there because his mother lived there. | VERIFIED |
 | 1957-09-18 | The eight resign from Shockley; Fairchild Semiconductor follows | The spinoff becomes the Valley's reproductive mechanism, enabled by California's refusal to enforce non-competes. | VERIFIED |
 | 1959-01-01 | Planar process developed at Fairchild | Makes the integrated circuit manufacturable. The advantage lives in people and therefore walks. | VERIFIED |
+| 1961-01-17 | Eisenhower delivers his farewell address warning of unwarranted influence by the military-industrial complex | Public warning about a permanent peacetime arms industry and federally contracted university research. The address does not name Stanford or Lockheed. | VERIFIED |
 | 1962-11-01 | Knight secures Tiger distribution rights in Kobe | Blue Ribbon Sports invented on the spot. The company began as a Stanford class paper. | VERIFIED |
 | 1963-01-01 | Fairchild opens assembly operations in Hong Kong | The offshore turn in semiconductors, in the same years Knight is arranging it in footwear. | VERIFIED |
 | 1965-04-19 | Moore's law published | A coordination device rather than a prediction. Sets the industry's clock for half a century. | VERIFIED |

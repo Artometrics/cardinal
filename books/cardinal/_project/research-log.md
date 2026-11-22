@@ -291,3 +291,15 @@ Five books were read in full from clean extracts (Harris and Jacobsen and Siddiq
 
 Hedges, not imported: Harris’s conclusion that Jordan was “part of the conspiracy” to murder Jane, “most likely with” Berner (p. 94) — cover-up remains the firm part (CANON-110, 122). Jacobsen’s 1972 CIA–SRI ESP / remote-viewing program (Puthoff, Targ, Swann) is after the 1970 divestment; do not write it as a Stanford University laboratory. Siddiqui (2025) has almost no 1995 Stanford scene.
 Notes: Vance https://docs.google.com/document/d/1UAD8IY5poYyVFCs4VFUXxR0q1S8_2fp4V_omGmi1mxg/edit ; Isaacson https://docs.google.com/document/d/1_fsMHR9rP16-JHaKWTkDhvjYEalt5pmzPIFqejQ8pH4/edit ; Siddiqui https://docs.google.com/document/d/1c62ltfM9u4c1LTLBkPBOm8_vMHX8V2htRhwQ-9Rf7aY/edit ; Jacobsen https://docs.google.com/document/d/1KeFHzWcAgDH-GnbcTGcWMTTn-t238jqDVdRc62iunrY/edit ; Harris https://docs.google.com/document/d/1xUnI4LCAGtDYOaM-H1tCyJv-HxO6cYcz9allKdZFbMs/edit
+
+### 22 Nov 2026 — Presidents queue (IA lending check) and the 1961 farewell
+
+The six presidents-queue monographs (Dean *Warren G. Harding*; McCartney *The Teapot Dome Scandal*; Shlaes *Coolidge*; Smith *FDR*; McCullough *Truman*; Smith *Eisenhower in War and Peace*) were not in Drive. Kyle’s Internet Archive login (xauthn) succeeded. All scanned identifiers are print-disabled and **not lendable** from this account: `is_lendable: false`, 0 lendable copies, borrow/browse returned “This book is not available to borrow at this time.” `join_waitlist` returned success and `user_on_waitlist` is true, but `available_to_waitlist` is false, waitlist size is 0, and the copies cannot be claimed. No book text was obtained (ACS/LCP files were not downloaded). Library ebook paths and purchase-only prices are in `/workspace/cardinal-reading/notes/presidents-queue-copies.md`.
+
+The 17 January 1961 farewell address was read from the official public text (Miller Center transcript, collated against the National Archives page; Eisenhower Library press-release scan is an image PDF).
+
+| Change | Source | Notes |
+|---|---|---|
+| New 1961-01-17: Eisenhower delivers his farewell address warning of unwarranted influence by the military-industrial complex | Official text: Miller Center; National Archives milestone-document page; Eisenhower Presidential Library 17 Jan 1961 press release | VERIFIED. The speech also warns that federal employment, project allocations, and money may dominate “the nation’s scholars,” and that public policy could become the captive of a “scientific-technological elite.” It does not name Stanford, Lockheed, or the Industrial Park. “Military-industrial-congressional complex” is not in the delivered text. Smith *Eisenhower in War and Peace* was not opened. Event ID `ledger-1961-01-17-eisenhower-delivers-his-farewell-address-warning`. Dwight D. Eisenhower added as a research.json person with a curated actor alias so the row appears in the web of people. |
+
+No new canon row. Presidents monographs remain unread.
