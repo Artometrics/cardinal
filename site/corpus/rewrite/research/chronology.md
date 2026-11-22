@@ -229,16 +229,16 @@ The historical reality underlying *Cardinal* is that Silicon Valley is not the a
 
 - **November 2022–July 2023 — The Tessier-Lavigne Research Fraud Scandal**  
   - *Location:* Stanford Presidential Office / The Stanford Daily.  
-  - *Event:* Eighteen-year-old freshman journalist Theo Baker publishes an investigative series in *The Stanford Daily* demonstrating that prominent scientific papers authored by Stanford President Marc Tessier-Lavigne contained falsified, duplicated, and fabricated Western blot images.  
-  - *The Resignation:* In July 2023, following an independent panel report confirming pervasive manipulation of scientific data across his labs, Tessier-Lavigne announces his resignation as President of Stanford University.  
+  - *Event:* Theo Baker, a seventeen-year-old freshman (he came west "at age seventeen", Baker, Prologue, p. 5), was tipped to PubPeer on November 1, 2022. On November 29, 2022 he published his first *Stanford Daily* article raising questions about manipulated images in papers co-authored by President Marc Tessier-Lavigne. Three independent forensic image analysts reviewed the figures. The board announced an investigation the same day (Baker, ch. 4, pp. 73–94; Notes, p. 311).  
+  - *The Resignation:* In July 2023, after the special committee's scientific panel found manipulation of research data in his lab and "serious flaws" in each of the five papers on which he was a principal author, though it did not find that he knew of the manipulation or committed misconduct himself (Baker, ch. 16, pp. 284–288), Tessier-Lavigne announces his resignation as President of Stanford University.  
   - *Institutional Meaning:* The dramatic exposure of structural epistemic corruption at the apex of Stanford's administrative hierarchy, showing that executive careerism and corporate biotechnology funding had compromised basic scientific truth.  
-  - *Sources:* Theo Baker, *How to Rule the World*, Ch. 1–12; The Stanford Daily archives (2022–2023).
+  - *Sources:* Theo Baker, *How to Rule the World* (Penguin, 2026), Prologue; chs. 4–5, 9, 16; Notes p. 311; The Stanford Daily archives (2022–2023).
 
 - **2022–2026 — Elon Musk, Twitter / xAI & The Defense Tech Acceleration**  
   - *Location:* San Francisco / Palo Alto / Austin.  
   - *Event:* Elon Musk acquires Twitter for $44 billion, fires 80% of staff, open-sources algorithms, and founds xAI on Stanford Avenue. Simultaneously, defense tech startups founded by Stanford/Thiel alumni (Palmer Luckey's Anduril Industries, Palantir, Hadrian) capture massive Pentagon contracts for autonomous drone swarms and algorithmic battlefield command systems.  
   - *Institutional Meaning:* The final transition of Silicon Valley from consumer software and social advertising to sovereign defense engineering, militarized AI compute clusters, and explicit geopolitical hegemony.  
-  - *Sources:* Faiz Siddiqui, *Hubris Maximus*, Ch. 9–18; Walter Isaacson, *Elon Musk*, Ch. 85–95; Theo Baker, *How to Rule the World*, Epilogue.
+  - *Sources:* Faiz Siddiqui, *Hubris Maximus*, Ch. 9–18; Walter Isaacson, *Elon Musk*, Ch. 85–95. [Baker, *How to Rule the World*, removed: it has no epilogue (it ends with a Coda) and no Twitter/xAI or defense-tech material.]
 
 ---
 
