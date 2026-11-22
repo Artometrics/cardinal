@@ -2,7 +2,7 @@
 
 ## The Summit
 
-Late May–June 1867. Donner Summit, Sierra Nevada.
+June 1867. Donner Summit, Sierra Nevada.
 
 Snow still lay in the cuts above the tunnel faces. The Central Pacific had been driving granite for two winters, measuring progress in inches per day, blasting with black powder and nitroglycerine while men worked in cold that turned breath to ice on beards and jacket collars. The Summit Tunnel was the line’s throat: until it opened, the Sierra remained a wall between Sacramento and the interior West.
 
@@ -14,11 +14,11 @@ Crocker's construction superintendent, James Strobridge, had opposed hiring Chin
 
 They were paid less than white workers doing the same work, and unlike white workers they were not provided with board, which they organised themselves. The company did not systematically record their deaths, which is why every figure offered is an estimate and why the estimates vary so widely. Avalanches, explosions, rockfalls, and cold killed men whose names rarely entered the official story the Promontory photograph would later tell.
 
-In late May, unbelievably and unacceptably, the Chinese went on strike. “This is the hardest blow we have had,” E. B. Crocker reported (Ambrose 2000, ch. 11).
+On Monday, 24 June 1867, the Chinese went on strike; E. B. Crocker's letter of 27 June dates it to “last Monday” (Chang 2019, pp. 147–150). Ambrose places the walkout in late May; Crocker's “this strike of the chinamen is the hardest blow we have had” comes from his letter of 28 June (Chang 2019, p. 151; Ambrose 2000, ch. 11).
 
 <!-- kyle: moments/Ambrose ch 11 -->
 
-The ledger in the project appendix fixes a date: 25 June 1867, several thousand men on the Sierra grade demanding pay parity and shorter tunnel hours (appendix-b-ledger.qmd). Ambrose places the walkout in late May; the company’s own later accounts blur the calendar. The strike’s length in days matters less than its length in leverage: long enough to frighten Crocker, short enough to break before bond deadlines slipped. Whether the walkout began in late May or consolidated in June, the fact on the ground was the same: labour that had been treated as replaceable stopped moving rock and rail at the moment the company needed it most.
+The ledger in the project appendix fixes a date: 24 June 1867, about three thousand men on the Sierra grade, from Cisco toward Truckee, demanding pay parity and shorter tunnel hours (appendix-b-ledger.qmd; Chang 2019, pp. 147–150). Ambrose places the walkout in late May, which the company’s June letters contradict. The strike’s length in days matters less than its length in leverage: long enough to frighten Crocker, short enough to break before bond deadlines slipped. The fact on the ground was the same: labour that had been treated as replaceable stopped moving rock and rail at the moment the company needed it most.
 
 Chang’s account of the walkout is quieter than a Hollywood strike. “The men who were working at that hour walked out of the tunnels and away from the tracks. The ones who were sleeping slept on…” (Chang 2019, ch. 7).
 
@@ -26,13 +26,13 @@ Chang’s account of the walkout is quieter than a Hollywood strike. “The men 
 
 No speeches survive in the company record like Crocker’s complaint. The action was spatial: bodies leaving the tunnel mouth, tools set down, the grade going still while foremen counted who was missing.
 
-The demands, as reconstructed in the secondary literature summarized in repo ch. 2-09, were concrete: wages equal to white workers doing the same work, shorter hours in the tunnels, and an end to whipping and to physical restraint when men tried to leave camp. By any measure it was one of the largest labour actions in the United States to that date.
+The demands, as reconstructed in the secondary literature summarized in repo ch. 2-09, were concrete: wages equal to white workers doing the same work ($40 a month) and shorter hours in the tunnels; one paper, the Sacramento Union, added an end to whipping and to physical restraint when men tried to leave camp (Chang 2019, pp. 147–152). By any measure it was one of the largest labour actions in the United States to that date.
 
-The timeline notes Stanford relayed warning about Chinese unhappiness to Huntington before the walkout (timeline.md; Chang 2019, ch. 7). If the governor in Sacramento knew trouble was coming and the men in the snow knew they had been underpaid for years, the strike was not a surprise. It was a bill presented after a long tab.
+On 18 May 1867 Stanford wrote to Mark Hopkins that he had heard of widespread unhappiness among Chinese workers contracted under Sisson (Chang 2019, p. 150). If the railroad's president, a former governor, knew trouble was coming and the men in the snow knew they had been underpaid for years, the strike was not a surprise. It was a bill presented after a long tab.
 
-Charles Crocker broke it in about a week by cutting off the food supply.
+It ended after about eight days, without concessions, once provisions were stopped; Charles Crocker later boasted, “I stopped the provisions” (Chang 2019, pp. 155–158).
 
-That sentence is the whole politics of the summit in seven words. The company did not argue the merits on a square. It controlled rice and pork and flour in camps miles from any town. Men who refused to work could be starved back to the face faster than any court could hear them. They went back to work.
+That is the whole politics of the summit. The company did not argue the merits on a square. It controlled rice and pork and flour in camps miles from any town. Men who refused to work could be starved back to the face faster than any court could hear them. They went back to work.
 
 ## After the strike
 
@@ -96,7 +96,7 @@ The summit was not a backdrop. It was the price of the photograph.
 
 ## Numbers without names
 
-Between ten and twelve thousand Chinese workers at peak. Several thousand on strike. A week to break them. Two years later, ten miles and fifty-six feet of track in a day. These figures come from company papers, congressional testimony summarized in secondary accounts, and the project ledger that lists 25 June 1867 as a strike date (repo ch. 2-09; appendix-b-ledger.qmd).
+Between ten and twelve thousand Chinese workers at peak. Several thousand on strike. A week to break them. Two years later, ten miles and fifty-six feet of track in a day. These figures come from company papers, congressional testimony summarized in secondary accounts, and the project ledger that lists 24 June 1867 as the strike's first day (repo ch. 2-09; appendix-b-ledger.qmd; Chang 2019, pp. 147–150).
 
 What the numbers do not carry is names in proportion. The Central Pacific did not systematically record Chinese deaths. Estimates of fatalities on the Sierra range widely in later scholarship. The company preferred records that could be shown to bondholders: miles completed, subsidies claimed, photographs taken.
 

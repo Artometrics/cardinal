@@ -1,0 +1,105 @@
+---
+import Base from '../../../layouts/Base.astro';
+import NotesSubnav from '../../../components/NotesSubnav.astro';
+import { getPart, getParts } from '../../../lib/research';
+
+export function getStaticPaths() {
+  return getParts().map((part) => ({ params: { slug: part.slug } }));
+}
+
+const part = getPart(Astro.params.slug);
+---
+
+<Base title={part.name} description={part.theme || part.subtitle || part.name}>
+  <article class="doc">
+    <h1 class="page-title">{part.name}</h1>
+    {part.subtitle && <p class="meta">{part.subtitle}</p>}
+    <NotesSubnav section="study" current="parts" />
+    <h2 class="group-label">The main mechanism</h2>
+    <ul class="bullet-list">
+      {part.dates && <li>Span: {part.dates}</li>}
+      {part.mechanism && <li>{part.mechanism}</li>}
+      {part.landing && <li>Lands on: {part.landing}</li>}
+    </ul>
+    <h2 class="group-label">Chapters</h2>
+    <ul class="bullet-list">
+      {
+        part.chapters.map((ch, i) => (
+          <li>
+            {i + 1}. {ch.dates ? `${ch.dates}. ` : ''}
+            <a href={ch.href}>{ch.title}</a>
+          </li>
+        ))
+      }
+    </ul>
+    <h2 class="group-label">Key people</h2>
+    {
+      part.keyPeople.length === 0 ? (
+        <p class="gap-note">Gap: no close-reading people list for this part yet.</p>
+      ) : (
+        <ul class="bullet-list">
+          {part.keyPeople.map((person) => (
+            <li>
+              {person.note || person.name}
+              {person.cite && <span class="cite"> — {person.cite}</span>}
+            </li>
+          ))}
+        </ul>
+      )
+    }
+    <h2 class="group-label">Key dates</h2>
+    {
+      part.keyDates.length === 0 ? (
+        <p class="gap-note">Gap: no close-reading dated events for this part yet.</p>
+      ) : (
+        <ul class="bullet-list">
+          {part.keyDates.map((row) => (
+            <li>
+              {row.date ? `${row.date}. ` : ''}
+              {row.event}
+              {row.cite && <span class="cite"> — {row.cite}</span>}
+            </li>
+          ))}
+        </ul>
+      )
+    }
+    <h2 class="group-label">Key money figures</h2>
+    {
+      part.keyMoney.length === 0 ? (
+        <p class="gap-note">Gap: no close-reading money figures for this part yet.</p>
+      ) : (
+        <ul class="bullet-list">
+          {part.keyMoney.map((row) => (
+            <li>
+              {row.text}
+              {row.source && <span class="cite"> — {row.source}</span>}
+            </li>
+          ))}
+        </ul>
+      )
+    }
+    <h2 class="group-label">Takeaways</h2>
+    <ul class="bullet-list">
+      {
+        part.takeaways.map((item) => (
+          <li>
+            {item.text}
+            <span class="cite"> — {item.source}</span>
+          </li>
+        ))
+      }
+    </ul>
+    {
+      part.gaps.length > 0 && (
+        <section>
+          <h2 class="group-label">Gaps</h2>
+          <ul class="bullet-list">
+            {part.gaps.map((gap) => (
+              <li>{gap}</li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+  </article>
+</Base>

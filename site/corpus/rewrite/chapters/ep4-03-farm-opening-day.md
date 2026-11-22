@@ -10,7 +10,7 @@ The Southern Pacific still ran trains past fields that had once been only Stanfo
 
 Among them was Herbert Hoover, seventeen years old, born in Iowa in 1874, raised in Oregon after his parents died, admitted to the pioneer class without a high school diploma (Harris 2023, ch. 2.3). He had come to study geology under John Casper Branner. He would later remember the day as the beginning of a life the university would adopt in ways he could not yet imagine—professors paying medical bills when typhoid struck, a geology lab where he would meet Lou Henry, a board seat in circumstances cloudy enough to raise questions decades later (Harris 2023, ch. 2.3; Whyte 2017, ch. 6). <!-- bib: whyte-hoover -->
 
-Hoover had arrived in the summer of 1891, before the university opened, among the first students resident on the campus—admitted conditionally after failing every entrance subject except mathematics, working his way through with a laundry agency and a lecture bureau (repo ch 3-01; Harris 2023, ch. 2.3).
+Hoover had arrived in the summer of 1891, before the university opened, among the first students resident on the campus—admitted conditionally after coming up short on the entrance examinations (Whyte 2017, 33), working his way through with a laundry agency and a lecture bureau (repo ch 3-01; Harris 2023, ch. 2.3 [needs page check]).
 
 Hoover stood on ground Leland Stanford had bought with railroad money. The founder himself was present for the opening. Jane Stanford was present. David Starr Jordan was inaugurated as president. Tuition was free. Women studied beside men. The curriculum promised usefulness rather than polish alone.
 
@@ -50,7 +50,7 @@ Jordan addressed the crowd as a scientist-president. His ichthyology had made hi
 
 Leland Stanford looked on a campus named for a dead boy. Jane Stanford looked on students who were not her son and would never be, exactly, though the vow from Florence had said they would be hers in another sense.
 
-Four hundred students would swell toward five hundred fifty-five in the first year. Faculty would lecture in unfinished halls. Construction would continue after the speeches ended.
+More than four hundred students registered on opening day, and 559 in the first year (Elliott 1937, p. 87; White 2022, ch. 10, p. 58). Faculty would lecture in unfinished halls. Construction would continue after the speeches ended.
 
 Hoover registered for geology. He worked in Branner's orbit. He managed student finances and baseball with the practicality of an orphan who had learned early that nobody else would keep the accounts straight. Jordan's technocratic faith—that society could be organized like a well-run mine—would seep into the pioneer class without requiring a sermon.
 

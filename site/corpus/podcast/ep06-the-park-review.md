@@ -14,7 +14,7 @@ Markup matches the spike script. `hebrides` is a bed already used in Episode 5, 
 
 ## This pass
 
-Pacific, counterculture, and Hoover notes, aired only where they sit inside 1945–1969. The Shultz–Bechtel–Reagan dinner (1978) and the Alaska fishing-trip line (1982) do not reach this hour. Steve Bechtel Sr. as a founding director of SRI in 1946 does.
+Pacific, counterculture, and Hoover notes, aired only where they sit inside 1945–1969. The Shultz–Bechtel–Reagan dinner (1978; [needs source]) and the Alaska fishing-trip line (1982) do not reach this hour. Steve Bechtel Sr. as a founding director of SRI in 1946 does.
 
 | Claim | Source | Status |
 | --- | --- | --- |
@@ -33,7 +33,7 @@ Pacific, counterculture, and Hoover notes, aired only where they sit inside 1945
 | Hoover Tower, Arthur Brown Jr., 285 feet. $600,000 decided in 1938. Bells from the Belgian pavilion at the 1939 fair. "For Peace Alone Do I Ring." Dedicated June 20, 1941. Wartime listening post. 1959: trustees set the Institution apart inside the university; Hoover’s private-enterprise charge. | Hoover Institution tower and timeline pages; the prior draft’s Brown / 285 / June 20 facts. | Aired. $600,000 × (1004.8/42.3) ≈ $14.3 million, spoken as "about fourteen million." CPI 1938 = 42.3, same cell as Episode 5. |
 | Famine survey: left LaGuardia March 17, 1946, in a C-54, age 71. "Old family doctor." Five weeks, about 35,000 miles, 25 countries. | Whyte, *Hoover*, pp. 575–585, as summarized in the Hoover research note. | Aired. He is not called the architect of the Marshall Plan. |
 | 1946 offer of "the only original portions" of the Goebbels diaries: handwritten 1925–26, typed 1942–43. The Nazi party archive at Hoover is microfilm; paper originals went to the Bundesarchiv. | Hoover Institution, "The Goebbels Diaries" and the 1948 acquisition note, via the Hoover research file. | Aired, with both caveats. The bunker and the Mercedes are not staged as the moment he took the diaries. |
-| SRI founded 1946. Steve Bechtel Sr. a founding director. | Denton, ch. 10. | Aired. The 1978 Palo Alto dinner for Reagan is cut as Episode 7’s decade. |
+| SRI founded 1946. Steve Bechtel Sr. a founding director. | Denton, ch. 10 ¶4, citing SRI's official history (Gibson 1981, p. 156). SRI's own history credits Robert E. Swain's 1925 idea; do not say “conceived by Hoover.” | Aired. The “1978 Palo Alto dinner for Reagan” [needs source — not in Denton or McCartney] is cut as Episode 7’s decade. |
 | Kesey, a Stanford writing fellow, in a government drug study at the Menlo Park VA on Willow Road. About $75 a session. Historians tie the study to CIA money. The careful accounts do not file it under the name MKUltra. The year is 1959 in some accounts and 1961 in others. | Harris; Stanford Magazine; the counterculture research note’s wording rule. | Aired. The year is spoken as loose. "$75, on the order of eight hundred dollars" is an order-of-magnitude conversion because the year is not pinned (the note’s own 1960 factor is about ×11). |
 | 1955: Stanford ceded 87.5 acres on Miranda Avenue for the Palo Alto VA. That is not the Menlo Park hospital. | Research note, citing the university’s land record. | Aired, as the disambiguation. |
 | May 5, 1965, the Warlocks at Magoo’s Pizza, Menlo Park. December 4, 1965, San Jose Acid Test, first billing as the Grateful Dead. Brand co-produced the Trips Festival in January 1966. He did not debut the Dead. | jerrygarcia.com; the city’s plaque; the research note’s correction on Brand. | Aired. |
@@ -49,7 +49,7 @@ Pacific, counterculture, and Hoover notes, aired only where they sit inside 1945
 
 | Item | Why it stayed off the air |
 | --- | --- |
-| Shultz at Bechtel (1974–82), the 1978 Palo Alto dinner, Weinberger, the Alaska line, the 1983 Aqaba pipeline. | After this hour. One sentence says a Bechtel president and a future cabinet are not this hour. |
+| Shultz at Bechtel (1974–82), the 1978 Palo Alto dinner [needs source], Weinberger, the Alaska line, the 1983 Aqaba pipeline. | After this hour. One sentence says a Bechtel president and a future cabinet are not this hour. |
 | Harris’s claim that Hoover helped MacArthur redeem Hirohito. | Marked TO VERIFY. |
 | MacArthur’s exact 1952 delegate count, and any single crowd total for April 17, 1951. | The note says the counts disagree or are unverified. |
 | "I shall return" at Terowie, March 20, 1942. | Date marked TO VERIFY. |

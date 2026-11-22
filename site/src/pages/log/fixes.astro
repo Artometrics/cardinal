@@ -1,0 +1,34 @@
+---
+import Base from '../../layouts/Base.astro';
+import NotesSubnav from '../../components/NotesSubnav.astro';
+import { getFixes } from '../../lib/research';
+import { renderMarkdown } from '../../lib/render';
+
+const fixes = getFixes();
+const html = fixes.markdown ? await renderMarkdown(fixes.markdown) : '';
+---
+
+<Base title="Draft fixes" description="Manuscript corrections flagged by the close reading, pending approval.">
+  <article class="doc">
+    <h1 class="page-title">Draft fixes</h1>
+    <p class="lede">
+      Proposed corrections to the Cardinal draft. Each item is marked pending approval and is not applied until it is signed off.
+    </p>
+    <NotesSubnav section="log" current="fixes" />
+    <p class="pending-note">{fixes.pendingLabel}. {fixes.items.length} items in this snapshot. Source: {fixes.source}.</p>
+    {
+      html ? (
+        <div class="prose" set:html={html} />
+      ) : (
+        <ol class="bullet-list">
+          {fixes.items.map((item) => (
+            <li>
+              {item.text}
+              <div class="cite">{item.status}{item.bookTitle ? ` — ${item.bookTitle}` : ''}</div>
+            </li>
+          ))}
+        </ol>
+      )
+    }
+  </article>
+</Base>

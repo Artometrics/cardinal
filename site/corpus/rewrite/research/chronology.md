@@ -23,13 +23,13 @@ The historical reality underlying *Cardinal* is that Silicon Valley is not the a
   - *Location:* San Francisquito Creek.  
   - *Event:* Gaspar de Portolá's expedition camps beneath the twin redwood tree (*El Palo Alto*). Father Juan Crespí records the strategic value of the Santa Clara Valley.  
   - *Institutional Meaning:* The establishment of Spanish imperial cadastral claims over the Ohlone lands; the redwood tree becomes the future seal and symbolic totem of Stanford University.  
-  - *Sources:* Malcolm Harris, *Palo Alto*, Ch. 1; Gray Brechin, *Imperial San Francisco*, Ch. 1.
+  - *Sources:* Malcolm Harris, *Palo Alto*, Ch. 1. (Not in Brechin.)
 
 - **1848–1850 — The Treaty of Guadalupe Hidalgo & The Gold Rush**  
   - *Location:* Alta California / San Francisco Bay.  
   - *Event:* California is ceded to the United States. Gold is discovered at Sutter's Mill. Leland Stanford, Charles Crocker, Collis Huntington, and Mark Hopkins arrive in Sacramento as dry-goods merchants and hardware purveyors.  
   - *Institutional Meaning:* The shift from pastoral Mexican rancho economy to rapid speculative Anglo-Saxon resource extraction. The future "Big Four" form their commercial alliance in Sacramento.  
-  - *Sources:* Richard White, *Railroaded*, Ch. 1; Rayner W. Kelsey, *The Associates*.
+  - *Sources:* Richard White, *Railroaded*, Ch. 1; Richard Rayner, *The Associates* (2008).
 
 - **1861–1862 — The Pacific Railway Act & The Central Pacific Railroad**  
   - *Location:* Sacramento, CA & Washington, D.C.  
@@ -39,16 +39,16 @@ The historical reality underlying *Cardinal* is that Silicon Valley is not the a
 
 - **1865–1869 — Chinese Labor & The Promontory Summit Fraud**  
   - *Location:* Sierra Nevada / Promontory Summit, Utah.  
-  - *Event:* Charles Crocker recruits over 15,000 Chinese laborers to blast through the granite of the Sierra Nevada. The "Contract and Finance Company"—a dummy corporation wholly owned by Stanford, Huntington, Hopkins, and Crocker—bills the federal government triple the actual construction costs.  
+  - *Event:* Charles Crocker's construction operation employs roughly ten to eleven thousand Chinese laborers at peak (the company sought fifteen to twenty thousand) to blast through the granite of the Sierra Nevada. The "Contract and Finance Company"—a construction company owned by Stanford, Huntington, Hopkins, and Crocker—is paid, by the Pacific Railway Commission's later estimate, roughly twice the actual cost of construction per mile; when a congressional investigation threatened, its books disappeared.  
   - *Date:* May 10, 1869: Leland Stanford drives the Golden Spike at Promontory Summit.  
   - *Institutional Meaning:* Massive racialized wage exploitation coupled with systemic accounting embezzlement creates the initial fortunes that will endow Stanford University.  
-  - *Sources:* Gordon H. Chang, *Ghosts of Gold Mountain*, Ch. 3–7; Richard White, *Railroaded*, Ch. 3.
+  - *Sources:* Gordon H. Chang, *Ghosts of Gold Mountain*, Ch. 3–9 (labor; pp. 124, 139, 195); Richard White, *Railroaded*, Ch. 1 ¶80, ¶94 (Contract and Finance), Ch. 7 ¶49 (headcount).
 
 - **1876 — Purchase of the Palo Alto Stock Farm**  
   - *Location:* Santa Clara County, CA.  
   - *Event:* Leland Stanford purchases the 650-acre Rancho San Francisquito property, eventually expanding it to an 8,000-acre estate known as the Palo Alto Stock Farm. Stanford applies Taylorist industrial precision to the breeding of trotting horses.  
   - *Institutional Meaning:* Stanford commissions Eadweard Muybridge to set up an array of 24 shuttered cameras along the track to prove whether a galloping horse's hooves leave the ground simultaneously. This proto-cinematic surveillance experiment forms the technological genesis of motion pictures and computer animation in Palo Alto.  
-  - *Sources:* Malcolm Harris, *Palo Alto*, Ch. 2; Gray Brechin, *Imperial San Francisco*, Ch. 3.
+  - *Sources:* Malcolm Harris, *Palo Alto*, Ch. 2. (Not in Brechin.)
 
 ---
 
@@ -56,40 +56,40 @@ The historical reality underlying *Cardinal* is that Silicon Valley is not the a
 
 - **March 13, 1884 — Death of Leland Stanford Jr. & The Founding Vow**  
   - *Location:* Hotel Bristol, Florence, Italy.  
-  - *Event:* Fifteen-year-old Leland Stanford Jr. dies of typhoid fever. Leland Stanford Sr. famously declares: *"The children of California shall be our children."*  
+  - *Event:* Fifteen-year-old Leland Stanford Jr. dies of typhoid fever. Leland Stanford Sr. later told David Starr Jordan he had woken on the morning of his son's death with the words *"The children of California shall be my children"* (O. L. Elliott, *Stanford University: The First Twenty-Five Years*, 1937, p. 13). The familiar "our children" form comes from Jordan's April 11, 1891 motto suggestion (Elliott); it is not in White, *Who Killed Jane Stanford?*  
   - *Institutional Meaning:* The grief-stricken oligarchs divert their railroad wealth into a secular cathedral of learning designed to perpetuate their dynastic lineage and ideological legacy in perpetuity.  
-  - *Sources:* Richard White, *Who Killed Jane Stanford?*, Ch. 1; Malcolm Harris, *Palo Alto*, Ch. 3.
+  - *Sources:* Richard White, *Who Killed Jane Stanford?*, Ch. 7 (p. 41ff.: typhoid, Florence, March 13, 1884) and Preface; Malcolm Harris, *Palo Alto*, Ch. 3.
 
 - **November 11, 1885 — The Founding Grant of Stanford University**  
   - *Location:* San Francisco / Sacramento.  
-  - *Event:* The Stanfords sign the Founding Grant creating Leland Stanford Junior University as an irrevocable, tax-exempt private trust under California law.  
+  - *Event:* The Stanfords sign the Founding Grant creating Leland Stanford Junior University as a private trust under California law (Enabling Act of March 1885; the Grant names the trustees). It was not tax-exempt: the tax exemption Jane Stanford wanted was dropped from the Crothers amendment, ratified November 6, 1900 (White, *Who Killed Jane Stanford?*, ch. 12, pp. 71–72).  
   - *Key Clauses:* The 8,180 acres of the Palo Alto campus can never be sold or alienated, establishing an indestructible geopolitical land empire.  
-  - *Sources:* Richard White, *Who Killed Jane Stanford?*, Ch. 2; Adam Winkler, *We the Corporations*.
+  - *Sources:* Richard White, *Who Killed Jane Stanford?*, Ch. 9 ¶24 (p. 53). [Acreage and no-sale clause: needs source. Winkler, *We the Corporations*, does not discuss the Founding Grant, so that citation was removed.]
 
 - **October 1, 1891 — Stanford University Opens**  
   - *Location:* Inner Quad, Palo Alto, CA.  
-  - *Event:* The university opens tuition-free to 555 students. David Starr Jordan, an Indiana ichthyologist and disciple of Agassiz, is inaugurated as the founding president. Among the pioneer class is an orphaned 17-year-old geology student named Herbert Hoover.  
+  - *Event:* The university opens tuition-free to 555 students (the university's count; White, *Who Killed Jane Stanford?*, ch. 10 p. 58, counts 559). David Starr Jordan, an Indiana ichthyologist and disciple of Agassiz, is inaugurated as the founding president. Among the pioneer class is an orphaned 17-year-old geology student named Herbert Hoover.  
   - *Institutional Meaning:* Jordan embeds social Darwinism, racial taxonomy, and biological efficiency into the foundational ethos of the university.  
   - *Sources:* Lulu Miller, *Why Fish Don't Exist*, Ch. 4–6; Kenneth Whyte, *Hoover*, Ch. 2.
 
 - **June 21, 1893 — Death of Leland Stanford & The Insolvency Crisis**  
   - *Location:* Palo Alto Mansion.  
-  - *Event:* Leland Stanford dies in his sleep of heart failure. The federal government files suit to seize the Stanford estate to recoup the $15 million in defaulted Central Pacific Pacific Railway Act bonds.  
-  - *Institutional Meaning:* Jane Stanford refuses to close the university, financing faculty salaries out of her personal jewelry allowance and widow's stipend while fighting the case to the U.S. Supreme Court.  
-  - *Sources:* Richard White, *Who Killed Jane Stanford?*, Ch. 3; Richard White, *Railroaded*, Ch. 11.
+  - *Event:* Leland Stanford dies in his sleep of heart failure. Within months, the federal government sues the Stanford estate for $15,237,000 over the Central Pacific's Pacific Railway Act bonds; the suit fails (United States v. Stanford, 161 U.S. 412, affirmed March 2, 1896).  
+  - *Institutional Meaning:* Jane Stanford refuses to close the university, keeping it running on the household allowance the court allowed her, an insurance policy and the sale of personal belongings, and cutting salaries by 10 percent (White, *Who Killed Jane Stanford?*, ch. 10 ¶17, pp. 58–59), while fighting the case to the U.S. Supreme Court.  
+  - *Sources:* Richard White, *Who Killed Jane Stanford?*, Ch. 10 ¶17–19 (pp. 58–59); Richard White, *Railroaded*, Ch. 9 ¶103–108.
 
 - **January 14, 1905 — The Nob Hill Strychnine Attempt**  
   - *Location:* Stanford Mansion, Nob Hill, San Francisco.  
   - *Event:* Jane Stanford drinks Poland Spring water from a bottle in her bedroom, tastes bitterness, and induces vomiting. Chemical analysis reveals massive lethal quantities of strychnine.  
   - *Institutional Meaning:* Jane suspects members of her inner household or university leadership. She prepares to travel to Honolulu, intending to dismiss David Starr Jordan upon her return.  
-  - *Sources:* Richard White, *Who Killed Jane Stanford?*, Ch. 5–7.
+  - *Sources:* Richard White, *Who Killed Jane Stanford?*, Chs. 1–2 (the January poisoning); ch. 35 p. 201 ("It had been Stanford’s intention to fire both of them [Jordan and Hopkins] on her return").
 
 - **February 28, 1905 — The Murder of Jane Stanford**  
   - *Location:* Moana Hotel, Waikiki, Honolulu, Hawaii.  
-  - *Event:* Jane Stanford drinks bicarbonate of soda in her hotel room, suffers violent muscular convulsions and tetanic spasms, and dies crying: *"This is a horrible death to die... I have been poisoned."*  
-  - *The Autopsy:* Hawaiian territorial physicians and toxicologists recover strychnine from her stomach, liver, and intestines, with a formal coroner's inquest ruling murder by person or persons unknown.  
-  - *The Coverup:* David Starr Jordan rushes to Honolulu on a chartered steamer with a paid physician (Dr. Ernest Forbes), pressures the press and officials, and fabricates a false narrative that Jane died of "heart disease caused by a heavy dinner." Jordan successfully buries the criminal investigation to protect the university's reputation and financial security.  
-  - *Sources:* Richard White, *Who Killed Jane Stanford?*, Ch. 8–15; Malcolm Harris, *Palo Alto*, Ch. 4.
+  - *Event:* Jane Stanford drinks bicarbonate of soda in her hotel room, suffers violent muscular convulsions and tetanic spasms, and dies. She tells Dr. Humphris she has been poisoned again; her last words are *"This a horrible death to die"* (White, *Who Killed Jane Stanford?*, ch. 29, pp. 171–173).  
+  - *The Autopsy:* Hawaiian territorial physicians and toxicologists recover strychnine from her stomach, liver, and intestines, The coroner's jury convened March 6 and returned its verdict the evening of March 9 (printed March 10): strychnine "introduced into a bottle of bicarbonate of soda with felonious intent by some person or persons to this Jury unknown" (White, ch. 36, pp. 205–211).  
+  - *The Coverup:* David Starr Jordan sails on the S.S. *Alameda* (it left March 4) with trustee Timothy Hopkins and detectives Jules Callundan and Harry Reynolds, and arrives March 10. In Honolulu he engages Dr. Ernest C. Waterhouse, who never saw the body, to dispute the poisoning. On the night before the March 15 funeral, Jordan and Hopkins issue a statement that she died of "advanced age, the unaccustomed exertion, a surfeit of unsuitable food, and the unusual exposure of the picnic party" (White, chs. 35, 41, 42, pp. 201, 234–241). San Francisco physicians recruited by Mountford Wilson called it angina pectoris (ch. 40, p. 231). Jordan successfully buries the criminal investigation to protect the university's reputation and financial security.  
+  - *Sources:* Richard White, *Who Killed Jane Stanford?*, Chs. 28–47 (pp. 167–289); Malcolm Harris, *Palo Alto*, Ch. 4.
 
 ---
 
@@ -99,7 +99,7 @@ The historical reality underlying *Cardinal* is that Silicon Valley is not the a
   - *Location:* San Francisco & Palo Alto.  
   - *Event:* The San Andreas fault slips. The newly constructed Stanford Memorial Church, Library, and Gymnasium collapse in ruins.  
   - *Institutional Meaning:* Jordan rebuilds the university using reinforced concrete and structural steel, while consolidation of university governance shifts to corporate trustees and alumni engineers.  
-  - *Sources:* Gray Brechin, *Imperial San Francisco*, Ch. 5; Kenneth Whyte, *Hoover*, Ch. 4.
+  - *Sources:* Kenneth Whyte, *Hoover*, Ch. 4; Gray Brechin, *Imperial San Francisco*, p. 283 n1 (the Memorial Arch felled in 1906 only). Governance shift: [needs source].
 
 - **1909–1912 — Federal Telegraph Company & The Audio Amplifying Tube**  
   - *Location:* Emerson Street, Palo Alto, CA.  
@@ -229,16 +229,16 @@ The historical reality underlying *Cardinal* is that Silicon Valley is not the a
 
 - **November 2022–July 2023 — The Tessier-Lavigne Research Fraud Scandal**  
   - *Location:* Stanford Presidential Office / The Stanford Daily.  
-  - *Event:* Eighteen-year-old freshman journalist Theo Baker publishes an investigative series in *The Stanford Daily* demonstrating that prominent scientific papers authored by Stanford President Marc Tessier-Lavigne contained falsified, duplicated, and fabricated Western blot images.  
-  - *The Resignation:* In July 2023, following an independent panel report confirming pervasive manipulation of scientific data across his labs, Tessier-Lavigne announces his resignation as President of Stanford University.  
+  - *Event:* Theo Baker, a seventeen-year-old freshman (he came west "at age seventeen", Baker, Prologue, p. 5), was tipped to PubPeer on November 1, 2022. On November 29, 2022 he published his first *Stanford Daily* article raising questions about manipulated images in papers co-authored by President Marc Tessier-Lavigne. Three independent forensic image analysts reviewed the figures. The board announced an investigation the same day (Baker, ch. 4, pp. 73–94; Notes, p. 311).  
+  - *The Resignation:* In July 2023, after the special committee's scientific panel found manipulation of research data in his lab and "serious flaws" in each of the five papers on which he was a principal author, though it did not find that he knew of the manipulation or committed misconduct himself (Baker, ch. 16, pp. 284–288), Tessier-Lavigne announces his resignation as President of Stanford University.  
   - *Institutional Meaning:* The dramatic exposure of structural epistemic corruption at the apex of Stanford's administrative hierarchy, showing that executive careerism and corporate biotechnology funding had compromised basic scientific truth.  
-  - *Sources:* Theo Baker, *How to Rule the World*, Ch. 1–12; The Stanford Daily archives (2022–2023).
+  - *Sources:* Theo Baker, *How to Rule the World* (Penguin, 2026), Prologue; chs. 4–5, 9, 16; Notes p. 311; The Stanford Daily archives (2022–2023).
 
 - **2022–2026 — Elon Musk, Twitter / xAI & The Defense Tech Acceleration**  
   - *Location:* San Francisco / Palo Alto / Austin.  
   - *Event:* Elon Musk acquires Twitter for $44 billion, fires 80% of staff, open-sources algorithms, and founds xAI on Stanford Avenue. Simultaneously, defense tech startups founded by Stanford/Thiel alumni (Palmer Luckey's Anduril Industries, Palantir, Hadrian) capture massive Pentagon contracts for autonomous drone swarms and algorithmic battlefield command systems.  
   - *Institutional Meaning:* The final transition of Silicon Valley from consumer software and social advertising to sovereign defense engineering, militarized AI compute clusters, and explicit geopolitical hegemony.  
-  - *Sources:* Faiz Siddiqui, *Hubris Maximus*, Ch. 9–18; Walter Isaacson, *Elon Musk*, Ch. 85–95; Theo Baker, *How to Rule the World*, Epilogue.
+  - *Sources:* Faiz Siddiqui, *Hubris Maximus*, Ch. 9–18; Walter Isaacson, *Elon Musk*, Ch. 85–95. [Baker, *How to Rule the World*, removed: it has no epilogue (it ends with a Coda) and no Twitter/xAI or defense-tech material.]
 
 ---
 

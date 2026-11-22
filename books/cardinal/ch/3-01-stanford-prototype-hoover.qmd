@@ -23,8 +23,8 @@ makes a poor orphan from Iowa legible to London mining finance. Legitimacy as a
 portable instrument, exactly as Act I ch. 2 promised.
 
 **The key fact.** Hoover was an orphan with no inherited capital who arrived for
-Stanford's opening year and failed the entrance examination in everything but
-mathematics. He was admitted conditionally. The pipeline's prototype nearly did
+Stanford's opening year and came up short on the entrance examinations. He was
+admitted conditionally, on condition that he catch up on geometry (Whyte 2017, 33). The pipeline's prototype nearly did
 not get in.
 
 **The human anchor.** Hoover and Lou Henry Hoover in Tianjin during the siege of
@@ -46,8 +46,8 @@ access to international mining finance within a decade.
 ::: {.callout-tip collapse="true"}
 ## Working summary
 
-Herbert Hoover failed Stanford's entrance examination in everything except
-mathematics. He was admitted conditionally, in 1891, to a university that had
+Herbert Hoover came up short on Stanford's entrance examinations. He was
+admitted conditionally, in 1891, to a university that had
 opened that month and was not yet finished being built. Four years later he
 graduated in the pioneer class with a geology degree, no money, and no family
 standing — and within fifteen years he was managing mining operations on four
@@ -61,7 +61,8 @@ portable monopoly; this is the first chapter in which someone carries one out of
 a building and cashes it.
 
 The route is worth tracing precisely, because each step is a recommendation
-rather than an application. Ore carts in Nevada, then a clerkship, then Louis
+rather than an application. Mucking in the Grass Valley mines of Nevada County,
+California, then work for Louis
 Janin, then Bewick, Moreing in London, then Australia in 1897 and the Sons of
 Gwalia mine at Coolgardie. What a mining engineer actually does is survey,
 account, price risk, manage labour, arrange logistics, and negotiate with
@@ -79,7 +80,7 @@ Chinese mines produced litigation that followed Hoover for years, and the
 strongest version of the case against him is given before the record is
 assessed.
 
-By 1901 he is a partner in the firm. Technical training plus capital access plus
+At the end of 1901 he buys an operating partnership in the firm. Technical training plus capital access plus
 institutional network equals global leverage — the formula Act II spends twelve
 chapters testing.
 :::
@@ -87,14 +88,14 @@ chapters testing.
 ::: {.callout-caution collapse="true"}
 ## Beats
 
-1. **Hook.** He failed the entrance exam. Open on the conditional admission of
+1. **Hook.** He came up short on the entrance exams. Open on the conditional admission of
    the man the whole act is about.
 2. **The pioneer class, 1891–1895.** What Stanford was in its first four years:
    unfinished, free, and coeducational. Geology under John Casper Branner.
 3. **Lou Henry.** Stanford geology, 1898, and the only woman in her programme.
    Establish her as a peer, not a spouse, because the chapter's argument needs
    the network to be two people wide.
-4. **The first jobs.** Pushing ore carts in Nevada, then a clerk's post, then
+4. **The first jobs.** Mucking at the Reward and Mayflower mines in Nevada County, California, then work for Louis Janin, then
    Bewick, Moreing in London. Trace the specific mechanism of each step — who
    recommended him, and on what basis.
 5. **Australia, 1897.** Coolgardie, the Sons of Gwalia. What a mining engineer
@@ -107,7 +108,7 @@ chapters testing.
 8. **The Kaiping controversy.** The disputed transfer of the mines and the
    litigation that followed. Give the strongest version of the case against him,
    per the voice rule, and say what the record supports.
-9. **Landing.** By 1901 he is a partner. Technical training plus capital access
+9. **Landing.** At the end of 1901 he buys an operating partnership. Technical training plus capital access
    plus institutional network equals global leverage. Name the formula; Act II
    spends twelve chapters testing it.
 :::
@@ -118,16 +119,17 @@ chapters testing.
 What does the Stanford pipeline produce?
 :::
 
-Herbert Hoover failed the entrance examination.
+Herbert Hoover came up short on the entrance examinations.
 
 He was seventeen, an orphan from an Iowa Quaker family raised by relatives in
-Oregon, working as a clerk and taking night classes in bookkeeping and typing. A
-Stanford geology professor named Joseph Swain came through Portland recruiting
-for a university that had not yet opened and encouraged him to sit the
-examination. He passed mathematics and failed everything else.
+Oregon, working as a clerk and taking night classes in bookkeeping and typing. Joseph
+Swain, a professor in Stanford's inaugural mathematics department, administered
+the entrance examinations in Portland for a university that had not yet opened.
+Hoover came up short (Whyte 2017, 33).
 
-He was admitted conditionally, on the understanding that he would make up the
-deficiencies, and arrived at Palo Alto in the summer of 1891 — before the
+He was admitted conditionally, on the understanding that he would catch up on
+geometry; on campus he later failed English, and Whyte concludes that,
+"strictly speaking, he did not earn his degree" (Whyte 2017, 33, 35), and arrived at Palo Alto in the summer of 1891 — before the
 university opened, which meant he was among the first students to be resident on
 the campus. He worked his way through, running a laundry agency and a lecture
 bureau. He graduated in the pioneer class of 1895 with a degree in geology.
@@ -156,12 +158,16 @@ about a deposit were true. They needed people who could go and look, who
 understood the geology, and whose reports could be trusted. Trust was the scarce
 input, and a degree from a serious institution was the available proxy for it.
 
-Hoover's first job after graduating was pushing ore carts in a Nevada mine at
-two dollars a day, which is worth recording because it puts the credential in
-perspective: it opened a door, it did not deliver a career. What moved him was
-the recommendation of Louis Janin, a prominent San Francisco mining engineer for
-whom he clerked, to the London firm of Bewick, Moreing and Company. In 1897, at
-twenty-three, he was sent to Western Australia.
+Hoover's first mine job after graduating was as a mucker at the Reward mine and
+then the Mayflower, around Grass Valley and Nevada City in Nevada County,
+California, at two dollars and then two-fifty a day (Whyte 2017, 45–46), which is
+worth recording because it puts the credential in perspective: it opened a door,
+it did not deliver a career. What moved him was the recommendation of Louis
+Janin, a Yale- and Freiburg-trained San Francisco mining engineer, to the London
+firm of Bewick, Moreing and Company. Hoover later told it as a copyist-to-engineer
+story; Whyte finds that account dubious and ties the recommendation to Hoover's
+work on the North Star litigation (Whyte 2017, 46–48). In 1897, at twenty-two, he
+was sent to Western Australia (Whyte 2017, 49–50, 54).
 
 Each step in this sequence is a recommendation rather than an application. That
 is what a network is, and the university is where he acquired one.
@@ -187,9 +193,11 @@ simultaneously engineering, financial, and political. When the First World War
 arrives in chapter 4, this will turn out to be the only relevant skill set in
 existence.
 
-In 1899 the firm sent him to China as chief engineer for a mining concern
-operating at Kaiping, north-east of Tianjin, under a concession from the Chinese
-government.
+In 1899 he went to China as technical adviser to Chang Yen-mao, who paid his
+$12,500 salary, to survey mines in Chang's realm; Moreing gave him a private profit
+share, and he later became chief engineer of the Chinese Engineering and Mining
+Company's operations at Kaiping, north-east of Tianjin, and of the new Chihli
+Mining Bureau (Whyte 2017, 70–71, 76).
 
 ## Lou Henry
 
@@ -235,10 +243,13 @@ Chinese director who had signed the transfer, Chang Yen-mao, subsequently sued
 in the English courts, arguing that the transfer had been procured on
 misrepresentations and that the terms actually agreed had not been honoured.
 
-The 1905 judgment substantially favoured Chang on the central question: the
-court found that the memorandum he had relied on had not been given effect and
-ordered that it be observed. Hoover's own conduct was defended by the court in
-some respects and his role was not the principal target, but he had participated
+The 1905 judgment substantially favoured Chang on the central question: after a
+trial that ran from 17 January to 1 March 1905, Mr Justice Joyce held the 19
+February 1901 memorandum binding and ordered that it be observed. Hoover was a
+witness, not a named defendant; Whyte calls his testimony "disingenuous" and
+reports that Hoover later gathered and apparently destroyed every copy of the
+court minutes he could find (Whyte 2017, 94, 100–102). His role was not the
+principal target, but he had participated
 in and profited from a transaction in which a Chinese enterprise passed into
 British control on terms a British court found had not been kept.
 
@@ -250,8 +261,10 @@ documents.
 
 ## The formula
 
-By 1901 Hoover was a partner in Bewick, Moreing. By 1908 he was running his own
-consultancy with interests worldwide. He was, in a decade and a half, one of the
+At the end of 1901 Hoover bought an operating partnership in Bewick, Moreing for
+$40,000, borrowed from the firm, for 20 percent of profits; he sold out as of 30
+June 1908 for $150,000 and was soon running his own consultancy (Whyte 2017, 89,
+104, 117), with interests worldwide. He was, in a decade and a half, one of the
 richest self-made men in the profession.
 
 Technical training, plus capital access, plus institutional network, equals

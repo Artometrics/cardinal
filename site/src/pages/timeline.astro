@@ -1,6 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import { getLedger } from '../lib/load';
+import { artFor } from '../lib/timeline-art';
 
 const rows = getLedger();
 const counts = rows.reduce<Record<string, number>>((acc, row) => {
@@ -11,6 +12,7 @@ const counts = rows.reduce<Record<string, number>>((acc, row) => {
 const tally = Object.entries(counts)
   .map(([status, n]) => `${n} ${status}`)
   .join(', ');
+const withArt = rows.filter((row) => artFor(row)).length;
 ---
 
 <Base title="Timeline" description="The manuscript event ledger, in the order the file records, with each row's verification status.">
@@ -26,20 +28,39 @@ const tally = Object.entries(counts)
     </p>
     <ol class="ledger">
       {
-        rows.map((row) => (
-          <li>
-            <p class="when">{row.date}</p>
-            <div>
-              <p class="what">{row.event}</p>
-              {row.location && <p class="meta">{row.location}</p>}
-              {row.why && <p class="meta">{row.why}</p>}
-              {row.note && <p class="meta">{row.note}</p>}
-              <p class="status">{row.status}</p>
-            </div>
-          </li>
-        ))
+        rows.map((row) => {
+          const art = artFor(row);
+          return (
+            <li>
+              {art && (
+                <figure class="card-art">
+                  <img
+                    src={art.src}
+                    alt={art.alt}
+                    width="1280"
+                    height="720"
+                    loading="lazy"
+                    decoding="async"
+                  />
+                  <figcaption>{art.caption}</figcaption>
+                </figure>
+              )}
+              <div class="card-body">
+                <p class="when">{row.date}</p>
+                <p class="what">{row.event}</p>
+                {row.location && <p class="meta place">{row.location}</p>}
+                {row.why && <p class="meta why">{row.why}</p>}
+                {row.note && <p class="meta note">{row.note}</p>}
+                {row.status && <p class="status">{row.status}</p>}
+              </div>
+            </li>
+          );
+        })
       }
     </ol>
-    <p class="bill">Rows are the file <code>books/cardinal/_project/event-ledger.csv</code>.</p>
+    <p class="bill">
+      Rows are the file <code>books/cardinal/_project/event-ledger.csv</code>.
+      Illustrated reconstructions sit above the date on each card when art is ready ({withArt} of {rows.length} so far). They are not archival photographs.
+    </p>
   </article>
 </Base>

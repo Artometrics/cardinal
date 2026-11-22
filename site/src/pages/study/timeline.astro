@@ -1,0 +1,35 @@
+---
+import Base from '../../layouts/Base.astro';
+import NotesSubnav from '../../components/NotesSubnav.astro';
+import { getStudyTimeline } from '../../lib/research';
+
+const events = getStudyTimeline();
+---
+
+<Base title="Study Guide timeline" description="Dated events from the close-reading notes, in a bullet list.">
+  <article class="doc">
+    <h1 class="page-title">Timeline</h1>
+    <p class="lede">
+      Dated events taken from the close-reading notes, with page cites. The manuscript ledger remains on
+      <a href="/timeline">Timeline</a>.
+    </p>
+    <NotesSubnav section="study" current="timeline" />
+    {
+      events.length === 0 ? (
+        <p class="gap-note">Gap: no dated events have been filed in the notes yet.</p>
+      ) : (
+        <ul class="bullet-list">
+          {events.map((row) => (
+            <li>
+              <strong>{row.date}</strong>
+              {': '}
+              {row.event}
+              {row.cite && <span class="cite"> — {row.cite}</span>}
+              {row.source && <span class="cite"> ({row.source})</span>}
+            </li>
+          ))}
+        </ul>
+      )
+    }
+  </article>
+</Base>

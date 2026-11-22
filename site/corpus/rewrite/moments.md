@@ -9,7 +9,7 @@ Quotes were checked against the EPUB text extracted on Oct 13, 2026. Page number
   - *Why:* Huntington stuck in the mud of Panama in 1849: our toll-man starts as a stranded traveler.
 - **Rayner, The Associates** (Notes, ch 3): Judah, Sacramento Union, Nov 9, 1860: “I have struck a lucky streak.”
   - *Why:* The surveyor's optimism before he is pushed out.
-- **Ambrose, Nothing Like It** (Ch 11 (1867)): “In late May, unbelievably and unacceptably, the Chinese went on strike. ‘This is the hardest blow we have had,’ E. B. Crocker reported.”
+- **Ambrose, Nothing Like It** (Ch 11 (1867)): “In late May, unbelievably and unacceptably, the Chinese went on strike. ‘This is the hardest blow we have had,’ E. B. Crocker reported.” (Do not use Ambrose's date: the strike began Monday, June 24, 1867; Chang pp. 147–150.)
   - *Why:* Labor revolt at the summit, with the boss's own words. **[Ambrose's framing is dated; pair with Chang]**
 - **Ambrose, Nothing Like It** (Ch 16): Crocker “offered a bet of $10,000 to Durant, saying that the CP would lay ten miles of track in one day.”
   - *Why:* A wager and a race against the clock.
@@ -43,7 +43,7 @@ Quotes were checked against the EPUB text extracted on Oct 13, 2026. Page number
 ## Episode 4
 - **Harris, Palo Alto** (Ch 1.3): Stanford rehired Muybridge in 1876, “apparently not begrudging Helios the murder and child abandonment” in between.
   - *Why:* The man who invents cinema on the farm had just killed his wife's lover. **[DEEP CUT]**
-- **Miller, Why Fish Don't Exist** (Ch 4): Paraphrase: in 1890 the Stanfords travel to Bloomington to recruit Jordan; Jane soon becomes “the only mark on David’s dream life.”
+- **Miller, Why Fish Don't Exist** (Ch 4): Paraphrase: the Stanfords travel to Bloomington to recruit Jordan (Miller says 1890; it was March 21–22, 1891, per McMains 2019); Jane soon becomes “the only mark on David’s dream life.”
   - *Why:* The president and the widow at odds. **[Miller argues Jordan's involvement; contested]**
 - **Miller, Why Fish Don't Exist** (Ch 9): Paraphrase: upon learning the death would be ruled a poisoning, Jordan “set sail for Hawaii.”
   - *Why:* The president races to control the story. **[contested]**

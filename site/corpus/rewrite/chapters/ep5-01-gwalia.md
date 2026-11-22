@@ -24,7 +24,7 @@ What he had was a certified technical competence that a London capital market ne
 
 The mining industry of the 1890s ran on a specific informational problem. Investors in London were funding operations in Western Australia, South Africa, Burma, and China, and they had no way of knowing whether the promoters' claims about a deposit were true. They needed people who could go and look, who understood the geology, and whose reports could be trusted. Trust was the scarce input, and a degree from a serious institution was the available proxy for it.
 
-His first job after graduating was pushing ore carts in a Nevada mine at two dollars a day. The credential opened a door. It did not deliver a career. What moved him was the recommendation of Louis Janin, a prominent San Francisco mining engineer for whom he clerked, to the London firm of Bewick, Moreing and Company. In 1897, at twenty-three, he was sent to Western Australia.
+His first mine job after graduating was as a mucker at the Reward and then the Mayflower mines around Grass Valley, in Nevada County, California, at two dollars and then two-fifty a day (Whyte 2017, 45–46). The credential opened a door. It did not deliver a career. What moved him was the recommendation of Louis Janin, a Yale- and Freiburg-trained San Francisco mining engineer, to the London firm of Bewick, Moreing and Company. Hoover later told it as a copyist-to-engineer story; Whyte doubts that account (Whyte 2017, 46–48). In 1897, at twenty-two, he was sent to Western Australia (Whyte 2017, 49–50, 54).
 
 Each step in that sequence is a recommendation rather than an application. That is what a network is, and the university is where he acquired one.
 
@@ -32,7 +32,7 @@ Each step in that sequence is a recommendation rather than an application. That 
 
 The relationship was not abstract. When Hoover fell ill with typhoid as a junior, his professor John Casper Branner “even paid his favorite pupil’s medical bills” (Harris 2023, ch. 2.3). Branner was chairman of the geology department, later president of the university, and the man who would stand at Hoover's wedding. The orphan was being folded into a patronage line that ran through the campus and out into the professions.
 
-In Branner's presence, in a geology lab, Lou Henry first laid eyes on Herbert Hoover (Whyte 2021, 43). She entered Stanford in 1894 and took a degree in geology in 1898 — the only woman in the programme at a time when the field was closed to women almost everywhere. They married in Monterey in February 1899 and sailed for China the next day.
+In Branner's presence, in a geology lab, Lou Henry first laid eyes on Herbert Hoover (Whyte 2017, 43). She entered Stanford in 1894 and took a degree in geology in 1898 — the only woman in the programme at a time when the field was closed to women almost everywhere. They married in Monterey in February 1899 and sailed for China the next day.
 
 They were both Stanford geologists. The partnership is the network operating at its smallest possible scale, and it was formed in a laboratory.
 
@@ -48,13 +48,13 @@ That is a general management education conducted under difficult conditions, and
 
 The humanitarian Hoover would feed Belgium through a blockade and run American relief after the Mississippi flood. The engineer Hoover left a record in Western Australia that does not fit the later legend as neatly.
 
-A 1905 Royal Commission found the air at Hoover's Sons of Gwalia mine “notably bad” (Whyte 2021, 100). The finding sits in the public record beside the balance sheets he kept so carefully. Men worked in heat and dust while London read his valuations. The commission did not stop the mine. It named a cost the market had not priced.
+A 1905 Royal Commission found the air at Hoover's Sons of Gwalia mine “notably bad” (Whyte 2017, 100). The finding sits in the public record beside the balance sheets he kept so carefully. Men worked in heat and dust while London read his valuations. The commission did not stop the mine. It named a cost the market had not priced.
 
 Hoover would spend decades defending his professional reputation. The honest summary, at this distance, is that he was a young man doing what his industry did, in a legal environment created by imperial power, and that the industry's normal practice was extractive in ways courts and commissions would later document.
 
 ## China and Tianjin
 
-In 1899 the firm sent him to China as chief engineer for a mining concern operating at Kaiping, north-east of Tianjin, under a concession from the Chinese government.
+In 1899 he went to China as technical adviser to Chang Yen-mao, who paid his $12,500 salary, to survey mines in Chang's realm; Moreing gave him a private profit share, and he later became chief engineer of the Chinese Engineering and Mining Company's operations at Kaiping, north-east of Tianjin, and of the new Chihli Mining Bureau (Whyte 2017, 70–71, 76).
 
 In the summer of 1900 the Boxer Uprising reached Tianjin, and the foreign settlement was besieged for roughly a month. The Hoovers were inside it. He organised the barricades and the food and water supply. She worked in the hospital, and by several accounts carried a revolver and rode a bicycle through streets under fire.
 
@@ -72,14 +72,14 @@ Hoover spent decades disputing characterisations of the affair and it followed h
 
 ## The formula
 
-By 1901 Hoover was a partner in Bewick, Moreing. By 1908 he was running his own consultancy with interests worldwide. He was, in a decade and a half, one of the richest self-made men in the profession.
+At the end of 1901 Hoover bought an operating partnership in Bewick, Moreing for $40,000, borrowed from the firm; he sold out as of 30 June 1908 for $150,000 and was soon running his own consultancy with interests worldwide (Whyte 2017, 89, 104, 117). He was, in a decade and a half, one of the richest self-made men in the profession.
 
 Technical training, plus capital access, plus institutional network, equals global leverage.
 <!-- kyle: ch/3-01-stanford-prototype-hoover.qmd -->
 
 That is the formula, and it is the thing Stanford turned out to manufacture. Not scholars, not gentlemen, and not — at this stage — capitalists. Managers of complex systems, credentialled by an institution whose certification a distant market would accept, who could be dropped into any extraction economy on earth and produce a return.
 
-In 1912 he would join the Stanford board of trustees, “in circumstances as cloudy as the awarding of his geology degree” (Whyte 2021, 124). The pioneer student was becoming the owner's representative. The mine at Gwalia was only the first place the pipeline sent him.
+In 1912 he would join the Stanford board of trustees, “in circumstances as cloudy as the awarding of his geology degree” (Whyte 2017, 124). The pioneer student was becoming the owner's representative. The mine at Gwalia was only the first place the pipeline sent him.
 
 ## The cable
 
@@ -97,7 +97,7 @@ The people being valued did not appear as people in the valuations. Across the g
 
 ## Conditional admit
 
-The pipeline's prototype nearly did not get in. Hoover failed the entrance exam in everything but mathematics and was admitted on condition. That conditional line matters: the institution could have said no. It said yes, and then Branner paid the typhoid bills and stood at the wedding. The orphan was being claimed.
+The pipeline's prototype nearly did not get in. Hoover came up short on the entrance exams and was admitted on condition that he catch up on geometry (Whyte 2017, 33). That conditional line matters: the institution could have said no. It said yes, and then Branner paid the typhoid bills and stood at the wedding. The orphan was being claimed.
 
 When Hoover joined the board in 1912, the claim was complete. The graduate represented the owners. The mine engineer who had recommended Gwalia would later feed continents and preside over a country, and the university would archive the wars he opposed and the revolutions he feared.
 

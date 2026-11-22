@@ -1,0 +1,64 @@
+---
+import Base from '../../layouts/Base.astro';
+import NotesSubnav from '../../components/NotesSubnav.astro';
+import { getManifest, getNotes, getSessions } from '../../lib/research';
+
+const manifest = getManifest();
+const notes = getNotes();
+const sessions = [...getSessions()].sort((a, b) => b.date.localeCompare(a.date) || b.id.localeCompare(a.id));
+---
+
+<Base title="Research Log" description="Close-reading sessions, notes, the Cardinal Canon, and draft fixes.">
+  <article class="doc wide">
+    <h1 class="page-title">Research Log</h1>
+    <p class="lede">
+      Dated close-reading sessions, the notes for each book, the Canon of settled and disputed facts, and draft
+      fixes waiting on approval. Nothing in the manuscript changes until those fixes are approved.
+    </p>
+    <NotesSubnav section="log" current="index" />
+    {
+      manifest.gaps.map((gap) => (
+        <p class="gap-note">{gap}</p>
+      ))
+    }
+    <section>
+      <h2 class="group-label">Sessions</h2>
+      {
+        sessions.length === 0 ? (
+          <p class="gap-note">No reading sessions have been filed yet.</p>
+        ) : (
+          <ul class="bullet-list">
+            {sessions.map((session) => (
+              <li>
+                <strong>{session.date}</strong>
+                {' — '}
+                <a href={`/log/notes/${session.bookSlug}`}>{session.bookTitle}</a>
+                {': '}
+                {session.pagesCovered}
+                <ul>
+                  {session.highlights.slice(1).map((line) => (
+                    <li>{line}</li>
+                  ))}
+                </ul>
+              </li>
+            ))}
+          </ul>
+        )
+      }
+    </section>
+    <section id="notes">
+      <h2 class="group-label">Notes by book</h2>
+      <div class="catalog">
+        {
+          notes.map((note) => (
+            <a href={`/log/notes/${note.slug}`}>
+              <span class="ct">{note.book || note.title}</span>
+              <span class="ck">{note.images.length ? `${note.images.length} page images` : 'No page images yet'}</span>
+            </a>
+          ))
+        }
+      </div>
+    </section>
+    <p class="bill">Re-sync with <code>node scripts/sync-research.mjs</code> from the repo root. Synced {manifest.syncedAt}.</p>
+  </article>
+</Base>

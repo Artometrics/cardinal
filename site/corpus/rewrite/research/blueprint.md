@@ -54,7 +54,7 @@
 
 ### Chapter 2-06: The Gold Incentive Shock (`ch/2-06-gold-incentive-shock.qmd`)  
 - **Dramatic Focus:** Sutter's Mill, 1848; the global gold rush and the arrival of dry-goods merchants Leland Stanford, Collis Huntington, Mark Hopkins, and Charles Crocker in Sacramento.  
-- **Primary Research Volumes:** Rayner W. Kelsey (*The Associates*); Richard White (*Railroaded*, Ch. 1).  
+- **Primary Research Volumes:** Richard Rayner (*The Associates*, 2008); Richard White (*Railroaded*, Ch. 1).  
 - **Core Scenes:**  
   - Leland Stanford's store at Michigan Bluff, selling shovels, lard, whiskey, and gunpowder to desperate miners at 500% markups.  
   - The realization among the Big Four that the true fortune lay not in panning for gold, but in monopolizing the transportation and supply bottlenecks.
@@ -84,14 +84,14 @@
 - **Primary Research Volumes:** Gordon H. Chang (*Ghosts of Gold Mountain*, Ch. 3–7); Richard White (*Railroaded*, Ch. 3).  
 - **Core Scenes:**  
   - The winter of 1866: Chinese workers tunneling through forty-foot drifts beneath Donner Peak; handling unstable nitro-glycerin.  
-  - The Great Chinese Strike of 1867: 3,000 workers demanding wage parity, starved out by Charles Crocker cutting off supply trains in the high desert.  
+  - The Great Chinese Strike of June 24, 1867: about 3,000 workers in the Sierra between Cisco and Truckee demanding wage parity and shorter hours; ended after about eight days when provisions were stopped (Crocker later claimed the credit) (Chang 2019, pp. 147–158).  
   - Promontory Summit, May 10, 1869: Leland Stanford swinging the silver hammer, missing the golden spike, telegraph operators clicking "DONE" to a nation unaware of the financial embezzlement.
 
 ---
 
 ### Chapter 2-10: Law as Armor & The Corporate Person (`ch/2-10-law-as-armor.qmd`)  
 - **Dramatic Focus:** *Santa Clara County v. Southern Pacific Railroad* (1886); Justice Stephen J. Field and the judicial manufacture of corporate personhood under the Fourteenth Amendment.  
-- **Primary Research Volumes:** Adam Winkler (*We the Corporations*, Ch. 4–5); Richard White (*Railroaded*, Ch. 8).  
+- **Primary Research Volumes:** Adam Winkler (*We the Corporations*, Ch. 4–5); Richard White (*Railroaded*, Ch. 4 ¶85, on Field's San Mateo and Santa Clara circuit decisions).  
 - **Core Scenes:**  
   - The secret collaboration between Southern Pacific attorneys and Supreme Court Justice Stephen Field; creating a precedent that an amendment written to protect freed Black slaves was primarily designed to shield railroad property from state taxation.  
   - Court reporter J.C. Bancroft Davis inserting corporate personhood into the case headnotes without an explicit Supreme Court ruling.

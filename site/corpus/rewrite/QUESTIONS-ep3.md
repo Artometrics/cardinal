@@ -12,7 +12,7 @@
 ## Answers (with sources)
 - Mussel Slough: settlers on railroad land; federal marshal enforcing possession; seven dead (Rayner ch 13; repo ch 2-10).
 - Land prices $17–$40/acre posted after patents (Rayner ch 13; moments.md).
-- Kearney: "The Chinese must go"; march on Stanford mansion; three-month ultimatum on Chinese labor (Harris ch 1.2; White-R ch 7 paraphrase on Kearney).
+- Kearney: "The Chinese must go"; march on Stanford mansion; three-month ultimatum on Chinese labor (Harris ch 1.2; White-R ch 7 ¶59 identifies Kearney but not the march).
 - Hopkins: Mar 28, 1878, rail car at Yuma siding; Huntington to brother: "My old friend Mr. Hopkins has gone over the river" (Rayner ch 12).
 - Exclusion Act 1882: first federal bar on a nationality; Workingmen's Party shaped 1879 constitution (repo ch 2-11).
 - *Santa Clara*: narrow tax holding; Davis headnote on Fourteenth Amendment and corporations—not the holding (repo ch 2-10; Winkler ch 4, Chronology).

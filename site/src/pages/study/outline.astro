@@ -1,0 +1,62 @@
+---
+import Base from '../../layouts/Base.astro';
+import NotesSubnav from '../../components/NotesSubnav.astro';
+import { getOutline } from '../../lib/research';
+
+const outline = getOutline();
+---
+
+<Base title="Book outline" description="The locked Cardinal architecture, part by part and chapter by chapter.">
+  <article class="doc">
+    <h1 class="page-title">Outline</h1>
+    <p class="lede">
+      The current four-act, 52-chapter architecture from the book file, with chapter dates from the locked outline.
+    </p>
+    <NotesSubnav section="study" current="outline" />
+    {
+      outline.architectureNote && <p class="gap-note">{outline.architectureNote}</p>
+    }
+    <ul class="bullet-list">
+      {
+        outline.introduction && (
+          <li>
+            <a href={outline.introduction.href}>{outline.introduction.title}</a>
+          </li>
+        )
+      }
+    </ul>
+    {
+      outline.parts.map((part) => (
+        <section>
+          <h2 class="group-label">{part.name}</h2>
+          <ul class="bullet-list">
+            {part.subtitle && <li>{part.subtitle}</li>}
+            {part.dates && <li>Span: {part.dates}</li>}
+            {part.theme && <li>Theme: {part.theme}</li>}
+            {part.chapters.map((ch, i) => (
+              <li>
+                {i + 1}. {ch.dates ? `${ch.dates}. ` : ''}
+                <a href={ch.href}>{ch.title}</a>
+              </li>
+            ))}
+            {part.landing && <li>Lands on: {part.landing}</li>}
+          </ul>
+        </section>
+      ))
+    }
+    {
+      outline.appendices.length > 0 && (
+        <section>
+          <h2 class="group-label">Appendices</h2>
+          <ul class="bullet-list">
+            {outline.appendices.map((item) => (
+              <li>
+                <a href={item.href}>{item.title}</a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+  </article>
+</Base>

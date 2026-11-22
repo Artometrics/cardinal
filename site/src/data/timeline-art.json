@@ -1,0 +1,836 @@
+{
+  "1769-07-16::Mission San Diego de Alcalá founded; Spanish occupation of Alta California begins": {
+    "src": "/timeline-art/1769-07-16-mission-san-diego.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1769 founding of Mission San Diego on a coastal mesa above the bay.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1769-07-16-mission-san-diego"
+  },
+  "1769-11-06::Portolá expedition camps on San Francisquito Creek near the redwood later called El Palo Alto; Ohlone people already living on the land meet the party": {
+    "src": "/timeline-art/1769-11-06-portola-palo-alto-camp.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1769 Portolá expedition camp on San Francisquito Creek near a tall redwood.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1769-11-06-portola-palo-alto-camp"
+  },
+  "1776-06-29::Mission San Francisco de Asís founded at what is now 320 Dolores Street": {
+    "src": "/timeline-art/1776-06-29-mission-dolores.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1776 founding of Mission San Francisco de Asís beside a peninsula lagoon.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1776-06-29-mission-dolores"
+  },
+  "1777-01-12::Mission Santa Clara de Asís founded at the Tamien village of So-co-is-u-ka on the Guadalupe River": {
+    "src": "/timeline-art/1777-01-12-mission-santa-clara.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1777 founding of Mission Santa Clara de Asís on the Guadalupe River.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1777-01-12-mission-santa-clara"
+  },
+  "1821-09-27::Mexican independence; Alta California transfers to Mexico": {
+    "src": "/timeline-art/1821-09-27-mexican-independence.webp",
+    "alt": "Illustrated six-panel reconstruction of Mexican independence in 1821 and the news of that transfer reaching Alta California.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1821-09-27-mexican-independence"
+  },
+  "1834-08-09::Secularisation of the missions begins": {
+    "src": "/timeline-art/1834-08-09-mission-secularisation.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1834 secularisation of the California missions, as herds and papers leave a mission courtyard.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1834-08-09-mission-secularisation"
+  },
+  "1839-01-01::Rancho San Francisquito granted to Antonio Buelna": {
+    "src": "/timeline-art/1839-01-01-rancho-san-francisquito.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1839 Rancho San Francisquito land grant on oak-and-creek land that later becomes the Stanford campus.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1839-01-01-rancho-san-francisquito"
+  },
+  "1841-01-01::Rancho Rinconada del Arroyo de San Francisquito granted to María Antonia Mesa": {
+    "src": "/timeline-art/1841-01-01-rancho-rinconada.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1841 Rancho Rinconada del Arroyo de San Francisquito grant to a Californio woman.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1841-01-01-rancho-rinconada"
+  },
+  "1848-01-24::Gold discovered at Sutter's Mill": {
+    "src": "/timeline-art/1848-01-24-sutter-mill-gold.webp",
+    "alt": "Illustrated six-panel reconstruction of the January 1848 gold discovery in the tailrace of a sawmill at Coloma.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1848-01-24-sutter-mill-gold"
+  },
+  "1848-02-02::Treaty of Guadalupe Hidalgo cedes California to the United States": {
+    "src": "/timeline-art/1848-02-02-treaty-guadalupe-hidalgo.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1848 Treaty of Guadalupe Hidalgo, a sealed paper in a salon and the California land it ceded.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1848-02-02-treaty-guadalupe-hidalgo"
+  },
+  "1849-01-01::Collis Huntington is stranded in Panama on the way to California": {
+    "src": "/timeline-art/1849-01-01-huntington-panama.webp",
+    "alt": "Illustrated six-panel reconstruction of a merchant stranded on the Isthmus of Panama in 1849, delayed on a muddy jungle river crossing.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1849-01-01-huntington-panama"
+  },
+  "1849-10-13::California constitution signed at Colton Hall": {
+    "src": "/timeline-art/1849-10-13-colton-hall-constitution.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1849 signing of the California constitution at Colton Hall in Monterey.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1849-10-13-colton-hall-constitution"
+  },
+  "1850-03-30::Foreign Miners' Tax enacted": {
+    "src": "/timeline-art/1850-03-30-foreign-miners-tax.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1850 Foreign Miners' Tax being collected at a foothill mining camp.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1850-03-30-foreign-miners-tax"
+  },
+  "1850-04-22::Act for the Government and Protection of Indians": {
+    "src": "/timeline-art/1850-04-22-indian-government-act.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1850 Act for the Government and Protection of Indians as a law made in rooms of power, then as quiet emptied land.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1850-04-22-indian-government-act"
+  },
+  "1850-09-09::California admitted as a state under the Compromise of 1850": {
+    "src": "/timeline-art/1850-09-09-california-statehood.webp",
+    "alt": "Illustrated six-panel reconstruction of California's admission to the Union in 1850, a decision signed in Washington while the coast itself is far away.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1850-09-09-california-statehood"
+  },
+  "1851-03-03::California Land Act establishes the land commission": {
+    "src": "/timeline-art/1851-03-03-california-land-act.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1851 California Land Act, a commission in a hearing room and a rancho waiting on title.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1851-03-03-california-land-act"
+  },
+  "1853-03-03::Congress appropriates $150,000 for Pacific railroad surveys": {
+    "src": "/timeline-art/1853-03-03-pacific-railroad-surveys.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1853 Pacific railroad surveys, from a Washington office to parties measuring desert and Sierra routes.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1853-03-03-pacific-railroad-surveys"
+  },
+  "1853-12-30::Gadsden Purchase signed": {
+    "src": "/timeline-art/1853-12-30-gadsden-purchase.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1853 Gadsden Purchase, a sealed paper and a quiet stretch of desert.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1853-12-30-gadsden-purchase"
+  },
+  "1856-01-01::San Francisco Committee of Vigilance takes power; Fort Gunnybags": {
+    "src": "/timeline-art/1856-01-01-committee-of-vigilance.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1856 San Francisco Committee of Vigilance taking power from a sandbag fortress known as Fort Gunnybags.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1856-01-01-committee-of-vigilance"
+  },
+  "1860-11-09::Theodore Judah writes “I have struck a lucky streak” as Sacramento merchants back his railroad": {
+    "src": "/timeline-art/1860-11-09-judah-lucky-streak.webp",
+    "alt": "Illustrated six-panel reconstruction of an 1860 Sacramento meeting in which a railroad engineer finds merchant backing for a Sierra route.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1860-11-09-judah-lucky-streak"
+  },
+  "1861-09-04::Leland Stanford elected governor of California": {
+    "src": "/timeline-art/1861-01-01-stanford-elected-governor.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1861 election of a Sacramento merchant as governor of California.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1861-01-01-stanford-elected-governor"
+  },
+  "1861-01-21::Jefferson Davis speaks for a transcontinental railroad days before leaving the Senate": {
+    "src": "/timeline-art/1861-01-21-davis-senate-railroad-speech.webp",
+    "alt": "Illustrated six-panel reconstruction of an 1861 Senate speech for a transcontinental railroad, days before Southern seats empty.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1861-01-21-davis-senate-railroad-speech"
+  },
+  "1861-06-28::Central Pacific Railroad incorporated": {
+    "src": "/timeline-art/1861-06-28-central-pacific-incorporated.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1861 incorporation of the Central Pacific Railroad in a Sacramento office.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1861-06-28-central-pacific-incorporated"
+  },
+  "1862-07-01::Pacific Railway Act signed": {
+    "src": "/timeline-art/1862-07-01-pacific-railway-act.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1862 Pacific Railway Act being signed in Washington after Southern seats have emptied.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1862-07-01-pacific-railway-act"
+  },
+  "1867-06-24::Chinese workers strike on the Sierra grade": {
+    "src": "/timeline-art/1867-06-25-chinese-workers-sierra-strike.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1867 Chinese workers' strike on the Central Pacific Sierra grade.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1867-06-25-chinese-workers-sierra-strike"
+  },
+  "1869-04-28::Central Pacific crews lay ten miles of track in one day": {
+    "src": "/timeline-art/1869-04-28-ten-miles-of-track.webp",
+    "alt": "Illustrated six-panel reconstruction of Central Pacific crews laying ten miles of track in one day in Utah Territory in 1869.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1869-04-28-ten-miles-of-track"
+  },
+  "1869-05-10::Golden spike completes the transcontinental railroad": {
+    "src": "/timeline-art/1869-05-10-golden-spike-promontory.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1869 golden spike ceremony at Promontory Summit, with the Chinese workforce standing apart from the official cluster.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1869-05-10-golden-spike-promontory"
+  },
+  "1872-05-01::Eadweard Muybridge photographs Stanford’s horse Occident at the Union Park Race Course in Sacramento": {
+    "src": "/timeline-art/1872-05-01-muybridge-occident-sacramento.webp",
+    "alt": "Illustrated six-panel reconstruction of an 1872 photographic experiment with a racehorse at a Sacramento track.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1872-05-01-muybridge-occident-sacramento"
+  },
+  "1874-10-01::Muybridge kills Harry Larkyns, his wife’s lover, near Calistoga; a jury later acquits him of murder": {
+    "src": "/timeline-art/1874-10-01-muybridge-calistoga-trial.webp",
+    "alt": "Illustrated six-panel reconstruction of an 1874 night journey to a house near Calistoga and a later courtroom, without depicting the killing.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1874-10-01-muybridge-calistoga-trial"
+  },
+  "1876-01-01::Southern Pacific completes the line to Los Angeles": {
+    "src": "/timeline-art/1876-01-01-southern-pacific-los-angeles.webp",
+    "alt": "Illustrated six-panel reconstruction of the Southern Pacific completing its line to Los Angeles in 1876.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1876-01-01-southern-pacific-los-angeles"
+  },
+  "1877-01-01::Denis Kearney’s Workingmen march on Stanford’s Nob Hill mansion": {
+    "src": "/timeline-art/1877-01-01-kearney-nob-hill-march.webp",
+    "alt": "Illustrated six-panel reconstruction of an 1877 Workingmen's march climbing toward a railroad baron's mansion on San Francisco's Nob Hill.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1877-01-01-kearney-nob-hill-march"
+  },
+  "1878-03-28::Mark Hopkins dies in his rail car at Yuma": {
+    "src": "/timeline-art/1878-03-28-hopkins-dies-yuma.webp",
+    "alt": "Illustrated six-panel reconstruction of an 1878 death in a private rail car at Yuma, told as a stopped car, a drawn curtain, and a quiet river.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1878-03-28-hopkins-dies-yuma"
+  },
+  "1878-06-15::Muybridge’s first public demonstration of sequential photographs of Stanford’s horses at the Palo Alto Stock Farm": {
+    "src": "/timeline-art/1878-06-15-muybridge-palo-alto-demo.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1878 public demonstration of sequential horse photography at the Palo Alto Stock Farm.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1878-06-15-muybridge-palo-alto-demo"
+  },
+  "1880-05-11::Mussel Slough shootout": {
+    "src": "/timeline-art/1880-05-11-mussel-slough.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1880 Mussel Slough land dispute in Tulare County, told as claimed fields and an emptied road, without depicting the shootout.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1880-05-11-mussel-slough"
+  },
+  "1882-05-06::Chinese Exclusion Act signed": {
+    "src": "/timeline-art/1882-05-06-chinese-exclusion-act.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1882 Chinese Exclusion Act, a statute signed in Washington and felt at a closed San Francisco dock.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1882-05-06-chinese-exclusion-act"
+  },
+  "1884-03-13::Leland Stanford Jr. dies in Florence": {
+    "src": "/timeline-art/1884-03-13-stanford-jr-florence.webp",
+    "alt": "Illustrated six-panel reconstruction of a death announced from a Florence hotel in 1884, told as streets, a corridor, a telegram, and an empty California farm, without depicting the boy.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1884-03-13-stanford-jr-florence"
+  },
+  "1885-11-11::Stanford Founding Grant executed": {
+    "src": "/timeline-art/1885-11-11-stanford-founding-grant.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1885 Stanford Founding Grant, a sealed paper executed on a farm whose land cannot be sold.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1885-11-11-stanford-founding-grant"
+  },
+  "1886-05-10::Santa Clara County v. Southern Pacific decided": {
+    "src": "/timeline-art/1886-05-10-santa-clara-v-southern-pacific.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1886 Supreme Court case Santa Clara County v. Southern Pacific, a tax dispute later remembered for a headnote on corporate personhood.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1886-05-10-santa-clara-v-southern-pacific"
+  },
+  "1886-05-10::Yick Wo v. Hopkins decided": {
+    "src": "/timeline-art/1886-05-10-yick-wo-v-hopkins.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1886 Supreme Court case Yick Wo v. Hopkins, brought by Chinese laundry operators in San Francisco.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1886-05-10-yick-wo-v-hopkins"
+  },
+  "1887-01-01::Timothy Hopkins plats University Park, the townsite later named Palo Alto": {
+    "src": "/timeline-art/1887-01-01-hopkins-plats-university-park.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1887 platting of University Park, the townsite later named Palo Alto, beside the Stanford farm.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1887-01-01-hopkins-plats-university-park"
+  },
+  "1891-10-01::Stanford University opens": {
+    "src": "/timeline-art/1891-10-01-stanford-university-opens.webp",
+    "alt": "Illustrated six-panel reconstruction of Stanford University opening in 1891, with unfinished sandstone arcades and arriving students.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1891-10-01-stanford-university-opens"
+  },
+  "1893-06-21::Leland Stanford dies during the Panic of 1893": {
+    "src": "/timeline-art/1893-06-21-leland-stanford-dies.webp",
+    "alt": "Illustrated six-panel reconstruction of Palo Alto and a closed house on the day Leland Stanford died in 1893, told without a deathbed.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1893-06-21-leland-stanford-dies"
+  },
+  "1894-01-01::Herbert Hoover meets Lou Henry in John Casper Branner’s geology laboratory at Stanford": {
+    "src": "/timeline-art/1894-01-01-hoover-meets-lou-henry.webp",
+    "alt": "Illustrated six-panel reconstruction of a Stanford geology laboratory in the mid-1890s, where two students’ partnership begins.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1894-01-01-hoover-meets-lou-henry"
+  },
+  "1897-01-01::Herbert Hoover begins work as a mining engineer in Western Australia, including at the Sons of Gwalia mine": {
+    "src": "/timeline-art/1897-01-01-hoover-western-australia-gwalia.webp",
+    "alt": "Illustrated six-panel reconstruction of a Western Australian gold mine in 1897, including a headframe in dry red country.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1897-01-01-hoover-western-australia-gwalia"
+  },
+  "1898-01-01::Lou Henry receives a bachelor’s degree in geology from Stanford, the university’s first woman to do so": {
+    "src": "/timeline-art/1898-01-01-lou-henry-geology-degree.webp",
+    "alt": "Illustrated six-panel reconstruction of Stanford’s 1898 commencement, when the university grants its first bachelor’s degree in geology to a woman.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1898-01-01-lou-henry-geology-degree"
+  },
+  "1898-03-28::United States v. Wong Kim Ark decided": {
+    "src": "/timeline-art/1898-03-28-wong-kim-ark.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1898 Supreme Court decision in United States v. Wong Kim Ark, told as a courtroom and a waterfront.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1898-03-28-wong-kim-ark"
+  },
+  "1900-11-12::Edward Ross forced out of Stanford": {
+    "src": "/timeline-art/1900-11-12-edward-ross-forced-out.webp",
+    "alt": "Illustrated six-panel reconstruction of a 1900 campus office and empty lectern after a Stanford professor is forced out.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1900-11-12-edward-ross-forced-out"
+  },
+  "1901-02-19::Hoover, acting for Bewick, Moreing, signs a side memorandum with Chang Yen-mao on the transfer of the Kaiping mines to the British Chinese Engineering and Mining Company": {
+    "src": "/timeline-art/1901-02-19-kaiping-memorandum.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1901 Kaiping mines side memorandum, told as a signing room, blank papers, and a distant mine.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1901-02-19-kaiping-memorandum"
+  },
+  "1905-01-14::Strychnine is found in Jane Stanford’s Poland Spring water at her Nob Hill house": {
+    "src": "/timeline-art/1905-01-14-strychnine-nob-hill.webp",
+    "alt": "Illustrated six-panel reconstruction of a 1905 Nob Hill interior, an unlabeled bottle, and a quiet house, without depicting poisoning or agony.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1905-01-14-strychnine-nob-hill"
+  },
+  "1905-02-28::Jane Stanford dies in Honolulu": {
+    "src": "/timeline-art/1905-02-28-jane-stanford-dies-honolulu.webp",
+    "alt": "Illustrated six-panel reconstruction of a Honolulu hotel and shore on 28 February 1905, told without a deathbed or a body.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1905-02-28-jane-stanford-dies-honolulu"
+  },
+  "1905-03-09::A Honolulu coroner’s jury finds Jane Stanford died of strychnine poisoning; David Starr Jordan publicly attributes the death to natural causes": {
+    "src": "/timeline-art/1905-03-01-honolulu-inquest-jordan.webp",
+    "alt": "Illustrated six-panel reconstruction of a 1905 Honolulu inquest room and a competing public account, told without a body.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1905-03-01-honolulu-inquest-jordan"
+  },
+  "1905-03-01::Justice Joyce, in Chang Yen-mao v. Moreing, holds the February 1901 Kaiping memorandum binding": {
+    "src": "/timeline-art/1905-03-01-joyce-kaiping-ruling.webp",
+    "alt": "Illustrated six-panel reconstruction of a 1905 London Chancery hearing that held the Kaiping side memorandum binding, with a distant China mine.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1905-03-01-joyce-kaiping-ruling"
+  },
+  "1905-03-15::Jordan leaves Honolulu with Jane Stanford’s body; a writer signing as “Tay Wang” writes to him": {
+    "src": "/timeline-art/1905-03-15-jordan-leaves-honolulu.webp",
+    "alt": "Illustrated six-panel reconstruction of a steamer leaving Honolulu in March 1905 and a blank letter, told without a body.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1905-03-15-jordan-leaves-honolulu"
+  },
+  "1906-04-18::San Francisco earthquake and fire": {
+    "src": "/timeline-art/1906-04-18-san-francisco-earthquake.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1906 San Francisco earthquake and fire and damage on the Stanford quadrangle, without depicting victims.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1906-04-18-san-francisco-earthquake"
+  },
+  "1909-04-26::California sterilisation law enacted": {
+    "src": "/timeline-art/1909-04-26-california-sterilisation-law.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1909 California legislature and a blank statute, told as rooms of power, not a medical procedure.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1909-04-26-california-sterilisation-law"
+  },
+  "1912-01-01::Herbert Hoover joins the Stanford Board of Trustees and helps install Branner as president": {
+    "src": "/timeline-art/1912-01-01-hoover-trustee-branner.webp",
+    "alt": "Illustrated six-panel reconstruction of a 1912 Stanford trustee meeting and campus walk as a geologist is installed as president.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1912-01-01-hoover-trustee-branner"
+  },
+  "1913-01-01::John Casper Branner becomes the second president of Stanford University": {
+    "src": "/timeline-art/1913-01-01-branner-second-president.webp",
+    "alt": "Illustrated six-panel reconstruction of a 1913 campus ceremony and office as Stanford’s second president takes the post.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1913-01-01-branner-second-president"
+  },
+  "1913-05-19::California Alien Land Law": {
+    "src": "/timeline-art/1913-05-19-alien-land-law.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1913 California Alien Land Law, told as a legislature, a blank statute, and a farm valley.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1913-05-19-alien-land-law"
+  },
+  "1914-10-01::Hoover organises the Commission for Relief in Belgium; Émile Francqui directs the Belgian Comité National de Secours et d’Alimentation": {
+    "src": "/timeline-art/1914-10-01-hoover-relief-belgium.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1914 Commission for Relief in Belgium: a freighter, offices, grain on a quay, and a quiet bread line.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1914-10-01-hoover-relief-belgium"
+  },
+  "1916-01-01::Lewis Terman publishes the Stanford–Binet intelligence test": {
+    "src": "/timeline-art/1916-01-01-terman-stanford-binet.webp",
+    "alt": "Illustrated six-panel reconstruction of Terman’s 1916 Stanford–Binet test: a quiet testing room, printed booklets, a ruler and forms, and a campus office.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1916-01-01-terman-stanford-binet"
+  },
+  "1916-01-22::Ray Lyman Wilbur becomes the third president of Stanford University": {
+    "src": "/timeline-art/1916-01-22-wilbur-third-president.webp",
+    "alt": "Illustrated six-panel reconstruction of Ray Lyman Wilbur becoming Stanford’s third president: a low-angle sandstone arcade, a packed assembly, and a silhouette in a presidential doorway.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1916-01-22-wilbur-third-president"
+  },
+  "1919-01-01::The Belgian government presents Hoover with official documents, many on the Belgian Congo and Ruanda-Urundi, that begin the Hoover Institution’s Africa Collection": {
+    "src": "/timeline-art/1919-01-01-belgian-africa-collection.webp",
+    "alt": "Illustrated six-panel reconstruction of the Belgian gift that begins the Hoover Institution’s Africa Collection: sealed blank papers, a ship, a map table, and a dim archive.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1919-01-01-belgian-africa-collection"
+  },
+  "1919-04-22::Herbert Hoover telegrams Lou Henry Hoover pledging $50,000 to collect historical material on the First World War": {
+    "src": "/timeline-art/1919-04-22-hoover-telegram-war-collection.webp",
+    "alt": "Illustrated six-panel reconstruction of Hoover’s 1919 telegram pledging funds for a war-history collection: a close-up telegram, a transatlantic cable office, and a lamp-lit study.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1919-04-22-hoover-telegram-war-collection"
+  },
+  "1919-06-01::Hoover funds what becomes the Hoover War Collection": {
+    "src": "/timeline-art/1919-06-01-hoover-war-collection-funded.webp",
+    "alt": "Illustrated six-panel reconstruction of the founding of the Hoover War Collection: crates of papers, a reading room, and long archive aisles in dramatic raking light.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1919-06-01-hoover-war-collection-funded"
+  },
+  "1920-01-01::The Lou Henry Hoover House is completed on the Stanford campus; it later becomes the university president’s house": {
+    "src": "/timeline-art/1920-01-01-lou-henry-hoover-house.webp",
+    "alt": "Illustrated six-panel reconstruction of the completed Lou Henry Hoover House on the Stanford campus: an extreme-wide hillside view, interiors, and a dusk silhouette of the terrace.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1920-01-01-lou-henry-hoover-house"
+  },
+  "1925-01-01::Alfred L. Kroeber’s Handbook of the Indians of California declares the “Costanoan group” extinct “so far as all practical purposes are concerned”": {
+    "src": "/timeline-art/1925-01-01-kroeber-handbook-costanoan.webp",
+    "alt": "Illustrated six-panel reconstruction of Kroeber’s 1925 Handbook: a Washington printing office, stacked blank volumes, and California coastal land seen without costume or ritual.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1925-01-01-kroeber-handbook-costanoan"
+  },
+  "1925-01-01::Stanford Graduate School of Business founded": {
+    "src": "/timeline-art/1925-01-01-stanford-gsb-founded.webp",
+    "alt": "Illustrated six-panel reconstruction of the founding of the Stanford Graduate School of Business: a sandstone courtyard, a blank dedication plaque, and a lecture hall in low light.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1925-01-01-stanford-gsb-founded"
+  },
+  "1929-03-04::Herbert Hoover is inaugurated as president of the United States (term to 1933)": {
+    "src": "/timeline-art/1929-03-04-hoover-inaugurated.webp",
+    "alt": "Illustrated six-panel reconstruction of Hoover’s 1929 inauguration: a high-angle view of the Capitol grounds, a packed stand, and a distant motorcade in winter light.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1929-03-04-hoover-inaugurated"
+  },
+  "1929-03-05::Ray Lyman Wilbur is sworn in as U.S. Secretary of the Interior, remaining Stanford’s president": {
+    "src": "/timeline-art/1929-03-05-wilbur-secretary-interior.webp",
+    "alt": "Illustrated six-panel reconstruction of Wilbur sworn in as Secretary of the Interior while remaining Stanford’s president: a marble corridor, a raised-hand ceremony, and a campus office at dusk.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1929-03-05-wilbur-secretary-interior"
+  },
+  "1930-09-17::Interior Secretary Ray Lyman Wilbur, at a Nevada rail-ceremony, announces that Boulder Dam will be named Hoover Dam": {
+    "src": "/timeline-art/1930-09-17-wilbur-names-hoover-dam.webp",
+    "alt": "Illustrated six-panel reconstruction of Wilbur naming Boulder Dam as Hoover Dam at a Nevada rail ceremony: a desert trestle, a crowd in hard light, and a close-up of a blank nameplate.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1930-09-17-wilbur-names-hoover-dam"
+  },
+  "1931-02-01::Six Companies, Inc. is organised; Bechtel and Henry Kaiser join the consortium that will build Hoover Dam": {
+    "src": "/timeline-art/1931-02-01-six-companies-organised.webp",
+    "alt": "Illustrated six-panel reconstruction of Six Companies organising to build Hoover Dam: a boardroom, a canyon overlook, and a foggy city skyline of offices.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1931-02-01-six-companies-organised"
+  },
+  "1933-08-28::Warren A. Bechtel dies in Moscow; Stephen D. Bechtel Sr. becomes president of the family firm": {
+    "src": "/timeline-art/1933-01-01-warren-bechtel-dies-moscow.webp",
+    "alt": "Illustrated six-panel reconstruction of Warren Bechtel’s death in Moscow told through places, not a deathbed: a snowy hotel street, a closed door, a telegram, and a California office.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1933-01-01-warren-bechtel-dies-moscow"
+  },
+  "1936-02-29::Frank Crowe, for Six Companies, formally turns Hoover Dam over to the Bureau of Reclamation": {
+    "src": "/timeline-art/1936-02-29-hoover-dam-turned-over.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1936 Hoover Dam turnover: an extreme-wide dam face, a ceremony on the crest, and the Colorado far below.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1936-02-29-hoover-dam-turned-over"
+  },
+  "1936-10-05::Steinbeck's 'The Harvest Gypsies' begins publication": {
+    "src": "/timeline-art/1936-10-05-harvest-gypsies.webp",
+    "alt": "Illustrated six-panel reconstruction of Steinbeck’s Harvest Gypsies: a dusty highway, a roadside camp at dawn, and a close-up of a blank newsprint galley.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1936-10-05-harvest-gypsies"
+  },
+  "1937-05-01::Stephen Bechtel Sr. and John McCone open the Bechtel-McCone Corporation in Los Angeles": {
+    "src": "/timeline-art/1937-05-01-bechtel-mccone-los-angeles.webp",
+    "alt": "Illustrated six-panel reconstruction of Bechtel-McCone opening in Los Angeles: a downtown street, a doorway, a drafting room, and a dusk industrial facade.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1937-05-01-bechtel-mccone-los-angeles"
+  },
+  "1939-01-01::Hewlett-Packard founded at 367 Addison Avenue": {
+    "src": "/timeline-art/1939-01-01-hewlett-packard-garage.webp",
+    "alt": "Illustrated six-panel reconstruction of Hewlett-Packard’s founding at the Addison Avenue garage: a night street, a lit garage bay, a workbench close-up, and a backyard at dusk.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1939-01-01-hewlett-packard-garage"
+  },
+  "1942-01-01::William Shockley’s wartime operations research for the Navy raises successful anti-submarine attacks fivefold": {
+    "src": "/timeline-art/1942-01-01-shockley-navy-operations-research.webp",
+    "alt": "Illustrated six-panel reconstruction of Shockley’s wartime Navy operations research: a dim chart room, a convoy at sea, and figures bent over blank plotting tables.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1942-01-01-shockley-navy-operations-research"
+  },
+  "1942-02-19::Executive Order 9066": {
+    "src": "/timeline-art/1942-02-19-executive-order-9066.webp",
+    "alt": "Illustrated six-panel reconstruction of Executive Order 9066 told through emptied streets, closed houses, packed suitcases, and a distant dignified departure — no camps as spectacle.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1942-02-19-executive-order-9066"
+  },
+  "1945-07-01::Vannevar Bush delivers 'Science, the Endless Frontier'": {
+    "src": "/timeline-art/1945-07-01-bush-science-endless-frontier.webp",
+    "alt": "Illustrated six-panel reconstruction of Vannevar Bush’s Science, the Endless Frontier: a Washington office, a thick blank report, a congressional corridor, and a laboratory doorway.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1945-07-01-bush-science-endless-frontier"
+  },
+  "1946-08-01::Office of Naval Research established": {
+    "src": "/timeline-art/1946-08-01-office-of-naval-research.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1946 founding of the Office of Naval Research: a Washington building at dusk, a doorway, blank sealed papers, and a night laboratory.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1946-08-01-office-of-naval-research"
+  },
+  "1946-11-06::Stanford Research Institute established": {
+    "src": "/timeline-art/1946-11-06-stanford-research-institute.webp",
+    "alt": "Illustrated six-panel reconstruction of the Stanford Research Institute’s founding in Menlo Park: an oak-lined road, a charter being stamped, a lab being fitted out, and a dusk facade.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1946-11-06-stanford-research-institute"
+  },
+  "1951-01-01::Stanford Industrial Park opens": {
+    "src": "/timeline-art/1951-01-01-stanford-industrial-park.webp",
+    "alt": "Illustrated six-panel reconstruction of Stanford Industrial Park opening on Page Mill Road: foothills, a graded road, a steel frame going up, and a dusk pavilion.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1951-01-01-stanford-industrial-park"
+  },
+  "1953-01-01::First Stanford Industrial Park lease goes to Varian Associates; Terman is an investor and board member": {
+    "src": "/timeline-art/1953-01-01-varian-first-park-lease.webp",
+    "alt": "Illustrated six-panel reconstruction of Varian’s first Industrial Park lease: a hillside modernist lab, a blank lease being signed, and a dean’s office at dusk.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1953-01-01-varian-first-park-lease"
+  },
+  "1956-01-01::Lockheed Missiles and Space opens in Sunnyvale": {
+    "src": "/timeline-art/1956-01-01-lockheed-missiles-sunnyvale.webp",
+    "alt": "Illustrated six-panel reconstruction of Lockheed Missiles and Space opening in Sunnyvale: a hangar from the air, a shift change, and a night plant.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1956-01-01-lockheed-missiles-sunnyvale"
+  },
+  "1956-02-01::Shockley Semiconductor opens in Mountain View": {
+    "src": "/timeline-art/1956-02-01-shockley-semiconductor-mountain-view.webp",
+    "alt": "Illustrated six-panel reconstruction of Shockley Semiconductor opening in Mountain View: a modest side-street lab, a crystal and blank notebook, and a dusk doorway.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1956-02-01-shockley-semiconductor-mountain-view"
+  },
+  "1957-09-18::The eight resign from Shockley; Fairchild Semiconductor follows": {
+    "src": "/timeline-art/1957-09-18-traitorous-eight-fairchild.webp",
+    "alt": "Illustrated six-panel reconstruction of eight scientists leaving Shockley, after which Fairchild follows: blank resignation letters, a doorway, and eight silhouettes on an evening sidewalk.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1957-09-18-traitorous-eight-fairchild"
+  },
+  "1958-07-14::John McCone becomes Chairman of the Atomic Energy Commission": {
+    "src": "/timeline-art/1958-07-14-mccone-aec-chairman.webp",
+    "alt": "Illustrated six-panel reconstruction of a former construction executive sworn in as Atomic Energy Commission chairman: a marble corridor, a blank oath book, and a dusk federal building.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1958-07-14-mccone-aec-chairman"
+  },
+  "1959-01-01::Planar process developed at Fairchild": {
+    "src": "/timeline-art/1959-01-01-fairchild-planar-process.webp",
+    "alt": "Illustrated six-panel reconstruction of the planar process at Fairchild: a wafer close-up, a glowing furnace, a microscope, and a dusk industrial building.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1959-01-01-fairchild-planar-process"
+  },
+  "1961-11-29::John McCone is sworn in as Director of Central Intelligence": {
+    "src": "/timeline-art/1961-11-29-mccone-director-central-intelligence.webp",
+    "alt": "Illustrated six-panel reconstruction of a director of central intelligence being sworn in: a wooded federal campus, a corridor of closed doors, and a dusk drive.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1961-11-29-mccone-director-central-intelligence"
+  },
+  "1962-11-01::Knight secures Tiger distribution rights in Kobe": {
+    "src": "/timeline-art/1962-11-01-knight-tiger-kobe.webp",
+    "alt": "Illustrated six-panel reconstruction of a 1962 shoe-distribution agreement in Kobe: the harbor, a workshop street, unbranded shoes, a handshake, and dusk on the quay.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1962-11-01-knight-tiger-kobe"
+  },
+  "1963-01-01::Fairchild opens assembly operations in Hong Kong": {
+    "src": "/timeline-art/1963-01-01-fairchild-hong-kong-assembly.webp",
+    "alt": "Illustrated six-panel reconstruction of Fairchild’s Hong Kong assembly opening: the harbor, a loft factory, close-up hand work, and a rainy dusk street.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1963-01-01-fairchild-hong-kong-assembly"
+  },
+  "1963-01-01::Stephen Bechtel Sr.’s gift funds the remodelling of a former Zeta Psi house as Stanford’s Bechtel International Center": {
+    "src": "/timeline-art/1963-01-01-bechtel-international-center.webp",
+    "alt": "Illustrated six-panel reconstruction of a gift remodelling a former campus house into Stanford’s international center: scaffolding, a blank drawing, and a dusk walk.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1963-01-01-bechtel-international-center"
+  },
+  "1965-04-19::Moore's law published": {
+    "src": "/timeline-art/1965-04-19-moores-law-published.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1965 article later called Moore’s law: a hand drawing an unlabeled curve, a press, a blank magazine, and a dusk lab.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1965-04-19-moores-law-published"
+  },
+  "1968-12-09::Engelbart's demonstration at the Fall Joint Computer Conference": {
+    "src": "/timeline-art/1968-12-09-engelbart-mother-of-all-demos.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1968 Fall Joint Computer Conference demonstration: an auditorium, an early mouse, abstract windows on a screen, and a lobby afterward.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1968-12-09-engelbart-mother-of-all-demos"
+  },
+  "1969-04-09::Students occupy the Applied Electronics Laboratory": {
+    "src": "/timeline-art/1969-04-09-students-occupy-ael.webp",
+    "alt": "Illustrated six-panel reconstruction of students occupying the Applied Electronics Laboratory: a campus entrance, a blank banner, a sit-in in a lab, and dawn on the steps.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1969-04-09-students-occupy-ael"
+  },
+  "1969-05-16::Police tear-gas students protesting the SRI divestment": {
+    "src": "/timeline-art/1969-05-16-tear-gas-sri-divestment.webp",
+    "alt": "Illustrated six-panel reconstruction of a 1969 SRI-divestment protest in which police use tear gas, told at a distance: haze in a plaza, an abandoned blank sign, and an emptied arcade.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1969-05-16-tear-gas-sri-divestment"
+  },
+  "1969-10-29::First ARPANET message, UCLA to SRI": {
+    "src": "/timeline-art/1969-10-29-first-arpanet-message.webp",
+    "alt": "Illustrated six-panel reconstruction of the first ARPANET message, UCLA to SRI: two night labs, a glowing blank terminal, and a quiet Menlo Park building.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1969-10-29-first-arpanet-message"
+  },
+  "1970-01-01::Trustees set terms for the SRI divestment": {
+    "src": "/timeline-art/1970-01-01-trustees-sri-divestment.webp",
+    "alt": "Illustrated six-panel reconstruction of trustees setting terms for the SRI divestment: a boardroom, a blank minute book, and a lone figure at dusk.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1970-01-01-trustees-sri-divestment"
+  },
+  "1972-01-01::Kleiner Perkins and Sequoia Capital founded on Sand Hill Road": {
+    "src": "/timeline-art/1972-01-01-kleiner-perkins-sequoia.webp",
+    "alt": "Illustrated six-panel reconstruction of Kleiner Perkins and Sequoia founding on Sand Hill Road: foothill offices, a handshake over blank paper, and dusk along the road.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1972-01-01-kleiner-perkins-sequoia"
+  },
+  "1974-05-01::George Shultz leaves federal office to become president and director of Bechtel, while joining the Stanford faculty": {
+    "src": "/timeline-art/1974-01-01-shultz-bechtel-stanford.webp",
+    "alt": "Illustrated six-panel reconstruction of a 1970s official leaving federal office for a construction firm and a campus faculty post: a Washington corridor, a handshake over blank papers, a sandstone quadrangle, and a sedan at dusk, figures seen from behind.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1974-01-01-shultz-bechtel-stanford"
+  },
+  "1974-01-01::Niels Reimers files the Cohen–Boyer recombinant-DNA patent application for Stanford": {
+    "src": "/timeline-art/1974-01-01-reimers-cohen-boyer-patent.webp",
+    "alt": "Illustrated six-panel reconstruction of a university licensing office filing a recombinant-DNA patent: a campus corridor, a stamp over blank forms, a laboratory bench, and a dusk office window.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1974-01-01-reimers-cohen-boyer-patent"
+  },
+  "1975-03-05::First Homebrew Computer Club meeting": {
+    "src": "/timeline-art/1975-03-05-homebrew-computer-club.webp",
+    "alt": "Illustrated six-panel reconstruction of the first Homebrew Computer Club meeting: a Menlo Park garage at night, a crowded workbench of unbranded circuit boards, hands over a soldering iron, and figures gathered in warm lamplight.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1975-03-05-homebrew-computer-club"
+  },
+  "1976-01-01::Genentech is founded by Robert Swanson and Herbert Boyer": {
+    "src": "/timeline-art/1976-01-01-genentech-founded.webp",
+    "alt": "Illustrated six-panel reconstruction of the founding of a South San Francisco biotechnology firm: a handshake over blank papers, a modest lab bench, a waterfront industrial street, and an empty night exterior, figures seen from behind.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1976-01-01-genentech-founded"
+  },
+  "1979-02-01::ERISA prudent man rule clarified": {
+    "src": "/timeline-art/1979-02-01-erisa-prudent-man.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1979 ERISA prudent-man clarification: a federal building, a hearing table with blank papers, a corridor of file cabinets, and dusk over a Washington dome.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1979-02-01-erisa-prudent-man"
+  },
+  "1980-08-12::IBM Personal Computer development; MS-DOS licensed non-exclusively": {
+    "src": "/timeline-art/1980-08-12-ibm-pc-msdos.webp",
+    "alt": "Illustrated six-panel reconstruction of early personal-computer development and a non-exclusive operating-system licence: a beige unbranded desktop with a blank glowing CRT, a lab seen from behind, rain on a Seattle street, and a blank licence page.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1980-08-12-ibm-pc-msdos"
+  },
+  "1980-10-14::Genentech IPO": {
+    "src": "/timeline-art/1980-10-14-genentech-ipo.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1980 Genentech initial public offering: a wide trading floor, a blank share certificate, a boardroom seen from behind, and a modest waterside laboratory at dusk.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1980-10-14-genentech-ipo"
+  },
+  "1980-12-12::Bayh-Dole Act enacted": {
+    "src": "/timeline-art/1980-12-12-bayh-dole-act.webp",
+    "alt": "Illustrated six-panel reconstruction of the Bayh-Dole Act being enacted: the Capitol at dusk, a blank bill, a hearing room seen from behind, a campus laboratory window, and a dome in last light.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1980-12-12-bayh-dole-act"
+  },
+  "1981-01-21::Caspar Weinberger becomes Secretary of Defense; George Shultz becomes Secretary of State the following year — both after Bechtel": {
+    "src": "/timeline-art/1981-01-21-bechtel-cabinet.webp",
+    "alt": "Illustrated six-panel reconstruction of former construction executives entering a presidential cabinet: a federal entrance, a marble corridor, a raised hand over a blank book, and official cars at dusk.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1981-01-21-bechtel-cabinet"
+  },
+  "1987-01-01::Peter Thiel founds The Stanford Review": {
+    "src": "/timeline-art/1987-01-01-stanford-review-founded.webp",
+    "alt": "Illustrated six-panel reconstruction of a student newspaper being founded on a sandstone campus: a dusk quadrangle, a cramped office, a typewriter with a blank page, and a night walk under arcades.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1987-01-01-stanford-review-founded"
+  },
+  "1995-01-01::Elon Musk enrolls at Stanford and leaves almost immediately": {
+    "src": "/timeline-art/1995-01-01-musk-enrolls-leaves-stanford.webp",
+    "alt": "Illustrated six-panel reconstruction of a brief 1995 campus arrival and immediate departure: an almost empty sandstone quadrangle, a suitcase in a bare dorm doorway, a figure walking away under an arcade, and a dusk gate, no identifiable person.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1995-01-01-musk-enrolls-leaves-stanford"
+  },
+  "1995-04-30::NSFNET backbone decommissioned; the network passes to commercial operators": {
+    "src": "/timeline-art/1995-04-30-nsfnet-backbone-decommissioned.webp",
+    "alt": "Illustrated six-panel reconstruction of the 1995 decommissioning of a research-network backbone: a windowless operations room, a cable being unplugged, a blank monitor glow, coiled cables, and a night computer-center doorway.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1995-04-30-nsfnet-backbone-decommissioned"
+  },
+  "1995-08-09::Netscape IPO": {
+    "src": "/timeline-art/1995-08-09-netscape-ipo.webp",
+    "alt": "Illustrated six-panel reconstruction of a mid-1990s software-company initial public offering: a trading floor seen from a balcony, a blank certificate, a glass office entrance, a blank CRT glow, and a dusk skyline, no logos.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1995-08-09-netscape-ipo"
+  },
+  "1996-02-08::Section 230 enacted": {
+    "src": "/timeline-art/1996-02-08-section-230-enacted.webp",
+    "alt": "Illustrated six-panel reconstruction of a 1996 act of Congress being enacted: the Capitol at dusk, a blank bill, a chamber seen from a gallery, a messenger in a marble corridor, and the dome at night.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1996-02-08-section-230-enacted"
+  },
+  "1997-01-01::Larry Page’s Excite pitch for BackRub includes a proposed $300,000 licence payment to Stanford": {
+    "src": "/timeline-art/1997-01-01-page-excite-backrub-pitch.webp",
+    "alt": "Illustrated six-panel reconstruction of a late-1990s licence pitch by a graduate student to a Silicon Valley firm: an office-park exterior, a blank packet, a conference table seen from behind, a computer lab, and a dusk office window, no logos or likenesses.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1997-01-01-page-excite-backrub-pitch"
+  },
+  "1998-01-01::Google operates from the Santa Margarita Avenue garage in Menlo Park at $1,700 a month": {
+    "src": "/timeline-art/1998-01-01-google-santa-margarita-garage.webp",
+    "alt": "Illustrated six-panel reconstruction of a late-1990s startup working out of a rented Menlo Park garage: a ranch-house street, a garage interior with blank glowing CRTs, a desk of blank papers, and a night doorway silhouette, no logos or likenesses.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1998-01-01-google-santa-margarita-garage"
+  },
+  "1998-09-04::Google incorporated": {
+    "src": "/timeline-art/1998-09-04-google-incorporated.webp",
+    "alt": "Illustrated six-panel reconstruction of a 1998 California incorporation: a suburban house, a blank legal form, a clerk at a desk, a filing cabinet, a blank seal, and a dusk porch light, no logos or likenesses.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1998-09-04-google-incorporated"
+  },
+  "1999-01-01::X.com and Confinity, later PayPal, operate in Palo Alto": {
+    "src": "/timeline-art/1999-01-01-xcom-confinity-paypal-palo-alto.webp",
+    "alt": "Illustrated six-panel reconstruction of two late-1990s Palo Alto software startups sharing a low-rise office: a downtown street, blank nameplates on adjacent doors, cramped desks with blank screens, an unlabeled whiteboard, and two windows lit at night, no logos or likenesses.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1999-01-01-xcom-confinity-paypal-palo-alto"
+  },
+  "2002-01-01::The Bureau of Indian Affairs issues a final determination against federal acknowledgment of the Muwekma Ohlone Tribe": {
+    "src": "/timeline-art/2002-01-01-muwekma-bia-determination.webp",
+    "alt": "Illustrated six-panel reconstruction of a 2002 federal acknowledgment determination: a grey Washington office building, blank official papers, a clerk seen from behind, and a quiet oak-studded California landscape, with no costume, ritual, or graves.",
+    "caption": "Illustrated reconstruction",
+    "slug": "2002-01-01-muwekma-bia-determination"
+  },
+  "2002-10-03::eBay acquires PayPal": {
+    "src": "/timeline-art/2002-10-03-ebay-acquires-paypal.webp",
+    "alt": "Illustrated six-panel reconstruction of a 2002 corporate acquisition: a glass campus and parking lot, two stacks of blank contracts, a boardroom seen from behind, a skybridge, and a dusk entrance, no logos or likenesses.",
+    "caption": "Illustrated reconstruction",
+    "slug": "2002-10-03-ebay-acquires-paypal"
+  },
+  "2003-05-06::Palantir Technologies is founded in Palo Alto": {
+    "src": "/timeline-art/2003-05-06-palantir-founded-palo-alto.webp",
+    "alt": "Illustrated six-panel reconstruction of a 2003 Palo Alto software company being founded: a downtown street, a blank incorporation packet, a cramped office with blank screens, a hallway, and night windows, no logos or likenesses.",
+    "caption": "Illustrated reconstruction",
+    "slug": "2003-05-06-palantir-founded-palo-alto"
+  },
+  "2006-03-14::Amazon Web Services launches": {
+    "src": "/timeline-art/2006-03-14-amazon-web-services-launches.webp",
+    "alt": "Illustrated six-panel reconstruction of a 2006 cloud-computing launch: a rainy Seattle waterfront, a server-rack aisle, a blank operations screen, cables on a floor, and a night data-center doorway, no logos or likenesses.",
+    "caption": "Illustrated reconstruction",
+    "slug": "2006-03-14-amazon-web-services-launches"
+  },
+  "2006-11-16::Nvidia introduces CUDA": {
+    "src": "/timeline-art/2006-11-16-nvidia-introduces-cuda.webp",
+    "alt": "Illustrated six-panel reconstruction of a 2006 graphics-processor computing platform being introduced: a Santa Clara campus, an unmarked chip, a conference hall of silhouettes, a lab bench, and a dusk laboratory window, no logos or likenesses.",
+    "caption": "Illustrated reconstruction",
+    "slug": "2006-11-16-nvidia-introduces-cuda"
+  },
+  "2008-01-01::Sequoia Capital hires two investors from the Stanford endowment": {
+    "src": "/timeline-art/2008-01-01-sequoia-hires-stanford-endowment.webp",
+    "alt": "Illustrated six-panel reconstruction of a 2008 Sand Hill Road firm hiring investors from a university endowment: oak trees and a low pavilion, blank offer letters, a handshake, a conference room, and a dusk walk to cars.",
+    "caption": "Illustrated reconstruction",
+    "slug": "2008-01-01-sequoia-hires-stanford-endowment"
+  },
+  "2011-07-01::George Shultz joins the Theranos board of directors after a meeting with Elizabeth Holmes": {
+    "src": "/timeline-art/2011-07-01-shultz-theranos-board.webp",
+    "alt": "Illustrated six-panel reconstruction of a 2011 Palo Alto board meeting: a tree-lined street, a blank packet and a glass of water, a meeting seen from behind, a conference room, and dusk office windows, no likenesses or logos.",
+    "caption": "Illustrated reconstruction",
+    "slug": "2011-07-01-shultz-theranos-board"
+  },
+  "2012-04-09::Facebook acquires Instagram": {
+    "src": "/timeline-art/2012-04-09-facebook-acquires-instagram.webp",
+    "alt": "Illustrated six-panel reconstruction of a 2012 acquisition of a photo-sharing startup: a corporate lawn and glass pavilions, blank contracts, a boardroom, a phone with a blank glow, a campus skybridge, and silhouettes at a dusk entrance, no logos or likenesses.",
+    "caption": "Illustrated reconstruction",
+    "slug": "2012-04-09-facebook-acquires-instagram"
+  },
+  "2015-01-01::Theranos begins to collapse after the Wall Street Journal’s investigation": {
+    "src": "/timeline-art/2015-01-01-theranos-collapse-wsj.webp",
+    "alt": "Illustrated six-panel reconstruction of a mid-2010s newspaper investigation into a Palo Alto medical-device firm: a night newsroom, a blank page proof, a journalist seen from behind, an emptying office, and a quiet dusk building, no likenesses and no humiliation spectacle.",
+    "caption": "Illustrated reconstruction",
+    "slug": "2015-01-01-theranos-collapse-wsj"
+  },
+  "2018-03-17::Cambridge Analytica reporting published": {
+    "src": "/timeline-art/2018-03-17-cambridge-analytica-reporting.webp",
+    "alt": "Illustrated six-panel reconstruction of 2018 investigative newspaper reporting: a rainy night street, a blank proof and a coffee cup, a journalist at a desk of blank papers, a newsroom aisle, a revolving door, and a pre-dawn window silhouette.",
+    "caption": "Illustrated reconstruction",
+    "slug": "2018-03-17-cambridge-analytica-reporting"
+  },
+  "2018-08-27::UN fact-finding mission reports on Myanmar": {
+    "src": "/timeline-art/2018-08-27-un-myanmar-fact-finding.webp",
+    "alt": "Illustrated six-panel reconstruction of a 2018 United Nations fact-finding report being issued in Geneva: a lakeside official building, a blank bound report, a conference room, a quiet rural landscape without people or violence, and a dusk colonnade.",
+    "caption": "Illustrated reconstruction",
+    "slug": "2018-08-27-un-myanmar-fact-finding"
+  },
+  "2019-07-24::FTC announces $5 billion Facebook privacy settlement": {
+    "src": "/timeline-art/2019-07-24-ftc-facebook-privacy-settlement.webp",
+    "alt": "Illustrated six-panel reconstruction of a 2019 federal privacy settlement announcement: a grey Washington office building, a blank official document, a press room seen from behind, a corridor, and a dusk portico, no logos or likenesses.",
+    "caption": "Illustrated reconstruction",
+    "slug": "2019-07-24-ftc-facebook-privacy-settlement"
+  },
+  "2020-10-07::Stanford’s Board of Trustees approves removing David Starr Jordan’s name from Jordan Hall and other campus features": {
+    "src": "/timeline-art/2020-10-07-jordan-hall-name-removal.webp",
+    "alt": "Illustrated six-panel reconstruction of a 2020 university decision to remove a historical name from a campus hall: a sandstone building, gloved hands taking down a blank plaque, a trustees table of blank papers, and the hall at dusk, with no names and no eugenics imagery.",
+    "caption": "Illustrated reconstruction",
+    "slug": "2020-10-07-jordan-hall-name-removal"
+  },
+  "2020-11-03::Proposition 22 passes in California": {
+    "src": "/timeline-art/2020-11-03-proposition-22-passes.webp",
+    "alt": "Illustrated six-panel reconstruction of a 2020 California ballot measure passing: a civic building and a line of people, a blank ballot, a polling place, a night freeway, a driver with a blank phone glow, and the state capitol at night, no campaign text.",
+    "caption": "Illustrated reconstruction",
+    "slug": "2020-11-03-proposition-22-passes"
+  },
+  "2022-08-09::CHIPS and Science Act signed": {
+    "src": "/timeline-art/2022-08-09-chips-and-science-act.webp",
+    "alt": "Illustrated six-panel reconstruction of the 2022 CHIPS and Science Act being signed: the Capitol, a blank enrolled bill, a signing table, a semiconductor cleanroom, an unmarked wafer, and a dusk silhouette on the steps, no logos or likenesses.",
+    "caption": "Illustrated reconstruction",
+    "slug": "2022-08-09-chips-and-science-act"
+  },
+  "2022-11-29::Theo Baker’s Stanford Daily reporting on Marc Tessier-Lavigne’s scientific papers begins": {
+    "src": "/timeline-art/2022-11-01-baker-tessier-lavigne-reporting.webp",
+    "alt": "Illustrated six-panel reconstruction of a 2022 student-newspaper investigation beginning on a university campus: a dusk hall, a desk of printouts, a journalist seen from behind at a blank laptop, a small newsroom, a corridor, and a night window, no likenesses and no scandal spectacle.",
+    "caption": "Illustrated reconstruction",
+    "slug": "2022-11-01-baker-tessier-lavigne-reporting"
+  },
+  "2022-11-30::OpenAI releases ChatGPT": {
+    "src": "/timeline-art/2022-11-30-openai-releases-chatgpt.webp",
+    "alt": "Illustrated six-panel reconstruction of a late-2022 public release of a conversational software tool: a San Francisco dusk skyline, laptops with blank glows, people seen from behind, a small office, and a night window, no logos, no copyrighted interface, and no likenesses.",
+    "caption": "Illustrated reconstruction",
+    "slug": "2022-11-30-openai-releases-chatgpt"
+  },
+  "2023-06-29::Students for Fair Admissions decided": {
+    "src": "/timeline-art/2023-06-29-students-for-fair-admissions.webp",
+    "alt": "Illustrated six-panel reconstruction of a 2023 Supreme Court decision: the Court building, a blank bound opinion, a courtroom, a gallery view from behind, a marble corridor, and dusk on the steps, no likenesses.",
+    "caption": "Illustrated reconstruction",
+    "slug": "2023-06-29-students-for-fair-admissions"
+  },
+  "2023-07-19::Marc Tessier-Lavigne resigns as Stanford president": {
+    "src": "/timeline-art/2023-07-19-tessier-lavigne-resigns.webp",
+    "alt": "Illustrated six-panel reconstruction of a 2023 university-president resignation: a quiet campus court, a blank letter, an office seen from behind, an empty desk after hours, an arcade, and dusk windows, no likeness and no humiliation spectacle.",
+    "caption": "Illustrated reconstruction",
+    "slug": "2023-07-19-tessier-lavigne-resigns"
+  },
+  "2023-11-17::OpenAI board removes its chief executive; reversed within five days": {
+    "src": "/timeline-art/2023-11-17-openai-board-removes-ceo.webp",
+    "alt": "Illustrated six-panel reconstruction of a 2023 board removing and then restoring a chief executive within five days: a San Francisco office building, a blank agenda, a night boardroom of figures seen from behind, a corridor, a daylight return to the same table, and the building at dawn, no logos or likenesses.",
+    "caption": "Illustrated reconstruction",
+    "slug": "2023-11-17-openai-board-removes-ceo"
+  },
+  "2025-01-20::Technology founders seated at the presidential inauguration": {
+    "src": "/timeline-art/2025-01-20-tech-founders-inauguration.webp",
+    "alt": "Illustrated six-panel reconstruction of a January 2025 presidential inauguration, with generic figures in winter coats seated in outdoor stands: a wide view of the Capitol, a blank program, a crowd from above, an over-the-shoulder toward the platform, and dusk on the plaza, with no recognizable likenesses.",
+    "caption": "Illustrated reconstruction",
+    "slug": "2025-01-20-tech-founders-inauguration"
+  },
+  "1891-03-22::The Stanfords travel to Bloomington to recruit David Starr Jordan as first president": {
+    "src": "/timeline-art/1890-01-01-recruit-jordan-bloomington.webp",
+    "alt": "Illustrated six-panel reconstruction of the Stanfords’ 1890 journey to Bloomington to recruit the university’s first president.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1890-01-01-recruit-jordan-bloomington"
+  }
+}

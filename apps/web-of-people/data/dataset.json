@@ -7,7 +7,7 @@
     },
     "counts": {
       "people": 234,
-      "events": 255,
+      "events": 256,
       "relationships": 245,
       "places": 109,
       "sources": 13,
@@ -5137,7 +5137,7 @@
       "locationText": "Isthmus of Panama",
       "status": "VERIFIED",
       "why": "The future railroad Associate’s route west runs through an isthmus where, he wrote, there were “eight to ten deaths a day.”",
-      "ledgerNote": "Carried over from the master timeline (Rayner ch 2); the book was not re-opened on 21 Nov 2026 (Drive EPUBs are Anna’s Archive copies, set aside on legal advice). Year-only date.",
+      "ledgerNote": "Carried over from the master timeline (Rayner ch 2). Year-only date.",
       "origin": "ledger",
       "cites": [
         {
@@ -5222,7 +5222,7 @@
       "locationText": "Sacramento, CA",
       "status": "VERIFIED",
       "why": "The engineer’s survey and enthusiasm bring in the shopkeepers who will become the Big Four.",
-      "ledgerNote": "Carried over from the master timeline (Rayner, notes to ch 3); the book was not re-opened on 21 Nov 2026 (Drive EPUBs are Anna’s Archive copies, set aside on legal advice).",
+      "ledgerNote": "Carried over from the master timeline (Rayner, notes to ch 3).",
       "origin": "ledger",
       "cites": [
         {
@@ -5233,23 +5233,23 @@
       ]
     },
     {
-      "id": "ledger-1861-01-01-leland-stanford-elected-governor-of-california",
+      "id": "ledger-1861-09-04-leland-stanford-elected-governor-of-california",
       "people": [
         "leland-stanford"
       ],
-      "date": "1861-01-01",
+      "date": "1861-09-04",
       "kind": "other",
       "title": "Leland Stanford elected governor of California",
       "place": "california",
       "locationText": "California",
       "status": "VERIFIED",
       "why": "The railroad president becomes the state’s war governor in the same year the Central Pacific is incorporated. The office and the charter travel together.",
-      "ledgerNote": "Year from the master timeline (Rayner). Exact election/inauguration day not rechecked in this pass; dated 1 January as a year-only placeholder.",
+      "ledgerNote": "Election day 4 September 1861, with nearly 56,000 votes (Richard Rayner, The Associates (W. W. Norton, 2008), ch. 3 ¶33). Earlier this row used 1 January as a placeholder.",
       "origin": "ledger",
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1861-01-01,Leland Stanford elected governor of California,Leland Stanford,Califo",
+          "q": "1861-09-04,Leland Stanford elected governor of California,Leland Stanford,Califo",
           "line": 22
         }
       ]
@@ -5291,11 +5291,10 @@
       "place": "sacramento-ca",
       "locationText": "Sacramento, CA",
       "status": "VERIFIED",
-      "ledgerStatus": "NEEDS SOURCE",
       "revisionNote": "Evans (1954) separates two steps the ledger row merges: organization under the general law and adoption of the Articles of Association on Tuesday 30 April 1861, and the filing of the certificate of incorporation with the Secretary of State at Sacramento on Friday 28 June 1861. The ledger date 1861-06-28 is the filing date. The articles themselves (California State Archives) are not online; the quoted text of the articles is reproduced by Evans. Judah is among the directors/subscribers; the ledger lists five people, and Evans names Stanford, Huntington, Hopkins, Crocker and Judah among the officers/directors/subscribers.",
       "note": "Organized 30 April 1861 (Articles of Association adopted); certificate of incorporation filed in Sacramento 28 June 1861.",
       "why": "Four merchants and an engineer. Judah is bought out and dies in 1863.",
-      "ledgerNote": "Verify against articles of incorporation",
+      "ledgerNote": "Organized and Articles of Association adopted 30 Apr 1861; certificate of incorporation filed in Sacramento 28 Jun 1861 (Evans, Collis Potter Huntington, 1954). Ambrose, Nothing Like It in the World (2000), ch. 3, p. 72; Rayner, The Associates (2008), ch. 3.",
       "origin": "ledger",
       "cites": [
         {
@@ -5348,22 +5347,22 @@
       ]
     },
     {
-      "id": "ledger-1867-06-25-chinese-workers-strike-on-the-sierra-grade",
+      "id": "ledger-1867-06-24-chinese-workers-strike-on-the-sierra-grade",
       "people": [
         "charles-crocker"
       ],
-      "date": "1867-06-25",
+      "date": "1867-06-24",
       "kind": "conflict",
       "title": "Chinese workers strike on the Sierra grade",
       "place": "sierra-nevada-ca",
       "locationText": "Sierra Nevada, CA",
       "status": "VERIFIED",
-      "why": "Several thousand men demand pay parity and shorter tunnel hours. Broken within a week by cutting off food.",
+      "why": "About 3000 men demand pay parity and shorter tunnel hours. Ends after about eight days without concessions once provisions are stopped (Chang 2019 pp. 147–158).",
       "origin": "ledger",
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1867-06-25,Chinese workers strike on the Sierra grade,Central Pacific Chinese wo",
+          "q": "1867-06-24,Chinese workers strike on the Sierra grade,Central Pacific Chinese wo",
           "line": 26
         }
       ]
@@ -5380,8 +5379,8 @@
       "place": "utah-territory",
       "locationText": "Utah Territory",
       "status": "VERIFIED",
-      "why": "A public wager, won just before Promontory, becomes part of the railroad’s legend. The labour is Chinese; the credit is not.",
-      "ledgerNote": "Master timeline: Ambrose ch 16. EPUB not re-opened in this pass (Anna’s Archive legal question).",
+      "why": "A public wager, won just before Promontory, becomes part of the railroad’s legend. Thousands of Chinese workers unloaded the cars, set ties and drove the spikes, but the eight men the celebratory accounts name are the Irish rail handlers.",
+      "ledgerNote": "Stephen E. Ambrose, Nothing Like It in the World (Simon & Schuster, 2000), ch. 16 ¶36–49, pp. 347–350: Crocker's $10,000 bet with Durant; a derailment on April 27 postponed the attempt; sunrise 7:15 a.m. Corinne time; six miles by the 1:30 p.m. meal; ten miles and fifty-six feet by 7 p.m.; eight named Irish rail handlers; spikes 'put in place by the Chinese'. EPUB checked 21 Nov 2026.",
       "origin": "ledger",
       "cites": [
         {
@@ -5470,7 +5469,7 @@
       "locationText": "Yuma, Arizona Territory",
       "status": "VERIFIED",
       "why": "One of the Associates is gone. His widow later adopts Timothy Hopkins, who will plat the town of Palo Alto beside the farm.",
-      "ledgerNote": "Master timeline: Rayner ch 12. EPUB not re-opened in this pass.",
+      "ledgerNote": "Rayner, The Associates (2008), ch. 12 ¶12: “on the night of March 28, 1878, while the car stood in a siding at Yuma, he went to sleep and didn’t wake up” (EPUB checked 21 Nov 2026).",
       "origin": "ledger",
       "cites": [
         {
@@ -5593,25 +5592,25 @@
       ]
     },
     {
-      "id": "ledger-1890-01-01-the-stanfords-travel-to-bloomington-to-recruit-d",
+      "id": "ledger-1891-03-22-the-stanfords-travel-to-bloomington-to-recruit-d",
       "people": [
         "david-starr-jordan",
         "jane-stanford",
         "leland-stanford"
       ],
-      "date": "1890-01-01",
+      "date": "1891-03-22",
       "kind": "other",
       "title": "The Stanfords travel to Bloomington to recruit David Starr Jordan as first president",
       "place": "bloomington-in",
       "locationText": "Bloomington, IN",
       "status": "VERIFIED",
       "why": "The founders choose an ichthyologist and future eugenics advocate to shape the university.",
-      "ledgerNote": "Carried over from the master timeline (Miller ch 4); the book was not re-opened on 21 Nov 2026 (Drive EPUBs are Anna’s Archive copies, set aside on legal advice). Year-only date.",
+      "ledgerNote": "Stanfords arrived Saturday March 21, 1891; Jordan accepted Sunday March 22 (Howard F. McMains, 'The Day Leland Stanford Met David Jordan,' Indiana Magazine of History 115, Sept. 2019; Stanford Magazine, 'Meet President Jordan'). Miller ch. 4 pp. 53–54 says 1890, which is wrong.",
       "origin": "ledger",
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1890-01-01,The Stanfords travel to Bloomington to recruit David Starr Jordan as ",
+          "q": "1891-03-22,The Stanfords travel to Bloomington to recruit David Starr Jordan as ",
           "line": 42
         }
       ]
@@ -5649,7 +5648,8 @@
       "place": "palo-alto-ca",
       "locationText": "Palo Alto, CA",
       "status": "VERIFIED",
-      "why": "Estate frozen; the federal government sues for $15 million. The university nearly closes.",
+      "why": "Estate frozen; within months the federal government sues for $15,237,000. The university nearly closes; the Supreme Court dismisses the claim in 1896 (161 U.S. 412).",
+      "ledgerNote": "United States v. Stanford, 161 U.S. 412 (1896); Richard White, Who Killed Jane Stanford? (W. W. Norton, 2022), ch. 10, pp. 58–59 (suit froze the estate; Jane kept the university open on the court-allowed household allowance, an insurance policy and sales of belongings).",
       "origin": "ledger",
       "cites": [
         {
@@ -5695,7 +5695,7 @@
       "locationText": "Western Australia",
       "status": "VERIFIED",
       "why": "The Stanford geologist’s fortune is made in other people’s ground, first in Australia, then in China. The master timeline already records Whyte’s description of the air at Sons of Gwalia as “notably bad.”",
-      "ledgerNote": "Master timeline: Whyte ch 5, p. 100 (1897–1908). Miller Center, “Life Before the Presidency”: Hoover moved to Australia in 1897 and China in 1899. Year-only start date.",
+      "ledgerNote": "Whyte 2017: first WA tour May 1897–Dec 1898, then London-based partner 1902–1908; “notably bad” air is the 1905 Royal Commission finding (pp. 57, 68, 89, 100, 104). Miller Center, “Life Before the Presidency”: Hoover moved to Australia in 1897 and China in 1899. Year-only start date.",
       "origin": "ledger",
       "cites": [
         {
@@ -5812,6 +5812,7 @@
       "status": "CONTESTED",
       "note": "Date and place are agreed (28 February 1905, the Moana Hotel, Honolulu); the cause is contested. The Honolulu coroner's jury found strychnine poisoning, while President Jordan announced heart failure, which most later histories repeated. The California governors' site gives her death as 25 February in its summary box and 28 February in its text, which looks like a typo.",
       "why": "Cause contested. The institution continues without structural change, which is the load-bearing fact.",
+      "ledgerNote": "Richard White, Who Killed Jane Stanford? (W. W. Norton, 2022), chs. 28–29, pp. 167–174 (Moana Hotel, Room 120; death the night of 28 February).",
       "origin": "ledger",
       "cites": [
         {
@@ -5857,26 +5858,26 @@
       ]
     },
     {
-      "id": "ledger-1905-03-01-a-honolulu-coroner-s-jury-finds-jane-stanford-di",
+      "id": "ledger-1905-03-09-a-honolulu-coroner-s-jury-finds-jane-stanford-di",
       "people": [
         "bertha-berner",
         "david-starr-jordan",
         "jane-stanford",
         "timothy-hopkins"
       ],
-      "date": "1905-03-01",
+      "date": "1905-03-09",
       "kind": "other",
       "title": "A Honolulu coroner’s jury finds Jane Stanford died of strychnine poisoning; David Starr Jordan publicly attributes the death to natural causes",
       "place": "moana-hotel-honolulu",
       "locationText": "Moana Hotel, Honolulu",
       "status": "CONTESTED",
       "why": "The institution’s president, travelling with Timothy Hopkins, hires Dr E. C. Waterhouse and tells the press the cause was heart failure (angina / a ruptured coronary artery), against the inquest. Jordan later repeats that account in his memoirs. The fact of the death is not in doubt; the cause is contested, and has been since March 1905.",
-      "ledgerNote": "Inquest verdict and Jordan’s Waterhouse hiring: Wolfe, Stanford Magazine, Sept/Oct 2003 (Cutler); also “Murder, He Wrote,” Stanford Magazine (review of Richard White). Jordan’s own account: The Days of a Man, vol. 2 (1922; IA daysofmanbeingme02jordrich), chapter on Mrs Stanford’s death: “false rumor that she had been poisoned”; Waterhouse “stated that the symptoms… were totally different from those of strychnine poisoning, and that some form of angina pectoris must have caused her death.” Exact day of the jury’s verdict was not pinned (Wolfe: after three days of testimony, a verdict in two minutes; a 11 March 1905 New York Times dispatch discusses the verdict). Dated 1 March as an early-March placeholder, the day after the death. Cutler’s book itself still to be read. “Mr. Hopkins” is Jordan’s wording; identifying him as trustee Timothy Hopkins is my inference from the same memoir, which names Timothy Hopkins among the founding trustees — single-source identification. Jordan gives the cause as “rupture of the coronary artery,” per a Cooper Medical College committee.",
+      "ledgerNote": "Inquest verdict and Jordan’s Waterhouse hiring: Wolfe, Stanford Magazine, Sept/Oct 2003 (Cutler); also “Murder, He Wrote,” Stanford Magazine (review of Richard White). Jordan’s own account: The Days of a Man, vol. 2 (1922; IA daysofmanbeingme02jordrich), chapter on Mrs Stanford’s death: “false rumor that she had been poisoned”; Waterhouse “stated that the symptoms… were totally different from those of strychnine poisoning, and that some form of angina pectoris must have caused her death.” Verdict date: the jury convened at the Moana on 6 March, heard testimony through 8 March, and delivered its verdict the evening of 9 March; papers printed it 10 March (Richard White, Who Killed Jane Stanford? (W. W. Norton, 2022), ch. 36, pp. 205–211). Jordan arrived 10 March and engaged Dr. Ernest C. Waterhouse (ch. 41, p. 234); the Jordan–Hopkins natural-causes statement appeared in the Hawaiian Star on 15 March (ch. 42, pp. 240–241 and n. 2). Earlier this row used 1 March as a placeholder. Cutler’s book itself still to be read. “Mr. Hopkins” is Jordan’s wording; identifying him as trustee Timothy Hopkins is my inference from the same memoir, which names Timothy Hopkins among the founding trustees — single-source identification. Jordan gives the cause as “rupture of the coronary artery,” per a Cooper Medical College committee.",
       "origin": "ledger",
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1905-03-01,A Honolulu coroner’s jury finds Jane Stanford died of strychnine pois",
+          "q": "1905-03-09,A Honolulu coroner’s jury finds Jane Stanford died of strychnine pois",
           "line": 53
         }
       ]
@@ -5916,7 +5917,7 @@
       "locationText": "Honolulu",
       "status": "VERIFIED",
       "why": "The president escorts the founder home while the cause of death is still being argued.",
-      "ledgerNote": "Carried over from the master timeline (White, Who Killed Jane Stanford?, ch 43, p. 248); the book was not re-opened on 21 Nov 2026 (Drive EPUBs are Anna’s Archive copies, set aside on legal advice).",
+      "ledgerNote": "Carried over from the master timeline (White, Who Killed Jane Stanford?, ch 43, p. 248).",
       "origin": "ledger",
       "cites": [
         {
@@ -5939,7 +5940,7 @@
       "locationText": "Stanford, CA",
       "status": "VERIFIED",
       "why": "The mining engineer, now rich, returns as a trustee of the university that trained him. Wikipedia’s Hoover biography, in the same 1912 passage as the Hoovers’ De re metallica translation, says he “led a successful campaign to appoint Branner as the university’s president.”",
-      "ledgerNote": "Year from the master timeline (Whyte ch 6, p. 124) and Wikipedia, “Herbert Hoover,” consulted 21 Nov 2026. Year-only date. EPUB of Whyte not re-opened in this pass.",
+      "ledgerNote": "Autumn 1912 per Whyte 2017, ch 6, p. 124 (re-checked 21 Nov 2026); also Wikipedia, “Herbert Hoover.” Date field is a year placeholder.",
       "origin": "ledger",
       "cites": [
         {
@@ -5985,7 +5986,7 @@
       "locationText": "London / occupied Belgium",
       "status": "VERIFIED",
       "why": "The two men who faced each other over Kaiping now run the two sides of Belgian wartime relief: Hoover’s CRB bringing food in from outside, Francqui’s CNSA distributing it under occupation. After the war, leftover CRB funds help create the Belgian American Educational Foundation (9 January 1920, by the Foundation’s own later account) and sustain Hoover’s Stanford collecting.",
-      "ledgerNote": "Structure of CRB and CNSA: Wikipedia, “Commission for Relief in Belgium” and “Comité National de Secours et d’Alimentation,” consulted 21 Nov 2026 (tertiary, but consistent across both pages and with Francqui’s Wikipedia biography). BAEF date 9 January 1920: Wikipedia, “Belgian American Educational Foundation” — single tertiary source; mark as such. Month of CRB’s formal start is October 1914 in those pages; dated 1 October as a month placeholder.",
+      "ledgerNote": "Structure of CRB and CNSA: Wikipedia, “Commission for Relief in Belgium” and “Comité National de Secours et d’Alimentation,” consulted 21 Nov 2026 (tertiary, but consistent across both pages and with Francqui’s Wikipedia biography). BAEF date 9 January 1920: Wikipedia, “Belgian American Educational Foundation” — single tertiary source; mark as such. Month of CRB’s formal start is October 1914 in those pages; dated 1 October as a month placeholder. Whyte 2017 (pp. 142–144) dates it mid-to-late October 1914, with Hoover’s informal charter a letter to Ambassador Page of 20 October; Francqui, “a former lieutenant for King Leopold II in the Congo,” had overlapped with Hoover in China, and “they had not gotten along.” Whyte calls the Belgian body the Comité Central.",
       "origin": "ledger",
       "cites": [
         {
@@ -6209,7 +6210,7 @@
       "locationText": "Washington, DC",
       "status": "VERIFIED",
       "why": "The pioneer-class Stanford graduate and trustee reaches the White House; he brings Stanford president Ray Lyman Wilbur into the cabinet.",
-      "ledgerNote": "Carried over from the master timeline (Whyte); the book was not re-opened on 21 Nov 2026 (Drive EPUBs are Anna’s Archive copies, set aside on legal advice). Term 4 March 1929–4 March 1933: Wikipedia, “Herbert Hoover,” infobox, consulted 21 Nov 2026; Wilbur’s cabinet dates are from Wikipedia, “Ray Lyman Wilbur.”",
+      "ledgerNote": "Carried over from the master timeline (Whyte). Term 4 March 1929–4 March 1933: Wikipedia, “Herbert Hoover,” infobox, consulted 21 Nov 2026; Wilbur’s cabinet dates are from Wikipedia, “Ray Lyman Wilbur.”",
       "origin": "ledger",
       "cites": [
         {
@@ -6290,24 +6291,24 @@
       ]
     },
     {
-      "id": "ledger-1933-01-01-warren-a-bechtel-dies-in-moscow-stephen-d-bechte",
+      "id": "ledger-1933-08-28-warren-a-bechtel-dies-in-moscow-stephen-d-bechte",
       "people": [
         "stephen-bechtel-sr",
         "warren-a-bechtel"
       ],
-      "date": "1933-01-01",
+      "date": "1933-08-28",
       "kind": "life",
       "title": "Warren A. Bechtel dies in Moscow; Stephen D. Bechtel Sr. becomes president of the family firm",
       "place": null,
       "locationText": "Moscow / San Francisco",
       "status": "VERIFIED",
-      "why": "The founder of the firm that helped build Hoover Dam dies before it is finished; his son runs Bechtel until 1960 and later ties it to Stanford through gifts and his son’s MBA.",
-      "ledgerNote": "Wikipedia, “Warren A. Bechtel” (died in Moscow, 1933) and “Stephen Bechtel Sr.” (president 1933–1960), consulted 21 Nov 2026. McCartney, Friends in High Places (IA), captions Dad Bechtel as having “died in Russia before his crowning achievement, Hoover Dam, was completed.” Year-only date.",
+      "why": "The founder of the firm that helped build Hoover Dam dies at the National Hotel in Moscow on 28 August 1933 before the dam is finished; his son runs Bechtel until 1960 and later ties it to Stanford through gifts and his son’s MBA.",
+      "ledgerNote": "Wikipedia, “Warren A. Bechtel” (died in Moscow, 1933) and “Stephen Bechtel Sr.” (president 1933–1960), consulted 21 Nov 2026. McCartney, Friends in High Places (IA), captions Dad Bechtel as having “died in Russia before his crowning achievement, Hoover Dam, was completed.” Date: McCartney ch. 4, p. 45 (n3: San Francisco Chronicle, 29 Aug 1933).",
       "origin": "ledger",
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1933-01-01,Warren A. Bechtel dies in Moscow; Stephen D. Bechtel Sr. becomes pres",
+          "q": "1933-08-28,Warren A. Bechtel dies in Moscow; Stephen D. Bechtel Sr. becomes pres",
           "line": 74
         }
       ]
@@ -6368,8 +6369,8 @@
       "place": "los-angeles-ca",
       "locationText": "Los Angeles, CA",
       "status": "VERIFIED",
-      "why": "The partnership that later biographies and government profiles treat as McCone’s wartime business. After the war McCone goes to the Air Force, the Atomic Energy Commission (chair, 1958–61) and the CIA (Director of Central Intelligence, 1961–65). McCartney also records him as a director of the Stanford Research Institute.",
-      "ledgerNote": "Laton McCartney, Friends in High Places (Simon & Schuster, 1988), IA search-inside (friendsinhighpla00mcca): the partners “in May 1937, proclaimed themselves in business,” McCone as president and Bechtel as chairman with controlling interest; McCone and Bechtel had been Berkeley engineering classmates. Wikipedia, “John A. McCone”: founded Bechtel-McCone; AEC chair 14 July 1958–20 January 1961; DCI 29 November 1961–28 April 1965. McCone as SRI director: McCartney (single source). Dated 1 May as a month placeholder.",
+      "why": "The partnership that later biographies and government profiles treat as McCone’s wartime business. After the war McCone goes to the Air Force, the Atomic Energy Commission (chair, 1958–61) and the CIA (Director of Central Intelligence, 1961–65). McCartney's index may also list him as a director of the Stanford Research Institute.",
+      "ledgerNote": "Laton McCartney, Friends in High Places (Simon & Schuster, 1988), IA search-inside (friendsinhighpla00mcca): the partners “in May 1937, proclaimed themselves in business,” McCone as president and Bechtel as chairman with controlling interest; McCone and Bechtel had been Berkeley engineering classmates. Wikipedia, “John A. McCone”: founded Bechtel-McCone; AEC chair 14 July 1958–20 January 1961; DCI 29 November 1961–28 April 1965. McCone as SRI director: unverified — not in the readable McCartney text; the index points to p. 97, missing from our copy. Dated 1 May as a month placeholder.",
       "origin": "ledger",
       "cites": [
         {
@@ -6414,7 +6415,7 @@
       "locationText": "United States",
       "status": "VERIFIED",
       "why": "The physicist who later brings the transistor to Mountain View learns to treat war as a problem in statistics.",
-      "ledgerNote": "Carried over from the master timeline (Harris ch 2.4); the book was not re-opened on 21 Nov 2026 (Drive EPUBs are Anna’s Archive copies, set aside on legal advice). The timeline dates this only “WWII”; 1942 is a placeholder for the wartime period, not a verified date.",
+      "ledgerNote": "Carried over from the master timeline (Harris ch 2.4). The timeline dates this only “WWII”; 1942 is a placeholder for the wartime period, not a verified date.",
       "origin": "ledger",
       "cites": [
         {
@@ -6442,6 +6443,29 @@
           "f": "books/cardinal/_project/event-ledger.csv",
           "q": "1945-07-01,\"Vannevar Bush delivers 'Science, the Endless Frontier'\",Vannevar Bus",
           "line": 81
+        }
+      ]
+    },
+    {
+      "id": "ledger-1946-11-06-stanford-research-institute-established",
+      "people": [
+        "henry-j-kaiser",
+        "stephen-bechtel-sr"
+      ],
+      "date": "1946-11-06",
+      "kind": "founding",
+      "title": "Stanford Research Institute established",
+      "place": "menlo-park-ca",
+      "locationText": "Menlo Park, CA",
+      "status": "NEEDS SOURCE",
+      "why": "Owned by the university. The ownership is what the 1969 protests turn on. McCartney adds that West Coast businessmen including Steve Bechtel and Henry J. Kaiser founded and bankrolled it.",
+      "ledgerNote": "Partly sourced: founders per McCartney; founding instrument not yet cited. Incorporated 6 Nov 1946 (see CANON lead-chase rows). McCartney, Friends in High Places (1988), ch. 6, p. 78 & note: “Founded in 1946 by a group of West Coast businessmen, including Steve Bechtel and Henry J. Kaiser, and originally affiliated with Stanford University”; Bechtel “had been one of SRI’s principal founders and had bankrolled its operations heavily.”",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1946-11-06,Stanford Research Institute established,Stanford trustees; Stephen Be",
+          "line": 83
         }
       ]
     },
@@ -6519,7 +6543,7 @@
       "locationText": "Stanford Industrial Park, Palo Alto, CA",
       "status": "VERIFIED",
       "why": "The farm’s land is leased to a company in which the university’s engineering dean has a stake.",
-      "ledgerNote": "Carried over from the master timeline (Harris ch 3.1); the book was not re-opened on 21 Nov 2026 (Drive EPUBs are Anna’s Archive copies, set aside on legal advice). Year-only date.",
+      "ledgerNote": "Carried over from the master timeline (Harris ch 3.1). Year-only date.",
       "origin": "ledger",
       "cites": [
         {
@@ -6690,7 +6714,7 @@
       "locationText": "584 Capistrano Way, Stanford, CA",
       "status": "VERIFIED",
       "why": "The family whose firm built Hoover Dam, and whose son took a Stanford MBA in 1948, writes its name onto a campus building for international students. Bechtel himself wrote that “friendship and mutual understanding flourish in just such surroundings as the new center will provide.”",
-      "ledgerNote": "Cameron Duran, “What’s in a name? Philanthropic histories bridge buildings across the Bay,” The Stanford Daily, 16 November 2023: the center “was similarly named for Bechtel, whose 1963 donation helped fund the remodeling of the former Zeta Psi fraternity house,” with the quoted sentence. McCartney, Friends in High Places, IA search-inside, lists “Stanford University’s International Student Center” among Bechtel family gifts. Stephen Bechtel Jr., Stanford GSB MBA 1948: Wikipedia, “Stephen Bechtel Jr.” Year-only date.",
+      "ledgerNote": "Cameron Duran, “What’s in a name? Philanthropic histories bridge buildings across the Bay,” The Stanford Daily, 16 November 2023: the center “was similarly named for Bechtel, whose 1963 donation helped fund the remodeling of the former Zeta Psi fraternity house,” with the quoted sentence. McCartney, Friends in High Places, IA search-inside, lists “Stanford University’s International Student Center” among Bechtel family gifts. Stephen Bechtel Jr., Stanford GSB MBA 1948: Wikipedia, “Stephen Bechtel Jr.” (McCartney p. 131 says 1947; wrong per Bechtel/LA Times obituaries). Year-only date.",
       "origin": "ledger",
       "cites": [
         {
@@ -6788,24 +6812,24 @@
       ]
     },
     {
-      "id": "ledger-1974-01-01-george-shultz-leaves-federal-office-to-become-pr",
+      "id": "ledger-1974-05-01-george-shultz-leaves-federal-office-to-become-pr",
       "people": [
         "george-shultz",
         "stephen-bechtel-sr"
       ],
-      "date": "1974-01-01",
+      "date": "1974-05-01",
       "kind": "other",
       "title": "George Shultz leaves federal office to become president and director of Bechtel, while joining the Stanford faculty",
       "place": null,
       "locationText": "San Francisco / Stanford, CA",
       "status": "VERIFIED",
       "why": "The future Secretary of State, and later a distinguished fellow of the Hoover Institution, spends the mid-1970s running Bechtel and teaching at Stanford. The revolving door in the power matrix is a matter of dates.",
-      "ledgerNote": "Hoover Institution, “George P. Shultz” profile, consulted 21 Nov 2026: “Shultz left government service in 1974 to become president and director of the Bechtel Group, where he remained until 1982. While at Bechtel, he maintained close ties with the academic world by joining the faculty of Stanford University.” Master timeline already had “1970s” (McCartney ch 14). Year-only date.",
+      "ledgerNote": "Hoover Institution, “George P. Shultz” profile, consulted 21 Nov 2026: “Shultz left government service in 1974 to become president and director of the Bechtel Group, where he remained until 1982. While at Bechtel, he maintained close ties with the academic world by joining the faculty of Stanford University.” McCartney ch. 15, pp. 170–173: executive president of Bechtel in May 1974 (president of Bechtel Corporation May 1975); lived on the Stanford campus and taught management and public policy; SRI International board. Dated 1 May as a month placeholder.",
       "origin": "ledger",
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1974-01-01,\"George Shultz leaves federal office to become president and director",
+          "q": "1974-05-01,\"George Shultz leaves federal office to become president and director",
           "line": 102
         }
       ]
@@ -6822,7 +6846,7 @@
       "locationText": "Stanford, CA",
       "status": "VERIFIED",
       "why": "The university turns a laboratory method into licensing income, years before Bayh–Dole.",
-      "ledgerNote": "Carried over from the master timeline (Berlin pt 3); the book was not re-opened on 21 Nov 2026 (Drive EPUBs are Anna’s Archive copies, set aside on legal advice). Year-only date.",
+      "ledgerNote": "Carried over from the master timeline (Berlin pt 3). Year-only date.",
       "origin": "ledger",
       "cites": [
         {
@@ -6867,7 +6891,7 @@
       "locationText": "South San Francisco, CA",
       "status": "VERIFIED",
       "why": "A Kleiner & Perkins associate, let go with payroll to the end of 1975, builds the first biotech company on a Stanford-licensed method.",
-      "ledgerNote": "Carried over from the master timeline (Berlin ch 15); the book was not re-opened on 21 Nov 2026 (Drive EPUBs are Anna’s Archive copies, set aside on legal advice). Year from the timeline; exact founding day not rechecked.",
+      "ledgerNote": "Carried over from the master timeline (Berlin ch 15). Year from the timeline; exact founding day not rechecked.",
       "origin": "ledger",
       "cites": [
         {
@@ -7068,7 +7092,7 @@
       "locationText": "Palo Alto, CA",
       "status": "VERIFIED",
       "why": "The payments company whose founders later fund and run much of the region’s next generation of firms.",
-      "ledgerNote": "Carried over from the master timeline (Soni); the book was not re-opened on 21 Nov 2026 (Drive EPUBs are Anna’s Archive copies, set aside on legal advice). Timeline dates this 1999–2002; 2002 sale to eBay is already in the ledger. Year-only date.",
+      "ledgerNote": "Carried over from the master timeline (Soni). Timeline dates this 1999–2002; 2002 sale to eBay is already in the ledger. Year-only date.",
       "origin": "ledger",
       "cites": [
         {
@@ -7137,7 +7161,7 @@
       "locationText": "Palo Alto, CA",
       "status": "VERIFIED",
       "why": "A Stanford dropout’s start-up, with a Hoover fellow on its board, fails; its money came mostly from outside Sand Hill.",
-      "ledgerNote": "Carried over from the master timeline (Mallaby ch 14, p. 340); the book was not re-opened on 21 Nov 2026 (Drive EPUBs are Anna’s Archive copies, set aside on legal advice). The timeline dates the collapse 2015–18. Tyler Shultz as a key source for the WSJ: Wikipedia, “Theranos.” The first WSJ article’s exact date was not rechecked; dated 2015 year-only.",
+      "ledgerNote": "Carried over from the master timeline (Mallaby ch 14, p. 340). The timeline dates the collapse 2015–18. Tyler Shultz as a key source for the WSJ: Wikipedia, “Theranos.” The first WSJ article’s exact date was not rechecked; dated 2015 year-only.",
       "origin": "ledger",
       "cites": [
         {
@@ -7171,24 +7195,24 @@
       ]
     },
     {
-      "id": "ledger-2022-11-01-theo-baker-s-stanford-daily-reporting-on-marc-te",
+      "id": "ledger-2022-11-29-theo-baker-s-stanford-daily-reporting-on-marc-te",
       "people": [
         "marc-tessier-lavigne",
         "theo-baker"
       ],
-      "date": "2022-11-01",
+      "date": "2022-11-29",
       "kind": "publication",
       "title": "Theo Baker’s Stanford Daily reporting on Marc Tessier-Lavigne’s scientific papers begins",
       "place": "stanford-ca",
       "locationText": "Stanford, CA",
       "status": "VERIFIED",
       "why": "A freshman journalist on the farm forces a president’s resignation the following July (already in the ledger). In 2023 Baker becomes the youngest George Polk Award recipient for that work.",
-      "ledgerNote": "Master timeline: Baker ch 4, p. 94; stanford-special-committee-2023. Wikipedia, “Theo Baker”: stories beginning November 2022; Polk Special Award 2023. Dated 1 November as a month placeholder.",
+      "ledgerNote": "Master timeline: Baker ch 4, p. 94; stanford-special-committee-2023. Wikipedia, “Theo Baker”: Polk Special Award 2023. Date: tip to PubPeer 1 November 2022; first article published 29 November 2022, the same day the board announced its investigation (Baker, How to Rule the World (Penguin, 2026), Notes, p. 311). Earlier this row used 1 November as a placeholder.",
       "origin": "ledger",
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "2022-11-01,Theo Baker’s Stanford Daily reporting on Marc Tessier-Lavigne’s scien",
+          "q": "2022-11-29,Theo Baker’s Stanford Daily reporting on Marc Tessier-Lavigne’s scien",
           "line": 135
         }
       ]
@@ -7443,7 +7467,7 @@
       "cites": [
         {
           "f": "site/corpus/rewrite/timeline.md",
-          "q": "Hoover in Western Australia; his Sons of Gwalia mine has air “notably bad.”"
+          "q": "A 1905 Royal Commission finds the air at his Sons of Gwalia mine \"notably bad.\""
         },
         {
           "url": "https://hoover.archives.gov/exhibits/years-adventure-1874-1914",
@@ -7717,13 +7741,14 @@
         "david-starr-jordan"
       ],
       "date": "1891-03",
+      "dateNote": "Arrived Saturday 21 March 1891; offer and acceptance on Sunday 22 March, per Stanford Archives.",
       "kind": "work",
       "title": "The Stanfords travel to Bloomington, Indiana, and offer David Starr Jordan the presidency",
       "status": "VERIFIED",
       "cites": [
         {
           "f": "site/corpus/rewrite/timeline.md",
-          "q": "The Stanfords travel to Bloomington to recruit David Starr Jordan."
+          "q": "The Stanfords travel to Bloomington; Jordan, president of Indiana University, accepts the Stanford presidency on Sunday, March 22."
         },
         {
           "url": "https://archive.org/stream/stanfroduniversi009361mbp/stanfroduniversi009361mbp_djvu.txt",
@@ -7755,7 +7780,6 @@
         }
       ],
       "place": "bloomington-in",
-      "dateNote": "Arrived Saturday 21 March 1891; offer and acceptance on Sunday 22 March, per Stanford Archives.",
       "revisionNote": "The manuscript dates the Bloomington trip to 1890 (from a Miller paraphrase). Stanford Archives, the 1937 Stanford history and the Jordan finding aid all place it in March 1891 (offer accepted 22 March 1891).",
       "origin": "curated"
     },
@@ -8013,12 +8037,12 @@
       "date": "1878-03",
       "dateNote": "within a day of Hopkins's death",
       "kind": "other",
-      "title": "Huntington, in New York, learns of Hopkins's death by wire",
+      "title": "Huntington, in New York, gets the news of Hopkins's death",
       "status": "DRAFT",
       "cites": [
         {
           "f": "site/corpus/rewrite/chapters/ep3-03-yuma.md",
-          "q": "Collis Huntington, in New York, learned the news by wire."
+          "q": "Collis Huntington, in New York, got the news."
         }
       ],
       "note": "No source consulted in the second research pass states that Huntington learned of the death by telegraph. It is plausible, because Hopkins died in Yuma on 29 March 1878 and the telegraph was the usual channel, but it is not recorded in a source we could read. It stays DRAFT.",
@@ -12014,7 +12038,7 @@
       "cites": [
         {
           "f": "site/corpus/rewrite/timeline.md",
-          "q": "The Stanfords travel to Bloomington to recruit David Starr Jordan."
+          "q": "The Stanfords travel to Bloomington; Jordan, president of Indiana University, accepts the Stanford presidency on Sunday, March 22."
         }
       ],
       "fromGroup": false
@@ -12028,7 +12052,7 @@
       "cites": [
         {
           "f": "site/corpus/rewrite/timeline.md",
-          "q": "The Stanfords travel to Bloomington to recruit David Starr Jordan."
+          "q": "The Stanfords travel to Bloomington; Jordan, president of Indiana University, accepts the Stanford presidency on Sunday, March 22."
         }
       ],
       "fromGroup": false

@@ -95,7 +95,7 @@ describe('GEDCOM to dataset', () => {
     for (const e of ds.events) {
       for (const pid of e.people) expect(ids.has(pid)).toBe(true);
       expect(e.status).toBe('IMPORTED');
-      expect(e.cites[0].f.startsWith('import:')).toBe(true);
+      expect(e.cites[0]?.f?.startsWith('import:')).toBe(true);
     }
     const d = makeData(ds);
     expect(d.families()[0].length).toBeGreaterThanOrEqual(4);

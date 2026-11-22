@@ -15,8 +15,8 @@
 
 ## Answers (with sources)
 
-1. Hoover surveyed, managed, and accounted for the Sons of Gwalia mine at Coolgardie; the 1905 Royal Commission found the air “notably bad” (Whyte 2021, 100; Harris 2023, ch. 2.3; `books/cardinal/ch/3-01`, `3-02`).
-2. Branner paid Hoover’s typhoid medical bills; Hoover met Lou Henry in Branner’s geology lab (Harris 2023, ch. 2.3; Whyte 2021, 43; `moments.md` Ep 5).
+1. Hoover surveyed, managed, and accounted for the Sons of Gwalia mine at Coolgardie; the 1905 Royal Commission found the air “notably bad” (Whyte 2017, 100; Harris 2023, ch. 2.3; `books/cardinal/ch/3-01`, `3-02`).
+2. Branner paid Hoover’s typhoid medical bills; Hoover met Lou Henry in Branner’s geology lab (Harris 2023, ch. 2.3; Whyte 2017, 43; `moments.md` Ep 5).
 3. Jordan chaired eugenics committees and advocated hereditary explanations for social quality; California’s 1909 sterilisation law authorized non-consensual operations in state institutions (`books/cardinal/ch/3-03`; Harris 2023, ch. 2.2).
 4. Terman’s 1916 scale produced a single inherited-capacity score for mass use; army testing followed in WWI (`books/cardinal/ch/3-06`).
 5. Fault rupture near campus destroyed library, gym, arch, church spire; two dead; university reopened autumn 1906 because endowment and land, not buildings, were the core assets (`books/cardinal/ch/2-13`; Harris 2023, ch. 2.1).
@@ -37,10 +37,10 @@
 
 | Character | Motifs | Complicating scene (sourced) |
 |-----------|--------|------------------------------|
-| Herbert Hoover | Orphan → credential → global engineer; logistics under siege | “Notably bad” air at Sons of Gwalia (Whyte 2021, 100); Kaiping litigation (`ch/3-01`) |
+| Herbert Hoover | Orphan → credential → global engineer; logistics under siege | “Notably bad” air at Sons of Gwalia (Whyte 2017, 100); Kaiping litigation (`ch/3-01`) |
 | David Starr Jordan | Taxonomy, peace, conservation, eugenics | Same man argues heredity explains poverty while president (`ch/3-03`) |
 | Lewis Terman | IQ scale, gifted study, eugenics | Army mass testing; SAT lineage (`ch/3-06`) |
 | Frederick Terman | Anti-export talent; federal money; steeples | Wartime bystander grievance; RRL at Harvard (`ch/3-10`) |
-| Lou Henry Hoover | Only woman in geology program; lab partnership | Met Hoover in Branner’s lab (Whyte 2021, 43) |
+| Lou Henry Hoover | Only woman in geology program; lab partnership | Met Hoover in Branner’s lab (Whyte 2017, 43) |
 | John Casper Branner | Patron, geology chair, trustee line | Paid Hoover’s typhoid bills (Harris 2023, ch. 2.3) |
 | William Hewlett / David Packard | Garage, oscillator, stay-in-CA | Terman’s loan and advice (`ch/3-09`) |

@@ -52,9 +52,9 @@ Status words: aired (in the narration), legend (marked as story vs. record), cut
 
 | Claim | Source | Status |
 | --- | --- | --- |
-| Hoover born 1874, Iowa, Quaker, orphaned, Oregon, failed the entrance exam except mathematics, conditional admit, on campus summer 1891. | Whyte, *Hoover: An Extraordinary Life*. | Aired. |
+| Hoover born 1874, Iowa, Quaker, orphaned, Oregon, came up short on the entrance exams, conditional admit (Whyte pp. 33, 35), on campus summer 1891. | Whyte, *Hoover: An Extraordinary Life*. | Aired. |
 | Branner, $25 a month, typist through graduation 1895. | Whyte, about p. 36. | Aired. "$25 in the 1890s, roughly, on the order of a thousand dollars a month" is a spoken estimate, not a fake index printout. 1895 index is not pinned in the narration. |
-| Ore carts in Nevada. Janin to Bewick, Moreing. Western Australia, 1897, age 23. Sons of Gwalia. | Whyte. | Aired. |
+| Mucker at Reward/Mayflower mines, Nevada County, California (Whyte pp. 45–46). Janin to Bewick, Moreing. Western Australia, 1897, age 22. Sons of Gwalia. | Whyte. | Aired. |
 | 1905 Western Australia Royal Commission. Air at Sons of Gwalia "notably bad." Dust, fumes, falling rock. Six to eight commissions a year, including stone vs. stucco. | Whyte, about p. 100. | Aired. The "notably bad" phrase is attributed. |
 | China, 1899. Lou Henry, only woman in the geology program, degree 1898. First meeting in Branner's lab. Married Monterey, February 1899, sailed the next day. | Whyte, about p. 43. | Aired. |
 | Fortune by 1914. | Biographies disagree. | Cut. Script says so. |

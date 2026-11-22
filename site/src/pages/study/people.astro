@@ -1,0 +1,32 @@
+---
+import Base from '../../layouts/Base.astro';
+import NotesSubnav from '../../components/NotesSubnav.astro';
+import { getStudyPeople } from '../../lib/research';
+
+const people = getStudyPeople();
+---
+
+<Base title="Study Guide people" description="A quick-reference people list drawn from the close-reading notes.">
+  <article class="doc">
+    <h1 class="page-title">People</h1>
+    <p class="lede">
+      Names newly sourced in the close-reading notes, with page cites. This is a study list, not the full manuscript ledger
+      (that remains on <a href="/people">People</a>).
+    </p>
+    <NotesSubnav section="study" current="people" />
+    {
+      people.length === 0 ? (
+        <p class="gap-note">Gap: no people have been filed in the notes yet.</p>
+      ) : (
+        <ul class="bullet-list">
+          {people.map((person) => (
+            <li>
+              {person.note}
+              {person.source && <span class="cite"> — {person.source}</span>}
+            </li>
+          ))}
+        </ul>
+      )
+    }
+  </article>
+</Base>
