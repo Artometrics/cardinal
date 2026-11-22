@@ -48,7 +48,7 @@ National Park Service's *The Pacific Railway* handbook.
 | Thirty-year government bonds at six percent, plus land grants | VERIFIED | 12 Stat. 489; Pacific Railway Acts legislative history |
 | The Union Pacific was the first corporation chartered by the federal government since the Second Bank of the United States | VERIFIED | NPS handbook |
 | Central Pacific incorporated 28 June 1861 | VERIFIED | Certificate filed 28 June 1861 after organization on 30 April (Evans, *Collis Potter Huntington*, 1954); Ambrose 2000, ch. 3, p. 72 |
-| California gold's contribution to Union war finance | NEEDS SOURCE | Load-bearing for the chapter's second half |
+| California gold's contribution to Union war finance | VERIFIED (narrowly) | *Report of the Secretary of the Treasury on the State of the Finances for the Year 1864*, pp. 8–9 (FRASER): miscellaneous receipts include “Premium on gold shipped from San Francisco to London,” $2,799,920.64. The Secretary explains that exchange drawn against five-twenty bonds in London had to be met at maturity, “which was accomplished by shipments of gold from California.” This documents one official mechanism in 1863–64; it does not by itself quantify gold’s overall share of Union war finance. |
 
 **Discrepancy flagged.** The National Archives' summary page for the Pacific
 Railway Act states that the 1862 Act "designated the 32nd parallel as the initial
@@ -84,7 +84,7 @@ Worth a footnote — a reader checking the most obvious source will hit this.
 | Bowerman and Knight each put in $500 and ordered 300 pairs; partnership sealed by handshake 25 January 1964 | VERIFIED | Nike corporate history |
 | Jeff Johnson, Nike's first full-time employee (1965), was met at Stanford through intramural track | VERIFIED | Nike corporate history; *The Oregonian*, 2011 |
 | Knight later funded the Knight Management Center at Stanford GSB, dedicated 2011 | VERIFIED | *The Oregonian*, 22 April 2011 |
-| Nike revenues exceeded $3 million in 1972, its first year under the Nike brand | NEEDS SOURCE | *Encyclopedia.com* gives this; want a second source |
+| Nike sales in the first years of the Nike brand | CONTESTED (figure) | *Encyclopedia.com* said revenues exceeded $3 million in 1972, the first year under the Nike brand. A second source does not corroborate that wording. Phil Knight, Address to the Graduating Class, Stanford GSB, 14 June 2014, transcribed by Allan Brettman, *The Oregonian*, 16 June 2014: “By 1972 we got to $2 million in sales with a 3 percent net profit.” After the Onitsuka break, the Nike name, and new product lines, “Sales grew to $3.2 million, but we had our first-ever loss.” Use Knight’s figures; do not treat the *Encyclopedia.com* “exceeded $3 million in 1972” line as settled. |
 | Page length of the Shallenberger paper | CONTESTED | *The Oregonian* says 50 pages; other accounts differ. Omit the number from the prose. |
 
 ### Act III, ch. 7 — The April Third Movement

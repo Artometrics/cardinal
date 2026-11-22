@@ -173,12 +173,6 @@
     "caption": "Illustrated reconstruction",
     "slug": "1874-10-01-muybridge-calistoga-trial"
   },
-  "1876-01-01::Southern Pacific completes the line to Los Angeles": {
-    "src": "/timeline-art/1876-01-01-southern-pacific-los-angeles.webp",
-    "alt": "Illustrated six-panel reconstruction of the Southern Pacific completing its line to Los Angeles in 1876.",
-    "caption": "Illustrated reconstruction",
-    "slug": "1876-01-01-southern-pacific-los-angeles"
-  },
   "1877-01-01::Denis Kearney’s Workingmen march on Stanford’s Nob Hill mansion": {
     "src": "/timeline-art/1877-01-01-kearney-nob-hill-march.webp",
     "alt": "Illustrated six-panel reconstruction of an 1877 Workingmen's march climbing toward a railroad baron's mansion on San Francisco's Nob Hill.",
@@ -485,12 +479,6 @@
     "caption": "Illustrated reconstruction",
     "slug": "1946-11-06-stanford-research-institute"
   },
-  "1951-01-01::Stanford Industrial Park opens": {
-    "src": "/timeline-art/1951-01-01-stanford-industrial-park.webp",
-    "alt": "Illustrated six-panel reconstruction of Stanford Industrial Park opening on Page Mill Road: foothills, a graded road, a steel frame going up, and a dusk pavilion.",
-    "caption": "Illustrated reconstruction",
-    "slug": "1951-01-01-stanford-industrial-park"
-  },
   "1953-01-01::First Stanford Industrial Park lease goes to Varian Associates; Terman is an investor and board member": {
     "src": "/timeline-art/1953-01-01-varian-first-park-lease.webp",
     "alt": "Illustrated six-panel reconstruction of Varian’s first Industrial Park lease: a hillside modernist lab, a blank lease being signed, and a dean’s office at dusk.",
@@ -622,12 +610,6 @@
     "alt": "Illustrated six-panel reconstruction of the 1979 ERISA prudent-man clarification: a federal building, a hearing table with blank papers, a corridor of file cabinets, and dusk over a Washington dome.",
     "caption": "Illustrated reconstruction",
     "slug": "1979-02-01-erisa-prudent-man"
-  },
-  "1980-08-12::IBM Personal Computer development; MS-DOS licensed non-exclusively": {
-    "src": "/timeline-art/1980-08-12-ibm-pc-msdos.webp",
-    "alt": "Illustrated six-panel reconstruction of early personal-computer development and a non-exclusive operating-system licence: a beige unbranded desktop with a blank glowing CRT, a lab seen from behind, rain on a Seattle street, and a blank licence page.",
-    "caption": "Illustrated reconstruction",
-    "slug": "1980-08-12-ibm-pc-msdos"
   },
   "1980-10-14::Genentech IPO": {
     "src": "/timeline-art/1980-10-14-genentech-ipo.webp",
@@ -832,5 +814,23 @@
     "alt": "Illustrated six-panel reconstruction of the Stanfords’ 1890 journey to Bloomington to recruit the university’s first president.",
     "caption": "Illustrated reconstruction",
     "slug": "1890-01-01-recruit-jordan-bloomington"
+  },
+  "1876-09-05::Southern Pacific completes the line to Los Angeles": {
+    "src": "/timeline-art/1876-01-01-southern-pacific-los-angeles.webp",
+    "alt": "Illustrated six-panel reconstruction of the Southern Pacific completing its line to Los Angeles in 1876.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1876-01-01-southern-pacific-los-angeles"
+  },
+  "1953-01-01::Stanford Industrial Park opens (first building occupied by Varian Associates)": {
+    "src": "/timeline-art/1951-01-01-stanford-industrial-park.webp",
+    "alt": "Illustrated six-panel reconstruction of Stanford Industrial Park opening on Page Mill Road: foothills, a graded road, a steel frame going up, and a dusk pavilion.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1951-01-01-stanford-industrial-park"
+  },
+  "1980-11-06::Microsoft signs a contract with IBM to create an operating system for the IBM PC": {
+    "src": "/timeline-art/1980-08-12-ibm-pc-msdos.webp",
+    "alt": "Illustrated six-panel reconstruction of early personal-computer development and a non-exclusive operating-system licence: a beige unbranded desktop with a blank glowing CRT, a lab seen from behind, rain on a Seattle street, and a blank licence page.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1980-08-12-ibm-pc-msdos"
   }
 }

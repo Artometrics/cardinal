@@ -4214,7 +4214,7 @@ Jane Stanford delivered all three longer than the drafts of history usually cred
 
 What she did over the following six years deserves plain description (repo ch 2-13).
 
-She kept the institution open. She kept it open on the household allowance the court allowed her, an insurance policy, and the sale of personal belongings, and she cut salaries by 10 percent (White 2022, ch. 10, pp. 58–59). The often-told version, that she argued the faculty were her personal servants so their salaries could come out of that allowance, [needs source — not in White 2022]. She cut expenditure to the bone. She closed the university's construction program when new stone could wait. She sold personal property. She offered her jewels, a gesture romanticized in later accounts; the collection was genuinely enormous, and its eventual sale did fund a library.
+She kept the institution open. She kept it open on the household allowance the court allowed her, an insurance policy, and the sale of personal belongings, and she cut salaries by 10 percent (White 2022, ch. 10, pp. 58–59). Jordan later wrote that the probate court had to regard the president and professors as Mrs. Stanford's personal servants, because the University itself had “for the time no recognized status,” and that Judge James B. Coffey then allowed her a monthly allowance of $12,500 for “service” (David Starr Jordan, *The Days of a Man*, vol. 1, 1922, pp. 495–496; also his Founder's Day address of 9 March 1909, *Popular Science Monthly* 75 (August 1909): 161). The court order itself has not been opened. She cut expenditure to the bone. She closed the university's construction program when new stone could wait. She sold personal property. She offered her jewels, a gesture romanticized in later accounts; the collection was genuinely enormous, and its eventual sale did fund a library.
 
 Newspapers loved the image of a widow selling diamonds for books. Jane used the image when it helped. She also used quieter sales of property and ruthless cuts to maintenance. Every saved dollar was a day classes continued.
 
@@ -4383,7 +4383,7 @@ The president wrote memos. The benefactress wrote ultimatums. Ross continued to 
 
 Then Jordan complied. Ross resigned in November 1900. Seven members of the faculty resigned in protest over the following months, including the head of the history department (repo ch 2-13).
 
-The case was reported nationally. It became the standard example in the long argument that produced the AAUP in 1915 and, eventually, tenure and the modern vocabulary of academic freedom. Ross went to Nebraska and then to Wisconsin, where he had a long career and published *Social Control* in 1901 (repo ch 2-13).
+The case was reported nationally. It became the standard example in the long argument that produced the AAUP in 1915 and, eventually, tenure and the modern vocabulary of academic freedom. Ross went to the University of Nebraska in 1901 and to the University of Wisconsin in 1906, where he had a long career; *Social Control* was published in 1901, during his first year at Nebraska (repo ch 2-13).
 
 The first great academic freedom controversy in the United States arose at a university built by a railroad, over criticism of railroads, and was resolved by removing the critic. The chapter states it and moves on.
 
@@ -4405,7 +4405,7 @@ Jane Stanford was not a passive donor shocked by controversy. She had managed th
 
 Firing Ross was consistent with firing a threat. It was inconsistent with the rhetoric of a free university, and the inconsistency is why the case mattered nationally.
 
-She would live four more years. She would taste strychnine in Poland Spring water in January 1905. She would die in Honolulu in February. Ross would be in Wisconsin, thriving, proof that removal did not end speech—only speech on this farm.
+She would live four more years. She would taste strychnine in Poland Spring water in January 1905. She would die in Honolulu in February. Ross would be at the University of Nebraska (he moved to Wisconsin only in 1906), thriving, proof that removal did not end speech—only speech on this farm.
 
 ### The ironies without a sermon
 
@@ -4493,7 +4493,7 @@ Ross would publish *Social Control* in 1901 at Wisconsin, turning his exile into
 
 Newspapers that had printed Ross's warnings about coolie labor would print his departure instead. Labor halls that had cheered him would cheer him elsewhere. Only Palo Alto was closed to his voice.
 
-Jordan's compliance ended one controversy and stored resentment in departments that would remember. Howard's silence was one kind of memory. Ross's Wisconsin career was another.
+Jordan's compliance ended one controversy and stored resentment in departments that would remember. Howard's silence was one kind of memory. Ross's later career at Nebraska and Wisconsin was another.
 
 When Jordan told Howard to "keep still" (White 2022, 101), he was protecting more than reputation. He was protecting a benefactress who had already fired one critic and who would soon flee poison on Nob Hill. November 1900 taught Jordan how to manage inconvenient truth before January 1905 tested him again on a Nob Hill water bottle.
 

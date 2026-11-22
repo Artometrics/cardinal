@@ -335,7 +335,7 @@
         },
         {
           "qSha256": "e2f87e9fd12de4a0473ef470436cf3691f7399776c0c27107f2d129bcb194eeb",
-          "q": "In 1932 \u00c9mile Francqui and Herbert Hoover created the Francq",
+          "q": "In 1932 Émile Francqui and Herbert Hoover created the Francq",
           "found": true
         },
         {
@@ -389,7 +389,7 @@
       "quotes": [
         {
           "qSha256": "074e49a9287ba1c4a77e1bce441fa5d032f872181f9733c3a446cbe2f89fe6e0",
-          "q": "Arabella Duval Huntington (n\u00e9e Yarrington; c. 1850/1851 - Se",
+          "q": "Arabella Duval Huntington (née Yarrington; c. 1850/1851 - Se",
           "found": true
         },
         {
@@ -675,7 +675,7 @@
       "quotes": [
         {
           "qSha256": "019772325ab7389bd5d6cabd2d55edb82775c142aeb353b7daf21f23069907d7",
-          "q": "It was directed by the Belgian financier \u00c9mile Francqui.",
+          "q": "It was directed by the Belgian financier Émile Francqui.",
           "found": true
         }
       ]
@@ -1012,7 +1012,7 @@
         },
         {
           "qSha256": "067acf1a0940bc61dc97e8fff5c1452659011ab2c4577f32f2b1cccf033265f5",
-          "q": "Gaspar de Portol\u00e1 y Rovira was born on January 1, 1716 in Os",
+          "q": "Gaspar de Portolá y Rovira was born on January 1, 1716 in Os",
           "found": true
         },
         {
@@ -1309,7 +1309,7 @@
         },
         {
           "qSha256": "dfa10b7c78224e265a7061885930774a453701a82672fdd4c9c5773b390d0702",
-          "q": "Jean Am\u00e9d\u00e9e Hoerni was born on September 26, 1924, in Geneva",
+          "q": "Jean Amédée Hoerni was born on September 26, 1924, in Geneva",
           "found": true
         }
       ]
@@ -1459,7 +1459,7 @@
         },
         {
           "qSha256": "cba6b2d0ee9db696f5a067364795c0b074cb8363b92b9f3e1f1734b593d61dbe",
-          "q": "at age nineteen and newly married to Mar\u00eda Francisca Guti\u00e9rr",
+          "q": "at age nineteen and newly married to María Francisca Gutiérr",
           "found": true
         }
       ]
@@ -1575,7 +1575,7 @@
       "quotes": [
         {
           "qSha256": "f8b9a2932161a5214f7c27a3fb526c5ab4eced4dd9d4b7b2081f53d2ed589b30",
-          "q": "Her mother was Florence Ida (n\u00e9e Weed), a former schoolteach",
+          "q": "Her mother was Florence Ida (née Weed), a former schoolteach",
           "found": true
         },
         {
@@ -1737,7 +1737,7 @@
       "quotes": [
         {
           "qSha256": "44dcc89469a314070799fa37880cdd2ed1f8c021c94ff754f108c90f33d875d6",
-          "q": "given in 1841 by Governor Juan Alvarado to Mar\u00eda Antonia Mes",
+          "q": "given in 1841 by Governor Juan Alvarado to María Antonia Mes",
           "found": true
         }
       ]
@@ -3387,7 +3387,7 @@
         },
         {
           "qSha256": "68c6fcdd83899ab509d6667cc685c62aca42f60b811b03548bd28a652f811f74",
-          "q": "Berner had been Mrs. Stanford\u2019s companion for 30 years",
+          "q": "Berner had been Mrs. Stanford’s companion for 30 years",
           "found": true
         },
         {
@@ -3413,19 +3413,6 @@
         {
           "qSha256": "e92923a00bb2d5c820d7f6533e78ff84819e5400d7fc1650585484b9095e9dc6",
           "q": "he quickly hired a local physician, Ernest Coniston Waterhou",
-          "found": true
-        }
-      ]
-    },
-    {
-      "url": "https://stanfordresearchpark.com/about/",
-      "httpStatus": 200,
-      "retrieved": "2026-11-21",
-      "pageTextSha256": "1f6abcbee164dc96ed2d7224d37ec5129a829a8483be8c9e8e8f4007cab85928",
-      "quotes": [
-        {
-          "qSha256": "7e6dd5bf47967f0940087bbdd3932a4b82a7138460538a8874a98e11111d7e8a",
-          "q": "Since 1951, Stanford Research Park has been home to the R&D ",
           "found": true
         }
       ]

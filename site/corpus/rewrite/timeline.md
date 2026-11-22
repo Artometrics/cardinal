@@ -32,7 +32,7 @@
 - **1872–78.** Muybridge photographs Stanford's horses. In between, in 1874, he killed his wife's lover; Stanford rehired him in 1876. (Harris ch 1.3)
   - ★ DEEP CUT: the man who invents cinema on the Stanford farm had just killed a man.
   - Detail: first commission May 1872, Occident at Union Park, Sacramento; Larkyns killed October 1874, Muybridge acquitted as justifiable homicide; the Palo Alto demonstration on 15 June 1878 (Abe Edgington), Sallie Gardner on 19 June. (Mozley, *Eadweard Muybridge: The Stanford Years*, 1972, Internet Archive)
-- **1876.** Southern Pacific completes the line to Los Angeles. (event ledger) **Needs a source.**
+- **1876, September 5.** Southern Pacific completes the line to Los Angeles at Lang Station (California Historical Landmark No. 590). (event ledger)
 - **1877.** Kearney's Workingmen march on Stanford's Nob Hill mansion. (Harris ch 1.2; White-R ch 7 ¶59 identifies Kearney only)
 - **1878, Mar 28.** Mark Hopkins dies in his rail car at Yuma. (Rayner ch 12)
 - **1880, May 11.** Mussel Slough. (Rayner ch 13)
@@ -97,7 +97,7 @@
 - **1945, Jul 1.** Vannevar Bush delivers 'Science, the Endless Frontier'. (event ledger)
 - **1946, Aug 1.** Office of Naval Research established. (event ledger)
 - **1946, Nov 6.** Stanford Research Institute established. (event ledger) **Needs a source.**
-- **1951.** Stanford Industrial Park opens. (event ledger) **Needs a source.**
+- **1951 / 1953.** Stanford Industrial Park authorized and first Varian lease signed (October 1951); first building occupied by Varian in 1953. (event ledger)
 - **1953.** First Stanford Industrial Park lease goes to Varian; Terman is an investor and board member. (Harris ch 3.1)
 - **1955–56.** Lockheed moves its missiles division to Sunnyvale. (Harris ch 3.1)
 - **1956–57.** Shockley Semiconductor, then the "traitorous eight." (Harris ch 3.2)
@@ -120,7 +120,7 @@
 - **1975, Mar 5.** First Homebrew Computer Club meeting. (event ledger)
 - **1976.** Genentech; Swanson, let go by Kleiner & Perkins (payroll through the end of 1975), co-founds it. (Berlin ch 15)
 - **1979, Feb 1.** ERISA prudent man rule clarified. (event ledger)
-- **1980, Aug 12.** IBM Personal Computer development; MS-DOS licensed non-exclusively. (event ledger) **Needs a source.**
+- **1980, November 6.** Microsoft signs a contract with IBM to create an operating system for the IBM PC. (event ledger; 12 August 1980 was a mistaken date, probably confused with the 12 August 1981 announcement of the IBM PC)
 - **1980, Oct 14.** Genentech IPO. (event ledger)
 - **1980.** Bayh–Dole Act. (Berlin ch 19; Harris ch 4.2)
 - **1981–82.** Reagan cabinet: Weinberger (Defense) and Shultz (State), both ex-Bechtel. (Denton chs 17–18, 35; McCartney)

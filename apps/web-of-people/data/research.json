@@ -1203,50 +1203,6 @@
         }
       ]
     },
-    "ledger-1951-01-01-stanford-industrial-park-opens": {
-      "status": "CONTESTED",
-      "date": "1951",
-      "dateNote": "1951 = authorised / first lease (October); 1953 = first tenant occupies its building.",
-      "revisionNote": "Ledger entry is dated 1951-01-01 as 'opens'. Sources agree on the sequence but use 'opened' differently: the park was authorised (209 acres set aside) and the first ground lease (Varian) signed in October 1951; Varian built its lab and moved in 1953, which Wikipedia and Palo Alto History call the opening. No source gives January 1951.",
-      "note": "Sources differ on when the park 'opened': 1951 (authorised; first lease signed October 1951) versus 1953 (first tenant moved in).",
-      "cites": [
-        {
-          "url": "https://stanfordresearchpark.com/about/",
-          "title": "About Stanford Research Park",
-          "publisher": "Stanford Research Park (Stanford University)",
-          "kind": "institutional",
-          "q": "Since 1951, Stanford Research Park has been home to the R&D branches of pioneering companies from Varian Associates to HP, Lockheed Martin, SAP, Tesla, and more."
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Stanford_Research_Park",
-          "title": "Stanford Research Park",
-          "publisher": "Wikipedia",
-          "kind": "tertiary",
-          "q": "In 1951, the initiative was authorized and 209 acres were allocated. In 1953, Varian Associates moved in as the park's first tenant."
-        },
-        {
-          "url": "https://stanfordmag.org/contents/century-at-stanford",
-          "title": "Century at Stanford (50 years ago, 1951)",
-          "publisher": "Stanford Magazine",
-          "kind": "institutional",
-          "q": "University officials in October took the first step in opening portions of Stanford land to industrial users when they signed a lease with Varian Associates for a 10-acre tract"
-        },
-        {
-          "url": "https://paloaltohistory.org/stanford-research-park-1",
-          "title": "Stanford Research Park",
-          "publisher": "Palo Alto Historical Association",
-          "kind": "institutional",
-          "q": "Varian Associates were the park's first tenants when it opened in 1953."
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Frederick_Terman",
-          "title": "Frederick Terman",
-          "publisher": "Wikipedia",
-          "kind": "tertiary",
-          "q": "In 1951 he spearheaded the creation of Stanford Industrial Park (now Stanford Research Park)"
-        }
-      ]
-    },
     "ledger-1957-09-18-the-eight-resign-from-shockley-fairchild-semicon": {
       "status": "VERIFIED",
       "revisionNote": "Ledger lists Arthur Rock among the actors who resigned. Two sources show he was the intermediary, not one of the eight.",

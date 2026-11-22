@@ -54,7 +54,7 @@
 - **Key Scenes for Cardinal:**  
   - The architectural design of the Stanford campus (p. 283): the 9,000-acre farm; Romanesque buildings roofed in red tile; the chapel after Boston's Trinity Church; the Memorial Arch frieze *The Progress of Civilization*, felled in 1906 (n1).  
   - The 1883 regent-nomination withdrawal and the “spite of a peanut vendor” line (p. 283), which Brechin quotes as “his lawyer”; the line is Alfred A. Cohen's 1876 courtroom attack on Stanford (*Central Pacific Railroad Co. v. Cohen*).  
-  - [needs source] Earlier drafts credited Brechin with a “Romanesque-Moorish fortress” amid eucalyptus groves and a post-1906 purge of dissidents; neither is in Brechin.
+  - [needs source] Earlier drafts credited Brechin with a “Romanesque-Moorish fortress” amid eucalyptus groves and a post-1906 purge of dissidents; neither is in Brechin. A November 2026 source pass (web search, Brechin extract, and Stanford official histories) found no source for either line. Check Harris, *Palo Alto*, when that book is read.
 - **Cardinal Concordance:** Sets the visual atmosphere and geopolitical geography of Northern California in Act I and Act II.
 
 ---

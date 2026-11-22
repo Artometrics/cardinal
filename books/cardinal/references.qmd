@@ -53,8 +53,10 @@ as the record.
 
 This is a first complete draft and the apparatus is not finished.
 
-Six entries in the event ledger are marked `NEEDS SOURCE`, and the research log
-carries a longer verification queue, weighted toward Act IV where the inherited
+The event ledger no longer carries any `NEEDS SOURCE` rows (the six that
+remained after the November 21 wrap-up were sourced on 21–22 November 2026; see
+Appendix B). The research log still carries a longer verification queue, weighted
+toward Act IV where the inherited
 drafts were richest in narrative and weakest in citation. Several claims carried
 over from those drafts did not survive checking and were removed; the reasoning
 is recorded at `_project/cut-material.md`.

@@ -68,7 +68,7 @@ it under the rule in `_project/voice.md`.
 | 1862-07-01 | Pacific Railway Act signed | Passes only after secession empties the Southern seats. Land grants and 30-year bonds at 6 per cent. Union Pacific is the first federally chartered corporation since the Second Bank. | VERIFIED |
 | 1867-06-24 | Chinese workers strike on the Sierra grade | About 3,000 men demand pay parity and shorter tunnel hours. Ends after about eight days, without concessions, once provisions are stopped. | VERIFIED |
 | 1869-05-10 | Golden spike completes the transcontinental railroad | A public work becomes a private monopoly. The Chinese workforce is absent from the photograph. | VERIFIED |
-| 1876-01-01 | Southern Pacific completes the line to Los Angeles | Consolidation of rail power; the company begins deciding which towns exist. | NEEDS SOURCE |
+| 1876-09-05 | Southern Pacific completes the line to Los Angeles | Consolidation of rail power; the company begins deciding which towns exist. | VERIFIED |
 | 1880-05-11 | Mussel Slough shootout | Seven dead in a dispute over railroad land titles. The physical edge of legal architecture. | VERIFIED |
 | 1882-05-06 | Chinese Exclusion Act signed | First federal law barring a nationality. The men who built the Sierra grade are prohibited from the country they connected. | VERIFIED |
 
@@ -100,19 +100,19 @@ it under the rule in `_project/voice.md`.
 | 1942-02-19 | Executive Order 9066 | Incarceration of some 120,000 people of Japanese ancestry. Property lost at distress prices; the transfer had beneficiaries. | VERIFIED |
 | 1945-07-01 | Vannevar Bush delivers 'Science, the Endless Frontier' | The intellectual case for permanent federal funding of basic research through universities. | VERIFIED |
 | 1946-08-01 | Office of Naval Research established | Fills the five-year gap before the NSF. American basic science funding is architected with a service branch as founding patron. | VERIFIED |
-| 1946-11-06 | Stanford Research Institute established | Owned by the university. The ownership is what the 1969 protests turn on. | NEEDS SOURCE |
+| 1946-11-06 | Stanford Research Institute established | Owned by the university. The ownership is what the 1969 protests turn on. | VERIFIED |
 
 ## The Valley (1951–1979)
 
 | Date | Event | Why it matters | Status |
 |---|---|---|---|
-| 1951-01-01 | Stanford Industrial Park opens | First university-owned industrial park in the US. Direct consequence of the 1885 prohibition on selling land. | NEEDS SOURCE |
-| 1956-01-01 | Lockheed Missiles and Space opens in Sunnyvale | Becomes the county's largest employer and is absent from the region's origin story. | NEEDS SOURCE |
+| 1953-01-01 | Stanford Industrial Park opens (first building occupied by Varian Associates) | First university-owned industrial park in the US. Direct consequence of the 1885 prohibition on selling land. Authorized 1951; Varian lease October 1951; occupied 1953. | VERIFIED |
+| 1956-01-01 | Lockheed Missiles and Space opens in Sunnyvale | Becomes the county's largest employer and is absent from the region's origin story. | VERIFIED |
 | 1956-02-01 | Shockley Semiconductor opens in Mountain View | Located there because his mother lived there. | VERIFIED |
 | 1957-09-18 | The eight resign from Shockley; Fairchild Semiconductor follows | The spinoff becomes the Valley's reproductive mechanism, enabled by California's refusal to enforce non-competes. | VERIFIED |
 | 1959-01-01 | Planar process developed at Fairchild | Makes the integrated circuit manufacturable. The advantage lives in people and therefore walks. | VERIFIED |
 | 1962-11-01 | Knight secures Tiger distribution rights in Kobe | Blue Ribbon Sports invented on the spot. The company began as a Stanford class paper. | VERIFIED |
-| 1963-01-01 | Fairchild opens assembly operations in Hong Kong | The offshore turn in semiconductors, in the same years Knight is arranging it in footwear. | NEEDS SOURCE |
+| 1963-01-01 | Fairchild opens assembly operations in Hong Kong | The offshore turn in semiconductors, in the same years Knight is arranging it in footwear. | VERIFIED |
 | 1965-04-19 | Moore's law published | A coordination device rather than a prediction. Sets the industry's clock for half a century. | VERIFIED |
 | 1968-12-09 | Engelbart's demonstration at the Fall Joint Computer Conference | Mouse, hypertext, windows, collaborative editing. Federally funded and commercially uncaptured. | VERIFIED |
 | 1969-04-09 | Students occupy the Applied Electronics Laboratory | Nine days. They print the classified research they find. The senate bans classified work on 24 April. | VERIFIED |
@@ -127,7 +127,7 @@ it under the rule in `_project/voice.md`.
 
 | Date | Event | Why it matters | Status |
 |---|---|---|---|
-| 1980-08-12 | IBM Personal Computer development; MS-DOS licensed non-exclusively | The most valuable clause never inserted. Hardware commoditises; the operating system does not. | NEEDS SOURCE |
+| 1980-11-06 | Microsoft signs a contract with IBM to create an operating system for the IBM PC | The most valuable clause never inserted. Hardware commoditises; the operating system does not. Contract date is 6 November 1980, not 12 August 1980. | VERIFIED |
 | 1980-10-14 | Genentech IPO | Biology financed like software, on a Stanford and UCSF patent. | VERIFIED |
 | 1980-12-12 | Bayh-Dole Act enacted | Universities take title to federally funded inventions. Answers the question Act II left open. | VERIFIED |
 | 1995-04-30 | NSFNET backbone decommissioned; the network passes to commercial operators | Thirty years of public investment transferred without compensation, equity, or public debate. | VERIFIED |
@@ -156,12 +156,18 @@ it under the rule in `_project/voice.md`.
 
 ## Outstanding
 
-Six rows are marked `NEEDS SOURCE` and are the priority verification queue:
-the Southern Pacific's completion to Los Angeles, SRI's founding instrument, the Stanford
-Industrial Park's authorisation and opening dates (sources give 1951 and 1953 and
-the discrepancy is unresolved), Lockheed's Sunnyvale employment figures,
-Fairchild's Hong Kong opening, and the IBM–Microsoft contract date and terms.
-For SRI (incorporated 6 November 1946), McCartney names the founders, but the
-founding instrument is not yet cited. The Central
-Pacific's incorporation (certificate filed 28 June 1861) is now verified
+No ledger rows remain marked `NEEDS SOURCE` as of 21 November 2026. The six
+rows that had been the verification queue are now verified, as follows: the
+Southern Pacific reached Los Angeles on 5 September 1876 (California Historical
+Landmark No. 590, Lang Station); SRI's articles of incorporation were filed
+6 November 1946 (SRI corporate history; the original instrument is in the
+Stanford Archives and was not opened); the Stanford Industrial Park was
+authorized in 1951, Varian signed its lease in October 1951, and the first
+building was occupied in 1953 (Sandelin 2004; Stanford Heritage Services 2016);
+Lockheed Missiles & Space moved to Sunnyvale in 1956 (City of Sunnyvale;
+Lockheed Martin); Fairchild opened a Hong Kong assembly plant in 1963 (Charles
+Sporck's firsthand account; a 1963 contemporaneous filing was not opened);
+and Microsoft signed its IBM operating-system contract on 6 November 1980
+(Computer History Museum), not 12 August 1980. The Central
+Pacific's incorporation (certificate filed 28 June 1861) was already verified
 (Evans 1954; Ambrose 2000, ch. 3, p. 72).
