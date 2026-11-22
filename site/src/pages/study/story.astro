@@ -1,0 +1,12 @@
+---
+import Base from '../../layouts/Base.astro';
+import NotesSubnav from '../../components/NotesSubnav.astro';
+import { Content } from '../../../../books/cardinal/_project/story-so-far.md';
+---
+
+<Base title="The Story So Far" description="Where Cardinal stands: the eight-part story, its strengths and gaps, and what the research has added.">
+  <article class="doc">
+    <NotesSubnav section="study" current="story" />
+    <Content />
+  </article>
+</Base>
