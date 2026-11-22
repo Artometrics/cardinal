@@ -583,9 +583,15 @@
       "status": "CONTESTED",
       "date": "1995",
       "title": "Accepted to Stanford’s materials science graduate program; by Musk’s account leaves after two days",
-      "revisionNote": "Stanford confirms he applied and was accepted to a materials science and engineering graduate program in 1995 but has no record he enrolled; “after two days” is Musk’s own account (often repeated as a physics or applied physics PhD, which Stanford did not confirm).",
+      "revisionNote": "Stanford confirms he applied and was accepted to a materials science and engineering graduate program in 1995 but has no record he enrolled. Vance, Elon Musk (2015), Appendix 1, prints the 22 June 2009 registrar letter (Judith Haccou): admitted, “did not enroll.” “After two days” is Musk’s own account (often repeated as a physics or applied physics PhD, which Stanford did not confirm). Isaacson’s “officially enrolled then deferred” (2023, ch. 9) conflicts with the letter. Ledger event retitled 22 Nov 2026; status VERIFIED for admission and non-enrollment.",
       "note": "Widely repeated: Musk left Stanford after two days. Stanford says it has no record of him enrolling.",
       "cites": [
+        {
+          "title": "Letter of Judith Haccou, director of graduate admissions, 22 June 2009, printed in Vance",
+          "publisher": "Ashlee Vance, Elon Musk (HarperCollins, 2015), Appendix 1",
+          "kind": "institutional",
+          "q": "you applied and were admitted to the graduate program in Material Science Engineering in 1995. Since you did not enroll, Stanford is not able to issue you an official certification document."
+        },
         {
           "url": "https://stanforddaily.com/2024/11/11/elon-musk-stanford-work-status/",
           "title": "Elon Musk's brief Stanford affiliation raises questions about previous immigration status",

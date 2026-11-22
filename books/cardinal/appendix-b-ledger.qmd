@@ -69,6 +69,7 @@ it under the rule in `_project/voice.md`.
 | 1867-06-24 | Chinese workers strike on the Sierra grade | About 3,000 men demand pay parity and shorter tunnel hours. Ends after about eight days, without concessions, once provisions are stopped. | VERIFIED |
 | 1869-05-10 | Golden spike completes the transcontinental railroad | A public work becomes a private monopoly. The Chinese workforce is absent from the photograph. | VERIFIED |
 | 1876-09-05 | Southern Pacific completes the line to Los Angeles | Consolidation of rail power; the company begins deciding which towns exist. | VERIFIED |
+| 1877-01-01 | Denis Kearney’s Workingmen march on Stanford’s Nob Hill mansion | Year-only. Harris p. 59, citing Saxton p. 118. White does not describe the march (CANON-066). | VERIFIED |
 | 1880-05-11 | Mussel Slough shootout | Seven dead in a dispute over railroad land titles. The physical edge of legal architecture. | VERIFIED |
 | 1882-05-06 | Chinese Exclusion Act signed | First federal law barring a nationality. The men who built the Sierra grade are prohibited from the country they connected. | VERIFIED |
 
@@ -135,6 +136,7 @@ it under the rule in `_project/voice.md`.
 | 1980-12-02 | Cohen–Boyer recombinant-DNA patent issued to Stanford and the University of California | U.S. Patent 4,237,224. Two months after the Genentech IPO and ten days before Bayh–Dole. | VERIFIED |
 | 1980-12-12 | Bayh-Dole Act enacted | Universities take title to federally funded inventions. Answers the question Act II left open. | VERIFIED |
 | 1987-06-09 | Peter Thiel founds The Stanford Review | Inaugural issue 9 June 1987. The campus newspaper becomes the starting point of a political and financial network that later includes PayPal and Palantir. | VERIFIED |
+| 1995-01-01 | Elon Musk is admitted to a Stanford graduate program in materials science; he does not enroll | Year-only. Registrar letter, 22 June 2009, in Vance Appendix 1. The “two days” story is Musk’s account. | VERIFIED |
 | 1995-04-30 | NSFNET backbone decommissioned; the network passes to commercial operators | Thirty years of public investment transferred without compensation, equity, or public debate. | VERIFIED |
 | 1995-08-09 | Netscape IPO | Built on Mosaic, developed at a public university on federal funding. | VERIFIED |
 | 1996-02-08 | Section 230 enacted | Twenty-six words. The legal foundation of the platform economy. | VERIFIED |

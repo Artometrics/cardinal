@@ -617,12 +617,6 @@
     "caption": "Illustrated reconstruction",
     "slug": "1981-01-21-bechtel-cabinet"
   },
-  "1995-01-01::Elon Musk enrolls at Stanford and leaves almost immediately": {
-    "src": "/timeline-art/1995-01-01-musk-enrolls-leaves-stanford.webp",
-    "alt": "Illustrated six-panel reconstruction of a brief 1995 campus arrival and immediate departure: an almost empty sandstone quadrangle, a suitcase in a bare dorm doorway, a figure walking away under an arcade, and a dusk gate, no identifiable person.",
-    "caption": "Illustrated reconstruction",
-    "slug": "1995-01-01-musk-enrolls-leaves-stanford"
-  },
   "1995-04-30::NSFNET backbone decommissioned; the network passes to commercial operators": {
     "src": "/timeline-art/1995-04-30-nsfnet-backbone-decommissioned.webp",
     "alt": "Illustrated six-panel reconstruction of the 1995 decommissioning of a research-network backbone: a windowless operations room, a cable being unplugged, a blank monitor glow, coiled cables, and a night computer-center doorway.",
@@ -832,5 +826,11 @@
     "alt": "Illustrated six-panel reconstruction of a late-1990s startup working out of a rented Menlo Park garage: a ranch-house street, a garage interior with blank glowing CRTs, a desk of blank papers, and a night doorway silhouette, no logos or likenesses.",
     "caption": "Illustrated reconstruction",
     "slug": "1998-09-04-google-santa-margarita-garage"
+  },
+  "1995-01-01::Elon Musk is admitted to a Stanford graduate program in materials science; he does not enroll": {
+    "src": "/timeline-art/1995-01-01-musk-admitted-does-not-enroll.webp",
+    "alt": "Illustrated six-panel reconstruction of a brief 1995 campus arrival and immediate departure: an almost empty sandstone quadrangle, a suitcase in a bare dorm doorway, a figure walking away under an arcade, and a dusk gate, no identifiable person.",
+    "caption": "Illustrated reconstruction",
+    "slug": "1995-01-01-musk-admitted-does-not-enroll"
   }
 }

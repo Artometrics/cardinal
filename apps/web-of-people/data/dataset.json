@@ -5450,7 +5450,7 @@
       "locationText": "San Francisco, CA",
       "status": "VERIFIED",
       "why": "The anti-Chinese labour politics of the 1870s arrive at the door of the man whose railroad ran on Chinese labour.",
-      "ledgerNote": "Master timeline: Harris ch 1.2; White, Railroaded, ch 7. EPUB not re-opened in this pass. Year-only date.",
+      "ledgerNote": "Harris, Palo Alto (2023), ch. 1.2, p. 59: in “the midst of the 1877 unemployment crisis,” the Workingmen’s Party “marched up to Leland Stanford’s mansion and threatened him”; Denis Kearney is “their front man.” Harris n. 19 cites Alexander Saxton, The Indispensable Enemy (1995), p. 118. Harris does not use the words “Nob Hill” in the march sentence; pp. 64 and 96–97 identify the Stanfords’ San Francisco house in this period as the Nob Hill mansion (burned 18 April 1906). White, Railroaded, ch. 7, does not describe the march (CANON-066) and is dropped as a source for this row. Year-only date; no day in Harris. EPUB re-opened 22 Nov 2026. Saxton not opened this pass.",
       "origin": "ledger",
       "cites": [
         {
@@ -6954,23 +6954,23 @@
       ]
     },
     {
-      "id": "ledger-1995-01-01-elon-musk-enrolls-at-stanford-and-leaves-almost-",
+      "id": "ledger-1995-01-01-elon-musk-is-admitted-to-a-stanford-graduate-pro",
       "people": [
         "elon-musk"
       ],
       "date": "1995-01-01",
-      "kind": "other",
-      "title": "Elon Musk enrolls at Stanford and leaves almost immediately",
+      "kind": "law",
+      "title": "Elon Musk is admitted to a Stanford graduate program in materials science; he does not enroll",
       "place": "stanford-ca",
       "locationText": "Stanford, CA",
-      "status": "CONTESTED",
-      "why": "The link is thin: admitted, briefly present, no degree. The later Musk/DOGE material remains the weakest tie to the land and should stay short, as already decided in the rewrite additions document.",
-      "ledgerNote": "Master timeline: Vance (EPUB not re-opened). The Ep8 source pack records that Stanford has no enrollment record; the “two days” story is Musk’s own account as retold. Year-only date.",
+      "status": "VERIFIED",
+      "why": "Admitted to a materials-science graduate program, he did not enroll. The later “two days at Stanford” story is Musk’s own account. The link to the land stays thin; the later Musk/DOGE material remains the weakest tie, as already decided in the rewrite additions document.",
+      "ledgerNote": "Vance, Elon Musk (2015), Appendix 1, prints a letter dated 22 June 2009 from Judith Haccou, director of graduate admissions, Stanford registrar: Musk “applied and were admitted to the graduate program in Material Science Engineering in 1995. Since you did not enroll, Stanford is not able to issue you an official certification document.” Vance ch. 4 still recites “as the story goes, Musk dropped out after two days.” Isaacson, Elon Musk (2023), ch. 9, p. 14, says he “officially enrolled” then immediately requested a deferral from professor Bill Nix — wording that conflicts with the registrar letter. Soni, The Founders (2022), pp. 40–41: admitted, deferred September 1995 to January 1996, did not enroll. Stanford Daily, 11 November 2024, confirms no enrollment record. Event retitled 22 Nov 2026 from “enrolls at Stanford and leaves almost immediately.” Status was CONTESTED under the old enrollment wording; admission and non-enrollment are now VERIFIED. Year-only date.",
       "origin": "ledger",
       "cites": [
         {
           "f": "books/cardinal/_project/event-ledger.csv",
-          "q": "1995-01-01,Elon Musk enrolls at Stanford and leaves almost immediately,Elon Musk",
+          "q": "1995-01-01,Elon Musk is admitted to a Stanford graduate program in materials sci",
           "line": 114
         }
       ]
@@ -8601,6 +8601,12 @@
           "q": "Musk enrolls in Stanford and leaves “after two days,” as the story goes."
         },
         {
+          "title": "Letter of Judith Haccou, director of graduate admissions, 22 June 2009, printed in Vance",
+          "publisher": "Ashlee Vance, Elon Musk (HarperCollins, 2015), Appendix 1",
+          "kind": "institutional",
+          "q": "you applied and were admitted to the graduate program in Material Science Engineering in 1995. Since you did not enroll, Stanford is not able to issue you an official certification document."
+        },
+        {
           "url": "https://stanforddaily.com/2024/11/11/elon-musk-stanford-work-status/",
           "title": "Elon Musk's brief Stanford affiliation raises questions about previous immigration status",
           "publisher": "The Stanford Daily, 11 Nov 2024",
@@ -8622,7 +8628,7 @@
           "q": "In 1995, he was accepted to a graduate program in materials science at Stanford University, but did not enroll."
         }
       ],
-      "revisionNote": "Stanford confirms he applied and was accepted to a materials science and engineering graduate program in 1995 but has no record he enrolled; “after two days” is Musk’s own account (often repeated as a physics or applied physics PhD, which Stanford did not confirm).",
+      "revisionNote": "Stanford confirms he applied and was accepted to a materials science and engineering graduate program in 1995 but has no record he enrolled. Vance, Elon Musk (2015), Appendix 1, prints the 22 June 2009 registrar letter (Judith Haccou): admitted, “did not enroll.” “After two days” is Musk’s own account (often repeated as a physics or applied physics PhD, which Stanford did not confirm). Isaacson’s “officially enrolled then deferred” (2023, ch. 9) conflicts with the letter. Ledger event retitled 22 Nov 2026; status VERIFIED for admission and non-enrollment.",
       "note": "Widely repeated: Musk left Stanford after two days. Stanford says it has no record of him enrolling.",
       "origin": "curated"
     },
