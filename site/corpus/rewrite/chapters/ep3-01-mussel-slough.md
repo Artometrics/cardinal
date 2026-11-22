@@ -48,7 +48,7 @@ The political operation matched the economic one. <!-- kyle: ch/2-10 --> The Sou
 
 <!-- kyle: ch/2-10 --> The political operation was continuous and reasonably open.
 
-Collis Huntington ran the eastern office from a permanent address, and his correspondence with the company's western agents survived because litigation forced it into the record. In those letters Huntington discussed the purchase of congressional influence with a flatness that shocked readers then and still does (repo ch 2-10; Rayner 2008, ch. 9).
+Collis Huntington ran the eastern office from a permanent address, and his correspondence with the company's western agents survived because litigation forced it into the record. In those letters Huntington discussed the purchase of congressional influence with a flatness that shocked readers then and still does (repo ch 2-10; Rayner 2008, ch. 14: the Colton Letters, made public by Ellen Colton's suit, tried from November 1883 to October 1885).
 
 ### Ferries and wharves
 

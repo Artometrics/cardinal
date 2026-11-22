@@ -10,7 +10,7 @@ His partners built mansions. Hopkins built a reputation for counting. He ate sim
 
 The private car was how men like Hopkins traveled the line they owned: a room on wheels, a berth, a desk, the desert sliding past the glass without the dust of a day coach. The Southern Pacific was still stitching its network through Arizona toward the Gulf. Yuma was heat and river and a stop where engines took water and men took shade.
 
-He died in the car that night, or in the early hours of the next morning, on the line that his partners had built to bind the coast to the interior. Collis Huntington, in New York, learned the news by wire. He wrote to his brother that his old friend Mr. Hopkins has gone over the river (Rayner 2008, ch. 12).
+He died in the car that night, or in the early hours of the next morning, on the line that his partners had built to bind the coast to the interior. Collis Huntington, in New York, got the news. He wrote that his old friend Mr. Hopkins had gone over the river (Rayner 2008, ch. 12 ¶13).
 
 The sentence is short enough to remember and plain enough to need no ornament. The Associates wrote to one another as merchants who had seen death often in the building years: cholera on the isthmus, explosions in the tunnels, fevers in the camps. <!-- kyle: Rayner ch 12 / repo --> Huntington had once written from Panama that death was carrying off Americans most fearfully, eight to ten a day (Rayner 2008, ch. 2). Hopkins's end was quiet by those standards. It was also solitary in the way power often is at the end, a man in a private car on a siding, the line he helped own stretching east and west into heat and profit.
 

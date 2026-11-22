@@ -136,7 +136,7 @@ The bet mattered because it was public. The books mattered because they were pri
 
 ## One sentence on fire
 
-The books of the Contract and Finance Company disappeared, never to resurface, when a congressional investigation threatened (White 2011, ch. 1 ¶94; repo ch. 2-09). Rayner’s account of Huntington’s fear that the Wilson Committee would demand those books is the shadow of that fire in Washington correspondence (Rayner 2008, ch. 9).
+The books of the Contract and Finance Company disappeared, never to resurface, when a congressional investigation threatened (White 2011, ch. 1 ¶94; repo ch. 2-09). Rayner is specific. With the Wilson Committee about to demand the books, Huntington drew up new sets of figures, Hopkins fed the fifteen leather-bound volumes into the furnace in the basement of the Central Pacific’s office, and Huntington then told the committee the records had been lost (Rayner 2008, ch. 9 ¶10–11).
 
 Fire is convenient when margin lives on the construction side and modesty lives on the railroad side. The public saw ties and spikes. The investigators saw smoke.
 
