@@ -218,5 +218,5 @@ Recorded so they are not silently reintroduced.
 
 ## Nov 21, 2026 web-expansion pass
 
-Sources, verification status and single-source flags for the events added on branch `research/web-expansion-2026-11-21` are recorded in the ledger `note` column and in the "Research log — Nov 21, 2026" section of the Google Doc "Cardinal — Rewrite Additions, Cuts & Missing People". Borrowed Internet Archive books (Nash 1983, Carlson 1971, Stevens 1988, McCartney 1988) were read by search-inside and returned; their pages are IA leaf numbers, not printed pages. Drive EPUBs from Anna's Archive were not used.
+Sources, verification status and single-source flags for the events added on branch `research/web-expansion-2026-11-21` are recorded in the ledger `note` column and in the "Research log — Nov 21, 2026" section of the Google Doc "Cardinal — Rewrite Additions, Cuts & Missing People". Borrowed Internet Archive books (Nash 1983, Carlson 1971, Stevens 1988, McCartney 1988) were read by search-inside and returned; their pages are IA leaf numbers, not printed pages.
 
