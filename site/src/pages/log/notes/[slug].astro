@@ -24,8 +24,8 @@ const html = await renderMarkdown(note.markdown);
           <div class="shot-grid">
             {note.images.map((image) => (
               <figure>
-                <img src={image.src} alt={`Page ${image.page}`} />
-                <figcaption>p. {image.page}</figcaption>
+                <img src={image.src} alt={`Page image, ${image.label ?? `p. ${image.page}`}`} loading="lazy" />
+                <figcaption>{image.label ?? `p. ${image.page}`}</figcaption>
               </figure>
             ))}
           </div>

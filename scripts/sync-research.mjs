@@ -157,11 +157,11 @@ function copyScreenshots(srcShots, inventory) {
     if (!statSync(dir).isDirectory()) continue;
     ensureDir(join(shotOut, book));
     inventory[book] = [];
-    for (const file of readdirSync(dir).sort()) {
+    for (const file of readdirSync(dir).sort((a, b) => a.localeCompare(b, 'en', { numeric: true }))) {
       if (!/\.(png|jpe?g|webp|gif)$/i.test(file)) continue;
       copyFileSync(join(dir, file), join(shotOut, book, file));
-      const page = file.replace(/\.[^.]+$/, '').replace(/^p/i, '');
-      inventory[book].push({ page: page.toLowerCase(), file, src: shotSrc(book, file) });
+      const page = file.replace(/\.[^.]+$/, '').replace(/^p(?=[\divxlcdm])/i, '');
+      inventory[book].push({ page: page.toLowerCase(), label: shotLabel(page), file, src: shotSrc(book, file) });
     }
   }
   return inventory;
@@ -171,7 +171,33 @@ function imagesForCite(inventory, bookSlug, cite) {
   const shots = inventory[bookSlug] || [];
   const pages = splitPages(cite);
   if (!pages.length) return [];
-  return shots.filter((s) => pages.includes(String(s.page).toLowerCase()));
+  return shots.filter((s) => shotPages(s.page).some((p) => pages.includes(p)));
+}
+
+// "61-62" -> ["61", "62"]; chapter/paragraph renders ("ch3-para33") have no page numbers.
+function shotPages(page) {
+  const p = String(page).toLowerCase();
+  if (isParagraphShot(p)) return [];
+  return p.split('-').filter(Boolean);
+}
+
+// Renders keyed by chapter and paragraph (books whose ebook has no print pages).
+function isParagraphShot(page) {
+  return /^(ch|bm|fm|dm)\d|^(intro|conclusion|epilogue|prologue)-/i.test(String(page));
+}
+
+function shotLabel(page) {
+  const p = String(page);
+  const m = p.match(/^(ch|bm|fm|dm)0*(\d+)-(?:para|p)0*(\d+)(?:-0*(\d+))?$/i);
+  if (m) {
+    const part = { ch: 'ch.', bm: 'back matter', fm: 'front matter', dm: 'section' }[m[1].toLowerCase()];
+    return `${part} ${m[2]} ¶${m[3]}${m[4] ? `–${m[4]}` : ''}`;
+  }
+  const w = p.match(/^(intro|conclusion|epilogue|prologue)-(?:para|p)0*(\d+)(?:-0*(\d+))?$/i);
+  if (w) return `${w[1][0].toUpperCase()}${w[1].slice(1).toLowerCase()} ¶${w[2]}${w[3] ? `–${w[3]}` : ''}`;
+  const r = p.match(/^([\divxlcdm]+)(?:-([\divxlcdm]+))?$/i);
+  if (r) return r[2] ? `pp. ${r[1]}–${r[2]}` : `p. ${r[1]}`;
+  return p;
 }
 
 function section(markdown, headingRe) {
@@ -714,7 +740,7 @@ function buildStudy(notes, inventory, claims, progress, gaps) {
     if (firstMeta.landing) takeaways.push({ text: firstMeta.landing, source: 'Locked outline (act landing)' });
     if (idx === 1) {
       // Act II Hoover: attach Whyte notes
-      for (const note of notes) {
+      for (const note of notes.filter((n) => n.slug === 'whyte-hoover')) {
         peopleFromNotes([note]).slice(0, 12).forEach((p) => keyPeople.push({ name: p.name, note: p.note, cite: p.cite }));
         timelineFromNotes([note]).forEach((e) => keyDates.push({ date: e.date, event: e.event, cite: e.cite }));
         bullets(section(note.markdown, 'Money figures')).forEach((m) => keyMoney.push({ text: m, cite: '', source: note.title }));
@@ -865,7 +891,9 @@ function main() {
   for (const note of rawNotes) {
     const cites = [note.markdown, note.citationScheme].join('\n');
     const pages = new Set(splitPages(cites));
-    citedInventory[note.slug] = (inventory[note.slug] || []).filter((shot) => pages.has(String(shot.page).toLowerCase()));
+    citedInventory[note.slug] = (inventory[note.slug] || []).filter(
+      (shot) => isParagraphShot(shot.page) || shotPages(shot.page).some((p) => pages.has(p)),
+    );
   }
   // Keep only cited page images in public/
   if (existsSync(shotOut)) rmSync(shotOut, { recursive: true });

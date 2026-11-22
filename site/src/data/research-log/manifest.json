@@ -1,15 +1,15 @@
 {
-  "syncedAt": "2026-11-21T22:23:18.404Z",
-  "source": "reading-dir",
+  "syncedAt": "2026-11-22T06:31:57.381Z",
+  "source": "vendored",
   "sourcePresent": true,
   "gaps": [],
   "counts": {
-    "notes": 2,
-    "sessions": 2,
-    "canon": 25,
-    "fixes": 14,
+    "notes": 12,
+    "sessions": 14,
+    "canon": 136,
+    "fixes": 61,
     "parts": 4,
     "sources": 28,
-    "screenshots": 46
+    "screenshots": 190
   }
 }
