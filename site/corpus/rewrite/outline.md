@@ -160,7 +160,7 @@
 
 ## Scenes that need a source before drafting
 - Stanford's "500% markups" at Michigan Bluff. This is from the blueprint. "Michigan Bluff" doesn't appear in Harris or Rayner, so it stays unsourced. Find a primary source or cut it.
-- The Bancroft Davis headnote "insertion." Check Winkler, which isn't downloaded yet.
+- The Bancroft Davis headnote "insertion": checked in Winkler ch. 4 pp. 149–153. Davis printed Waite's pre-argument remark and a headnote holding corporations are persons; Waite had written him, "we avoided the constitutional question in the decision." Field then cited Santa Clara as holding it in Beckwith (1889).
 - Crespí's El Palo Alto diary entry (primary source).
 - The Soto rancho diseño.
 - Kearney's "The Chinese Must Go!" sandlot scene (Saxton).
@@ -207,4 +207,4 @@ PLACEHOLDER: Kyle will export his NotebookLM notes to the Cardinal Research fold
 | Phenomena | Annie Jacobsen | Untested | cut (remote viewing) |
 | Surveillance Valley | Yasha Levine | Untested (epub) | 6–7 |
 | The Profiteers | Sally Denton | Text OK | 5, 7 |
-| We the Corporations | Adam Winkler | Untested (epub) | 3 |
+| We the Corporations | Adam Winkler | Read (epub, ch. 4 close; rest skimmed) | 3 |
