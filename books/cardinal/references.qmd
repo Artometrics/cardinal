@@ -53,7 +53,7 @@ as the record.
 
 This is a first complete draft and the apparatus is not finished.
 
-Seven entries in the event ledger are marked `NEEDS SOURCE`, and the research log
+Six entries in the event ledger are marked `NEEDS SOURCE`, and the research log
 carries a longer verification queue, weighted toward Act IV where the inherited
 drafts were richest in narrative and weakest in citation. Several claims carried
 over from those drafts did not survive checking and were removed; the reasoning

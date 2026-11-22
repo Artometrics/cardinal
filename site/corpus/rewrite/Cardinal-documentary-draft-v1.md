@@ -2706,7 +2706,7 @@ The vacant chairs made that possible. The toll would follow.
 
 ## The Summit
 
-Late May–June 1867. Donner Summit, Sierra Nevada.
+June 1867. Donner Summit, Sierra Nevada.
 
 Snow still lay in the cuts above the tunnel faces. The Central Pacific had been driving granite for two winters, measuring progress in inches per day, blasting with black powder and nitroglycerine while men worked in cold that turned breath to ice on beards and jacket collars. The Summit Tunnel was the line’s throat: until it opened, the Sierra remained a wall between Sacramento and the interior West.
 
@@ -3430,7 +3430,7 @@ The night Hopkins died, Yuma was not a metropolis. It was a railroad town in ter
 
 What is in the record is the fact of the car, the siding, and the line. The Associates had built a world in which a man could die inside his own rolling room on property his company owned, and the first notice to the eastern partner would be electrical.
 
-Collis Huntington learned by wire. He wrote to his brother in the language of river crossing. The organization did not pause for mourning. Patents still issued. Prices still posted. Kearney still spoke.
+Collis Huntington got the news in New York. He wrote in the language of river crossing. The organization did not pause for mourning. Patents still issued. Prices still posted. Kearney still spoke.
 
 ### Patents while the car waited
 
@@ -4075,7 +4075,7 @@ Jordan addressed the crowd as a scientist-president. His ichthyology had made hi
 
 Leland Stanford looked on a campus named for a dead boy. Jane Stanford looked on students who were not her son and would never be, exactly, though the vow from Florence had said they would be hers in another sense.
 
-Four hundred students would swell toward five hundred fifty-five in the first year. Faculty would lecture in unfinished halls. Construction would continue after the speeches ended.
+More than four hundred students registered on opening day, and 559 in the first year (Elliott 1937, p. 87; White 2022, ch. 10, p. 58). Faculty would lecture in unfinished halls. Construction would continue after the speeches ended.
 
 Hoover registered for geology. He worked in Branner's orbit. He managed student finances and baseball with the practicality of an orphan who had learned early that nobody else would keep the accounts straight. Jordan's technocratic faith—that society could be organized like a well-run mine—would seep into the pioneer class without requiring a sermon.
 
@@ -4180,13 +4180,13 @@ The next chapter opens on that balance sheet—not on the funeral, but on the nu
 
 June 21, 1893. Palo Alto and San Francisco. Leland Stanford died in his sleep of heart failure, and the university he had opened less than two years earlier faced a balance sheet, not a eulogy.
 
-The institution was twenty-one months old. It had roughly four hundred students, a faculty on payroll, buildings still rising, and no endowment income it could reliably reach. The founder's personal fortune had paid the bills. That fortune was about to disappear into probate, and the country was sliding into the worst depression it had yet seen.
+The institution was twenty-one months old. It had more than five hundred students (559 in its first year; White 2022, ch. 10, p. 58), a faculty on payroll, buildings still rising, and no endowment income it could reliably reach. The founder's personal fortune had paid the bills. That fortune was about to disappear into probate, and the country was sliding into the worst depression it had yet seen.
 
 The Panic of 1893 had begun in the spring. Banks failed. Railroads defaulted. Unemployment climbed. In Washington, creditors looked for assets.
 
 On campus, the question was narrower and more urgent: who pays the geology instructor in September when the man who used to sign checks is dead and the court has locked his desk? Jordan could postpone some bills. He could not postpone every professor without losing the faculty he had recruited from Indiana and the East. Jane became the signer he needed.
 
-The university had four hundred students [needs source — White 2022, ch. 10, p. 58, counts 559 at the 1891 opening]. Four hundred payrolls worth of hope that probate would end before enrolment collapsed. Each month without endowment release was a month the institution lived on allowance, jewelry, and nerve.
+By that September the university had 975 students, including 84 graduate students (Elliott 1937, p. 115). Nearly a thousand students' worth of hope that probate would end before enrolment collapsed. Each month without endowment release was a month the institution lived on allowance, jewelry, and nerve.
 
 In 1894 the federal government sued the Stanford estate for fifteen million dollars, claiming Leland Stanford was personally liable for the Central Pacific's unpaid debts to the United States under the Pacific Railway Act (repo ch 2-13). Until that suit was resolved, no money could flow from the estate to the university. The payroll still came due.
 
@@ -4284,7 +4284,7 @@ Jane's letters from the period—preserved in university archives and cited in s
 
 ### Students who stayed
 
-Four hundred students in 1893 meant four hundred families watching headlines about federal suits. Some withdrew. Most stayed because free tuition and a novel campus still beat alternatives. Hoover stayed because Branner's department offered a path to ore and wages.
+Nearly a thousand students in the fall of 1893 meant nearly a thousand families watching headlines about federal suits. Some withdrew. Most stayed because free tuition and a novel campus still beat alternatives. Hoover stayed because Branner's department offered a path to ore and wages.
 
 Graduation in 1895 would send Hoover into the world before probate fully released the endowment. He left with a geology degree earned in a building program that had paused mid-wall. The university's survival was not abstract to him. It was the roof over his lab.
 

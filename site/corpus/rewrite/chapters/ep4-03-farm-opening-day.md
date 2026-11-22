@@ -50,7 +50,7 @@ Jordan addressed the crowd as a scientist-president. His ichthyology had made hi
 
 Leland Stanford looked on a campus named for a dead boy. Jane Stanford looked on students who were not her son and would never be, exactly, though the vow from Florence had said they would be hers in another sense.
 
-Four hundred students would swell toward five hundred fifty-five in the first year. Faculty would lecture in unfinished halls. Construction would continue after the speeches ended.
+More than four hundred students registered on opening day, and 559 in the first year (Elliott 1937, p. 87; White 2022, ch. 10, p. 58). Faculty would lecture in unfinished halls. Construction would continue after the speeches ended.
 
 Hoover registered for geology. He worked in Branner's orbit. He managed student finances and baseball with the practicality of an orphan who had learned early that nobody else would keep the accounts straight. Jordan's technocratic faith—that society could be organized like a well-run mine—would seep into the pioneer class without requiring a sermon.
 

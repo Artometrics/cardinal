@@ -5291,11 +5291,10 @@
       "place": "sacramento-ca",
       "locationText": "Sacramento, CA",
       "status": "VERIFIED",
-      "ledgerStatus": "NEEDS SOURCE",
       "revisionNote": "Evans (1954) separates two steps the ledger row merges: organization under the general law and adoption of the Articles of Association on Tuesday 30 April 1861, and the filing of the certificate of incorporation with the Secretary of State at Sacramento on Friday 28 June 1861. The ledger date 1861-06-28 is the filing date. The articles themselves (California State Archives) are not online; the quoted text of the articles is reproduced by Evans. Judah is among the directors/subscribers; the ledger lists five people, and Evans names Stanford, Huntington, Hopkins, Crocker and Judah among the officers/directors/subscribers.",
       "note": "Organized 30 April 1861 (Articles of Association adopted); certificate of incorporation filed in Sacramento 28 June 1861.",
       "why": "Four merchants and an engineer. Judah is bought out and dies in 1863.",
-      "ledgerNote": "Verify against articles of incorporation",
+      "ledgerNote": "Organized and Articles of Association adopted 30 Apr 1861; certificate of incorporation filed in Sacramento 28 Jun 1861 (Evans, Collis Potter Huntington, 1954). Ambrose, Nothing Like It in the World (2000), ch. 3, p. 72; Rayner, The Associates (2008), ch. 3.",
       "origin": "ledger",
       "cites": [
         {
@@ -6458,9 +6457,9 @@
       "title": "Stanford Research Institute established",
       "place": "menlo-park-ca",
       "locationText": "Menlo Park, CA",
-      "status": "PARTLY SOURCED",
+      "status": "NEEDS SOURCE",
       "why": "Owned by the university. The ownership is what the 1969 protests turn on. McCartney adds that West Coast businessmen including Steve Bechtel and Henry J. Kaiser founded and bankrolled it.",
-      "ledgerNote": "Incorporated 6 Nov 1946 (see CANON lead-chase rows). McCartney, Friends in High Places (1988), ch. 6, p. 78 & note: “Founded in 1946 by a group of West Coast businessmen, including Steve Bechtel and Henry J. Kaiser, and originally affiliated with Stanford University”; Bechtel “had been one of SRI’s principal founders and had bankrolled its operations heavily.”",
+      "ledgerNote": "Partly sourced: founders per McCartney; founding instrument not yet cited. Incorporated 6 Nov 1946 (see CANON lead-chase rows). McCartney, Friends in High Places (1988), ch. 6, p. 78 & note: “Founded in 1946 by a group of West Coast businessmen, including Steve Bechtel and Henry J. Kaiser, and originally affiliated with Stanford University”; Bechtel “had been one of SRI’s principal founders and had bankrolled its operations heavily.”",
       "origin": "ledger",
       "cites": [
         {
@@ -7468,7 +7467,7 @@
       "cites": [
         {
           "f": "site/corpus/rewrite/timeline.md",
-          "q": "Hoover in Western Australia; his Sons of Gwalia mine has air “notably bad.”"
+          "q": "A 1905 Royal Commission finds the air at his Sons of Gwalia mine \"notably bad.\""
         },
         {
           "url": "https://hoover.archives.gov/exhibits/years-adventure-1874-1914",
@@ -7742,13 +7741,14 @@
         "david-starr-jordan"
       ],
       "date": "1891-03",
+      "dateNote": "Arrived Saturday 21 March 1891; offer and acceptance on Sunday 22 March, per Stanford Archives.",
       "kind": "work",
       "title": "The Stanfords travel to Bloomington, Indiana, and offer David Starr Jordan the presidency",
       "status": "VERIFIED",
       "cites": [
         {
           "f": "site/corpus/rewrite/timeline.md",
-          "q": "The Stanfords travel to Bloomington to recruit David Starr Jordan."
+          "q": "The Stanfords travel to Bloomington; Jordan, president of Indiana University, accepts the Stanford presidency on Sunday, March 22."
         },
         {
           "url": "https://archive.org/stream/stanfroduniversi009361mbp/stanfroduniversi009361mbp_djvu.txt",
@@ -7780,7 +7780,6 @@
         }
       ],
       "place": "bloomington-in",
-      "dateNote": "Arrived Saturday 21 March 1891; offer and acceptance on Sunday 22 March, per Stanford Archives.",
       "revisionNote": "The manuscript dates the Bloomington trip to 1890 (from a Miller paraphrase). Stanford Archives, the 1937 Stanford history and the Jordan finding aid all place it in March 1891 (offer accepted 22 March 1891).",
       "origin": "curated"
     },
@@ -8038,12 +8037,12 @@
       "date": "1878-03",
       "dateNote": "within a day of Hopkins's death",
       "kind": "other",
-      "title": "Huntington, in New York, learns of Hopkins's death by wire",
+      "title": "Huntington, in New York, gets the news of Hopkins's death",
       "status": "DRAFT",
       "cites": [
         {
           "f": "site/corpus/rewrite/chapters/ep3-03-yuma.md",
-          "q": "Collis Huntington, in New York, learned the news by wire."
+          "q": "Collis Huntington, in New York, got the news."
         }
       ],
       "note": "No source consulted in the second research pass states that Huntington learned of the death by telegraph. It is plausible, because Hopkins died in Yuma on 29 March 1878 and the telegraph was the usual channel, but it is not recorded in a source we could read. It stays DRAFT.",
@@ -12039,7 +12038,7 @@
       "cites": [
         {
           "f": "site/corpus/rewrite/timeline.md",
-          "q": "The Stanfords travel to Bloomington to recruit David Starr Jordan."
+          "q": "The Stanfords travel to Bloomington; Jordan, president of Indiana University, accepts the Stanford presidency on Sunday, March 22."
         }
       ],
       "fromGroup": false
@@ -12053,7 +12052,7 @@
       "cites": [
         {
           "f": "site/corpus/rewrite/timeline.md",
-          "q": "The Stanfords travel to Bloomington to recruit David Starr Jordan."
+          "q": "The Stanfords travel to Bloomington; Jordan, president of Indiana University, accepts the Stanford presidency on Sunday, March 22."
         }
       ],
       "fromGroup": false

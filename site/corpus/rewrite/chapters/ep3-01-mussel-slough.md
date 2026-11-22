@@ -24,7 +24,7 @@ At the top, four mansions faced one another across a small plateau. Leland Stanf
 
 The Promontory spike had been driven eleven years earlier. The telegraph had flashed *done* whether the hammer hit wood or rail. The nation had rung bells. What the bells did not announce was where the books were kept, or who would set the price to move a sack of wheat from the valley to the wharf.
 
-By the 1870s the Central Pacific and its allied lines had folded into something larger still: the Southern Pacific, an organization Frank Norris would later name *The Octopus*, because it seemed to reach into every transaction at once. <!-- kyle: ch/2-10 --> Norris wrote that California likes to be fooled. <!-- kyle: ch/2-17 / Rayner --> The line is cruel and, in the view of many who lived through the decade, not entirely wrong.
+By the 1870s the Central Pacific and its allied lines had folded into something larger still: the Southern Pacific, an organization Frank Norris would later name *The Octopus*, because it seemed to reach into every transaction at once. <!-- kyle: ch/2-10 --> Norris wrote that California likes to be fooled. <!-- kyle: ch/2-10-law-as-armor / Rayner --> The line is cruel and, in the view of many who lived through the decade, not entirely wrong.
 
 The Associates built on Nob Hill with the plain confidence of men who believed the state owed them its gratitude. Crocker went further. When a neighbor refused to sell a lot Crocker wanted, Crocker built a forty-foot fence on three sides of the man's house, walling him in. San Francisco called it the Spite Fence. It was visible from far below, a monument of pettiness at the height of power.
 

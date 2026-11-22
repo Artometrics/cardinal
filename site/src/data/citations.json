@@ -923,7 +923,7 @@
     "log": "Episode 1 review, Fact-check log"
   },
   {
-    "id": "244b8c02",
+    "id": "7c20e849",
     "claim": "Rinconada granted in 1841 to María Antonia Mesa, ~2,229 acres, downtown Palo Alto, tree at the corner; campus is Buelna plus Peña",
     "source": "Bancroft Land Case 129 ND",
     "found": "",
@@ -2860,7 +2860,7 @@
     "log": "Episode 3 review, Fact-check log"
   },
   {
-    "id": "b4fe11be",
+    "id": "1d750134",
     "claim": "Bierce poem, *Wasp*, April 2, 1881, first of three stanzas as read",
     "source": "*The Wasp*, vol. 6 (Jan.–June 1881), Internet Archive scan",
     "found": "",
@@ -3406,7 +3406,7 @@
     "log": "Episode 4 review, Fact-check log"
   },
   {
-    "id": "821ecedf",
+    "id": "54457503",
     "claim": "Brechin: sandstone, continuous arcades, Romanesque chapel loosely modeled on Trinity Church in Boston, red tile, \"supermission,\" frieze *The Progress of Civilization*, founders on horseback ahead of a locomotive. Stanford to Jordan, Aug 24, 1892 (SC 33a, Box 2, Folder 4), brackets Brechin's: graduates \"missionaries to spread correct ideas of civilization.\" Arch: San Jose sandstone, more than 100 feet, second only to the Arc de Triomphe",
     "source": "Brechin; White",
     "found": "",
@@ -4134,7 +4134,7 @@
     "log": "Episode 5 review, 01. The Spire and the Plank"
   },
   {
-    "id": "ac25a03",
+    "id": "8718a91e",
     "claim": "Hoover born 1874, Iowa, Quaker, orphaned, Oregon, came up short on the entrance exams, conditional admit (Whyte pp. 33, 35), on campus summer 1891.",
     "source": "Whyte, *Hoover: An Extraordinary Life*.",
     "found": "",
@@ -4160,8 +4160,8 @@
     "log": "Episode 5 review, 02. The Orphan and the Mine"
   },
   {
-    "id": "cc660c30",
-    "claim": "Ore carts in Nevada. Janin to Bewick, Moreing. Western Australia, 1897, age 23. Sons of Gwalia.",
+    "id": "19a54e21",
+    "claim": "Mucker at Reward/Mayflower mines, Nevada County, California (Whyte pp. 45–46). Janin to Bewick, Moreing. Western Australia, 1897, age 22. Sons of Gwalia.",
     "source": "Whyte.",
     "found": "",
     "link": "",
@@ -5304,10 +5304,10 @@
     "log": "Episode 6 review, This pass"
   },
   {
-    "id": "b67c78b6",
+    "id": "9cbb3403",
     "claim": "SRI founded 1946. Steve Bechtel Sr. a founding director.",
     "source": "Denton, ch. 10 ¶4, citing SRI's official history (Gibson 1981, p. 156). SRI's own history credits Robert E. Swain's 1925 idea; do not say “conceived by Hoover.”",
-    "found": "ch. 10 ¶4.",
+    "found": "p. 156; ch. 10",
     "link": "",
     "linkLabel": "",
     "status": "Aired. The “1978 Palo Alto dinner for Reagan” [needs source — not in Denton or McCartney] is cut as Episode 7’s decade.",
@@ -7969,14 +7969,14 @@
     "log": "Act I, ch. 8 — The Vacant Chairs"
   },
   {
-    "id": "5714300b",
+    "id": "91e4fe7b",
     "claim": "Central Pacific incorporated 28 June 1861",
-    "source": "Carried from the drafts; verify against the articles of incorporation",
-    "found": "",
+    "source": "Certificate filed 28 June 1861 after organization on 30 April (Evans, *Collis Potter Huntington*, 1954); Ambrose 2000, ch. 3, p. 72",
+    "found": "p. 72; ch. 3",
     "link": "",
     "linkLabel": "",
-    "status": "NEEDS SOURCE",
-    "why": "NEEDS SOURCE",
+    "status": "VERIFIED",
+    "why": "VERIFIED",
     "usedHref": "/research/apparatus/research-log",
     "usedLabel": "Research log",
     "log": "Act I, ch. 8 — The Vacant Chairs"
@@ -8640,6 +8640,45 @@
     "linkLabel": "",
     "status": "CORRECTION",
     "why": "He died 13 March 1884. 1885 is the year of the Founding Grant.",
+    "usedHref": "/research/apparatus/research-log",
+    "usedLabel": "Research log",
+    "log": "Corrections made during drafting"
+  },
+  {
+    "id": "a1a33841",
+    "claim": "David Starr Jordan established the Human Betterment Foundation (power matrix)",
+    "source": "Wrong. The HBF was founded in 1928 by E. S. Gosney and Rufus von KleinSmid; it advertised Jordan as a member after his death. Lewis Terman was a later trustee. Corrected Nov 21, 2026.",
+    "found": "",
+    "link": "",
+    "linkLabel": "",
+    "status": "CORRECTION",
+    "why": "Wrong. The HBF was founded in 1928 by E. S. Gosney and Rufus von KleinSmid; it advertised Jordan as a member after his death. Lewis Terman was a later trustee. Corrected Nov 21, 2026.",
+    "usedHref": "/research/apparatus/research-log",
+    "usedLabel": "Research log",
+    "log": "Corrections made during drafting"
+  },
+  {
+    "id": "4a8a3653",
+    "claim": "Stephen Bechtel Sr. was an \"intimate confidant\" of Allen Dulles (power matrix)",
+    "source": "No source found in the Nov 21, 2026 pass. Flagged unverified; do not use until sourced.",
+    "found": "",
+    "link": "",
+    "linkLabel": "",
+    "status": "CORRECTION",
+    "why": "No source found in the Nov 21, 2026 pass. Flagged unverified; do not use until sourced.",
+    "usedHref": "/research/apparatus/research-log",
+    "usedLabel": "Research log",
+    "log": "Corrections made during drafting"
+  },
+  {
+    "id": "49457fe1",
+    "claim": "Theo Baker born 2004 (power matrix)",
+    "source": "Born January 2005 (Wikipedia). Corrected Nov 21, 2026.",
+    "found": "",
+    "link": "",
+    "linkLabel": "",
+    "status": "CORRECTION",
+    "why": "Born January 2005 (Wikipedia). Corrected Nov 21, 2026.",
     "usedHref": "/research/apparatus/research-log",
     "usedLabel": "Research log",
     "log": "Corrections made during drafting"

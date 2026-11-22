@@ -56,7 +56,7 @@ The historical reality underlying *Cardinal* is that Silicon Valley is not the a
 
 - **March 13, 1884 — Death of Leland Stanford Jr. & The Founding Vow**  
   - *Location:* Hotel Bristol, Florence, Italy.  
-  - *Event:* Fifteen-year-old Leland Stanford Jr. dies of typhoid fever. Leland Stanford Sr. famously declares: *"The children of California shall be our children."* [needs source — the quotation is not in White, *Who Killed Jane Stanford?*]  
+  - *Event:* Fifteen-year-old Leland Stanford Jr. dies of typhoid fever. Leland Stanford Sr. later told David Starr Jordan he had woken on the morning of his son's death with the words *"The children of California shall be my children"* (O. L. Elliott, *Stanford University: The First Twenty-Five Years*, 1937, p. 13). The familiar "our children" form comes from Jordan's April 11, 1891 motto suggestion (Elliott); it is not in White, *Who Killed Jane Stanford?*  
   - *Institutional Meaning:* The grief-stricken oligarchs divert their railroad wealth into a secular cathedral of learning designed to perpetuate their dynastic lineage and ideological legacy in perpetuity.  
   - *Sources:* Richard White, *Who Killed Jane Stanford?*, Ch. 7 (p. 41ff.: typhoid, Florence, March 13, 1884) and Preface; Malcolm Harris, *Palo Alto*, Ch. 3.
 

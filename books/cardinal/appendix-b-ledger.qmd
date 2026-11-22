@@ -64,7 +64,7 @@ it under the rule in `_project/voice.md`.
 | 1853-03-03 | Congress appropriates $150,000 for Pacific railroad surveys | Four corridors surveyed. Every field commander reports his own route is best; Congress cannot decide. | VERIFIED |
 | 1853-12-30 | Gadsden Purchase signed | Acquires the strip required for a 32nd-parallel southern railroad route. | VERIFIED |
 | 1861-01-21 | Jefferson Davis speaks for a transcontinental railroad days before leaving the Senate | 'To couple with bonds of iron the people of the Pacific with the valley of the Mississippi.' His departure is what makes it possible. | VERIFIED |
-| 1861-06-28 | Central Pacific Railroad incorporated | Four merchants and an engineer. Judah is bought out and dies in 1863. | NEEDS SOURCE |
+| 1861-06-28 | Central Pacific Railroad incorporated | Four merchants and an engineer. Judah is bought out and dies in 1863. | VERIFIED |
 | 1862-07-01 | Pacific Railway Act signed | Passes only after secession empties the Southern seats. Land grants and 30-year bonds at 6 per cent. Union Pacific is the first federally chartered corporation since the Second Bank. | VERIFIED |
 | 1867-06-24 | Chinese workers strike on the Sierra grade | About 3,000 men demand pay parity and shorter tunnel hours. Ends after about eight days, without concessions, once provisions are stopped. | VERIFIED |
 | 1869-05-10 | Golden spike completes the transcontinental railroad | A public work becomes a private monopoly. The Chinese workforce is absent from the photograph. | VERIFIED |
@@ -156,9 +156,12 @@ it under the rule in `_project/voice.md`.
 
 ## Outstanding
 
-Seven rows are marked `NEEDS SOURCE` and are the priority verification queue:
-the Central Pacific's incorporation date against the articles, the Southern
-Pacific's completion to Los Angeles, SRI's founding instrument, the Stanford
+Six rows are marked `NEEDS SOURCE` and are the priority verification queue:
+the Southern Pacific's completion to Los Angeles, SRI's founding instrument, the Stanford
 Industrial Park's authorisation and opening dates (sources give 1951 and 1953 and
 the discrepancy is unresolved), Lockheed's Sunnyvale employment figures,
 Fairchild's Hong Kong opening, and the IBM–Microsoft contract date and terms.
+For SRI (incorporated 6 November 1946), McCartney names the founders, but the
+founding instrument is not yet cited. The Central
+Pacific's incorporation (certificate filed 28 June 1861) is now verified
+(Evans 1954; Ambrose 2000, ch. 3, p. 72).

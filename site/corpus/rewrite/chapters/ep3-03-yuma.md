@@ -72,7 +72,7 @@ The night Hopkins died, Yuma was not a metropolis. It was a railroad town in ter
 
 What is in the record is the fact of the car, the siding, and the line. The Associates had built a world in which a man could die inside his own rolling room on property his company owned, and the first notice to the eastern partner would be electrical.
 
-Collis Huntington learned by wire. He wrote to his brother in the language of river crossing. The organization did not pause for mourning. Patents still issued. Prices still posted. Kearney still spoke.
+Collis Huntington got the news in New York. He wrote in the language of river crossing. The organization did not pause for mourning. Patents still issued. Prices still posted. Kearney still spoke.
 
 ### Patents while the car waited
 

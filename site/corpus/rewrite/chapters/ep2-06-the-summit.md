@@ -2,7 +2,7 @@
 
 ## The Summit
 
-Late May–June 1867. Donner Summit, Sierra Nevada.
+June 1867. Donner Summit, Sierra Nevada.
 
 Snow still lay in the cuts above the tunnel faces. The Central Pacific had been driving granite for two winters, measuring progress in inches per day, blasting with black powder and nitroglycerine while men worked in cold that turned breath to ice on beards and jacket collars. The Summit Tunnel was the line’s throat: until it opened, the Sierra remained a wall between Sacramento and the interior West.
 

@@ -47,7 +47,7 @@ National Park Service's *The Pacific Railway* handbook.
 | The Act ran from the Missouri River at Council Bluffs to the navigable waters of the Sacramento River at Sacramento | VERIFIED | Pacific Railroad Act of 1862, 12 Stat. 489 |
 | Thirty-year government bonds at six percent, plus land grants | VERIFIED | 12 Stat. 489; Pacific Railway Acts legislative history |
 | The Union Pacific was the first corporation chartered by the federal government since the Second Bank of the United States | VERIFIED | NPS handbook |
-| Central Pacific incorporated 28 June 1861 | NEEDS SOURCE | Carried from the drafts; verify against the articles of incorporation |
+| Central Pacific incorporated 28 June 1861 | VERIFIED | Certificate filed 28 June 1861 after organization on 30 April (Evans, *Collis Potter Huntington*, 1954); Ambrose 2000, ch. 3, p. 72 |
 | California gold's contribution to Union war finance | NEEDS SOURCE | Load-bearing for the chapter's second half |
 
 **Discrepancy flagged.** The National Archives' summary page for the Pacific
